@@ -13,7 +13,7 @@ When building this modpack, I wanted to stick to the Vanilla Minecraft experienc
 - All flowers can be duplicated with Bone Meal, not just the double-high ones.
 - The color of dyed sheep can be identified even when sheared.
 
-Most of the other changes that this modpack performs fall into the "greater varity" or "ease of use" category. Examples of these kinds of changes are:
+Most of the remaining changes that this modpack performs fall into the "greater variety" or "ease of use" category. Examples of these kinds of changes are:
 
 - A new "Duct" block that can be chained to transfer items much like Hopper chains, but without the performance impact.
 - "Spawnable" blocks can be identified through a light level overlay on the F7 button.
@@ -41,6 +41,10 @@ Several mods have been custom-built for this modpack, sometimes in order to repl
 ## Crash when Exiting Game
 
 Sometimes, when logging out from a world, the entire game wil crash rather than return you to the world selection screen. This is a known error in VoxelMap and will hopefully be resolved in the near future.
+
+## `Falling Leaves` Mod Crashes Servers
+
+While `Falling Leaves` is a client-side mod, all mods should be able to be loaded on both clients and servers without causing crashes. However, `Falling Leaves` makes servers crash on boot.
 
 ## Client Log Error
 

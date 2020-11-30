@@ -26,7 +26,13 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
-### Release v1.3.0 (2020-xx-xx) UNRELEASED
+### Release v1.3.1 (2020-xx-xx) UNRELEASED
+
+This is flagged as a patch release as it does not require server changes.
+
+- **New Datapack**: Added `BlazeAndCave's Advancements Pack`.
+
+### Release v1.3.0 (2020-11-30)
 
 Additional tweaks and adjustments. Flagged as a minor release as it includes changes that require server-side updates. 
 
