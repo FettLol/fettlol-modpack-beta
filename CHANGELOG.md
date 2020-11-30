@@ -1,0 +1,109 @@
+# Changelog for the Modpack
+
+## Introduction
+
+This document was started a little way through the modpack, so version 1.0.0 will be considered to be the version that we went live with when upgrading the `Fett.lol` server to 1.16.4. 
+
+This changelog tries to follow semantic versioning as much as possible. Since this is a modpack that depends on multiple other software products and versions, this can be somewhat difficult to do at times. These are the rules for how we will be naming any new versions and releases, following the Major.Minor.Patch version naming principle:
+
+- Any change to the underlying Minecraft release will be considered a Major version change. In other news, the modpack will be staying on v1.y.z until we update the modpack to support Minecraft 1.17.x
+
+- Any change that requires both the server and the client to upgrade the mods (and their configuration) will be considered a minor change. We want to try to space the minor upgrades out as much as possible to avoid requiring frequent server updates, so these will often contain many changes at the same time.
+
+- Any change that does not require a server-side update and are client-only will be considered a patch. These are fairly frequent and rarely require too much attention. They can easily be skipped.
+
+Changes to the modpack that will be included here include, but are not limited to:
+
+- Addition, removal or upgrades of individual mods.
+- Addition, removal or upgrades of individual datapacks.
+- Changes to configuration of existing mods.
+
+Changes to the resource pack used on the `fett.lol` server are handled separately as the resource pack is not an official part of the modpack.
+
+## Future Development
+
+The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the future contain a number of additional tweaks and features, the biggest of which being automatic updates of patch versions - as these are client-only. Additional changes coming to `fettlol_util` can be found in the `README.md` file for that particular mod, available here: https://github.com/BrekiTomasson/FettLolUtilMod/blob/master/README.md
+
+## Known Bugs, Errors and Ongoing Work.
+
+### Crash when Exiting Game
+
+Sometimes, when logging out from a world, the entire game wil crash rather than return you to the world selection screen. This is a known error in VoxelMap and will hopefully be resolved in the near future.
+
+### Client Log Error
+
+During client launch, the following error appears in the server logs (linebreaks added for clarity):
+
+```
+[16:19:50] [main/ERROR]: Structure start: Not a JSON object: "minecraft:ruined_portal_desert"; 
+Not a JSON object: "minecraft:stronghold"; Not a JSON object: "minecraft:mineshaft"; 
+Not a JSON object: "minecraft:desert_pyramid"; Not a JSON object: "minecraft:pillager_outpost"; 
+Not a JSON object: "minecraft:village_desert"; Not a JSON object: "gatkong:desert_maze"
+```
+
+This appears to be coming from a the "More Villages" datapack, based on the reference to "gatkong:desert_maze". On last check, no updates have been made to this datapack since the version currently being used (2020-10-31).
+
+### Dog Collars Losing their Color
+
+When giving tamed Wolves a different colored necklace, they will eventually revert back to the default red. We've been unable to narrow down exactly where this problem comes from and will continue to investigate. Additional details to assist during troubleshooting:
+
+- This happens in singleplayer mode as well as multiplayer.
+- The player entering a Nether Portal and coming back DOES NOT revert the dog's collar.
+- The dog entering a Nether Portal and the player following DOES revert the dog's collar.
+- Cat collars and sheep keep their dye; only wolves are affected.
+- Problem remains when uninstalling any or all of the following mods: "Wolves with Armor", "Lithium", "Sodium".
+- Problem remains when uninstalling the Fett.lol resource pack.
+
+### Bone Meal Flower Duplication
+
+The mod `flora-doubling` introduced the ability to duplicate all flowers using Bone Meal, not just the double-high ones. Using the config file for this mod, we have added all flowers from the `Flonters` mod to the list of flowers that can be duplicated, but other flowers from other mods remain - even though many are automatically detected. The exceptions to that list need to be added manually to the config.
+
+## Version History
+
+### Release v1.3.0 (2020-xx-xx) UNRELEASED
+
+Additional tweaks and adjustments. Flagged as a minor release as it includes changes that require server-side updates. This version does not introduce any major changes to world generation, new mobs or items, but focuses more on optimization, making various types information more accessible, and making a number of tiny tweaks to game rules.
+
+- **New Mod**: `Advancements Enlarger` v0.2.3 added. This mod makes the Advancement window (Hotkey "L") larger and easier to navigate.
+- **New Mod**: `Beenfo` v0.25.1-1.3 added. This mod adds honey level and bee information to the tooltip of bee hives and bee nests.
+- **New Mod**: `Better Enchanted Books` v1.1.4 added. This mod updates the tooltips, icons and enchantment glint of the Enchanting books to make it easier to sort between them in your inventory.
+- **New Mod**: `Croptopia` v1.0.5 added. This mod adds a 51 planted crops, 21 tree crops and 101 new food recipes. This mod is being trialled as a potential replacement for the `Mighty Mangoes` and `Simply Strawberries` mods.
+- **New Mod**: `Hot Furnace` v1.1.1 added. This mod makes furnaces (including Blast Furnaces and Smokers) produce their output faster depending on the fuel being used. Coal is faster than wood, buckets of lava are faster than coal, etc.
+- **Configuration Change**: The "Tansy" flower from `Woods and Mires` added to the list of flowers that can be duplicated with Bone Meal using the `Flora Doubling` mod.
+- **Mod Update**: `Repurposed Structures` upgraded from v1.7.0 to v1.7.2. 
+- **Mod Update**: `Mo' Structures` upgraded from v1.0.0-pre3 to v1.0.0.
+- **Mod Update**: `VoxelMap` upgraded from v1.10.12 to v1.10.13. This fixes a crash that can occur when mapping data driven biomes.
+
+### Release v1.2.0 (2020-11-25)
+
+Additional tweaks and adjustments. Flagged as a minor release as it includes changes that require server-side updates. This version is primarilly focused on version updates of the various mods in the modpack and a few minor tweaks to gameplay. It also introduces a change to world generation as it relates to the Badlands and Mushroom Island biomes, with new blocks, items and mobs being added.
+
+- **New Mod**: `Biome Makover` v1.1.5 added. This is the single largest change in this version of the modpack, and introduces multiple new blocks. First and foremost of these are the many variations on the various types of Terracotta blocks; including bricks, slabs, stairs and walls. This mod also introduces new mobs, tumbleweed, cacti and "ghost villages" in the Badlands biome, as well as "Pay Dirt", a variation on the dirt block that can contain some potential riches when dug. This version of `Biome Makeover` also includes the changes made previously to the Mushroom Fields biome.
+- **New Mod**: `Mod Menu` added, as we cannot be certain that other mods will continue to include this in their dependencies in the future.
+- **Configuration Change**: A ~20 second delay has been added to the automatic planting of saplings provided by `TinyTweaks`. This is to make it easier to pick up the saplings that are dropped when felling trees.
+- **Configuration Change**: Leaf decay is no longer instantaneous, but has been set to occur 10 times faster than it does in Vanilla Minecraft. This is made available through a new configuration option provided by `TinyTweaks`.
+- **Configuration Change**: The "Infinite Cauldrons" feature provided by `TinyTweaks` has been disabled.
+- **Configuration Change**: "Easy XP", a `TinyTweaks` feature which gave experience directly to the player instead of spawning Experience Orbs, has been disabled. This is to provide a more Vanilla-like gaming experience.
+- **Configuration Change**: It should now be possible to cut down entire trees with your fists again. Breaking supporting blocks to fell trees is not possible, however; the log itself must be broken.
+- **Mod Update**: `Bedspreads` upgraded from v1.2.0 to v1.3.1. This fixes a bug where clients could desync when rendering beds, and also allows Villagers to see "decorated" beds as beds that they can sleep in.
+- **Mod Update**: `Chat Heads` upgraded from v0.2.0 to v0.2.1. This removes a debug message being incorrectly being printed into the console log.
+- **Mod Update**: `Fabric API` upgraded from v0.25.4 to v0.26.2. This does not introduce any major changes to functionality but is only included to maintain parity with release.
+- **Mod Update**: `Gentle Fawn` upgraded from v1.1.1 to v1.1.2. This reduces the spawn rate of deer.
+- **Mod Update**: `Illuminations` upgraded from v1.2.3 to v1.2.6. This fixes a crash that can occur in some rare situations.
+- **Mod Update**: `More Berries` upgraded from v1.3.3 to v1.3.4. This introduces the ability to craft dyes out of berries.
+- **Mod Update**: `Rotmg Food` upgraded to its 1.16.4 branch. This does not introduce any major changes to functionality provided by the mod.
+- **Mod Update**: `TinyTweaks` upgraded from v1.0.15 to v1.1.0. This replaces the instant leaf decay tweak with a configurable leaf decay speed.
+- **Mod Update**: `Traverse` upgraded from v3.0.1 to v3.0.3. This does not introduce any major changes to functionality provided by the mod.
+- **Mod Update**: `VoxelMap` upgraded from v1.10.11 to v1.10.12. This fixes a crash that can occur when opening worldmap settings or waypoint settings submenus.
+
+### Release v1.1.0 (2020-11-14)
+
+Minor release containing required bugfixes and a number of modifications that were discovered after the initial release.
+
+- New purpose-built mod `fettlol_util` added. This mod will contain a number of minor tweaks to game rules that replace or improve upon tweaks provided by other mods. Initial functionality only includes a change to Villager behavior, making them follow players carrying an Emerald Block.
+- `Terrestria` and `Traverse` upgraded, including a number of bugfixes and optimizations.
+- `Netherite Horse Armor` updated, removing the error message when the mod providing Enderite Ingots is not available.
+
+### Release v1.0.0 (2020-11-12)
+
+First release supporting Minecraft version 1.16.4.
