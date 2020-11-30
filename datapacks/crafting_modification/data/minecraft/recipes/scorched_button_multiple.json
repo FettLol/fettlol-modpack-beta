@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cinderscapes:scorched_planks"
+        }
+    ],
+    "result": {
+        "item": "cinderscapes:scorched_button",
+        "count": 4
+    },
+    "group": "buttons"
+}

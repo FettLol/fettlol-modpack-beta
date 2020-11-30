@@ -1,0 +1,12 @@
+{
+  "professionNames": true,
+  "golemNames": true,
+  "needsOP": false,
+  "hasRead": true,
+  "nitwitText": "Nitwit",
+  "villagerTextFormatting": "WHITE",
+  "childNames": false,
+  "turnOffVillagerConsoleSpam": true,
+  "wanderingTraderNames": true,
+  "wanderingTraderText": "Wandering Trader"
+}

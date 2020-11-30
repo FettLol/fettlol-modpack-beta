@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "terrestria:rubber_planks"
+        }
+    ],
+    "result": {
+        "item": "terrestria:rubber_button",
+        "count": 4
+    },
+    "group": "buttons"
+}

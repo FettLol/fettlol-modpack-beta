@@ -1,0 +1,54 @@
+{
+  "easyHarvestCrops": true,
+  "easyHarvestSugarcane": true,
+  "easyHarvestDropAsItems": false,
+  "autoPlanting": {
+    "enabled": true,
+    "delay": 400
+  },
+  "rejuvenation": {
+    "enabled": true,
+    "grassGrowthRate": 0.03,
+    "thePowerOfFriendship": 1.25,
+    "longGrass": 0.01,
+    "saplings": true
+  },
+  "plantHitboxes": true,
+  "leaves": {
+    "collide": true,
+    "persistentCollide": true,
+    "slow": false,
+    "slowAmount": 0.75,
+    "climb": false,
+    "treeClimbingSpeed": 0.75
+  },
+  "leafDecaySpeed": 10,
+  "betterLilyPads": true,
+  "farmerVillagerAutomation": true,
+  "animalsEatOffGround": true,
+  "breedWildWolves": true,
+  "netherRejuvenation": {
+    "enabled": true,
+    "rootsGrowthRate": 0.0125,
+    "thePowerOfFriendship": 1.25,
+    "sproutRootsRatio": 75,
+    "vinesChance": 0.05
+  },
+  "blueSoulFireEffects": true,
+  "soulFireDoesMoreDamage": false,
+  "flintAndSteel": {
+    "enabled": true,
+    "burnTime": 3
+  },
+  "lanternBlastResistance": true,
+  "namesAndThings": {
+    "containerLabels": true,
+    "labelScale": 50
+  },
+  "mossyThings": true,
+  "burningLogsDropCharcoal": true,
+  "doubleDoors": true,
+  "bubbleColumnsFlow": true,
+  "infiniteCauldrons": false,
+  "easyXp": false
+}

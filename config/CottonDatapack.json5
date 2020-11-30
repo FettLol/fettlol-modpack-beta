@@ -1,0 +1,38 @@
+{
+	// Specifies specific recipes to remove from the game.
+	"removeRecipesByIdentifier": [
+		"cinderscapes:scorched_button",
+		"ce_foodstuffs:crafting/sweet_berry_pie",
+		"cinderscapes:umbral_button",
+		"rotmgfood:chocolatebar",
+		"rotmgfood:energypotato",
+		"rotmgfood:pumpkin_pie",
+		"rotmgfood:reindeerfood",
+		"rotmgfood:solarenergydrink",
+		"terrestria:basalt_button",
+		"terrestria:cypress_button",
+		"terrestria:hemlock_button",
+		"terrestria:japanese_maple_button",
+		"terrestria:rainbow_eucalyptus_button",
+		"terrestria:redwood_button",
+		"terrestria:rubber_button",
+		"terrestria:sakura_button",
+		"terrestria:willow_button",
+		"terrestria:yucca_palm_button",
+		"traverse:fir_button",
+		"villagerhats:weaponsmith_eyepatch",
+		"winged:booster_empty_left",
+		"winged:booster_empty_right",
+		"winged:booster_fast",
+		"winged:booster_slow",
+		"winged:booster_standard",
+		"winged:forward_launcher",
+		"winged:fuel_pellet_fast",
+		"winged:fuel_pellet_slow",
+		"winged:fuel_pellet_standard",
+		"winged:glue_broken_heart_of_the_sky",
+		"winged:heart_of_the_sky"
+	],
+	// Item identifiers specified here will prevent any recipe for one of that item.
+	"removeRecipesByItem": []
+}
