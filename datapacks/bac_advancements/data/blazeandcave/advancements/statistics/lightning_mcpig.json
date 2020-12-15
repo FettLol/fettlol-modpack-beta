@@ -1,0 +1,36 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:player_head",
+			"nbt": "{SkullOwner:\"MHF_Pig\"}"
+        },
+        "title": {"translate":"Lightning McPig"},
+        "description": {"translate":"Ride 10km on a pig"},
+		"frame": "challenge"
+    },
+    "parent": "blazeandcave:statistics/snout_500",
+	"rewards": {
+		"experience": 500,
+		"function": "bc_rewards:statistics/lightning_mcpig"
+    },		
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"player": {
+						"stats": [
+							{
+								"type": "minecraft:custom",
+								"stat": "minecraft:pig_one_cm",
+								"value": {
+									"min": 1000000
+								}
+							}
+						]
+					}
+				}
+			}
+        }
+    }
+}

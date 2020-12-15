@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:player_head",
+			"nbt": "{SkullOwner:\"MHF_PigZombie\"}"
+        },
+        "title": {"translate":"Family Reunion"},
+        "description": {"translate":"Reunite all zombie variants (and their baby forms) in one place"},
+		"frame": "challenge"
+    },
+    "parent": "blazeandcave:combat/freezing",
+	"rewards": {
+		"experience": 100,
+		"function": "bc_rewards:combat/family_reunion"
+    },
+    "criteria": {
+        "family_reunion": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

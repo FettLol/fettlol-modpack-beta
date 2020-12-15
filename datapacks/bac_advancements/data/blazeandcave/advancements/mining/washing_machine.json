@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_block"
+        },
+        "title": {"translate":"Washing Machine"},
+        "description": {"translate":"Use a cauldron to clean leather armor, a banner and a shulker box"},
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:mining/bubble_bubble_toil_and_trouble",
+	"rewards": {
+		"function": "bc_rewards:mining/washing_machine"
+    },
+    "criteria": {
+        "clean_leather_armor": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"location": {
+					"block": {
+						"block": "minecraft:cauldron"
+					}
+				},
+				"item": {
+					"tag": "minecraft:leather_armor"
+				}
+			}
+		},
+        "clean_banner": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"location": {
+					"block": {
+						"block": "minecraft:cauldron"
+					}
+				},
+				"item": {
+					"tag": "minecraft:banners"
+				}
+			}
+		},
+        "clean_shulker_box": {
+			"trigger": "minecraft:item_used_on_block",
+			"conditions": {
+				"location": {
+					"block": {
+						"block": "minecraft:cauldron"
+					}
+				},
+				"item": {
+					"tag": "minecraft:shulker_boxes"
+				}
+			}
+		}
+    }
+}

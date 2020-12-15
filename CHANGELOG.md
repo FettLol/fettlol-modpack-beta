@@ -28,9 +28,20 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ### Release v1.3.1 (2020-xx-xx) UNRELEASED
 
-This is flagged as a patch release as it does not require server changes.
+This is flagged as a patch release as it does not require server changes. Not all features will be fully enabled until both the client and the server have been upgraded, but there should not be any sync issues if one or the other does not upgrade.
 
+- **New Mod**: `BlueMap` v1.3.0-snap-fabric added. This is a server-side mod that generates a world map and requires special configuration. See details below.
+- **Mod Update**: `Cinderscapes` upgraded from v1.2.4 to v1.3.0.
+- **Mod Update**: `Expanded Storage` upgraded from v5.6.30 to v5.6.31.
+- **Mod Update**: `Fabric API` upgraded from v0.27.1 to v0.28.0.
+- **Mod Update**: `Fabric Carpet` upgraded from v1.16.3-1.4.12 to v1.16.4-1.4.20.
+- **Mod Update**: `Illuminations` upgraded from v1.2.6 to v1.3.
+- **Mod Update**: `Mo' Structures` upgraded from v1.0.0 to v1.0.1.
+- **Mod Update**: `Woods and Mires` upgraded from v1.0.3 to v1.0.4.
 - **New Datapack**: Added `BlazeAndCave's Advancements Pack`.
+- **Removed Mod**: `Fat XP Orbs` removed as it was sometimes deleting XP orbs instead of combining them.
+
+**Regarding BlueMap**: When running on servers, all mods that add entities or blocks must be copied to the folder `config/bluemap/resourcepacks`. Extra care must be given to this in future updates to the modpack to ensure that we maintain parity between the installed mods and the "resource pack" mods.
 
 ### Release v1.3.0 (2020-11-30)
 

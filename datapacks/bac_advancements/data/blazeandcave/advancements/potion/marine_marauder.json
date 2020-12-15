@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:pufferfish"
+        },
+        "title": {"translate":"Marine Marauder"},
+        "description": {"translate":"Catch a pufferfish and use it to brew a water breathing potion"},
+		"frame": "goal"
+    },
+    "parent": "blazeandcave:potion/stayin_frosty",
+	"rewards": {
+		"function": "bc_rewards:potion/marine_marauder"
+    },		
+    "criteria": {
+        "water_breathing": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:water_breathing"
+            }
+        },
+		"long_water_breathing": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:long_water_breathing"
+            }
+        }
+    },
+	"requirements": [
+		[
+			"water_breathing",
+			"long_water_breathing"
+		]
+	]
+}
