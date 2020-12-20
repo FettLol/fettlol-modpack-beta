@@ -26,7 +26,7 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
-### Release v1.4.0 (XXXX-XX-XX) UNRELEASED
+### Release v1.4.0 (2020-12-20)
 
 This is flagged as a minor release as it includes changes that require both the server and client to be updated.
 
