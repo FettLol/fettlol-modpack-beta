@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document was started a little way through the modpack, so version 1.0.0 will be considered to be the version that we went live with when upgrading the `Fett.lol` server to 1.16.4. 
+This document was started a little way through the modpack, so version 1.0.0 will be considered to be the version that we went live with when upgrading the `Fett.lol` server to 1.16.4.
 
 This changelog tries to follow semantic versioning as much as possible. Since this is a modpack that depends on multiple other software products and versions, this can be somewhat difficult to do at times. These are the rules for how we will be naming any new versions and releases, following the Major.Minor.Patch version naming principle:
 
@@ -26,7 +26,26 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
-### Release v1.3.1 (2020-xx-xx) UNRELEASED
+### Release v1.4.0 (XXXX-XX-XX) UNRELEASED
+
+This is flagged as a minor release as it includes changes that require both the server and client to be updated.
+
+- **New Mod**: `Better End` v0.8.0 added now that it allows for more customization and configuration.
+- **New Mod**: `Clear Skies` v1.5.54 added.
+- **New Mod**: `Earth2Java` v1.4.0 added with customized settings to enable functionality in modded biomes.
+- **New Mod**: `Fedora` v1.1.1 added.
+- **New Mod**: `MC Dungeons Armors` v0.7.6 added.
+- **New Mod**: `MC Dungeons Weapons` v2.2.3 added.
+- **New Mod**: `Polymorph` v0.0.6 added. 
+- **Mod Update**: `Croptopia` updated from v1.0.5 to v1.0.6.
+- **Mod Update**: `FallingTree` updated from v2.7.0 to v2.8.0.
+- **Mod Update**: `Illuminations` updated from v1.3.0 to v.1.3.1.
+- **Mod Update**: `Phosphor` updated from v0.6.0 to v0.7.0.
+- **New Datapack**: `The Forbidden Castle` v1.1. This datapack adds a very special (and rare!) structure in the Nether.
+- **Datapack Update**: `BlazeAndCave's Advancements` updated to v1.11.1.
+- **Configuration Change**: `Flora Doubling` updated to include flowers from additional mods.
+
+### Release v1.3.1 (2020-12-15)
 
 This is flagged as a patch release as it does not require server changes. Not all features will be fully enabled until both the client and the server have been upgraded, but there should not be any sync issues if one or the other does not upgrade.
 
@@ -38,8 +57,10 @@ This is flagged as a patch release as it does not require server changes. Not al
 - **Mod Update**: `Illuminations` upgraded from v1.2.6 to v1.3.
 - **Mod Update**: `Mo' Structures` upgraded from v1.0.0 to v1.0.1.
 - **Mod Update**: `Woods and Mires` upgraded from v1.0.3 to v1.0.4.
+- **Mod Update**: `Villager Names` upgraded from v1.2.5 to v1.5.2.
 - **New Datapack**: Added `BlazeAndCave's Advancements Pack`.
 - **Removed Mod**: `Fat XP Orbs` removed as it was sometimes deleting XP orbs instead of combining them.
+- **Configuration Change**: `Repurposed Structures` no longer generates mineshafts in the Nether and End dimensions.
 
 **Regarding BlueMap**: When running on servers, all mods that add entities or blocks must be copied to the folder `config/bluemap/resourcepacks`. Extra care must be given to this in future updates to the modpack to ensure that we maintain parity between the installed mods and the "resource pack" mods.
 

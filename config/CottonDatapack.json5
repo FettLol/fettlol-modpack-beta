@@ -2,7 +2,6 @@
 	// Specifies specific recipes to remove from the game.
 	"removeRecipesByIdentifier": [
 		"cinderscapes:scorched_button",
-		"ce_foodstuffs:crafting/sweet_berry_pie",
 		"cinderscapes:umbral_button",
 		"rotmgfood:chocolatebar",
 		"rotmgfood:energypotato",

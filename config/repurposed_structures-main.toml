@@ -102,8 +102,8 @@ icyMineshaftSpawnrate = 40
 oceanMineshaftSpawnrate = 40
 taigaMineshaftSpawnrate = 40
 swampAndDarkForestMineshaftSpawnrate = 40
-endMineshaftSpawnrate = 60
-netherMineshaftSpawnrate = 40
+endMineshaftSpawnrate = 0
+netherMineshaftSpawnrate = 0
 
 [RSMineshaftsConfig.minHeight]
 birchMineshaftMinHeight = 8

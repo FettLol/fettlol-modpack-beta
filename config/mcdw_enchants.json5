@@ -1,0 +1,62 @@
+{ 
+	// Allow mixing for OP Enchantment Combinations?
+	"enableOPMixing": false,
+	// Can DamageBoost Enchantments combine with Leeching?
+	"extraLeeching": false,
+	// Can Soul Siphon and Anima Conduit be combined?
+	"extraXpHealing": false,
+	// Enable Enchantment - Anima Conduit?
+	"mixinAnima": true,
+	// Enable Enchantment - Busy Bee?
+	"mixinBee": false,
+	// Enable Enchantment - Chains?
+	"mixinChains": true,
+	// Enable Enchantment - Committed?
+	"mixinCommitted": false,
+	// Enable Enchantment - Critical Hit?
+	"mixinCritical": true,
+	// Enable Enchantment - Echo?
+	"mixinEcho": true,
+	// Enable Enchantment - Enigma Resonator?
+	"mixinEnigma": true,
+	// Enable Enchantment - Exploding?
+	"mixinExploding": true,
+	// Enable Enchantment - Custom Fire Aspect?
+	"mixinCustomFireAspect": true,
+	// Enable Enchantment - Freezing?
+	"mixinFreezing": true,
+	// Enable Enchantment - Fuse Shot?
+	"mixinFuseShot": true,
+	// Enable Enchantment - Gravity?
+	"mixinGravity": false,
+	// Enable Enchantment - Jungle's Poison?
+	"mixinJPoison": true,
+	// Enable Enchantment - Leeching?
+	"mixinLeeching": true,
+	// Enable Enchantment - Custom Looting?
+	"mixinCustomLooting": false,
+	// Enable Enchantment - Poison Cloud?
+	"mixinPoison": false,
+	// Enable Enchantment - Radiance?
+	"mixinRadiance": true,
+	// Enable Enchantment - Rampaging?
+	"mixinRampaging": true,
+	// Enable Enchantment - Ricochet?
+	"mixinRicochet": false,
+	// Enable Enchantment - Shockwave?
+	"mixinShockwave": false,
+	// Enable Enchantment - Smiting?
+	"mixinSmiting": false,
+	// Enable Enchantment - Soul Siphon?
+	"mixinSiphon": true,
+	// Enable Enchantment - Stunning?
+	"mixinStunning": true,
+	// Enable Enchantment - Swirling?
+	"mixinSwirling": false,
+	// Enable Enchantment - Tempo Theft?
+	"mixinTempoTheft": false,
+	// Enable Enchantment - Thundering?
+	"mixinThundering": true,
+	// Enable Enchantment - Weakening?
+	"mixinWeakening": false
+}

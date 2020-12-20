@@ -1,0 +1,12 @@
+{
+  "hatVer": 3,
+  "serverHats": true,
+  "autoDownload": true,
+  "hatChance": 1,
+  "moddedHats": true,
+  "hatBlacklist": [
+    "minecraft:armor_stand",
+    "minecraft:witch",
+    "minecraft:shulker"
+  ]
+}

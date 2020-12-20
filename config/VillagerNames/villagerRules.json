@@ -8,5 +8,7 @@
   "childNames": false,
   "turnOffVillagerConsoleSpam": true,
   "wanderingTraderNames": true,
-  "wanderingTraderText": "Wandering Trader"
+  "wanderingTraderText": "Wandering Trader",
+  "surNames": false,
+  "reverseLastNames": false
 }

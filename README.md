@@ -38,15 +38,15 @@ Several mods have been custom-built for this modpack, sometimes in order to repl
 
 # Work in Progress & Known Bugs
 
-## Crash when Exiting Game
+## [BUG, non-critical] Crash when Exiting Game
 
 Sometimes, when logging out from a world, the entire game wil crash rather than return you to the world selection screen. This is a known error in VoxelMap and will hopefully be resolved in the near future.
 
-## `Falling Leaves` Mod Crashes Servers
+## [BUG, non-critical] `Falling Leaves` Mod Crashes Servers
 
 While `Falling Leaves` is a client-side mod, all mods should be able to be loaded on both clients and servers without causing crashes. However, `Falling Leaves` makes servers crash on boot.
 
-## Client Log Error
+## [BUG, non-critical] Client Log Error
 
 During client launch, the following error appears in the server logs (linebreaks added for clarity):
 
@@ -57,25 +57,14 @@ Not a JSON object: "minecraft:desert_pyramid"; Not a JSON object: "minecraft:pil
 Not a JSON object: "minecraft:village_desert"; Not a JSON object: "gatkong:desert_maze"
 ```
 
-This appears to be coming from a the "More Villages" datapack, based on the reference to "gatkong:desert_maze". On last check, no updates have been made to this datapack since the version currently being used (2020-10-31). The author of the modpack has been informed of the problem and we await a fix.
+This appears to be coming from the "More Villages" datapack, based on the reference to "gatkong:desert_maze". Upon last check, no updates have been made to this datapack since the version currently being used (2020-10-31). The author of the modpack has been informed of the problem and we await a fix.
 
-## Dog Collars Losing their Color
-
-When giving tamed Wolves a different colored necklace, they will eventually revert back to the default red. We've been unable to narrow down exactly where this problem comes from and will continue to investigate. Additional details to assist during troubleshooting:
-
-- This happens in singleplayer mode as well as multiplayer.
-- The problem does not exist in a standard 1.16.4 Fabric client, meaning it must come from one of our installed mods.
-- Cat collars and sheep keep their dyes; **only** wolves are affected.
-- Problem remains when uninstalling the official `fett.lol` resource pack.
-- The player entering a Nether Portal and coming back **does not** revert the collar's color.
-- The wolf entering a Nether Portal and the player following **does** revert the collar's color.
-
-## Bone Meal Flower Duplication
+## [WORK IN PROGRESS] Bone Meal Flower Duplication
 
 The mod `flora-doubling` introduces the ability to duplicate all flowers using Bone Meal, not just the double-high ones. Using the config file for this mod, we have added all flowers from the `Flonters` mod to the list of flowers that can be duplicated, but other flowers from other mods remain - even though many are automatically detected. The exceptions to that list need to be added manually to the configuration at some point soon
 
 # Credits and Acknowledgements
 
-To mod developers out there, if you find your mod in this modpack and do not wish for us to include it, please contact us by opening an issue in this repository. Please do so using an account that contains the repository for the mod in question so that we can verify ownership.
+To mod developers out there, if you find your mod in this modpack and do not wish for us to include it, please contact us by opening an issue in this repository. Please do so using an account that contains the repository for the mod in question so that we can verify ownership. Also note that while we do take your request to remove the mod seriously, to do so can sometimes take a few days, depending on how integral it is to the modpack.
 
 The full list of mods will be added to this document shortly. Please do not consider a failure to include your mod here to be intentional failure to credit your mod, as the full list will be added soon.
