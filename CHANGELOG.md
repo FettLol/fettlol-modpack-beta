@@ -26,6 +26,10 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
+### Release v1.5.2 (2020-12-22)
+
+Minor patch release removing Waystones as it was very buggy on multiplayer.
+
 ### Release v1.5.1 (2020-12-22)
 
 Minor patch release updating the resources used by BlueMap, which was not done in v1.5.0.

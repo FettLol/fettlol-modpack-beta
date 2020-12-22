@@ -1,7 +1,0 @@
-{
-  "global_discover": false,
-  "cost_type": "xp",
-  "cost_item": "minecraft:ender_eye",
-  "cost_amount": 5,
-  "village_generation": false
-}
