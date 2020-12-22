@@ -320,7 +320,15 @@
       "bulb_lantern_black [default: true]": true,
       "end_stone_smelter [default: true]": true,
       "eternal_pedestal [default: true]": true,
-      "infusion_pedestal [default: true]": true
+      "infusion_pedestal [default: true]": true,
+      "mossy_glowshroom_composter [default: true]": true,
+      "pythadendron_composter [default: true]": true,
+      "end_lotus_composter [default: true]": true,
+      "lacugrove_composter [default: true]": true,
+      "dragon_tree_composter [default: true]": true,
+      "tenanea_composter [default: true]": true,
+      "helix_tree_composter [default: true]": true,
+      "silk_moth_nest [default: true]": true
     }
   }
 }
