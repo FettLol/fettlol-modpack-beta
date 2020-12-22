@@ -26,7 +26,7 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
-### Release v1.5.0 (XXXX-XX-XX) UNRELEASED
+### Release v1.5.0 (2020-12-22)
 
 This is a bugfix release, as a number of bugs managed to creep into v1.4.0. It also updates a couple of mods that have seen updates since the release of v1.4.0. Due to the types of changes required, this requires updating both the server and the client, hence cannot be released as a v1.4.1.
 
@@ -35,7 +35,6 @@ This is a bugfix release, as a number of bugs managed to creep into v1.4.0. It a
 - **New Mod**: `Flan` v1.2.1 added with some custom configuration.
 - **Mod Update**: `Better End` updated from v0.8.0 to v0.8.2.
 - **Mod Update**: `Traverse` updated from v3.0.3 to v3.1.0.
-- **Mod Update**: `Minecraft Dungeon Armor` updated from v0.7.6 to v0.7.7.
 - **Mod Update**: `Falling Tree` updated from v2.8.0 to v2.8.1.
 - **Configuration Change**: `BlueMap`, `Grabcraft-Litematic`, `Litematica` all disabled by default.
 
