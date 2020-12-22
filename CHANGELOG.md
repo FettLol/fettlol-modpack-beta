@@ -26,6 +26,10 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
+### Release v1.5.1 (2020-12-22)
+
+Minor patch release updating the resources used by BlueMap, which was not done in v1.5.0.
+
 ### Release v1.5.0 (2020-12-22)
 
 This is a bugfix release, as a number of bugs managed to creep into v1.4.0. It also updates a couple of mods that have seen updates since the release of v1.4.0. Due to the types of changes required, this requires updating both the server and the client, hence cannot be released as a v1.4.1.
