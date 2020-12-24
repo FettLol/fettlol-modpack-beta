@@ -328,7 +328,28 @@
       "dragon_tree_composter [default: true]": true,
       "tenanea_composter [default: true]": true,
       "helix_tree_composter [default: true]": true,
-      "silk_moth_nest [default: true]": true
+      "silk_moth_nest [default: true]": true,
+      "umbrella_tree_membrane [default: true]": true,
+      "umbrella_tree_stripped_log [default: true]": true,
+      "umbrella_tree_stripped_bark [default: true]": true,
+      "umbrella_tree_log [default: true]": true,
+      "umbrella_tree_bark [default: true]": true,
+      "umbrella_tree_planks [default: true]": true,
+      "umbrella_tree_stairs [default: true]": true,
+      "umbrella_tree_slab [default: true]": true,
+      "umbrella_tree_fence [default: true]": true,
+      "umbrella_tree_gate [default: true]": true,
+      "umbrella_tree_button [default: true]": true,
+      "umbrella_tree_plate [default: true]": true,
+      "umbrella_tree_trapdoor [default: true]": true,
+      "umbrella_tree_door [default: true]": true,
+      "umbrella_tree_crafting_table [default: true]": true,
+      "umbrella_tree_ladder [default: true]": true,
+      "umbrella_tree_sign [default: true]": true,
+      "umbrella_tree_chest [default: true]": true,
+      "umbrella_tree_barrel [default: true]": true,
+      "umbrella_tree_bookshelf [default: true]": true,
+      "umbrella_tree_composter [default: true]": true
     }
   }
 }

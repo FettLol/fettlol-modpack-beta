@@ -103,6 +103,12 @@
       "generation_chance [default: 0.25]": 0.25,
       "has_caves [default: true]": true,
       "enabled [default: true]": true
+    },
+    "umbrella_jungle": {
+      "fog_density [default: 2.3]": 2.3,
+      "generation_chance [default: 1.0]": 1.0,
+      "has_caves [default: true]": true,
+      "enabled [default: true]": true
     }
   },
   "far_end": {

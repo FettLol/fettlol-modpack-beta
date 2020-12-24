@@ -26,6 +26,19 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
+### Release v1.6.0 (XXXX-XX-XX) UNRELEASED
+
+Development has continued on `fettlol_item` and `fettlol_util`, necessitating both a client and server update.
+
+- **New Mod**: `Vistas` v1.2.1 added.
+- **New Mod**: `Tom's Simple Storage` v1.1.3 added with configuration to limit some of its more overpowered abilities.
+- **Mod Update**: `Better End` updated from v0.8.2 to v0.8.3.
+- **Mod Update**: `MC Dungeons Armor` updated from v0.7.6 to v0.8.0.
+- **Mod Update**: `MC Dungeons Weapons` updated from v2.2.3 to v2.3.1.
+- **Mod Update**: `Fettlol UtilMod` updated from v1.0.2 to v1.0.3.
+- **Mod Update**: `Traverse` updated from v3.1.0 to v3.2.0.
+- **Datapack Removed**: `Unlock All Recipes` removed as this feature is now performed by `Fettlol UtilMod`.
+
 ### Release v1.5.2 (2020-12-22)
 
 Minor patch release removing Waystones as it was very buggy on multiplayer.
