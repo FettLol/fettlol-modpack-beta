@@ -24,7 +24,11 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 
 The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the future contain a number of additional tweaks and features, the biggest of which being automatic updates of patch versions - as these are client-only. Additional changes coming to `fettlol_util` can be found in the `README.md` file for that particular mod, available here: https://github.com/BrekiTomasson/FettLolUtilMod/blob/master/README.md
 
-## Version History
+## Version 
+
+## Release v1.6.2 (2020-12-27)
+
+Minor bugfix release removing typo in recipe.
 
 ## Release v1.6.1 (2020-12-27)
 
