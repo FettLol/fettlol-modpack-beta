@@ -26,6 +26,12 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 ## Version History
 
+## Release v1.6.1 (2020-12-27)
+
+Bugfix release fixing crash when running v1.6.0 on servers.
+
+- **Mod Update**: `Fettlol ItemMod` updated from v1.0.5 to v1.0.6.
+
 ### Release v1.6.0 (2020-12-27)
 
 Development has continued on `fettlol_item` and `fettlol_util`, necessitating both a client and server update.
