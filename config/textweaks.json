@@ -1,0 +1,23 @@
+{
+  "textureScaling": {
+    "enable": true,
+    "resolution": 4,
+    "maxScale": 8
+  },
+  "betterMipmaps": {
+    "enable": true,
+    "level": 8,
+    "universalMipmap": false
+  },
+  "lodBias": {
+    "enable": false,
+    "value": 0.0
+  },
+  "other": {
+    "excludedAtlas": [
+      "minecraft:textures/atlas/particles.png",
+      "minecraft:textures/atlas/mob_effects.png"
+    ],
+    "parallelPreScaling": true
+  }
+}

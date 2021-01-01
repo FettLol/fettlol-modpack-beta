@@ -6,10 +6,11 @@ This is a Fabric modpack designed for the `fett.lol` server. It sees fairly regu
 
 This modpack was put together by me; Breki Tomasson. I am a long-time fan of Vanilla Minecraft and have never been too interested in playing with modded clients. However, after finding great value in a number of datapacks that I got from [VanillaTweaks](https://vanillatweaks.net/picker/datapacks/), I began exploring plugins to Spigot and Paper servers, and then Forge and Fabric mods.
 
-When building this modpack, I wanted to stick to the Vanilla Minecraft experience as much as possible. For this reason, this modpack contains no new tools, no new overworld ores, no new hostile mobs and no new game mechanics like electricity, power and so on. I **did**, however, try to make it "Hermitcraft-friendly", as the Hermitcraft players tend to have some very good insight into the game and usually share my sensibilities regarding Vanilla purity. This has led to this modpack containing features like:
+When building this modpack, I wanted to stick to the Vanilla Minecraft experience as much as possible. For this reason, this modpack contains no new tools, no new overworld ores, no new hostile mobs and no new game mechanics like electricity, power and so on. I did, however, listen carefully whenever a member of the Hermitcraft server said something like "I wish I could ..." or "This should really be in the game", etc. This has led to the implementation of features like:
 
 - Slime Blocks can be dyed, and Slime Blocks of different colors do not stick to each other.
 - Terracotta and Concrete can be crafted into slabs and stairs.
+- Villagers can be led around by carrying an Emerald Block.
 - All flowers can be duplicated with Bone Meal, not just the double-high ones.
 - The color of dyed sheep can be identified even when sheared.
 
@@ -18,7 +19,8 @@ Most of the remaining changes that this modpack performs fall into the "greater 
 - A new "Duct" block that can be chained to transfer items much like Hopper chains, but without the performance impact.
 - "Spawnable" blocks can be identified through a light level overlay on the F7 button.
 - Several previously uncraftable items now have crafting recipes.
-- World generation has been improved with nearly 20 new biomes, new structures, new village types, etc.
+- Several mobs have slightly altered drops, allowing mob farms to generate Sand (Husk), Gravel (Zombie) and Lapis Lazuli (Guardian).
+- World generation has been improved with 30+ new biomes, structures, villages, etc. Changes can be seen in all three dimensions; Overworld, The Nether and The End.
 - There are 30+ new flowers, which can be crafted into some of the more unusual dye colors.
 - There are 20+ new tree/wood types, with their corresponding craftable slabs, stairs, trapdoors, buttons, etc.
 - There are several new fruits and vegetables, with a lot of new food items that can be crafted from them.
@@ -32,9 +34,9 @@ Most of the remaining changes that this modpack performs fall into the "greater 
 
 Several mods have been custom-built for this modpack, sometimes in order to replace functionality in mods that have been discontiued, and sometimes to introduce new features, items or tweaks requested by the fett.lol community. More details regarding each of these mods can be found on their corresponding Github pages, but a short description of each follows:
 
+- [ColoredSlimeBlocks](https://github.com/BrekiTomasson/ColoredSlimeBlocks): Makes Slime Blocks with additional colors available. Dyed Slime Blocks do not stick to each other.
 - [FettLolUtilMod](https://github.com/BrekiTomasson/FettLolUtilMod): Tweaks a number of game rules slightly. This mod is still under heavy development and the full list of features and functionality should be found in its own repository.
 - [FettLolItemMod](https://github.com/BrekiTomasson/FettLolItemMod): Adds two new armor sets (Hardened Gold and Life), each with their own crafting recipes. Also adds two new swords that can be found in various treasure chests.
-- [ColoredSlilmeBlocks](https://github.com/BrekiTomasson/ColoredSlimeBlocks): Makes Slime Blocks with additional colors available. Dyed Slime Blocks do not stick to each other.
 
 # Work in Progress & Known Bugs
 

@@ -24,7 +24,24 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 
 The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the future contain a number of additional tweaks and features, the biggest of which being automatic updates of patch versions - as these are client-only. Additional changes coming to `fettlol_util` can be found in the `README.md` file for that particular mod, available here: https://github.com/BrekiTomasson/FettLolUtilMod/blob/master/README.md
 
-## Version 
+# Versions
+
+## Release v1.7.0 (2021-01-01)
+
+Mainly a mod update, this is flagged as a minor release as it adds three new mods, two of which require server-side changes.
+
+- **Mod Added**: `Dank Storage` v1.9a added.
+- **Mod Added**: `Lonsdaleite Tools` v1.0.10 added.
+- **Mod Added**: `TexTweaks` v1.2.0 added.
+- **Mod Removed**: `Flan` due to some odd behavior.
+- **Mod Update**: `Better End` updated from v0.8.3 to v0.8.5.
+- **Mod Update**: `Clear Skies` updated from v1.5.54 to v1.5.55.
+- **Mod Update**: `Croptopia` updated from v1.0.6 to v1.1.0.
+- **Mod Update**: `Fabric API` updated from v0.28.0 to v0.29.1.
+- **Mod Update**: `Inventory Profiles` updated from v1.16.2-0.4.2 to v1.16.4-0.4.2.
+- **Mod Update**: `MC Dungeons Armor` updated from v0.7.6 to v0.8.5.
+- **Mod Update**: `MC Dungeons Weapons` updated from v2.3.1 to v2.3.5.
+- **Mod Update**: `Villager Names` updated from v1.5.2 to v1.6.0.
 
 ## Release v1.6.2 (2020-12-27)
 

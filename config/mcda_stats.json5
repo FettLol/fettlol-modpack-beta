@@ -258,6 +258,20 @@
 		7,
 		3
 	],
+	// Emerald Gear: Feet, Legs, Body, Head
+	"EmeraldGearArmor": [ 
+		3,
+		5,
+		7,
+		3
+	],
+	// Opulent Armor: Feet, Legs, Body, Head
+	"OpulentArmor": [ 
+		3,
+		5,
+		7,
+		3
+	],
 	// Dark Armor: Feet, Legs, Body, Head
 	"DarkArmor": [ 
 		3,
@@ -313,5 +327,12 @@
 		7,
 		9,
 		4
+	],
+	// Gilded Glory: Feet, Legs, Body, Head
+	"GildedGloryArmor": [ 
+		3,
+		6,
+		8,
+		3
 	]
 }

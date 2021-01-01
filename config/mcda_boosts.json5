@@ -196,5 +196,17 @@
 	// Black Wolf Armour Boosts
 	"BlackWolfArmourSetAttackDamageBoost": 0.025,
 	"BlackWolfArmourSetAttackSpeedBoost": 0.025,
-	"BlackWolfArmourSetMovementBoost": 0.0
+	"BlackWolfArmourSetMovementBoost": 0.0,
+	// Emerald Gear Boosts
+	"EmeraldArmourSetAttackDamageBoost": 0.0,
+	"EmeraldArmourSetAttackSpeedBoost": 0.05,
+	"EmeraldArmourSetMovementBoost": 0.0,
+	// Opulent Armour Boosts
+	"OpulentArmourSetAttackDamageBoost": 0.0,
+	"OpulentArmourSetAttackSpeedBoost": 0.05,
+	"OpulentArmourSetMovementBoost": 0.0,
+	// Gilded Glory Armour Boosts
+	"GildedGloryArmourSetAttackDamageBoost": 0.0,
+	"GildedGloryArmourSetAttackSpeedBoost": 0.05,
+	"GildedGloryArmourSetMovementBoost": 0.0
 }

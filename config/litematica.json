@@ -19,7 +19,7 @@
     "fixRailRotation": true,
     "loadEntireSchematics": false,
     "pasteIgnoreInventories": false,
-    "pickBlockEnabled": true,
+    "pickBlockEnabled": false,
     "placementRestriction": false,
     "renderMaterialListInGuis": true,
     "renderThreadNoTimeout": true,
@@ -382,7 +382,7 @@
       }
     },
     "pickBlockToggle": {
-      "keys": "Y,BUTTON_3",
+      "keys": "M,BUTTON_3",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",

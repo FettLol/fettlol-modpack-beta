@@ -41,6 +41,8 @@
 	"mixinRadiance": true,
 	// Enable Enchantment - Rampaging?
 	"mixinRampaging": true,
+	// Enable Enchantment - Replenish?
+	"mixinReplenish": true,
 	// Enable Enchantment - Ricochet?
 	"mixinRicochet": false,
 	// Enable Enchantment - Shockwave?

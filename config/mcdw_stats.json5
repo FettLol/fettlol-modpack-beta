@@ -10,11 +10,13 @@
 	// Claymore Damage
 	"ClaymoreDamage": 5,
 	"BroadswordDamage": 4,
+	"FrostSlayerDamage": 5,
 	"HeartstealerDamage": 4,
 	"GreatAxebladeDamage": 6,
 	// Claymore Speed
 	"ClaymoreSpeed": -3.0,
 	"BroadswordSpeed": -3.0,
+	"FrostSlayerSpeed": -3.0,
 	"HeartstealerSpeed": -3.0,
 	"GreatAxebladeSpeed": -3.0,
 	// Curves Damage
@@ -45,10 +47,12 @@
 	"CursedAxeSpeed": -3.0999999046325684,
 	// Gauntlets Damage
 	"GauntletsDamage": 0,
+	"FightersBindingDamage": 0,
 	"MaulersDamage": 0,
 	"SoulFistsDamage": 0,
 	// Gauntlets Speed
 	"GauntletsSpeed": -1.399999976158142,
+	"FightersBindingSpeed": -1.399999976158142,
 	"MaulersSpeed": -1.399999976158142,
 	"SoulFistsSpeed": -1.399999976158142,
 	// Glaives Damage
