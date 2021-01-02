@@ -5,11 +5,11 @@
   "hasRead": true,
   "nitwitText": "Nitwit",
   "villagerTextFormatting": "WHITE",
-  "childNames": false,
+  "childNames": true,
   "turnOffVillagerConsoleSpam": true,
   "wanderingTraderNames": true,
   "wanderingTraderText": "Wandering Trader",
-  "surNames": false,
+  "surNames": true,
   "reverseLastNames": false,
-  "nameTagNames": false
+  "nameTagNames": true
 }

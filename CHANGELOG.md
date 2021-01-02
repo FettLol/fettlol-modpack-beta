@@ -26,6 +26,18 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
+## Release v1.7.1 (XXXX-XX-XX) UNRELEASED
+
+Patch update, updating dependencies to their latest versions.
+
+- **Mod Added**: `Architectury` v1.2.68, as this is a new dependency required for `Light Overlay`.
+- **Mod Update**: `Fettlol Utilmod` updated from v1.0.3 to v1.0.4.
+- **Mod Update**: `Light Overlay` updated from v5.5.4 to v5.6.1.
+- **Mod Update**: `Biome Makeover` updated from v1.1.5 to v1.1.6.
+- **Mod Update**: `Polymorph` updated from v0.0.6 to v0.0.8.
+- **Configuration Change**: `Villager Names` configuration tweaked to introduce more variation, making name tags only appear on hover.
+
+
 ## Release v1.7.0 (2021-01-01)
 
 Mainly a mod update, this is flagged as a minor release as it adds three new mods, two of which require server-side changes.

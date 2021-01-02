@@ -1,0 +1,10 @@
+{
+  "displayDebugData": false,
+  "chickensDropFeathers": true,
+  "skipCustomWorldsWarning": true,
+  "infinityDoesNotRequireArrow": true,
+  "featherFallingDoesNotBreakFarmland": true,
+  "villagersFollowEmeraldBlocks": true,
+  "poisonousPotatoIsCompostable": true,
+  "allRecipiesUnlockedByDefault": true
+}
