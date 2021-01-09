@@ -133,13 +133,13 @@
   },
   "byg": {
     "ivis_fields": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true
     },
     "nightshade_forest": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true
@@ -157,31 +157,31 @@
       "has_caves [default: true]": true
     },
     "bulbis_gardens": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true
     },
     "shattered_desert": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true
     },
     "shulkren_forest": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true
     },
     "purpur_peaks": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true
     },
     "cryptic_wastes": {
-      "enabled [default: true]": true,
+      "enabled [default: true]": false,
       "fog_density [default: 1.0]": 1.0,
       "generation_chance [default: 1.0]": 1.0,
       "has_caves [default: true]": true

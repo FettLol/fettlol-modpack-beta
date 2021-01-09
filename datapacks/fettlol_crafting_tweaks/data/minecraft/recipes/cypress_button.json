@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "terrestria:cypress_planks"
+        }
+    ],
+    "result": {
+        "item": "terrestria:cypress_button",
+        "count": 4
+    },
+    "group": "wooden_button"
+}

@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "terrestria:rainbow_eucalyptus_planks"
+        }
+    ],
+    "result": {
+        "item": "terrestria:rainbow_eucalyptus_button",
+        "count": 4
+    },
+    "group": "wooden_button"
+}

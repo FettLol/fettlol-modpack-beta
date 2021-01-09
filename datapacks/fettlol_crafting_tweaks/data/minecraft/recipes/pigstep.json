@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:music_disc_cat"
+},
+    "addition": {
+        "item": "minecraft:cooked_porkchop"
+},
+    "result": {
+        "item": "minecraft:music_disc_pigstep"
+    }
+}

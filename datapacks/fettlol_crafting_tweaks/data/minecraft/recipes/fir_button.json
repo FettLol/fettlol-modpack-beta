@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "traverse:fir_planks"
+        }
+    ],
+    "result": {
+        "item": "traverse:fir_button",
+        "count": 4
+    },
+    "group": "wooden_button"
+}

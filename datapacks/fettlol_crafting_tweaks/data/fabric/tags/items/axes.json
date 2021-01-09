@@ -1,0 +1,13 @@
+{
+	"replace": "false",
+	"values": [
+		"mcdw:sword_great_axeblade",
+		"mcdw:axe",
+		"mcdw:axe_highland",
+		"mcdw:axe_double",
+		"mcdw:axe_whirlwind",
+		"mcdw:axe_cursed",
+		"lonsdaleite:lonsdaleite_axe",
+		"lonsdaleite:perfect_lonsdaleite_axe"
+	]
+}

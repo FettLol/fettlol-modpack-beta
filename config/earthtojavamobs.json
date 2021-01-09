@@ -22,14 +22,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "traverse:meadow"
+      "plains",
+      "extreme_hills"
     ]
   },
   "amberChicken": {
@@ -38,19 +32,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:desert",
-      "minecraft:desert_hills",
-      "minecraft:desert_lakes",
-      "minecraft:savanna",
-      "minecraft:savanna_plateau",
-      "minecraft:shattered_savanna",
-      "minecraft:shattered_savanna_plateau",
-      "terrestria:outback",
-      "terrestria:outback_bushland",
-      "terrestria:outback_uluru",
-      "terrestria:dunes",
-      "terrestria:dunes_edge",
-      "terrestria:lush_desert"
+      "desert",
+      "savanna"
     ]
   },
   "ashenCow": {
@@ -59,12 +42,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "traverse:cliffs"
+      "extreme_hills"
     ]
   },
   "boneSpider": {
@@ -73,14 +51,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:badlands",
-      "minecraft:badlands_plateau",
-      "minecraft:modified_badlands_plateau",
-      "minecraft:wooded_badlands_plateau",
-      "minecraft:modified_wooded_badlands_plateau",
-      "minecraft:eroded_badlands",
-      "terrestria:caldera_foothills",
-      "terrestria:dunes"
+      "mesa"
     ]
   },
   "boldStripedRabbit": {
@@ -89,11 +60,18 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "traverse:meadow",
-      "minecraft:extreme_hills",
-      "traverse:coniferous_forest"
+      "plains",
+      "forest",
+      "extreme_hills"
+    ]
+  },
+  "boulderingZombie": {
+    "spawn": true,
+    "weight": 15,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "extreme_hills"
     ]
   },
   "bronzedChicken": {
@@ -102,9 +80,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "traverse:meadow"
+      "plains"
     ]
   },
   "cluckshroom": {
@@ -113,7 +89,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:mushroom_fields"
+      "mushroom"
     ]
   },
   "cookieCow": {
@@ -122,12 +98,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:taiga",
-      "minecraft:extreme_hills",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains",
+      "taiga",
+      "extreme_hills"
     ]
   },
   "fleckedSheep": {
@@ -136,22 +109,10 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:taiga",
-      "minecraft:taiga_hills",
-      "minecraft:taiga_mountains",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "minecraft:forest",
-      "minecraft:wooded_hills",
-      "minecraft:flower_forest",
-      "traverse:wooded_island",
-      "traverse:woodlands",
-      "terrestria:sakura_forest"
+      "plains",
+      "extreme_hills",
+      "taiga",
+      "forest"
     ]
   },
   "fancyChicken": {
@@ -160,22 +121,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
-    ]
-  },
-  "furnaceGolem": {
-    "spawn": false,
-    "weight": 10,
-    "groupMin": 2,
-    "groupMax": 4,
-    "spawnBiomes": [
-      "minecraft:desert",
-      "minecraft:desert_hills",
-      "minecraft:desert_lakes"
+      "plains",
+      "forest"
     ]
   },
   "glowSquid": {
@@ -188,22 +135,9 @@
       "spawnHeightMax": 45
     },
     "spawnBiomes": [
-      "minecraft:ocean",
-      "minecraft:deep_ocean",
-      "minecraft:frozen_ocean",
-      "minecraft:deep_frozen_ocean",
-      "minecraft:cold_ocean",
-      "minecraft:deep_cold_ocean",
-      "minecraft:lukewarm_ocean",
-      "minecraft:deep_lukewarm_ocean",
-      "minecraft:warm_ocean",
-      "minecraft:deep_warm_ocean",
-      "minecraft:river",
-      "minecraft:swamp",
-      "minecraft:swamp_hills",
-      "terrestria:oasis",
-      "terrestria:caldera",
-      "woods_and_mires:kettle_pond"
+      "ocean",
+      "river",
+      "swamp"
     ]
   },
   "harelequinRabbit": {
@@ -212,11 +146,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains"
     ]
   },
   "hornedSheep": {
@@ -225,19 +155,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rocky_edge",
-      "traverse:rolling_hills",
-      "traverse:wooded_plateau",
-      "traverse:cliffs"
+      "plains",
+      "extreme_hills"
     ]
   },
   "inkySheep": {
@@ -246,19 +165,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rocky_edge",
-      "traverse:rolling_hills",
-      "traverse:wooded_plateau",
-      "traverse:cliffs"
+      "plains",
+      "extreme_hills"
     ]
   },
   "jollyLlama": {
@@ -267,22 +175,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:snowy_tundra",
-      "minecraft:snowy_mountains",
-      "minecraft:ice_spikes",
-      "minecraft:snowy_taiga",
-      "minecraft:snowy_taiga_hills",
-      "minecraft:snowy_taiga_mountains",
-      "minecraft:frozen_river",
-      "minecraft:snowy_beach",
-      "minecraft:ice_spikes",
-      "terrestria:caldera_ridge",
-      "terrestria:caldera_foothills",
-      "terrestria:snowy_hemlock_clearing",
-      "terrestria:snowy_hemlock_forest",
-      "traverse:snowy_coniferous_forest",
-      "traverse:snowy_coniferous_wooded_hills",
-      "traverse:snowy_high_coniferous_forest"
+      "taiga",
+      "icy"
     ]
   },
   "jumboRabbit": {
@@ -291,33 +185,16 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains"
     ]
   },
-  "melonGolem": {
+  "lobberZombie": {
     "spawn": true,
-    "weight": 10,
+    "weight": 15,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:snowy_taiga",
-      "minecraft:snowy_taiga_hills",
-      "minecraft:snowy_taiga_mountains",
-      "minecraft:snowy_tundra",
-      "minecraft:snowy_mountains",
-      "minecraft:snowy_beach",
-      "minecraft:ice_spikes",
-      "terrestria:caldera_ridge",
-      "terrestria:caldera_foothills",
-      "terrestria:snowy_hemlock_clearing",
-      "terrestria:snowy_hemlock_forest",
-      "traverse:snowy_coniferous_forest",
-      "traverse:snowy_coniferous_wooded_hills",
-      "traverse:snowy_high_coniferous_forest"
+      "swamp"
     ]
   },
   "midnightChicken": {
@@ -326,29 +203,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:forest",
-      "minecraft:wooded_hills",
-      "minecraft:flower_forest",
-      "minecraft:dark_forest",
-      "minecraft:dark_forest_hills",
-      "minecraft:jungle",
-      "minecraft:jungle_hills",
-      "minecraft:modified_jungle",
-      "minecraft:jungle_edge",
-      "minecraft:modified_jungle_edge",
-      "minecraft:birch_forest",
-      "minecraft:birch_forest_hills",
-      "minecraft:tall_birch_forest",
-      "minecraft:tall_birch_hills",
-      "terrestria:hemlock_clearing",
-      "terrestria:hemlock_rainforest",
-      "terrestria:lush_redwood_clearing",
-      "terrestria:lush_redwood_forest",
-      "terrestria:lush_redwood_forest_edge",
-      "traverse:mini_jungle",
-      "woods_and_mires:pine_forest",
-      "woods_and_mires:pine_forest_clearing",
-      "woods_and_mires:pine_forest_hills"
+      "forest",
+      "jungle"
     ]
   },
   "moobloom": {
@@ -357,8 +213,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:flower_forest",
-      "traverse:rolling_hills"
+      "minecraft:flower_forest"
     ]
   },
   "moolip": {
@@ -367,8 +222,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:flower_forest",
-      "traverse:rolling_hills"
+      "minecraft:flower_forest"
     ]
   },
   "muddyPig": {
@@ -377,15 +231,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:river",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains",
+      "extreme_hills",
+      "river"
     ]
   },
   "muddyFootRabbit": {
@@ -394,12 +242,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:extreme_hills",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains"
     ]
   },
   "palePig": {
@@ -408,18 +251,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:snowy_tundra",
-      "minecraft:snowy_mountains",
-      "minecraft:snowy_taiga",
-      "minecraft:snowy_taiga_hills",
-      "minecraft:snowy_taiga_mountains",
-      "terrestria:caldera_ridge",
-      "terrestria:caldera_foothills",
-      "terrestria:snowy_hemlock_clearing",
-      "terrestria:snowy_hemlock_forest",
-      "traverse:snowy_coniferous_forest",
-      "traverse:snowy_coniferous_wooded_hills",
-      "traverse:snowy_high_coniferous_forest"
+      "taiga",
+      "icy"
     ]
   },
   "patchedSheep": {
@@ -428,11 +261,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains",
+      "extreme_hills"
     ]
   },
   "piebaldPig": {
@@ -441,46 +271,11 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:forest",
-      "minecraft:wooded_hills",
-      "minecraft:flower_forest",
-      "minecraft:birch_forest",
-      "minecraft:birch_forest_hills",
-      "minecraft:tall_birch_forest",
-      "minecraft:tall_birch_hills",
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:taiga",
-      "minecraft:taiga_hills",
-      "minecraft:taiga_mountains",
-      "minecraft:savanna",
-      "minecraft:savanna_plateau",
-      "minecraft:shattered_savanna",
-      "minecraft:shattered_savanna_plateau",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills",
-      "terrestria:cypress_forest",
-      "terrestria:dense_woodlands",
-      "terrestria:dense_woodlands_edge",
-      "terrestria:japanese_maple_forest",
-      "terrestria:redwood_clearing",
-      "terrestria:redwood_forest_edge",
-      "terrestria:redwood_forest",
-      "terrestria:sakura_forest",
-      "traverse:autumnal_woods",
-      "terrestria:wooded_cypress_hills",
-      "terrestria:wooded_japanese_maple_hills",
-      "terrestria:wooded_sakura_hills",
-      "traverse:autumnal_wooded_hills",
-      "traverse:coniferous_forest",
-      "traverse:coniferous_wooded_hills",
-      "traverse:high_coniferous_forest",
-      "traverse:wooded_island",
-      "traverse:woodlands"
+      "forest",
+      "plains",
+      "extreme_hills",
+      "taiga",
+      "savanna"
     ]
   },
   "pinkFootedPig": {
@@ -489,10 +284,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains"
     ]
   },
   "pintoCow": {
@@ -501,12 +293,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:taiga",
-      "minecraft:extreme_hills",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains",
+      "taiga",
+      "extreme_hills"
     ]
   },
   "rainbowSheep": {
@@ -515,14 +304,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:forest",
-      "minecraft:wooded_hills",
-      "minecraft:flower_forest",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rolling_hills"
+      "plains",
+      "forest"
     ]
   },
   "rockySheep": {
@@ -531,19 +314,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "traverse:cliffs",
-      "traverse:plains_plateau",
-      "traverse:wooded_plateau",
-      "terrestria:caldera_ridge",
-      "terrestria:canyon_cliffs",
-      "terrestria:canyon_edge"
+      "plains",
+      "extreme_hills"
     ]
   },
   "skeletonWolf": {
@@ -552,50 +324,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:forest",
-      "minecraft:wooded_hills",
-      "minecraft:flower_forest",
-      "minecraft:taiga",
-      "minecraft:taiga_hills",
-      "minecraft:taiga_mountains",
-      "minecraft:snowy_taiga",
-      "minecraft:snowy_taiga_hills",
-      "minecraft:snowy_taiga_mountains",
-      "minecraft:giant_tree_taiga",
-      "minecraft:giant_tree_taiga_hills",
-      "minecraft:giant_spruce_taiga",
-      "minecraft:giant_spruce_taiga_hills",
-      "minecraft:badlands",
-      "minecraft:badlands_plateau",
-      "minecraft:modified_badlands_plateau",
-      "minecraft:wooded_badlands_plateau",
-      "minecraft:modified_wooded_badlands_plateau",
-      "minecraft:eroded_badlands",
-      "terrestria:caldera_ridge",
-      "terrestria:caldera_foothills",
-      "terrestria:snowy_hemlock_clearing",
-      "terrestria:snowy_hemlock_forest",
-      "traverse:snowy_coniferous_forest",
-      "traverse:snowy_coniferous_wooded_hills",
-      "traverse:snowy_high_coniferous_forest",
-      "terrestria:cypress_forest",
-      "terrestria:dense_woodlands",
-      "terrestria:dense_woodlands_edge",
-      "terrestria:japanese_maple_forest",
-      "terrestria:redwood_clearing",
-      "terrestria:redwood_forest_edge",
-      "terrestria:redwood_forest",
-      "terrestria:sakura_forest",
-      "traverse:autumnal_woods",
-      "terrestria:wooded_cypress_hills",
-      "terrestria:wooded_japanese_maple_hills",
-      "terrestria:wooded_sakura_hills",
-      "traverse:autumnal_wooded_hills",
-      "traverse:coniferous_forest",
-      "traverse:coniferous_wooded_hills",
-      "traverse:high_coniferous_forest",
-      "traverse:wooded_island",
-      "traverse:woodlands"
+      "forest",
+      "taiga",
+      "mesa"
     ]
   },
   "skewbaldChicken": {
@@ -604,17 +335,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:jungle",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rocky_edge",
-      "traverse:rolling_hills",
-      "traverse:wooded_plateau",
-      "terrestria:redwood_forest",
-      "terrestria:sakura_forest",
-      "traverse:autumnal_woods"
+      "plains",
+      "forest",
+      "jungle"
     ]
   },
   "spottedPig": {
@@ -623,14 +346,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:swamp",
-      "minecraft:swamp_hills",
-      "terrestria:hemlock_clearing",
-      "terrestria:hemlock_rainforest",
-      "terrestria:lush_redwood_clearing",
-      "terrestria:lush_redwood_forest",
-      "terrestria:lush_redwood_forest_edge",
-      "traverse:mini_jungle"
+      "swamp"
     ]
   },
   "stormyChicken": {
@@ -639,23 +355,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "minecraft:mountains",
-      "minecraft:wooded_mountains",
-      "minecraft:mountain_edge",
-      "minecraft:gravelly_mountains",
-      "minecraft:modified_gravelly_mountains",
-      "minecraft:taiga",
-      "minecraft:taiga_hills",
-      "minecraft:taiga_mountains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rocky_edge",
-      "traverse:rolling_hills",
-      "traverse:wooded_plateau",
-      "traverse:cliffs",
-      "terrestria:snowy_hemlock_clearing"
+      "plains",
+      "extreme_hills",
+      "taiga"
     ]
   },
   "sunsetCow": {
@@ -664,22 +366,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:savanna",
-      "minecraft:savanna_plateau",
-      "minecraft:shattered_savanna",
-      "minecraft:shattered_savanna_plateau",
-      "terrestria:outback",
-      "terrestria:outback_bushland",
-      "terrestria:outback_uluru",
-      "terrestria:canyon_arches",
-      "terrestria:canyon_cliffs",
-      "terrestria:canyon_edge",
-      "terrestria:dunes",
-      "terrestria:dunes_edge",
-      "terrestria:lush_desert",
-      "terrestria:volcanic_island",
-      "traverse:arid_highlands",
-      "traverse:desert_shrubland"
+      "savanna"
     ]
   },
   "tropicalSlime": {
@@ -688,10 +375,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:beach",
-      "terrestria:caldera_beach",
-      "terrestria:volcanic_island_beach",
-      "terrestria:volcanic_island_shore"
+      "beach"
     ]
   },
   "vestedRabbit": {
@@ -700,13 +384,16 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:sunflower_plains",
-      "traverse:meadow",
-      "traverse:plains_plateau",
-      "traverse:rocky_edge",
-      "traverse:rolling_hills",
-      "traverse:wooded_plateau"
+      "plains"
+    ]
+  },
+  "vilerWitch": {
+    "spawn": true,
+    "weight": 1,
+    "groupMin": 1,
+    "groupMax": 1,
+    "spawnBiomes": [
+      "swamp"
     ]
   },
   "woolyCow": {
@@ -715,23 +402,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:taiga",
-      "minecraft:taiga_hills",
-      "minecraft:taiga_mountains",
-      "minecraft:snowy_taiga",
-      "minecraft:snowy_taiga_hills",
-      "minecraft:snowy_taiga_mountains",
-      "minecraft:giant_tree_taiga",
-      "minecraft:giant_tree_taiga_hills",
-      "minecraft:giant_spruce_taiga",
-      "minecraft:giant_spruce_taiga_hills",
-      "terrestria:caldera_ridge",
-      "terrestria:caldera_foothills",
-      "terrestria:snowy_hemlock_clearing",
-      "terrestria:snowy_hemlock_forest",
-      "traverse:snowy_coniferous_forest",
-      "traverse:snowy_coniferous_wooded_hills",
-      "traverse:snowy_high_coniferous_forest"
+      "taiga"
     ]
   }
 }

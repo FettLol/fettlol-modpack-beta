@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "terrestria:willow_planks"
+        }
+    ],
+    "result": {
+        "item": "terrestria:willow_button",
+        "count": 4
+    },
+    "group": "wooden_button"
+}

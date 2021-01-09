@@ -1,3 +1,4 @@
 {
-  "leafSize": 0.1
+  "leafSize": 0.1,
+  "leafLifespan": 200
 }

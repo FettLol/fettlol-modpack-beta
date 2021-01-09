@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "terrestria:japanese_maple_planks"
+        }
+    ],
+    "result": {
+        "item": "terrestria:japanese_maple_button",
+        "count": 4
+    },
+    "group": "wooden_button"
+}

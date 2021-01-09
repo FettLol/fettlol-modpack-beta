@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "terrestria:sakura_planks"
+        }
+    ],
+    "result": {
+        "item": "terrestria:sakura_button",
+        "count": 4
+    },
+    "group": "wooden_button"
+}

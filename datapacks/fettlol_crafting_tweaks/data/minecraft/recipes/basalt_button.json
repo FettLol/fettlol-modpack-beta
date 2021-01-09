@@ -1,0 +1,13 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "c:basalt_base"
+        }
+    ],
+    "result": {
+        "item": "terrestria:basalt_button",
+        "count": 4
+    },
+    "group": "button"
+}

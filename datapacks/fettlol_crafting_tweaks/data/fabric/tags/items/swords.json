@@ -1,0 +1,13 @@
+{
+	"replace": "false",
+	"values": [
+		"mcdw:sword_claymore",
+		"mcdw:sword_broadsword",
+		"mcdw:sword_dancers_sword",
+		"mcdw:sword_iron_sword_var",
+		"mcdw:sword_diamond_sword_var",
+		"mcdw:sword_hawkbrand",
+		"lonsdaleite:lonsdaleite_sword",
+		"lonsdaleite:perfect_lonsdaleite_sword"
+	]
+}

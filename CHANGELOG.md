@@ -26,6 +26,27 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
+## Release v1.8.0 (XXXX-XX-XX) UNRELEASED
+
+- **Mod Added**: `Not Enough Animations` v1.0.3 added.
+- **Mod Added**: `Better Nether` v5.0.4 added.
+- **Mod Added**: `Biomes You'll Go` v1.1.3 added.
+- **Mod Added**: `Patchouli` v48 added.
+- **Datapack Added**: `Villagers Conquering Mountains` v0.5.2 added.
+- **Datapack Added**: `Pillager Settlements` added.
+- **Mod Update**: Disabled all hammers from `Better End`.
+- **Mod Update**: `Architectury` updated from v1.2.68 to v1.2.73.
+- **Mod Update**: `Biome Makeover` updated from v1.1.6 to v1.2.5.
+- **Mod Update**: `Ducts` updated from v1.0.2 to v1.0.3.
+- **Mod Update**: `Earth2Java` updated from v1.4.0 to v1.5.0.
+- **Mod Update**: `Fabric API` updated from v0.29.1 to v0.29.2.
+- **Mod Update**: `Falling Leaves` updated from v1.1.0 to v1.2.0.
+- **Mod Update**: `Fettlol ItemMod` updated from v1.0.6 to v1.0.7.
+- **Mod Update**: `Lonsdaleite` updated from v1.0.10 to v1.0.14.
+- **Mod Update**: `MC Dungeon Armor` updated from v0.8.5 to v0.9.2.
+- **Mod Update**: `MC Dungeon Weapons` updated from v2.3.5 to v2.4.2.
+- **Datapack Update**: `Crafting Modifications` renamed to `Fettlol Crafting Tweaks` and updated with several new recipies.
+
 ## Release v1.7.1 (2020-01-02)
 
 Patch update, updating dependencies to their latest versions.
