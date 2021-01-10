@@ -26,7 +26,7 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
-## Release v1.8.0 (XXXX-XX-XX) UNRELEASED
+## Release v1.8.0 (2020-01-10)
 
 - **Mod Added**: `Not Enough Animations` v1.0.3 added.
 - **Mod Added**: `Better Nether` v5.0.4 added.
@@ -37,7 +37,6 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 - **Mod Update**: Disabled all hammers from `Better End`.
 - **Mod Update**: `Architectury` updated from v1.2.68 to v1.2.73.
 - **Mod Update**: `Biome Makeover` updated from v1.1.6 to v1.2.5.
-- **Mod Update**: `Ducts` updated from v1.0.2 to v1.0.3.
 - **Mod Update**: `Earth2Java` updated from v1.4.0 to v1.5.0.
 - **Mod Update**: `Fabric API` updated from v0.29.1 to v0.29.2.
 - **Mod Update**: `Falling Leaves` updated from v1.1.0 to v1.2.0.
