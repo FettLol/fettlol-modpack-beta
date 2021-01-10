@@ -1,18 +1,18 @@
 { 
 	// Allow mixing for OP Enchantment Combinations?
-	"enableOPMixing": false,
+	"enableOPMixing": true,
 	// Can DamageBoost Enchantments combine with Leeching?
-	"extraLeeching": false,
+	"extraLeeching": true,
 	// Can Soul Siphon and Anima Conduit be combined?
-	"extraXpHealing": false,
+	"extraXpHealing": true,
 	// Enable Enchantment - Anima Conduit?
 	"mixinAnima": true,
 	// Enable Enchantment - Busy Bee?
-	"mixinBee": false,
+	"mixinBee": true,
 	// Enable Enchantment - Chains?
 	"mixinChains": true,
 	// Enable Enchantment - Committed?
-	"mixinCommitted": false,
+	"mixinCommitted": true,
 	// Enable Enchantment - Critical Hit?
 	"mixinCritical": true,
 	// Enable Enchantment - Echo?
@@ -28,15 +28,15 @@
 	// Enable Enchantment - Fuse Shot?
 	"mixinFuseShot": true,
 	// Enable Enchantment - Gravity?
-	"mixinGravity": false,
+	"mixinGravity": true,
 	// Enable Enchantment - Jungle's Poison?
 	"mixinJPoison": true,
 	// Enable Enchantment - Leeching?
 	"mixinLeeching": true,
 	// Enable Enchantment - Custom Looting?
-	"mixinCustomLooting": false,
+	"mixinCustomLooting": true,
 	// Enable Enchantment - Poison Cloud?
-	"mixinPoison": false,
+	"mixinPoison": true,
 	// Enable Enchantment - Radiance?
 	"mixinRadiance": true,
 	// Enable Enchantment - Rampaging?
@@ -44,21 +44,21 @@
 	// Enable Enchantment - Replenish?
 	"mixinReplenish": true,
 	// Enable Enchantment - Ricochet?
-	"mixinRicochet": false,
+	"mixinRicochet": true,
 	// Enable Enchantment - Shockwave?
-	"mixinShockwave": false,
+	"mixinShockwave": true,
 	// Enable Enchantment - Smiting?
-	"mixinSmiting": false,
+	"mixinSmiting": true,
 	// Enable Enchantment - Soul Siphon?
 	"mixinSiphon": true,
 	// Enable Enchantment - Stunning?
 	"mixinStunning": true,
 	// Enable Enchantment - Swirling?
-	"mixinSwirling": false,
+	"mixinSwirling": true,
 	// Enable Enchantment - Tempo Theft?
-	"mixinTempoTheft": false,
+	"mixinTempoTheft": true,
 	// Enable Enchantment - Thundering?
 	"mixinThundering": true,
 	// Enable Enchantment - Weakening?
-	"mixinWeakening": false
+	"mixinWeakening": true
 }

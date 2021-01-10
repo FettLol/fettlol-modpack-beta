@@ -3,6 +3,13 @@
 	"removeRecipesByIdentifier": [
 		"cinderscapes:scorched_button",
 		"cinderscapes:umbral_button",
+		"betternether:nether_ruby_from_block",
+		"betternether:nether_ruby_block",
+		"techreborn:grinder/cincinnasite_ore",
+		"techreborn:grinder/nether_lapis_ore",
+		"techreborn:grinder/nether_ruby_ore",
+		"starmute:spell_1",
+		"starmute:upgrade_elytra",
 		"rotmgfood:chocolatebar",
 		"rotmgfood:energypotato",
 		"rotmgfood:pumpkinpie",

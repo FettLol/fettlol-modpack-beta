@@ -26,6 +26,11 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
+## Release v1.8.1 (2020-01-10)
+
+- **Mod Update**: `Fettlol UtilMod` updated from v1.0.4 to v1.0.5.
+- **Configuration Change**: `MC Dungeons Weapons` enchanting configuration changed.
+
 ## Release v1.8.0 (2020-01-10)
 
 - **Mod Added**: `Not Enough Animations` v1.0.3 added.
