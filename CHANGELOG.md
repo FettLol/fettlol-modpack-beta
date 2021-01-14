@@ -26,7 +26,7 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
-## Release v1.9.0 (XXXX-XX-XX)
+## Release v1.9.0 (2020-01-14)
 
 Fairly major update with a couple of changes to game mechanics and blocks/items available to the player. This mod also replaces the mapping mod as it was causing crashes and had not been updated for 4+ months. If you have waypoints that you want to keep, make sure you write down the coordinates before upgrading as they WILL be lost as part of this update.
 
@@ -43,6 +43,7 @@ Fairly major update with a couple of changes to game mechanics and blocks/items 
 - **Mod Added**: `Xaero's Minimap` v.21.0.0 added, replacing the minimap functionality of VoxelMap.
 - **Mod Added**: `Xaero's World Map` v1.11.7 added, replacing the World Map functionality of VoxelMap.
 - **Mod Removed**: `VoxelMap` removed.
+- **Mod Update**: `Fettlol-Util` updated from v1.0.5 to v1.0.6. This adds the Egg Collection enchantment and allows Mending and Infinity to coexist.
 - **Mod Update**: `Illuminations` updated from v1.4.0 to v.1.4.2.
 - **Mod Update**: `Architectury` updated from v1.3.73 to v1.3.78.
 - **Mod Update**: `Earth2Java` updated from v1.5.0 to v1.6.0, adding many new animals.
