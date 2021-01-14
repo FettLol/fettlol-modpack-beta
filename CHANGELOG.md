@@ -26,6 +26,30 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
+## Release v1.9.0 (XXXX-XX-XX)
+
+Fairly major update with a couple of changes to game mechanics and blocks/items available to the player. This mod also replaces the mapping mod as it was causing crashes and had not been updated for 4+ months. If you have waypoints that you want to keep, make sure you write down the coordinates before upgrading as they WILL be lost as part of this update.
+
+- **Mod Added**: `Break Progress` v1.0.1 added, showing how far along block breaking is in the tooltip.
+- **Mod Added**: `Discerning Furnace` v1.0.0 added, making furnaces no longer accept non-smeltable blocks.
+- **Mod Added**: `Gilded Netherite` v1.6.0 added, adding an second tier to Netherite armor.
+- **Mod Added**: `Golden Steak` v1.0.2 added, providing an alternative to golden carrots.
+- **Mod Added**: `Grind Enchantments` v1.1.3 added, allowing enchantments to be moved and swapped using Grindstones.
+- **Mod Added**: `Alaska Native Craft` v1.0.0 added.
+- **Mod Added**: `Infinity Water Bucket` v1.0.3.2 added, allowing water buckets to receive an Infinity Enchant.
+- **Mod Added**: `MixinTrace` v1.0.0 added, making troubleshooting crashes easier.
+- **Mod Added**: `Slippery Walls` v1.0.0 added, making Spiders unable to climb Ice blocks.
+- **Mod Added**: `Soul Capture` v1.0.2 added, adding a "Soul Capture" enchantment that allows you to capture mob Spawn Eggs.
+- **Mod Added**: `Xaero's Minimap` v.21.0.0 added, replacing the minimap functionality of VoxelMap.
+- **Mod Added**: `Xaero's World Map` v1.11.7 added, replacing the World Map functionality of VoxelMap.
+- **Mod Removed**: `VoxelMap` removed.
+- **Mod Update**: `Illuminations` updated from v1.4.0 to v.1.4.2.
+- **Mod Update**: `Architectury` updated from v1.3.73 to v1.3.78.
+- **Mod Update**: `Earth2Java` updated from v1.5.0 to v1.6.0, adding many new animals.
+- **Mod Update**: `Biome Makeover` updated from v1.2.5 to v1.2.7.
+- **Mod Update**: `MC Dungeons Weapons` updated from v2.4.0 to v2.4.6.
+- **Mod Update**: `Better End` updated from v0.8.5 to v0.8.6.
+
 ## Release v1.8.1 (2020-01-10)
 
 - **Mod Update**: `Fettlol UtilMod` updated from v1.0.4 to v1.0.5.

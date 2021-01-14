@@ -103,6 +103,40 @@
       "extreme_hills"
     ]
   },
+  "creamCow": {
+    "spawn": true,
+    "weight": 8,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "plains",
+      "forest",
+      "jungle",
+      "savanna"
+    ]
+  },
+  "dairyCow": {
+    "spawn": true,
+    "weight": 8,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "plains",
+      "forest",
+      "jungle",
+      "extreme_hills"
+    ]
+  },
+  "fancyChicken": {
+    "spawn": true,
+    "weight": 10,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "plains",
+      "forest"
+    ]
+  },
   "fleckedSheep": {
     "spawn": true,
     "weight": 12,
@@ -115,13 +149,28 @@
       "forest"
     ]
   },
-  "fancyChicken": {
+  "freckledRabbit": {
     "spawn": true,
-    "weight": 10,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
+      "savanna",
       "plains",
+      "forest",
+      "jungle"
+    ]
+  },
+  "fuzzySheep": {
+    "spawn": true,
+    "weight": 12,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "savanna",
+      "plains",
+      "forest",
+      "jungle",
       "forest"
     ]
   },
@@ -138,6 +187,18 @@
       "ocean",
       "river",
       "swamp"
+    ]
+  },
+  "goldCrestedChicken": {
+    "spawn": true,
+    "weight": 10,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "plains",
+      "extreme_hills",
+      "forest",
+      "savanna"
     ]
   },
   "harelequinRabbit": {
@@ -197,6 +258,16 @@
       "swamp"
     ]
   },
+  "longNosedSheep": {
+    "spawn": true,
+    "weight": 12,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "savanna",
+      "desert"
+    ]
+  },
   "midnightChicken": {
     "spawn": true,
     "weight": 10,
@@ -223,6 +294,17 @@
     "groupMax": 4,
     "spawnBiomes": [
       "minecraft:flower_forest"
+    ]
+  },
+  "mottledPig": {
+    "spawn": true,
+    "weight": 10,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "plains",
+      "extreme_hills",
+      "forest"
     ]
   },
   "muddyPig": {
@@ -340,6 +422,17 @@
       "jungle"
     ]
   },
+  "sootyPig": {
+    "spawn": true,
+    "weight": 10,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "plains",
+      "jungle",
+      "savanna"
+    ]
+  },
   "spottedPig": {
     "spawn": true,
     "weight": 10,
@@ -376,6 +469,17 @@
     "groupMax": 4,
     "spawnBiomes": [
       "beach"
+    ]
+  },
+  "umbraCow": {
+    "spawn": true,
+    "weight": 8,
+    "groupMin": 2,
+    "groupMax": 4,
+    "spawnBiomes": [
+      "taiga",
+      "icy",
+      "extreme_hills"
     ]
   },
   "vestedRabbit": {

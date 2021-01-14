@@ -6,7 +6,7 @@
   },
   "betterMipmaps": {
     "enable": true,
-    "level": 8,
+    "level": 4,
     "universalMipmap": false
   },
   "lodBias": {

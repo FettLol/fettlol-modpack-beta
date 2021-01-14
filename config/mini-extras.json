@@ -37,8 +37,8 @@
   },
   "featuresModule": {
     "CreeperDefuser": false,
-    "SilkSpawner": false,
-    "ItemNameColoring": false,
+    "SilkSpawner": true,
+    "ItemNameColoring": true,
     "ExtraBeaconBaseSize": true,
     "ChainTopModel": true,
     "EnderDragonAlwaysMaxXP": true,
@@ -51,6 +51,6 @@
   },
   "itemsModule": {
     "FrienshipOrb": false,
-    "SpawnerUpgrade": false
+    "SpawnerUpgrade": true
   }
 }
