@@ -26,7 +26,7 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
-## Release v1.9.2 (XXXX-XX-XX)
+## Release v1.9.2 (2021-01-15)
 
 Another bugfix release as the previous version of `MC Dungeons Weapons` broke all throwing weapons in the game, leading to crashes when a mob tried throwing a Trident at the player, etc.
 
@@ -36,11 +36,11 @@ Another bugfix release as the previous version of `MC Dungeons Weapons` broke al
 - **Mod Update**: `Dark Loading Screen` updated from v1.5.0 to v1.6.0.
 - **Mod Removed**: `Soul Capture` removed, as `Fettlol UtilMod` covers this now.
 
-## Release v1.9.1 (2020-01-14)
+## Release v1.9.1 (2021-01-14)
 
 Minor bugfix only, removing duplicate version of `Fettlol-Util` that had crept into the release of v1.9.0.
 
-## Release v1.9.0 (2020-01-14)
+## Release v1.9.0 (2021-01-14)
 
 Fairly major update with a couple of changes to game mechanics and blocks/items available to the player. This mod also replaces the mapping mod as it was causing crashes and had not been updated for 4+ months. If you have waypoints that you want to keep, make sure you write down the coordinates before upgrading as they WILL be lost as part of this update.
 
@@ -65,12 +65,12 @@ Fairly major update with a couple of changes to game mechanics and blocks/items 
 - **Mod Update**: `MC Dungeons Weapons` updated from v2.4.0 to v2.4.6.
 - **Mod Update**: `Better End` updated from v0.8.5 to v0.8.6.
 
-## Release v1.8.1 (2020-01-10)
+## Release v1.8.1 (2021-01-10)
 
 - **Mod Update**: `Fettlol UtilMod` updated from v1.0.4 to v1.0.5.
 - **Configuration Change**: `MC Dungeons Weapons` enchanting configuration changed.
 
-## Release v1.8.0 (2020-01-10)
+## Release v1.8.0 (2021-01-10)
 
 - **Mod Added**: `Not Enough Animations` v1.0.3 added.
 - **Mod Added**: `Better Nether` v5.0.4 added.
@@ -90,7 +90,7 @@ Fairly major update with a couple of changes to game mechanics and blocks/items 
 - **Mod Update**: `MC Dungeon Weapons` updated from v2.3.5 to v2.4.2.
 - **Datapack Update**: `Crafting Modifications` renamed to `Fettlol Crafting Tweaks` and updated with several new recipies.
 
-## Release v1.7.1 (2020-01-02)
+## Release v1.7.1 (2021-01-02)
 
 Patch update, updating dependencies to their latest versions.
 
