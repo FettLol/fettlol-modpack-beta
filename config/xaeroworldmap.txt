@@ -1,5 +1,5 @@
-ignoreUpdate:0
-updateNotification:true
+ignoreUpdate:87
+updateNotification:false
 differentiateByServerAddress:true
 debug:false
 lighting:true
@@ -19,4 +19,4 @@ displayZoom:true
 ignoreHeightmaps:false
 worldmapWaypointsScale:1.0
 openMapAnimation:true
-globalVersion:2
+globalVersion:33

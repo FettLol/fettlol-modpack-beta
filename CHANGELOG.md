@@ -6,11 +6,11 @@ This document was started a little way through the modpack, so version 1.0.0 wil
 
 This changelog tries to follow semantic versioning as much as possible. Since this is a modpack that depends on multiple other software products and versions, this can be somewhat difficult to do at times. These are the rules for how we will be naming any new versions and releases, following the Major.Minor.Patch version naming principle:
 
-- Any change to the underlying Minecraft release will be considered a Major version change. In other news, the modpack will be staying on v1.y.z until we update the modpack to support Minecraft 1.17.x
+- Any change to the underlying Minecraft release will be considered a Major version change. In other words, the modpack will be staying on v1.y.z until we update the modpack to support Minecraft 1.17.x.
 
 - Any change that requires both the server and the client to upgrade the mods (and their configuration) will be considered a minor change. We want to try to space the minor upgrades out as much as possible to avoid requiring frequent server updates, so these will often contain many changes at the same time.
 
-- Any change that does not require a server-side update and are client-only will be considered a patch. These are fairly frequent and rarely require too much attention. They can easily be skipped.
+- Any change that does not require a server-side update and are client-only will be considered a patch.
 
 Changes to the modpack that will be included here include, but are not limited to:
 
@@ -25,6 +25,20 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the future contain a number of additional tweaks and features, the biggest of which being automatic updates of patch versions - as these are client-only. Additional changes coming to `fettlol_util` can be found in the `README.md` file for that particular mod, available here: https://github.com/BrekiTomasson/FettLolUtilMod/blob/master/README.md
 
 # Versions
+
+## Release v1.9.2 (XXXX-XX-XX)
+
+Another bugfix release as the previous version of `MC Dungeons Weapons` broke all throwing weapons in the game, leading to crashes when a mob tried throwing a Trident at the player, etc.
+
+- **Mod Update**: `Fettlol Itemmod` updated from v1.0.7 to v1.0.9.
+- **Mod Update**: `Better End` updated from v0.8.6 to v0.8.8.
+- **Mod Update**: `MC Dungeons Weapons` updated from v2.4.6 to v2.4.8.
+- **Mod Update**: `Dark Loading Screen` updated from v1.5.0 to v1.6.0.
+- **Mod Removed**: `Soul Capture` removed, as `Fettlol UtilMod` covers this now.
+
+## Release v1.9.1 (2020-01-14)
+
+Minor bugfix only, removing duplicate version of `Fettlol-Util` that had crept into the release of v1.9.0.
 
 ## Release v1.9.0 (2020-01-14)
 
