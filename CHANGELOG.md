@@ -26,6 +26,12 @@ The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the futu
 
 # Versions
 
+## Release v1.9.3 (2020-01-16)
+
+Another bugfix release. The Egg Collector enchantment broke on servers, but worked fine on clients.
+
+- **Mod Update**: `Fettlol Utilmod` updated from v1.0.6 to v1.0.7.
+
 ## Release v1.9.2 (2021-01-15)
 
 Another bugfix release as the previous version of `MC Dungeons Weapons` broke all throwing weapons in the game, leading to crashes when a mob tried throwing a Trident at the player, etc.
