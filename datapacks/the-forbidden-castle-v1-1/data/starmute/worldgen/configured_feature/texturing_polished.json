@@ -1,0 +1,30 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Properties":{
+            "axis":"y"
+        },
+          "Name": "minecraft:polished_basalt"
+        },
+        "state": {
+          "Name": "minecraft:magma_block"
+        },
+        "radius": {
+          "base":0,
+          "spread":0
+        }
+      },
+      "type": "minecraft:netherrack_replace_blobs"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 0.8
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

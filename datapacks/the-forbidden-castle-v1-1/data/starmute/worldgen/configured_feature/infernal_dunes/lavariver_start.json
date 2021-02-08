@@ -1,0 +1,29 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:netherrack"
+        },
+        "state": {
+          "Properties":
+          {
+            "falling":"true",
+            "level":"0"
+          },
+          "Name": "minecraft:lava"
+        },
+        "radius": 0
+      },
+      "type": "minecraft:netherrack_replace_blobs"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 1.0
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

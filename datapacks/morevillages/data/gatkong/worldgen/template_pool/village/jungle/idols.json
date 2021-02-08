@@ -1,0 +1,51 @@
+{
+  "name": "gatkong:village/jungle/idols",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 98,
+      "element": {
+        "location": "gatkong:village/jungle/idols/jungle_idol_01",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "gatkong:village/jungle/idols/jungle_idol_02",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 98,
+      "element": {
+        "location": "gatkong:village/jungle/idols/jungle_idol_03",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "gatkong:village/jungle/idols/jungle_idol_04",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 30,
+      "element": {
+        "location": "gatkong:village/jungle/idols/jungle_idol_05",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

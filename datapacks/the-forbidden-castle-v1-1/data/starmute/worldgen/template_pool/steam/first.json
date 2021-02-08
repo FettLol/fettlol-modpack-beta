@@ -1,0 +1,24 @@
+{
+  "name": "starmute:steam/first",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:steam/starter1",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:steam/starter2",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

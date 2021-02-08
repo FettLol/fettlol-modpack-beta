@@ -1,0 +1,4 @@
+execute at @a run summon potion ~ ~1 ~-4 {NoGravity:1b,Motion:[0.0,0.0,0.1],Tags:["sidepotion2"],Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming",CustomPotionColor:16777215,Enchantments:[{}]}}}
+execute at @a run summon potion ~ ~1 ~4 {NoGravity:1b,Motion:[0.0,0.0,-0.1],Tags:["sidepotion1"],Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming",CustomPotionColor:0,Enchantments:[{}]}}}
+execute at @a run summon potion ~-4 ~1 ~ {NoGravity:1b,Motion:[0.1,0.0,0.0],Tags:["sidepotion3"],Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming",CustomPotionColor:11250603,Enchantments:[{}]}}}
+execute at @a run summon potion ~4 ~1 ~ {NoGravity:1b,Motion:[-0.1,0.0,0.0],Tags:["sidepotion4"],Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming",CustomPotionColor:5723991,Enchantments:[{}]}}}

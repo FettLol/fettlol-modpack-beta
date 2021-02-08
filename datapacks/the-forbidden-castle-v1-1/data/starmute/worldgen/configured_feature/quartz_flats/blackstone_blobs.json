@@ -1,0 +1,50 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Name": "minecraft:smooth_quartz"
+                },
+                "state": {
+                  "Name": "minecraft:blackstone"
+                },
+                "radius": {
+                  "base": 3,
+                  "spread": 3
+                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 32,
+                "top_offset": 32,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:glass_blobs"
+    },
+    "decorator": {
+      "config": {
+        "count": 3
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

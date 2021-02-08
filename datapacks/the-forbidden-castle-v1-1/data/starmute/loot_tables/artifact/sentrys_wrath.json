@@ -1,0 +1,48 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:crossbow",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Turns spectral arrows into",
+                  "color": "#0077bb",
+                  "italic": true
+                },
+                {
+                  "text": "a slow, powerful attack.",
+                  "color": "#0077bb",
+                  "italic": true
+                },
+                {
+                  "text": "Beware the cooldown.",
+                  "color": "#0077bb",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Sentry's Wrath",
+                "color": "#33ccff",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Weapon:5,Enchantments:[{id:\"mending\",lvl:1},{id:\"piercing\",lvl:6}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

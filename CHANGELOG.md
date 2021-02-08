@@ -20,11 +20,101 @@ Changes to the modpack that will be included here include, but are not limited t
 
 Changes to the resource pack used on the `fett.lol` server are handled separately as the resource pack is not an official part of the modpack.
 
-## Future Development
+## Future Development & Planned Changes
 
-The `fettlol_util` mod introduced in Release v1.1.0 (see below) will in the future contain a number of additional tweaks and features, the biggest of which being automatic updates of patch versions - as these are client-only. Additional changes coming to `fettlol_util` can be found in the `README.md` file for that particular mod, available here: https://github.com/BrekiTomasson/FettLolUtilMod/blob/master/README.md
+- The `Hydrogen` mod will be added for further optimization in the future. It is currently the cause of many crashes due to a BlockState bug, and will not be added until this bug is fixed.
 
 # Versions
+
+## Release v1.10.0 (2021-02-08)
+
+Updating dependencies and Minecraft version to 1.16.5. This version also introduces a number of world generation changes to the modpack and - while compatible - it is **not recommended** to upgrade worlds created before v1.9. Creating a new world is preferred. Most of the world generation changes introduced in v1.10 are centered around the newest additions to the modpack - electric power and the things that use power! Most of these things are balanced towards the endgame and will most likely not be something you start constructing before you've visited the Nether and/or The End.
+
+**Note: You will need to update your Minecraft instance to version 1.16.5, Intermediary Mappings to 1.16.5 and Fabric Loader to 0.11.0 for this to work.**
+
+- **Configuration Changed**: (Worldgen) End Shipwrecks spawn further apart.
+- **Configuration Changed**: (Worldgen) Mineshafts are slightly less common, but more diverse and rewarding!
+- **Configuration Changed**: (Worldgen) Nether Biome distribution rebalanced with some modded biomes removed.
+- **Configuration Changed**: (Worldgen) Overworld Biome distribution rebalanced. Swamps should now be much less common and the landscape more diverse overall.
+- **Configuration Changed**: (Worldgen) Strongholds are larger.
+- **Configuration Changed**: (Worldgen) Villages spawn slightly further apart.
+- **Configuration Changed**: (Worldgen) Wells spawn considerably further apart.
+- **Datapack Added**: `End City for Better End` v1.1 added.
+- **Datapack Added**: `Enhanced Villages: Savanna Only` v1.3 added.
+- **Datapack Removed**: `Double Shulker Shells`, as this feature is now included in the `FettLol UtilMod`.
+- **Datapack Removed**: `Dragon Drops`, as this feature is now included in the `FettLol UtilMod`.
+- **Datapack Removed**: `Multiplayer Sleep`, as this feature is included in the new `Charm` mod.
+- **Datapack Update**: `BlazeAndCave's Advancements` updated from v1.11.1 to v1.11.4.
+- **Datapack Update**: `Improved Villages` updated to release from March 2020.
+- **Mod Added**: `Applied Energistics` v8.1.0-alpha.
+- **Mod Added**: `Charm` v2.3.1.
+- **Mod Added**: `Drylar's Battle Towers` v3.3.2.
+- **Mod Added**: `Immersive Portals` v0.68 added.
+- **Mod Added**: `KeepHeadNames` v1.1.0 added.
+- **Mod Added**: `Midas Hunger` v1.3.1 added, providing even more new "Golden" food recipes.
+- **Mod Added**: `RandomPatches` v2.4.0 added.
+- **Mod Added**: `Reroll` v1.2.0 added.
+- **Mod Added**: `Ring of Attraction` v1.0.29 added.
+- **Mod Added**: `Tech Reborn` v3.7.3.
+- **Mod Added**: `Vistas` v1.2.3 added.
+- **Mod Added**: `WTHIT` v2.2.0 added.
+- **Mod Removed**: `AnvilFix`, as its functionality is included in the new `Charm` mod.
+- **Mod Removed**: `Beenfo`, as it was buggy as heck.
+- **Mod Removed**: `Better Enchanted Books`, as we weren't using it for anything.
+- **Mod Removed**: `Better Mod Button`, as its functionality is now included in `ModMenu`.
+- **Mod Removed**: `Bookworm Library`, as it is a dependency for a mod we are no longer using.
+- **Mod Removed**: `Campfires Cook Mobs`, as it was buggy.
+- **Mod Removed**: `Carpet Extras`, as it wasn't being used.
+- **Mod Removed**: `Carpet`, as it wasn't being used.
+- **Mod Removed**: `Easier Enchanting`, as it has been discontinued.
+- **Mod Removed**: `Fabric Chunk Pregen`, as it was not being used.
+- **Mod Removed**: `Fettlol Itemmod`, as its functionality is now included in the `Fettlol UtilMod`.
+- **Mod Removed**: `Golden Steak`, as its functionality is included in the new `Midas Hunger` mod.
+- **Mod Removed**: `Grind Enchantments`, as its functionality is included in the new `Charm` mod.
+- **Mod Removed**: `HWYLA`, as it is being replaced by `WTHIT`.
+- **Mod Removed**: `Mini Extras`, as its functionality is included in the new `Charm` mod and the `Fettlol UtilMod`.
+- **Mod Removed**: `Rotgmfood`, as `Croptopia` and `Midas Hunger` now offers such a rich variety of food.
+- **Mod Removed**: `Sheep Consistency`, as its functionality is included in the new `Charm` mod.
+- **Mod Removed**: `Shulkerbox Tooltips`, as this feature is included in the new `Charm` mod.
+- **Mod Removed**: `Slippery Walls`, as it does not seem to be receiving updates for newer versions of Minecraft.
+- **Mod Removed**: `Sodium`, due to incompatibility with Fabric Rendering API.
+- **Mod Removed**: `TexTweaks`, as it was causing unacceptable increases to load times.
+- **Mod Removed**: `Tom's Simple Storage Mod`, as it is superseded by `Applied Energistics`.
+- **Mod Update**: `Adorn` updated from v1.12.2 to v1.13.0.
+- **Mod Update**: `Alaska Nativecraft` updated from v1.0.0 to v1.1.0.
+- **Mod Update**: `Architectury` updated from v1.3.78 to v1.5.109.
+- **Mod Update**: `Better Enchanted Books` updated from v1.1.4 to v1.2.1.
+- **Mod Update**: `Better Nether` updated from v5.0.4 to v5.0.7.
+- **Mod Update**: `Biome Makeover` updated from v1.2.5 to v1.2.11.
+- **Mod Update**: `Biomes You'll Go` updated from v1.1.3 to v1.1.4.
+- **Mod Update**: `Bluemap` updated from v1.3.0 to v1.3.1.
+- **Mod Update**: `Camp Fires Cook Mobs` updated from v1.1.5 to v1.1.6.
+- **Mod Update**: `Cinderscapes` updated from v1.3.0 to v1.3.3.
+- **Mod Update**: `Colored Slime Blocks` updated from v1.0.0 to v1.1.0.
+- **Mod Update**: `Croptopia` updated from v1.1.0 to v1.2.0.
+- **Mod Update**: `Dark Loading Screen` updated from v1.6.1 to v1.6.3.
+- **Mod Update**: `Discerning Furnace` updated from v1.0.0 to v1.0.1.
+- **Mod Update**: `Earth2Java` updated from v1.6.0 to v1.6.1.
+- **Mod Update**: `Expanded Storage` updated from v5.6.31 to v5.6.32.
+- **Mod Update**: `Fabric API` updated from v0.29.2 to v0.30.0.
+- **Mod Update**: `Falling Leaves` updated from v1.4.0 to v1.5.0.
+- **Mod Update**: `FallingTree` updated from v2.8.1 to v2.10.0.
+- **Mod Update**: `Illuminations` updated from v1.4.2 to v1.4.5.
+- **Mod Update**: `Lamb Dynamic Lights` updated from v1.3.2 to v1.3.4.
+- **Mod Update**: `Lithium` updated from v0.6.0 to v.0.6.3.
+- **Mod Update**: `Lonsdaleite` updated to a custom build to rebalance items.
+- **Mod Update**: `MC Dungeons Armors` updated from v0.9.2 to v1.1.2.
+- **Mod Update**: `MC Dungeons Weapons` updated from v2.4.8 to v2.7.1.
+- **Mod Update**: `ModMenu` updated from v1.14.13 to v1.16.6.
+- **Mod Update**: `Netherite Horse Armor` updated from v1.0.0 to v1.1.0.
+- **Mod Update**: `Polymorph` updated from v0.0.8 to v0.0.9.
+- **Mod Update**: `Quick Shulker` updated from v1.1.10 to v1.1.12.
+- **Mod Update**: `Repurposed Structures` updated from v1.7.3 to v1.7.4.
+- **Mod Update**: `Terrestria` updated from v2.1.5 to v2.2.0.
+- **Mod Update**: `Traverse` updated from v3.2.0 to v3.3.1.
+- **Mod Update**: `Wild World` updated from v1.3.0 to v2.0.0.
+- **Mod Update**: `Xaero's Minimap` updated from v21.0.0 to v21.2.0.2.
+- **Mod Update**: `Xaero's World Map` updated from v1.11.7 to v1.11.11.2.
 
 ## Release v1.9.3 (2020-01-16)
 
@@ -52,7 +142,7 @@ Fairly major update with a couple of changes to game mechanics and blocks/items 
 
 - **Mod Added**: `Break Progress` v1.0.1 added, showing how far along block breaking is in the tooltip.
 - **Mod Added**: `Discerning Furnace` v1.0.0 added, making furnaces no longer accept non-smeltable blocks.
-- **Mod Added**: `Gilded Netherite` v1.6.0 added, adding an second tier to Netherite armor.
+- **Mod Added**: `Gilded Netherite` v1.6.0 added, adding a second tier to Netherite armor.
 - **Mod Added**: `Golden Steak` v1.0.2 added, providing an alternative to golden carrots.
 - **Mod Added**: `Grind Enchantments` v1.1.3 added, allowing enchantments to be moved and swapped using Grindstones.
 - **Mod Added**: `Alaska Native Craft` v1.0.0 added.

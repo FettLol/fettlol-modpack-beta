@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:square",
+      "config": {}
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_multilayer",
+          "config": {
+            "count": 20
+          }
+        },
+        "feature": {
+          "type": "minecraft:block_pile",
+          "config": {
+            "state_provider": {
+              "type": "minecraft:weighted_state_provider",
+              "entries": [
+                {
+                  "weight": 1,
+                  "data": {
+                    "Name": "minecraft:slime_block"
+                  }
+                },
+                {
+                  "weight": 100,
+                  "data": {
+                    "Name": "minecraft:green_terracotta"
+                  }
+                },
+                {
+                  "weight": 50,
+                  "data": {
+                    "Name": "minecraft:lime_terracotta"
+                  }
+                },
+                {
+                  "weight": 20,
+                  "data": {
+                    "Name": "minecraft:yellow_terracotta"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

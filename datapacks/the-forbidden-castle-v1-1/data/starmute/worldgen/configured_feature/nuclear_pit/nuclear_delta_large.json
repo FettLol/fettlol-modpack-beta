@@ -1,0 +1,37 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "contents": {
+          "Properties": {
+            "level": "0"
+          },
+          "Name": "minecraft:lava"
+        },
+        "rim": {
+          "Properties": {
+            "level":"0"
+          },
+          "Name": "minecraft:lava"
+        },
+        "size": {
+          "base": 8,
+          "spread": 8
+        },
+        "rim_size": {
+          "base": 0,
+          "spread": 0
+        }
+      },
+      "type": "minecraft:delta_feature",
+      "name": "starmute:infernal_dunes/dunes_delta"
+    },
+    "decorator": {
+      "config": {
+        "count": 34
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

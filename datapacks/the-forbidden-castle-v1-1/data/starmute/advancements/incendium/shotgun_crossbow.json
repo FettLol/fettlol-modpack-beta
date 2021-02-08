@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "item": {
+          "nbt": "{Weapon:8}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "starmute:artifact/xbow/shotgun"
+  }
+}

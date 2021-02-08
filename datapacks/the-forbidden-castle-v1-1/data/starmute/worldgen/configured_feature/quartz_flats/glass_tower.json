@@ -1,0 +1,30 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "hat_state": {
+          "Name": "minecraft:air"
+        },
+        "decor_state": {
+          "Name": "minecraft:air"
+        },
+        "planted": false,
+        "valid_base_block": {
+          "Name": "minecraft:white_stained_glass"
+        },
+        "stem_state": {
+          "Name": "minecraft:white_stained_glass"
+        }
+      },
+      "type": "minecraft:huge_fungus",
+      "name": "starmute:glass_tower"
+    },
+    "decorator": {
+      "config": {
+        "count": 80
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

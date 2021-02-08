@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "liquid",
+        "probability": 1.0
+      }
+    },
+    "feature": {
+      "type": "minecraft:spring_feature",
+      "config": {
+        "state": {
+          "Name": "minecraft:lava",
+          "Properties": {
+            "falling": "true"
+          }
+        },
+        "rock_count": 1,
+        "hole_count": 4,
+        "required_block_below": false,
+        "valid_blocks": [
+          "minecraft:yellow_stained_glass",
+          "minecraft:green_terracotta"
+        ]
+      }
+    }
+  }
+}

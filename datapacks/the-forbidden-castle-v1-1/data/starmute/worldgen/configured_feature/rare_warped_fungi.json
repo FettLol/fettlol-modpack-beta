@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:chance",
+      "config": {
+        "chance": 8
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_multilayer",
+          "config": {
+            "count": 1
+          }
+        },
+        "feature": {
+          "type": "minecraft:huge_fungus",
+          "config": {
+            "hat_state": {
+              "Name": "minecraft:warped_wart_block"
+            },
+            "decor_state": {
+              "Name": "minecraft:air"
+            },
+            "stem_state": {
+              "Name": "minecraft:warped_stem",
+              "Properties": {
+                "axis": "y"
+              }
+            },
+            "valid_base_block": {
+              "Name": "minecraft:warped_nylium"
+            },
+            "planted": true
+          }
+        }
+      }
+    }
+  }
+}

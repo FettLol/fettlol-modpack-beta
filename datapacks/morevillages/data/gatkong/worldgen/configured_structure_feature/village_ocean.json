@@ -1,0 +1,7 @@
+{
+  "config": {
+    "start_pool": "gatkong:village/ocean/boat",
+    "size": 6
+  },
+  "type": "minecraft:village"
+}

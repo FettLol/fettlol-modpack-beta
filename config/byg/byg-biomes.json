@@ -239,14 +239,14 @@
     },
     "byg:cold_swamplands": {
       "climate": "COOL",
-      "weight": 6,
+      "weight": 2,
       "river": "byg:cold_swamplands",
       "beach": "byg:cold_swamplands",
       "edge": "",
       "hills": [
         {
           "name": "byg:cold_swamplands",
-          "weight": 10
+          "weight": 2
         }
       ]
     },
@@ -281,7 +281,7 @@
     },
     "byg:cypress_swamplands": {
       "climate": "TEMPERATE",
-      "weight": 5,
+      "weight": 2,
       "river": "byg:cypress_swamplands",
       "beach": "byg:cypress_swamplands",
       "edge": "",
@@ -517,7 +517,7 @@
     },
     "byg:mangrove_marshes": {
       "climate": "TEMPERATE",
-      "weight": 4,
+      "weight": 3,
       "river": "byg:mangrove_marshes",
       "beach": "byg:mangrove_marshes",
       "edge": "",
@@ -998,7 +998,7 @@
     },
     "byg:vibrant_swamplands": {
       "climate": "COOL",
-      "weight": 6,
+      "weight": 3,
       "river": "byg:vibrant_swamplands",
       "beach": "byg:vibrant_swamplands",
       "edge": "",

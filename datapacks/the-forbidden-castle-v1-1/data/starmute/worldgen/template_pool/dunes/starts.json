@@ -1,0 +1,24 @@
+{
+  "name": "starmute:pipes/pipe_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:steam/start1",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:blazecastle_1",
+        "processors": "starmute:blaze_castle",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

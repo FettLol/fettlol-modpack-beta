@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "starmute:steam/base/junk",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "starmute:steam/base/common",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "starmute:steam/base/uncommon",
+          "weight": 6
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "starmute:steam/base/rare",
+          "weight": 3
+        }
+      ]
+    }
+  ]
+}

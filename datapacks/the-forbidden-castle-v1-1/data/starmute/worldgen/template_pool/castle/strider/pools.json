@@ -1,0 +1,42 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/strider/pools",
+  "elements": [
+    {
+      "weight": 7,
+      "element": {
+        "location": "nether:castle/strider/pool1",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "nether:castle/strider/pool2",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "nether:castle/strider/pool3",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 11,
+      "element": {
+        "location": "nether:castle/strider/pool4",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

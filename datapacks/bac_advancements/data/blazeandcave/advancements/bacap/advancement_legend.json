@@ -2078,13 +2078,13 @@
 				}
 			}
         },
-		"eskimo": {
+		"barbearian": {
             "trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
 					"player": {
 						"advancements": {
-							"blazeandcave:biomes/eskimo": "true"
+							"blazeandcave:biomes/barbearian": "true"
 						}
 					}
 				}
@@ -8822,13 +8822,13 @@
 				}
 			}
         },
-		"happy_birthday": {
+		"happy_new_year": {
             "trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
 					"player": {
 						"advancements": {
-							"blazeandcave:statistics/happy_birthday": "true"
+							"blazeandcave:statistics/happy_new_year": "true"
 						}
 					}
 				}
@@ -10382,13 +10382,13 @@
 				}
 			}
         },
-		"leader_of_the_animals": {
+		"follow_the_leader": {
             "trigger": "minecraft:location",
 			"conditions": {
 				"player":  {
 					"player": {
 						"advancements": {
-							"blazeandcave:animal/leader_of_the_animals": "true"
+							"blazeandcave:animal/follow_the_leader": "true"
 						}
 					}
 				}

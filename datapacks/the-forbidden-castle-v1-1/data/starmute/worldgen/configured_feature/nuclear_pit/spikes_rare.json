@@ -1,0 +1,27 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {},
+          "type": "minecraft:ice_spike"
+        },
+        "decorator": {
+              "config": {},
+              "type": "minecraft:iceberg"
+          },
+          "type": "minecraft:decorated",
+          "name": "starmute:nuclear_pit/spikes"
+        
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

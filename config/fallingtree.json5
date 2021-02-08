@@ -38,7 +38,7 @@
 		/* The maximum size of a tree. If there's more logs than this value the tree won't be cut. 
 		   INFO: Only in INSTANTANEOUS mode.
 		*/
-		"maxSize": 128,
+		"maxSize": 256,
 		/* The minimum amount of leaves that needs to be around the top most log in order for the mod to consider it a tree. 
 		   INFO: Only in INSTANTANEOUS mode.
 		*/
@@ -58,7 +58,23 @@
 		*/
 		"allowMixedLogs": false,
 		// When set to true nether tree warts (leaves) will be broken along with the trunk.
-		"breakNetherTreeWarts": true
+		"breakNetherTreeWarts": true,
+		/* This defines the area in which the tree is searched. If any branch is going out of this area it won't be cut. 
+		   This value is the radius of the area. 
+		   i.e. Setting a value of 2 will result on an area of 3x3 centered on the log broken. 
+		   If this value is set to a negative number then no area restriction will be applied.
+		*/
+		"searchAreaRadius": -1,
+		/* List the blocks that can be against the tree. If something else is adjacent then the tree won't be cut. 
+		   INFO: Use adjacentStopMode to define how we stop the search for the tree.
+		*/
+		"whitelistedAdjacentBlocks": [ 
+],
+		/* What to do when an non whitelisted adjacent block is found. 
+		   STOP_ALL will stop the search and nothing will be cut. 
+		   STOP_BRANCH will stop the current branch only. The rest of the tree will be cut.
+		*/
+		"adjacentStopMode": "STOP_ALL"
 	},
 	"tools": { 
 		/* Additional list of tools that can be used to chop down a tree. 

@@ -18,11 +18,26 @@
             "conditions": {
                 "entity": {
                     "type": "chicken",
-					"location": {
-						"dimension": "the_nether"
+					"nbt": "{Passengers:[{id:\"minecraft:zombified_piglin\"}]}"
+                }
+            }
+        },
+        "zombified_piglin": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "zombified_piglin",
+					"vehicle": {
+						"type": "chicken"
 					}
                 }
             }
         }
-    }
+    },
+	"requirements": [
+		[
+			"chicken",
+			"zombified_piglin"
+		]
+	]
 }

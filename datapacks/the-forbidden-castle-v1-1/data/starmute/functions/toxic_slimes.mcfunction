@@ -1,0 +1,1 @@
+execute as @a at @s if predicate starmute:nuclear_pit if entity @e[type=slime,distance=..2] run effect give @s minecraft:poison 7 0

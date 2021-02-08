@@ -1,0 +1,78 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/corridor/alcoves",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove7",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove8",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove9",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove10",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove11",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove12",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove13",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/corridor/alcove14",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

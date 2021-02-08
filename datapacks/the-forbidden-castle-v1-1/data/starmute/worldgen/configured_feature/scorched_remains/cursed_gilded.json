@@ -1,0 +1,27 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:blackstone"
+        },
+        "state": {
+          "Name": "minecraft:gilded_blackstone"
+        },
+        "radius": {
+                  "base": 0,
+                  "spread": 1
+                }
+      },
+      "type": "minecraft:netherrack_replace_blobs"
+    },
+    "decorator": {
+      "config": {
+        "step": "air",
+        "probability": 0.02
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

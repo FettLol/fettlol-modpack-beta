@@ -1,0 +1,67 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "to_place": {
+          "Name": "minecraft:red_sand"
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:smooth_red_sandstone"
+          },
+          {
+            "Name": "minecraft:red_sandstone"
+          },
+          {
+            "Name": "minecraft:netherrack"
+          },
+          {
+            "Name": "minecraft:red_sand"
+          }
+        ],
+        "place_in": [
+          {
+            "Name": "minecraft:smooth_red_sandstone"
+          },
+          {
+            "Name": "minecraft:red_sand"
+          },
+          {
+            "Name": "minecraft:air"
+          },
+          {
+            "Properties":
+            {
+              "level":"0"
+            },
+            "Name": "minecraft:lava"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:air"
+          },
+          {
+            "Name": "minecraft:smooth_red_sandstone"
+          },
+          {
+            "Properties":
+            {
+              "level":"0"
+            },
+            "Name": "minecraft:lava"
+          }
+        ]
+      },
+      "type": "minecraft:simple_block"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 1.0
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

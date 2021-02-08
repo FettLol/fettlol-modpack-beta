@@ -1,0 +1,31 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "contents": {
+          "Name": "minecraft:warped_wart_block"
+        },
+        "rim": {
+          "Name": "minecraft:shroomlight"
+        },
+        "size": {
+          "base": 3,
+          "spread": 4
+        },
+        "rim_size": {
+          "base": 0,
+          "spread": 1
+        }
+      },
+      "type": "minecraft:delta_feature",
+      "name": "starmute:warped_delta"
+    },
+    "decorator": {
+      "config": {
+        "count": 20
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

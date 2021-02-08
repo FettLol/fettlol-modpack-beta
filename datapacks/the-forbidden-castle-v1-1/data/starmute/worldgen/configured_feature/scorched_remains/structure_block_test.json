@@ -1,0 +1,51 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "can_replace": false,
+        "project": false,
+        "need_water": false,
+        "xspread": 9,
+        "yspread": 20,
+        "zspread": 9,
+        "whitelist": [
+          {
+            "Name": "minecraft:air"
+          },
+          {
+            "Properties": {
+              "axis": "y"
+            },
+            "Name": "minecraft:polished_basalt"
+          }
+        ],
+        "blacklist": [],
+        "tries": 4,
+        "state_provider": {
+          "state": {
+            "Properties":
+            {
+              "mode": "load"
+            },
+            "Name": "minecraft:structure_block"
+          },
+          "type": "minecraft:simple_state_provider"
+        },
+        "block_placer": {
+          "type": "minecraft:simple_block_placer"
+        }
+      },
+      "type": "minecraft:random_patch",
+      "name": "starmute:surface_debris"
+    },
+    "decorator": {
+              "config": {
+                "bottom_offset": 54,
+                "top_offset": 0,
+                "maximum": 74
+      },
+              "type": "minecraft:range"
+    }
+  },
+  "type": "minecraft:decorated"
+}

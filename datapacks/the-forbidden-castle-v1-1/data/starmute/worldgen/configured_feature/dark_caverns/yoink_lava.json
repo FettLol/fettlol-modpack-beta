@@ -1,0 +1,53 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Properties":{
+                    "level": "0"
+                  },
+                  "Name": "minecraft:lava"
+                },
+                "state": {
+                  "Name": "minecraft:blackstone"
+                },
+                "radius": {
+                  "base": 10,
+                  "spread": 5
+                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "top_offset": 0,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:blackstone_blobs"
+    },
+    "decorator": {
+      "config": {
+        "count": 70
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

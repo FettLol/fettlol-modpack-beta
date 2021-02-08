@@ -1,0 +1,58 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Enchantments:[{}],Spell:1,Recipes:[\"minecraft:nether_brick\"]}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "Wither Sign \"Corrupter\"",
+                "color": "#993333",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "Spell Cost: ",
+                  "extra": [
+                    {
+                      "text": "1 Coal",
+                      "color": "#ffbb00",
+                      "italic": false
+                    }
+                  ],
+                  "color": "#aaaaaa",
+                  "italic": true
+                },
+                {
+                  "text": "Cooldown: ",
+                  "extra": [
+                    {
+                      "text": "6s",
+                      "color": "#ffbb00",
+                      "italic": false
+                    }
+                  ],
+                  "color": "#aaaaaa",
+                  "italic": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

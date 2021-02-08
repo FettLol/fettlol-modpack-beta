@@ -1,0 +1,30 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "hat_state": {
+          "Name": "minecraft:blackstone"
+        },
+        "decor_state": {
+          "Name": "minecraft:crying_obsidian"
+        },
+        "planted": false,
+        "valid_base_block": {
+          "Name": "minecraft:netherrack"
+        },
+        "stem_state": {
+          "Name": "minecraft:blackstone"
+        }
+      },
+      "type": "minecraft:huge_fungus",
+      "name": "starmute:petrified_tree"
+    },
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

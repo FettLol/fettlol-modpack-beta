@@ -1,0 +1,43 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "shield",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_attributes",
+              "modifiers": [
+                {
+                  "attribute": "generic.attack_damage",
+                  "name": "weaken",
+                  "amount": {
+                    "min": -0.07,
+                    "max": -0.001
+                  },
+                  "operation": "multiply_base",
+                  "slot": [
+                    "offhand"
+                  ]
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [{"text":"Reacts to attacks with","color":"#884444","italic":"false"},
+                        {"text":"an explosion of death","color":"#884444","italic":"false"}],
+              "entity": "this"
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32,display:{Name:'[{\"text\":\"Necrotic Shield\",\"italic\":false,\"color\":\"#993333\"}]'},BlockEntityTag:{Patterns:[{Pattern:rud,Color:14},{Pattern:ld,Color:14},{Pattern:sc,Color:14},{Pattern:sku,Color:15},{Pattern:cbo,Color:15},{Pattern:ts,Color:15}],Base:15},Tags:[\"necrotic\"]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

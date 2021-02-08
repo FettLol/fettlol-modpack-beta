@@ -1,0 +1,24 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:red_stained_glass"
+        },
+        "state": {
+          "Name": "minecraft:orange_stained_glass"
+        },
+        "radius": 3
+      },
+      "type": "minecraft:netherrack_replace_blobs"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 0.01
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

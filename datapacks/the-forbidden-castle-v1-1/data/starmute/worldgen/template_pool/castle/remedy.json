@@ -1,0 +1,21 @@
+{
+  "name": "starmute:generic",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 0,
+      "element": {
+        "location": "nether:castle/remedy/15",
+        "processors": "starmute:remedy",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

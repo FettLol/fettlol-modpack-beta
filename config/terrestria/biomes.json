@@ -30,11 +30,11 @@
       "enable": true
     },
     "snowy_hemlock_forest": {
-      "weight": 2.0,
+      "weight": 1.5,
       "enable": true
     },
     "cypress_swamp": {
-      "weight": 1.0,
+      "weight": 0.7,
       "enable": true
     },
     "lush_desert": {

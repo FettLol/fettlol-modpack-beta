@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:count_multilayer",
+      "config": {
+        "count": 1
+      }
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_extra",
+          "config": {
+            "count": 1,
+            "extra_count": 1000000,
+            "extra_chance": 1
+          }
+        },
+        "feature": {
+          "type": "minecraft:decorated",
+          "config": {
+            "decorator": {
+              "type": "minecraft:end_gateway",
+              "config": {}
+            },
+            "feature": {
+              "type": "minecraft:random_patch",
+              "config": {
+                "can_replace": false,
+                "project": false,
+                "need_water": false,
+                "xspread": 0,
+                "yspread": 0,
+                "zspread": 0,
+                "tries": 10,
+                "state_provider": {
+                  "type": "minecraft:simple_state_provider",
+                  "state": {
+                    "Name": "minecraft:red_concrete"
+                  }
+                },
+                "block_placer": {
+                  "type": "minecraft:column_placer",
+                  "min_size": 5,
+                  "extra_size": 0
+                },
+                "whitelist": [],
+                "blacklist": []
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

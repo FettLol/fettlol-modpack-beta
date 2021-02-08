@@ -1,0 +1,39 @@
+{
+  "config": {
+    "feature": {
+  "config": {
+    "state_provider": {
+      "entries": [
+        {
+          "weight": 1600,
+          "data": {
+            "Name": "minecraft:white_terracotta"
+          }
+        },
+        {
+          "weight": 160,
+          "data": {
+            "Name": "minecraft:glowstone"
+          }
+        },
+        {
+          "weight": 3,
+          "data": {
+            "Name": "minecraft:lapis_block"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+},
+    "decorator": {
+      "config": {
+        "count": 32
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

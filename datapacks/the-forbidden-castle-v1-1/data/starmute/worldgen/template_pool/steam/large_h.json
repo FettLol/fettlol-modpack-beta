@@ -1,0 +1,51 @@
+{
+  "name": "starmute:pipes/pipe_start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:steam/large_h",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "nether:steam/large_hv",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "nether:steam/large_vh",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "nether:steam/starter1",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "nether:steam/starter2",
+        "processors": "starmute:pipe_large",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

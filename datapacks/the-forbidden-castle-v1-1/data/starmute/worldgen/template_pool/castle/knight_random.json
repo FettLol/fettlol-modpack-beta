@@ -1,0 +1,48 @@
+{
+  "name": "starmute:generic",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "location": "nether:castle/mobs/knight",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+     {
+      "weight": 6,
+      "element": {
+        "location": "nether:castle/mobs/knight_gold",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+     {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/mobs/knight_diamond",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+     {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/mobs/knight_netherite",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 16,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

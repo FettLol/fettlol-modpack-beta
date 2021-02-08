@@ -8,7 +8,7 @@
   },
   "rejuvenation": {
     "enabled": true,
-    "grassGrowthRate": 0.03,
+    "grassGrowthRate": 0.02,
     "thePowerOfFriendship": 1.25,
     "longGrass": 0.01,
     "saplings": true

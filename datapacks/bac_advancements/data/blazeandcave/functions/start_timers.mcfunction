@@ -19,6 +19,7 @@ scoreboard objectives add bac_ten_withers dummy
 scoreboard objectives add bac_dvd dummy
 scoreboard objectives add bac_dvd2eb dummy
 scoreboard objectives add bac_dveps dummy
+scoreboard objectives add bac_withercool dummy
 scoreboard objectives add bac_eventhorizon dummy
 scoreboard objectives add bac_event_death deathCount
 scoreboard objectives add bac_loser dummy

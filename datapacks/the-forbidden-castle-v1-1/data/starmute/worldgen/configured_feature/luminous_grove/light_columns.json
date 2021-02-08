@@ -1,0 +1,27 @@
+{
+  "config": {
+    "feature": {
+  "config": {
+    "state_provider": {
+      "entries": [
+        {
+          "weight": 160,
+          "data": {
+            "Name": "minecraft:white_terracotta"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+},
+    "decorator": {
+      "config": {
+        "count": 32
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,6 +1,8 @@
 {
 	"replace": false,
 	"values": [
+		"appliedenergistics2:quartz_glass",
+		"appliedenergistics2:quartz_vibrant_glass",
 		"betternether:quartz_glass",
 		"betternether:quartz_glass_framed",
 		"betternether:quartz_glass_white",
@@ -36,6 +38,8 @@
 		"betternether:quartz_glass_framed_red",
 		"betternether:quartz_glass_framed_black",
 		"betternether:obsidian_glass",
-		"betternether:blue_obsidian_glass"
+		"betternether:blue_obsidian_glass",
+		"techreborn:glassfiber_cable",
+		"techreborn:reinforced_glass"
 	]
 }

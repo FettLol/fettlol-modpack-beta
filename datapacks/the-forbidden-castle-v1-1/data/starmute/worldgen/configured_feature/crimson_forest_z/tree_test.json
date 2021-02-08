@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "liquid",
+        "probability": 0.01
+      }
+    },
+    "feature": {
+      "type": "minecraft:netherrack_replace_blobs",
+      "config": {
+        "state": {
+          "Name": "minecraft:crimson_stem",
+          "Properties":{
+            "axis":"z"
+          }
+        },
+        "target": {
+          "Name": "minecraft:air"
+        },
+        "radius": 1
+      }
+    }
+  }
+}

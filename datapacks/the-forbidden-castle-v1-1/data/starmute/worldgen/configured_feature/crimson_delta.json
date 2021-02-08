@@ -1,0 +1,31 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "contents": {
+          "Name": "minecraft:nether_wart_block"
+        },
+        "rim": {
+          "Name": "minecraft:magma_block"
+        },
+        "size": {
+          "base": 3,
+          "spread": 4
+        },
+        "rim_size": {
+          "base": 0,
+          "spread": 2
+        }
+      },
+      "type": "minecraft:delta_feature",
+      "name": "starmute:crimson_delta"
+    },
+    "decorator": {
+      "config": {
+        "count": 40
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

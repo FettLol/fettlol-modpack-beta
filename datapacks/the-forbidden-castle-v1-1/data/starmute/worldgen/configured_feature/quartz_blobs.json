@@ -1,0 +1,50 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Name": "minecraft:netherrack"
+                },
+                "state": {
+                  "Name": "minecraft:smooth_quartz"
+                },
+                "radius": {
+                  "base": 5,
+                  "spread": 5
+                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "top_offset": 0,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:quartz_blobs"
+    },
+    "decorator": {
+      "config": {
+        "count": 60
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

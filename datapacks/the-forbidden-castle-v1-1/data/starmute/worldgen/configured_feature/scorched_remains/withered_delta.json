@@ -1,0 +1,37 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "contents": {
+          "Properties": {
+            "level": "0"
+          },
+          "Name": "minecraft:magma_block"
+        },
+        "rim": {
+          "Properties": {
+            "axis": "y"
+          },
+          "Name": "minecraft:basalt"
+        },
+        "size": {
+          "base": 2,
+          "spread": 3
+        },
+        "rim_size": {
+          "base": 0,
+          "spread": 2
+        }
+      },
+      "type": "minecraft:delta_feature",
+      "name": "starmute:scorched_delta"
+    },
+    "decorator": {
+      "config": {
+        "count": 25
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,48 @@
+{
+  "config": {
+    "feature": {
+  "config": {
+    "state_provider": {
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+          "axis": "x"
+        },
+        "Name": "minecraft:polished_basalt"
+          }
+        },
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+          "axis": "y"
+        },
+        "Name": "minecraft:polished_basalt"
+          }
+        },
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+          "axis": "z"
+        },
+        "Name": "minecraft:polished_basalt"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+},
+    "decorator": {
+      "config": {
+        "count": 10
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,56 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "can_replace": false,
+        "project": false,
+        "need_water": false,
+        "xspread": 4,
+        "yspread": 3,
+        "zspread": 4,
+        "whitelist": [
+          {
+            "Name": "minecraft:soul_sand"
+          }
+        ],
+        "blacklist": [],
+        "tries": 64,
+        "state_provider": {
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+            "age": "1"
+             },
+            "Name": "minecraft:nether_wart"
+          }
+        },
+        {
+          "weight": 3,
+          "data": {
+            "Properties": {
+            "age": "0"
+             },
+            "Name": "minecraft:nether_wart"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    },
+        "block_placer": {
+          "type": "minecraft:simple_block_placer"
+        }
+      },
+      "type": "minecraft:random_patch",
+      "name": "starmute:patch_wart"
+    },
+    "decorator": {
+      "config": {
+        "count": 128
+      },
+      "type": "minecraft:fire"
+    }
+  },
+  "type": "minecraft:decorated"
+}

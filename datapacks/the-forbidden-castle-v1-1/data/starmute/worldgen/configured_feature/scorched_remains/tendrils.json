@@ -1,0 +1,27 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:air"
+        },
+        "state": {
+          "Name": "minecraft:netherrack"
+        },
+        "radius": {
+          "base":0,
+          "spread":0
+        }
+      },
+      "type": "minecraft:netherrack_replace_blobs"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 0.98
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,10 @@
+{
+  "condition": "minecraft:location_check",
+  "offsetY": -1,
+  "predicate": {
+    "feature": "bastion_remnant",
+    "block": {
+      "block": "cyan_terracotta"
+    }
+  }
+}

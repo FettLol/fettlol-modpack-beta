@@ -1,0 +1,60 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/decor/saplings_b",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:castle/decor/saplings_b",
+        "processors": "starmute:castle/oak",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:castle/decor/saplings_b",
+        "processors": "starmute:castle/dark_oak",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:castle/decor/saplings_b",
+        "processors": "starmute:castle/spruce",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:castle/decor/saplings_b",
+        "processors": "starmute:castle/jungle",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:castle/decor/saplings_b",
+        "processors": "starmute:castle/acacia",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "nether:castle/decor/saplings_b",
+        "processors": "starmute:castle/dark_oak",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

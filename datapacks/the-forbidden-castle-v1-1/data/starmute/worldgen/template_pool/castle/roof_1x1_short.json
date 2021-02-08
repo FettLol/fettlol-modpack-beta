@@ -1,0 +1,24 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/roof_1x1",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/roof_1x1_short1",
+        "processors": "starmute:nuclear_option",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/roof_1x1_short2",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

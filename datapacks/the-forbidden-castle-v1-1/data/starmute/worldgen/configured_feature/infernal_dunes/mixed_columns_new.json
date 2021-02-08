@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:square",
+      "config": {}
+    },
+    "feature": {
+      "type": "minecraft:decorated",
+      "config": {
+        "decorator": {
+          "type": "minecraft:count_multilayer",
+          "config": {
+            "count": {
+              "base": 16,
+              "spread": 16
+            }
+          }
+        },
+        "feature": {
+          "type": "minecraft:block_pile",
+          "config": {
+            "state_provider": {
+              "type": "minecraft:weighted_state_provider",
+              "entries": [
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:red_sand"
+                  }
+                },
+                {
+                  "weight": 4,
+                  "data": {
+                    "Name": "minecraft:gravel"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

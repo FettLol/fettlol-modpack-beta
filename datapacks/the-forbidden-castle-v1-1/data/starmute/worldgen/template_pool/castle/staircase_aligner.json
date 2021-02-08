@@ -1,0 +1,15 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/small_statues",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/staircase_aligning_block",
+        "processors": "starmute:castle_floor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

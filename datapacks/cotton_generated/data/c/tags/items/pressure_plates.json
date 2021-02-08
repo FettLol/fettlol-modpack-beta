@@ -1,6 +1,8 @@
 {
 	"replace": false,
 	"values": [
+		"techreborn:rubber_pressure_plate",
+		"charm:player_pressure_plate",
 		"terrestria:redwood_pressure_plate",
 		"terrestria:hemlock_pressure_plate",
 		"terrestria:rubber_pressure_plate",
@@ -15,7 +17,6 @@
 		"biomemakeover:willow_pressure_plate",
 		"biomemakeover:swamp_cypress_pressure_plate",
 		"traverse:fir_pressure_plate",
-		"woods_and_mires:pine_pressure_plate",
-		"charm:player_pressure_plate"
+		"woods_and_mires:pine_pressure_plate"
 	]
 }

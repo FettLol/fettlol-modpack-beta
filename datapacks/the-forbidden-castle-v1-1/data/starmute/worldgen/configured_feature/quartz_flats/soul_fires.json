@@ -1,0 +1,38 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "to_place": {
+          "Name": "minecraft:soul_fire"
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:smooth_quartz"
+          }
+        ],
+        "place_in": [
+          {
+            "Name": "minecraft:smooth_quartz"
+          },
+          {
+            "Name": "minecraft:air"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:air"
+          }
+        ]
+      },
+      "type": "minecraft:simple_block"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 0.8
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

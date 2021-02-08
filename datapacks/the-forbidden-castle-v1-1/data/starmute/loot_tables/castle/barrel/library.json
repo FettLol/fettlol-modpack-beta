@@ -1,0 +1,93 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{pages:['[\"\",{\"text\":\"Vvvvvvvvvvv vvv \",\"obfuscated\":true},{\"text\":\"strange \",\"color\":\"reset\"},{\"text\":\"vvv\",\"obfuscated\":true},{\"text\":\" pipes. \",\"color\":\"reset\"},{\"text\":\"Vvvvv \",\"obfuscated\":true},{\"text\":\"not known \",\"color\":\"reset\"},{\"text\":\"vvv\",\"obfuscated\":true},{\"text\":\" built \",\"color\":\"reset\"},{\"text\":\"vvvv vvv\",\"obfuscated\":true},{\"text\":\" danger \",\"color\":\"reset\"},{\"text\":\"vvvvvvvvsdbdsdg\",\"strikethrough\":true,\"obfuscated\":true},{\"text\":\" ------\\\\n\\\\nIt seems that the \",\"color\":\"reset\",\"obfuscated\":true},{\"text\":\"blaz\",\"color\":\"reset\"},{\"text\":\"es there are fueled by fall\",\"obfuscated\":true},{\"text\":\"en soul\",\"color\":\"reset\"},{\"text\":\"s, and their \",\"obfuscated\":true},{\"text\":\"atta\",\"color\":\"reset\"},{\"text\":\"cks move at an incredible \",\"obfuscated\":true},{\"text\":\"speed\",\"color\":\"reset\"},{\"text\":\".\",\"obfuscated\":true}]'],title:\"§kInvestigations\",author:\"§kThe Ancients\",generation:3}"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_book",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{StoredEnchantments:[{id:\"mending\",lvl:1}]}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 1
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 2,
+        "max": 10
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:paper",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 7
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

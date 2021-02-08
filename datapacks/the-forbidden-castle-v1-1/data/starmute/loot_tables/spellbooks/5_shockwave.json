@@ -1,0 +1,58 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Enchantments:[{}],Spell:5,Recipes:[\"minecraft:nether_brick\"]}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "\"Blast Wave\"",
+                "color": "#bbeeff",
+                "italic": false
+              }
+            },
+            {
+              "function": "minecraft:set_lore",
+              "entity": "this",
+              "lore": [
+                {
+                  "text": "Spell Cost: ",
+                  "extra": [
+                    {
+                      "text": "1 Gunpowder",
+                      "color": "#ffbb00",
+                      "italic": false
+                    }
+                  ],
+                  "color": "#aaaaaa",
+                  "italic": true
+                },
+                {
+                  "text": "Cooldown: ",
+                  "extra": [
+                    {
+                      "text": "7s",
+                      "color": "#ffbb00",
+                      "italic": false
+                    }
+                  ],
+                  "color": "#aaaaaa",
+                  "italic": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

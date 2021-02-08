@@ -1,0 +1,42 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:cvill/piglin_workers",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:cvill/mobs/piglin_miner1",
+        "processors": "minecraft:bastion_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:cvill/mobs/piglin_lumberjack1",
+        "processors": "minecraft:bastion_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:cvill/mobs/piglin_lumberjack2",
+        "processors": "minecraft:bastion_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:cvill/mobs/piglin_worker1",
+        "processors": "minecraft:bastion_generic_degradation",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

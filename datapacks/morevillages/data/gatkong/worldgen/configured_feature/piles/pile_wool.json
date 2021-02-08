@@ -1,0 +1,106 @@
+{
+  "config": {
+    "state_provider": {
+      "entries": [
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:black_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:blue_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:brown_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:cyan_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:gray_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:green_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:light_blue_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:light_gray_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:lime_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:magenta_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:orange_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:pink_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:purple_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:red_wool"
+          }
+        },
+        {
+          "weight": 10,
+          "data": {
+            "Name": "minecraft:white_wool"
+          }
+        },
+        {
+          "weight": 1,
+          "data": {
+            "Name": "minecraft:yellow_wool"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+}

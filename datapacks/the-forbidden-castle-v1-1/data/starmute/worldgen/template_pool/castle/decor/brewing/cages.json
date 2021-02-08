@@ -1,0 +1,24 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/decor/brewing/cages",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/decor/brewing/table2",
+        "processors": "starmute:castle/armory",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "nether:castle/decor/brewing/table1",
+        "processors": "starmute:castle/armory",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

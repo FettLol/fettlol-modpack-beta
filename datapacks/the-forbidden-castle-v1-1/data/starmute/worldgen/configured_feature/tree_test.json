@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "liquid",
+        "probability": 0.95
+      }
+    },
+    "feature": {
+      "type": "minecraft:emerald_ore",
+      "config": {
+        "state": {
+          "Name": "minecraft:glowstone"
+        },
+        "target": {
+          "Name": "minecraft:air"
+        }
+      }
+    }
+  }
+}

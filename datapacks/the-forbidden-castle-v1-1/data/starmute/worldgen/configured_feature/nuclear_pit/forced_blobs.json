@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "liquid",
+        "probability": 0.8
+      }
+    },
+    "feature": {
+      "type": "minecraft:netherrack_replace_blobs",
+      "config": {
+        "state": {
+          "Name": "minecraft:lime_stained_glass"
+        },
+        "target": {
+          "Name": "minecraft:packed_ice"
+        },
+        "radius": 60
+      }
+    }
+  }
+}

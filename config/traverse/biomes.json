@@ -46,7 +46,7 @@
       "enable": true
     },
     "mini_jungle": {
-      "weight": 0.4,
+      "weight": 0.5,
       "enable": true
     },
     "meadow": {
@@ -60,15 +60,15 @@
   },
   "variants": {
     "lush_swamp": {
-      "chance": 0.25,
+      "chance": 0.2,
       "enable": true
     },
     "wooded_island": {
-      "chance": 0.2,
+      "chance": 0.25,
       "enable": true
     },
     "mini_jungle": {
-      "chance": 0.2,
+      "chance": 0.5,
       "enable": true
     },
     "meadow": {

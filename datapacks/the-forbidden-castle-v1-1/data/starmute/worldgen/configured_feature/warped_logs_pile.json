@@ -1,0 +1,48 @@
+{
+  "config": {
+    "feature": {
+  "config": {
+    "state_provider": {
+      "entries": [
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+          "axis": "x"
+        },
+        "Name": "minecraft:warped_stem"
+          }
+        },
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+          "axis": "y"
+        },
+        "Name": "minecraft:warped_stem"
+          }
+        },
+        {
+          "weight": 2,
+          "data": {
+            "Properties": {
+          "axis": "z"
+        },
+        "Name": "minecraft:warped_stem"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+},
+    "decorator": {
+      "config": {
+        "count": 2
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

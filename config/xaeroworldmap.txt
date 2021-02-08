@@ -19,4 +19,4 @@ displayZoom:true
 ignoreHeightmaps:false
 worldmapWaypointsScale:1.0
 openMapAnimation:true
-globalVersion:33
+globalVersion:76

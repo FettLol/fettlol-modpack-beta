@@ -11,7 +11,7 @@ mode = "fancy"
 	# Enable entities light source.
 	entities = true
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "simple"
+	tnt = "fancy"
 	# Creeper lighting mode. May be off, simple or fancy.
-	creeper = "simple"
+	creeper = "fancy"
 

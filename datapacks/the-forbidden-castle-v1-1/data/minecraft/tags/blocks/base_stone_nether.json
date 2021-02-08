@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:netherrack",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:quartz_block",
+    "minecraft:smooth_quartz",
+    "minecraft:red_sandstone"
+  ]
+}

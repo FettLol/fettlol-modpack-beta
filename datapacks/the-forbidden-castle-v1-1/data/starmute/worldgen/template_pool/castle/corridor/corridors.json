@@ -1,0 +1,24 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/corridor/corridors",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "location": "nether:castle/corridor/corridor1",
+        "processors": "starmute:castle/corridor1",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "nether:castle/corridor/corridor2",
+        "processors": "starmute:castle/corridor1",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

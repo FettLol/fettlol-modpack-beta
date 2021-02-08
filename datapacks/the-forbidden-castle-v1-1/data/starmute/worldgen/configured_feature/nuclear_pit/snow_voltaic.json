@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:decorated",
+  "config": {
+    "decorator": {
+      "type": "minecraft:carving_mask",
+      "config": {
+        "step": "liquid",
+        "probability": 0.005
+      }
+    },
+    "feature": {
+      "type": "minecraft:netherrack_replace_blobs",
+      "config": {
+        "state": {
+          "Name": "minecraft:snow_block"
+        },
+        "target": {
+          "Name": "minecraft:purple_stained_glass"
+        },
+        "radius": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Name": "minecraft:netherrack"
+                },
+                "state": {
+                  "Name": "minecraft:gilded_blackstone"
+                },
+                "radius": {
+                  "base": 1,
+                  "spread": 1
+                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "top_offset": 0,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:blackstone_blobs"
+    },
+    "decorator": {
+      "config": {
+        "chance": 3
+      },
+      "type": "minecraft:chance"
+    }
+  },
+  "type": "minecraft:decorated"
+}

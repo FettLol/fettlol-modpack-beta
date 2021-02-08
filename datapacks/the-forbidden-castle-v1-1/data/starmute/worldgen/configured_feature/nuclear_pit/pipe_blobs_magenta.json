@@ -1,0 +1,50 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Name": "minecraft:cyan_terracotta"
+                },
+                "state": {
+                  "Name": "minecraft:blue_terracotta"
+                },
+                "radius": {
+                  "base": 4,
+                  "spread": 2
+                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 32,
+                "top_offset": 32,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:lime_blobs"
+    },
+    "decorator": {
+      "config": {
+        "count": 7
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

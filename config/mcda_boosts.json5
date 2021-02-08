@@ -15,11 +15,11 @@
 	"BeenestArmourSetAttackDamageBoost": 0.0375,
 	"BeenestArmourSetAttackSpeedBoost": 0.0,
 	"BeenestArmourSetMovementBoost": 0.0,
-	// Hero Armour Boosts
+	// Champion Armour Boosts
 	"ChampionArmourSetAttackDamageBoost": 0.0375,
 	"ChampionArmourSetAttackSpeedBoost": 0.0,
 	"ChampionArmourSetMovementBoost": 0.0,
-	// Champion Armour Boosts
+	// Hero Armour Boosts
 	"HeroArmourSetAttackDamageBoost": 0.075,
 	"HeroArmourSetAttackSpeedBoost": 0.0375,
 	"HeroArmourSetMovementBoost": 0.0,
@@ -208,5 +208,17 @@
 	// Gilded Glory Armour Boosts
 	"GildedGloryArmourSetAttackDamageBoost": 0.0,
 	"GildedGloryArmourSetAttackSpeedBoost": 0.05,
-	"GildedGloryArmourSetMovementBoost": 0.0
+	"GildedGloryArmourSetMovementBoost": 0.0,
+	// Climbing Gear Armour Boosts
+	"ClimbingGearArmourSetAttackDamageBoost": 0.0,
+	"ClimbingGearArmourSetAttackSpeedBoost": 0.0,
+	"ClimbingGearArmourSetMovementBoost": 0.0,
+	// Rugged Climbing Gear Armour Boosts
+	"RuggedClimbingGearArmourSetAttackDamageBoost": 0.0,
+	"RuggedClimbingGearArmourSetAttackSpeedBoost": 0.0,
+	"RuggedClimbingGearArmourSetMovementBoost": 0.0,
+	// Goat Armour Boosts
+	"GoatArmourSetAttackDamageBoost": 0.0,
+	"GoatArmourSetAttackSpeedBoost": 0.0,
+	"GoatArmourSetMovementBoost": 0.0
 }

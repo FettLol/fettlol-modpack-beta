@@ -1,0 +1,36 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "hat_state": {
+          "Properties":{
+            "axis":"y"
+          },
+          "Name": "minecraft:basalt"
+        },
+        "decor_state": {
+          "Name": "minecraft:crying_obsidian"
+        },
+        "planted": false,
+        "valid_base_block": {
+          "Name": "minecraft:blackstone"
+        },
+        "stem_state": {
+          "Properties":{
+            "axis":"y"
+          },
+          "Name": "minecraft:polished_basalt"
+        }
+      },
+      "type": "minecraft:huge_fungus",
+      "name": "starmute:petrified_tree"
+    },
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

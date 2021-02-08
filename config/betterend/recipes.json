@@ -318,34 +318,34 @@
     "slime_ball [default: true]": true
   },
   "alloying": {
-    "additional_iron [default: true]": true,
-    "additional_gold [default: true]": true,
-    "additional_netherite [default: true]": true,
-    "terminite_ingot [default: true]": true,
-    "aeternium_ingot [default: true]": true
+    "additional_iron [default: true]": false,
+    "additional_gold [default: true]": false,
+    "additional_netherite [default: true]": false,
+    "terminite_ingot [default: true]": false,
+    "aeternium_ingot [default: true]": false
   },
   "anvil": {
-    "ender_pearl_to_dust [default: true]": true,
-    "ender_shard_to_dust [default: true]": true,
-    "aeternium_axe_head [default: true]": true,
-    "aeternium_pickaxe_head [default: true]": true,
-    "aeternium_shovel_head [default: true]": true,
-    "aeternium_hoe_head [default: true]": true,
-    "aeternium_hammer_head [default: true]": true,
-    "aeternium_sword_blade [default: true]": true
+    "ender_pearl_to_dust [default: true]": false,
+    "ender_shard_to_dust [default: true]": false,
+    "aeternium_axe_head [default: true]": false,
+    "aeternium_pickaxe_head [default: true]": false,
+    "aeternium_shovel_head [default: true]": false,
+    "aeternium_hoe_head [default: true]": false,
+    "aeternium_hammer_head [default: true]": false,
+    "aeternium_sword_blade [default: true]": false
   },
   "smithing": {
-    "aeternium_sword_handle [default: true]": true,
-    "aeternium_sword [default: true]": true,
-    "aeternium_pickaxe [default: true]": true,
-    "aeternium_axe [default: true]": true,
-    "aeternium_shovel [default: true]": true,
-    "aeternium_hoe [default: true]": true,
-    "aeternium_hammer [default: true]": true,
-    "aeternium_helmet [default: true]": true,
-    "aeternium_chestplate [default: true]": true,
-    "aeternium_leggings [default: true]": true,
-    "aeternium_boots [default: true]": true
+    "aeternium_sword_handle [default: true]":false,
+    "aeternium_sword [default: true]": false,
+    "aeternium_pickaxe [default: true]": false,
+    "aeternium_axe [default: true]": false,
+    "aeternium_shovel [default: true]": false,
+    "aeternium_hoe [default: true]": false,
+    "aeternium_hammer [default: true]": false,
+    "aeternium_helmet [default: true]": false,
+    "aeternium_chestplate [default: true]": false,
+    "aeternium_leggings [default: true]": false,
+    "aeternium_boots [default: true]": false
   },
   "infusion": {
     "runed_flavolite [default: true]": true,

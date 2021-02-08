@@ -1,0 +1,54 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "rock_count": 4,
+                "hole_count": 1,
+                "valid_blocks": [
+                  "minecraft:netherrack",
+                  "minecraft:basalt",
+                  "minecraft:blackstone",
+                  "minecraft:polished_basalt"
+                ],
+                "state": {
+                  "Properties": {
+                    "falling": "true"
+                  },
+                  "Name": "minecraft:lava"
+                },
+                "requires_block_below": false
+              },
+              "type": "minecraft:spring_feature"
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 4,
+                "top_offset": 8,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:extra_lava"
+    },
+    "decorator": {
+      "config": {
+        "count": 20
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

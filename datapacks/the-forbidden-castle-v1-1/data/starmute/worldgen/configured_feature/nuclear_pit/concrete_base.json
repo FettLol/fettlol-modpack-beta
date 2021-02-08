@@ -1,0 +1,50 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "to_place": {
+          "Name": "minecraft:green_concrete_powder"
+        },
+        "place_on": [
+          {
+            "Name": "minecraft:green_terracotta"
+          },
+          {
+            "Name": "minecraft:lime_terracotta"
+          },
+          {
+            "Name": "minecraft:air"
+          },
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ],
+        "place_in": [
+          {
+            "Properties":{
+              "level":"0"
+            },
+            "Name": "minecraft:lava"
+          }
+        ],
+        "place_under": [
+          {
+            "Name": "minecraft:air"
+          },
+          {
+            "Name": "minecraft:cave_air"
+          }
+        ]
+      },
+      "type": "minecraft:simple_block"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 1.0
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

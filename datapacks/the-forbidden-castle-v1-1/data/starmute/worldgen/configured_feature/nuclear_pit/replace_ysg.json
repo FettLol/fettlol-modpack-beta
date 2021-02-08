@@ -1,0 +1,24 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "target": {
+          "Name": "minecraft:yellow_stained_glass"
+        },
+        "state": {
+          "Name": "minecraft:air"
+        },
+        "radius": 0
+      },
+      "type": "minecraft:netherrack_replace_blobs"
+    },
+    "decorator": {
+      "config": {
+        "step": "liquid",
+        "probability": 1.0
+      },
+      "type": "minecraft:carving_mask"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,22 @@
+{
+    "values": [
+        "minecraft:item",
+        "minecraft:item_frame",
+        "minecraft:leash_knot",
+        "minecraft:painting",
+        "minecraft:shulker_bullet",
+        "minecraft:experience_orb",
+        "minecraft:experience_bottle",
+        "minecraft:arrow",
+        "minecraft:spectral_arrow",
+        "minecraft:minecart",
+        "minecraft:chest_minecart",
+        "minecraft:furnace_minecart",
+        "minecraft:hopper_minecart",
+        "minecraft:tnt_minecart",
+        "minecraft:command_block_minecart",
+        "minecraft:spawner_minecart",
+        "minecraft:potion",
+        "minecraft:area_effect_cloud"
+    ]
+}

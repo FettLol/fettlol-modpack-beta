@@ -1,0 +1,52 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+              "config": {
+                "target": {
+                  "Properties": {
+            "axis": "y"
+          },
+          "Name": "minecraft:basalt"
+                },
+                "state": {
+          "Name": "minecraft:shroomlight"
+                },
+                "radius": {
+                  "base": 30,
+                  "spread": 5
+                }
+              },
+              "type": "minecraft:netherrack_replace_blobs"
+            },
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "top_offset": 0,
+                "maximum": 128
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated",
+      "name": "starmute:infernal_dunes/basalt_to_shroom"
+    },
+    "decorator": {
+      "config": {
+        "count": 128
+      },
+      "type": "minecraft:count"
+    }
+  },
+  "type": "minecraft:decorated"
+}

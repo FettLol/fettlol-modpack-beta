@@ -1,0 +1,87 @@
+{
+  "name": "starmute:pipes/pipe_start",
+  "fallback": "starmute:steam/h_end",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "nether:steam/small_h_s",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "nether:steam/small_h_elbow",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "nether:steam/small_hv",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "location": "nether:steam/small_h_long",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "nether:steam/small_vh",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "nether:steam/small_h_t",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "nether:steam/small_4way",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "nether:steam/small_t_hv",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "nether:steam/small_t_vh",
+        "processors": "starmute:pipe_small",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

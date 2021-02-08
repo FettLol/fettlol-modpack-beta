@@ -1,0 +1,22 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "reach": 0,
+        "height": {
+          "base": 5,
+          "spread": 5
+        }
+      },
+      "type": "minecraft:basalt_columns",
+      "name": "starmute:extra_basalt_columns"
+    },
+    "decorator": {
+      "config": {
+        "count": 80
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

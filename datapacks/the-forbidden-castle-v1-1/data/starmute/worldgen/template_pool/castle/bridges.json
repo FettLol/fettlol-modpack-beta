@@ -1,0 +1,30 @@
+{
+  "name": "starmute:generic",
+  "fallback": "starmute:castle/bridges",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "nether:castle/bridges/bridge1",
+        "processors": "starmute:castle/bridge_decay",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 0,
+      "element": {
+        "location": "nether:castle/bridges/bridge_2",
+        "processors": "starmute:castle/bridge_decay",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

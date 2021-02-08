@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "text": "Freezes souls to the core~",
+                  "color": "#0055aa",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Weapon:1}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Chilling Blade",
+                "color": "#0088ff",
+                "italic": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "hat_state": {
+          "Name": "minecraft:white_terracotta"
+        },
+        "decor_state": {
+          "Name": "minecraft:glowstone"
+        },
+        "planted": false,
+        "valid_base_block": {
+          "Name": "minecraft:white_terracotta"
+        },
+        "stem_state": {
+          "Name": "minecraft:white_terracotta"
+        }
+      },
+      "type": "minecraft:huge_fungus",
+      "name": "starmute:extra_warped_fungi"
+    },
+    "decorator": {
+      "config": {
+        "count": 16
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

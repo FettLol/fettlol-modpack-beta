@@ -1,0 +1,57 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+      "config": {
+        "contents": {
+          "Name": "minecraft:white_stained_glass"
+        },
+        "rim": {
+          "Properties": {
+            "falling":"false",
+            "level":"0"
+          },
+          "Name": "minecraft:lava"
+        },
+        "size": {
+          "base": 6,
+          "spread": 3
+        },
+        "rim_size": {
+          "base": 2,
+          "spread": 2
+        }
+      },
+      "type": "minecraft:delta_feature",
+      "name": "starmute:quartz_beach"
+    },
+            "decorator": {
+              "config": {
+                "bottom_offset": 10,
+                "top_offset": 0,
+                "maximum": 22
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 15
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}

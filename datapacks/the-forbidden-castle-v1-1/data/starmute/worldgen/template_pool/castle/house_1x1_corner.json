@@ -1,0 +1,42 @@
+{
+  "name": "starmute:generic",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 6,
+      "element": {
+        "location": "nether:castle/rooms/1x1/dining",
+        "processors": "starmute:castle/armory",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "nether:castle/house_1x1",
+        "processors": "starmute:castle/armory",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "nether:castle/rooms/1x1/brewing",
+        "processors": "starmute:castle/armory",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "location": "nether:castle/rooms/1x1/brewing_w",
+        "processors": "starmute:castle/armory",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

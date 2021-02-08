@@ -25,7 +25,7 @@
 		// Airplanes & Air Balloons
 		"air_feature_chance": 4600,
 		// Fallen Trees
-		"fallen_trees_chance": 17,
+		"fallen_trees_chance": 21,
 		// Desert Features
 		"desert_features_chance": 555,
 		// Ruins

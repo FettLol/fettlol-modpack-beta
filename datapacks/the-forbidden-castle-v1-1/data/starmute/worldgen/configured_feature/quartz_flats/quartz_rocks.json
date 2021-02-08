@@ -1,0 +1,55 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "feature": {
+          "config": {
+            "state": {
+              "Name": "minecraft:chiseled_quartz_block"
+            },
+            "radius": {
+              "base": 4,
+              "spread": 4
+            },
+            "half_height": 2,
+            "targets": [
+              {
+                "Name": "minecraft:smooth_quartz"
+              },
+              {
+                "Name": "minecraft:quartz_block"
+              }
+            ]
+          },
+          "type": "minecraft:ice_patch",
+          "name": "starmute:quartz_rocks"
+        },
+            "decorator": {
+              "config": {
+                "bottom_offset": 26,
+                "top_offset": 0,
+                "maximum": 35
+              },
+              "type": "minecraft:range"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "count": 70
+      },
+      "type": "minecraft:count_multilayer"
+    }
+  },
+  "type": "minecraft:decorated"
+}
