@@ -2,5 +2,7 @@
   "addEggCollectorEnchantment": true,
   "infinityCanMixWithMending": true,
   "infinityDoesNotRequireArrow": true,
-  "poisonousPotatoIsCompostable": true
+  "poisonousPotatoIsCompostable": true,
+  "wanderingHeadHunter": true,
+  "villagersFollowEmeraldBlocks": true
 }

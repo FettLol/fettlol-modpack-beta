@@ -15,7 +15,7 @@
   "edgelessSky": false,
   "looseMovementCheck": false,
   "pureMirror": false,
-  "enableAlternateDimensions": true,
+  "enableAlternateDimensions": false,
   "reducedPortalRendering": false,
   "visibilityPrediction": true,
   "chunkUnloadDelayTicks": 300,
@@ -29,6 +29,6 @@
     "immersive_portals:alternate4": "minecraft:overworld",
     "immersive_portals:alternate5": "minecraft:overworld"
   },
-  "netherPortalMode": "normal",
-  "endPortalMode": "normal"
+  "netherPortalMode": "adaptive",
+  "endPortalMode": "toObsidianPlatform"
 }

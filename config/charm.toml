@@ -21,9 +21,9 @@
 #Ender pearl storage. Eating a chorus fruit will teleport you to the nearest ender pearl block.
 "BlockOfEnderPearls Enabled" = false
 #A storage block for gunpowder. It obeys gravity and dissolves in lava.
-"BlockOfGunpowder Enabled" = false
+"BlockOfGunpowder Enabled" = true
 #A storage block for sugar. It obeys gravity and dissolves in water.
-"BlockOfSugar Enabled" = false
+"BlockOfSugar Enabled" = true
 #Bookshelves that can hold up to 9 stacks of books and maps.
 "Bookcases Enabled" = false
 #Campfires no longer damage mobs.
@@ -112,7 +112,7 @@
 #Shows the contents of a Shulker Box on hover-over.
 "ShulkerBoxTooltips Enabled" = true
 #Allows the night to pass when a specified number of players are asleep.
-"SleepImprovements Enabled" = true
+"SleepImprovements Enabled" = false
 #Smelt glowstone to get smooth glowstone.
 "SmoothGlowstone Enabled" = true
 #Increases snow layers in cold biomes during thunderstorms.

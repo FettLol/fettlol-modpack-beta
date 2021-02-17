@@ -6,11 +6,9 @@ This document was started a little way through the modpack, so version 1.0.0 wil
 
 This changelog tries to follow semantic versioning as much as possible. Since this is a modpack that depends on multiple other software products and versions, this can be somewhat difficult to do at times. These are the rules for how we will be naming any new versions and releases, following the Major.Minor.Patch version naming principle:
 
-- Any change to the underlying Minecraft release will be considered a Major version change. In other words, the modpack will be staying on v1.y.z until we update the modpack to support Minecraft 1.17.x.
-
-- Any change that requires both the server and the client to upgrade the mods (and their configuration) will be considered a minor change. We want to try to space the minor upgrades out as much as possible to avoid requiring frequent server updates, so these will often contain many changes at the same time.
-
-- Any change that does not require a server-side update and are client-only will be considered a patch.
+- MAJOR: Any change to the underlying Minecraft release will be considered a Major version change. In other words, the modpack will be staying on v1.y.z until we update the modpack to support Minecraft 1.17.x.
+- MINOR: Any change that requires both the server and the client to upgrade the mods (and their configuration) will be considered a minor change. We want to try to space the minor upgrades out as much as possible to avoid requiring frequent client and server updates, so these will often contain many changes at the same time.
+- PATCH: Any change that does not require a server-side update and are client-only **or vice versa** will be considered a patch.
 
 Changes to the modpack that will be included here include, but are not limited to:
 
@@ -20,17 +18,62 @@ Changes to the modpack that will be included here include, but are not limited t
 
 Changes to the resource pack used on the `fett.lol` server are handled separately as the resource pack is not an official part of the modpack.
 
-## Future Development & Planned Changes
+# Future Development, Known Issues & Planned Future Changes
 
 - The `Hydrogen` mod will be added for further optimization in the future. It is currently the cause of many crashes due to a BlockState bug, and will not be added until this bug is fixed.
+- The `Sodium` mod was removed in modpack `v1.10` due to it not being compatible with `Applied Energistics 2` and `Tech Reborn`. This has caused some issues with load times, chunk rendering time, etc. Once `Sodium` has been updated to properly use the Fabric Rendering API, it will most likely be re-introduced to the modpack, assuming no other optimization mods have taken its place by then.
+- Client log warning: `[12:21:56] [main/WARN]: Method overwrite conflict for setRecipeRemainder in appliedenergistics2.mixins.json:RemainderSetter, previously written by moreberries.mixin.item.ItemMixin. Skipping method.` - This should be reported to the authors of the mods in question.
+- Client log warning: `[12:22:10] [main/WARN]: @ModifyConstant conflict. Skipping imm_ptl_peripheral_fabric.mixins.json:block_manipulation.MixinServerPlayNetworkHandler_B->@ModifyConstant::modifyPlacingBlockRangeSquared(D)D with priority 900, already redirected by mixins.reach-entity-attributes.json:ServerPlayNetworkHandlerMixin->@ModifyConstant::modifyReachDistance(D)D with priority 1000` - Unsure which mod is responsible here and what these mixins are doing. Need to research further.
+- Client log warning: `[12:22:39] [Worker-Main-9/WARN]: Unable to load model: 'appliedenergistics2:dummy_fluid_item#inventory' referenced from: appliedenergistics2:dummy_fluid_item#inventory: java.io.FileNotFoundException: appliedenergistics2:models/item/dummy_fluid_item.json` - This should be reported to the author of the mod in question.
+- Client log error: `[12:24:46] [Netty Client IO #1/ERROR]: Feature: Not a JSON object: "minecraft:freeze_top_layer"` - Need to figure out which mod/datapack is attempting to edit/update/use this particular field and what they're doing wrong. 
+- Client log warning: `[12:30:11] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient` - Maybe just add an empty sound to the resource pack to avoid this warning?
+- When logging out from a server, there is a very long delay before returning to the server list. The following event appears in the client after 40-something seconds of waiting: `Unable to start LAN server detection: Can't assign requested address`. This seems to have something to do with IPv4/IPv6 conflicts? Needs more investigation.
+- Client log info: `[12:38:10] [main/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED` & `[12:38:10] [main/INFO]: Skipping non-result value minecraft:soul_fire_lantern=UNASSIGNED` - Need to figure out where this is coming from.
 
 # Versions
+
+## Release v1.10.1 (2021-02-09)
+
+Bugfix release with a number of minor patches and tweaks.
+
+- **Resourcepack Removed**: `Fettlol Resourcepack`, as it is now embedded in `Fettlol UtilMod`.
+- **Datapack Added**: `Multiplayer Sleep` reintroduced as the `Charm` setting was not as good.
+- **Mod Added**: `Better Enchanted Books` v1.2.2 re-added with improved configuration & details.
+- **Mod Added**: `Cloth Config` v4.10.13, as this is now a dependency for `Light Overlay`.
+- **Mod Added**: `Spark` v1.4.3 to monitor performance and server health.
+- **Mod Added**: `Curios API` v0.0.11 added.
+- **Mod Added**: `Midas Hunger` re-added after being pulled last minute from v1.10 due to server-breaking bug.
+- **Mod Removed**: `Hot Furnace`, as furnace improvements are now done via better furnaces.
+- **Mod Removed**: `WorldEdit`, as we are not using it.
+- **Mod Updated**: `Architectury` updated from v1.5.109  to v1.6.115.
+- **Mod Updated**: `Better End` updated from v0.8.8 to v0.9.1.
+- **Mod Updated**: `Biomes You Go` updated from v1.1.4 to v1.1.5. This fixes the "Black Sand" issue previously patched by `Fettlol UtilMod`.
+- **Mod Updated**: `Fabric API` updated from v0.30.0 to v0.30.3.
+- **Mod Updated**: `Fettlol UtilMod` updated from v1.8 to v1.9, reversing the previous fix for `Biomes You Go` and adding multiple things to the Composter registry.
+- **Mod Updated**: `Infinity Water Bucket` upgraded from v1.0.3.2 to v1.1.
+- **Mod Updated**: `Light Overlay` updated from v5.6.1 to v5.7.0.
+- **Mod Updated**: `MC Dungeons Armor` udated from v1.1.2 to v1.2.1.
+- **Mod Updated**: `MC Dungeons Weapons` udated from v2.7.1 to v2.7.2.
+- **Mod Updated**: `ModMenu` updated from v1.16.6 to v1.16.7.
+- **Mod Updated**: `Phosphor` updated from v0.7.0 to v0.7.1.
+- **Mod Updated**: `RandomPatches` upgraded from v2.4.0 to v2.4.2.
+- **Mod Updated**: `Tech Reborn` updated from v3.7.3 to v3.8.0.
+- **Mod Updated**: `WTHIT` updated from v2.2.0 to v2.2.1.
+- **Mod Updated**: `Xaero's Minimap` updated from v21.2.0.2 to v21.3.0.2.
+- **Mod Updated**: `Xaero's World Map` updated from v1.11.11.2 to v1.12.0.2.
+
+TESTING: `ConnectedTexturesMod`, `Indium`, `Sodium custom branch`. Want to see if this way of using Sodium is compatible with:
+  - Immersive Portals
+  - TechReborn
+  - Applied Energistics
 
 ## Release v1.10.0 (2021-02-08)
 
 Updating dependencies and Minecraft version to 1.16.5. This version also introduces a number of world generation changes to the modpack and - while compatible - it is **not recommended** to upgrade worlds created before v1.9. Creating a new world is preferred. Most of the world generation changes introduced in v1.10 are centered around the newest additions to the modpack - electric power and the things that use power! Most of these things are balanced towards the endgame and will most likely not be something you start constructing before you've visited the Nether and/or The End.
 
 **Note: You will need to update your Minecraft instance to version 1.16.5, Intermediary Mappings to 1.16.5 and Fabric Loader to 0.11.0 for this to work.**
+
+> **Last Minute Change**: The mod `Midas Hunger` had to be pulled from this version due to it causing server crashes. It will be re-introduced in a future patch to `v1.10` once the crash issue has been fixed by the mod's author.
 
 - **Configuration Changed**: (Worldgen) End Shipwrecks spawn further apart.
 - **Configuration Changed**: (Worldgen) Mineshafts are slightly less common, but more diverse and rewarding!

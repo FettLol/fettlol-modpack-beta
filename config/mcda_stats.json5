@@ -1,461 +1,554 @@
 { 
-	// Hunter's Armor: Feet, Legs, Body, Head
-	"HunterArmor": [ 
-		1,
-		2,
-		3,
-		1
-	],
-	"HunterArmorToughness": 0.0,
-	"HunterArmorKnockback": 0.0,
-	// Archer's Armor: Feet, Legs, Body, Head
-	"ArcherArmor": [ 
-		2,
-		4,
-		6,
-		2
-	],
-	"ArcherArmorToughness": 0.0,
-	"ArcherArmorKnockback": 0.0,
-	// Ocelot Armor: Feet, Legs, Body, Head
-	"OcelotArmor": [ 
-		2,
-		4,
-		6,
-		2
-	],
-	"OcelotArmorToughness": 0.0,
-	"OcelotArmorKnockback": 0.0,
-	// Shadow Walker Armor: Feet, Legs, Body, Head
-	"ShadowWalkerArmor": [ 
-		2,
-		4,
-		6,
-		2
-	],
-	"ShadowWalkerArmorToughness": 0.0,
-	"ShadowWalkerArmorKnockback": 0.0,
-	// Spelunker's Armor: Feet, Legs, Body, Head
-	"SpelunkerArmor": [ 
-		2,
-		4,
-		6,
-		2
-	],
-	"SpelunkerArmorToughness": 0.0,
-	"SpelunkerArmorKnockback": 0.0,
-	// Cave Crawler's Armor: Feet, Legs, Body, Head
-	"CaveCrawlerArmor": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"CaveCrawlerArmorToughness": 0.0,
-	"CaveCrawlerArmorKnockback": 0.0,
-	// Wolf Armor: Feet, Legs, Body, Head
-	"WolfArmor": [ 
-		2,
-		4,
-		6,
-		2
-	],
-	"WolfArmorToughness": 0.0,
-	"WolfArmorKnockback": 0.0,
-	// Black Wolf Armor: Feet, Legs, Body, Head
-	"BlackWolfArmor": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"BlackWolfArmorToughness": 0.0,
-	"BlackWolfArmorKnockback": 0.0,
-	// Fox Armor: Feet, Legs, Body, Head
-	"FoxArmor": [ 
-		2,
-		4,
-		6,
-		2
-	],
-	"FoxArmorToughness": 0.0,
-	"FoxArmorKnockback": 0.0,
-	// Climbing Gear: Feet, Legs, Body, Head
-	"ClimbingGear": [ 
-		1,
-		5,
-		6,
-		1
-	],
-	"ClimbingGearToughness": 0.0,
-	"ClimbingGearKnockback": 0.0,
-	// Rugged Climbing Gear: Feet, Legs, Body, Head
-	"RuggedClimbingGear": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"RuggedClimbingGearToughness": 0.0,
-	"RuggedClimbingGearKnockback": 0.0,
-	// Goat Armor: Feet, Legs, Body, Head
-	"GoatArmor": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"GoatArmorToughness": 0.0,
-	"GoatArmorKnockback": 0.20000000298023224,
-	// Battle Robe: Feet, Legs, Body, Head
-	"BattleRobe": [ 
-		1,
-		2,
-		3,
-		1
-	],
-	"BattleRobeToughness": 0.0,
-	"BattleRobeKnockback": 0.0,
-	// Splendid Robe: Feet, Legs, Body, Head
-	"SplendidRobe": [ 
-		2,
-		3,
-		3,
-		2
-	],
-	"SplendidRobeToughness": 0.0,
-	"SplendidRobeKnockback": 0.0,
-	// Evocation Robe: Feet, Legs, Body, Head
-	"EvocationRobe": [ 
-		1,
-		3,
-		3,
-		1
-	],
-	"EvocationRobeToughness": 0.0,
-	"EvocationRobeKnockback": 0.0,
-	// Ember Robe: Feet, Legs, Body, Head
-	"EmberRobe": [ 
-		1,
-		3,
-		3,
-		1
-	],
-	"EmberRobeToughness": 0.0,
-	"EmberRobeKnockback": 0.0,
-	// Verdant Robe: Feet, Legs, Body, Head
-	"VerdantRobe": [ 
-		1,
-		3,
-		3,
-		1
-	],
-	"VerdantRobeToughness": 0.0,
-	"VerdantRobeKnockback": 0.0,
-	// Thief Armor: Feet, Legs, Body, Head
-	"ThiefArmor": [ 
-		2,
-		4,
-		5,
-		2
-	],
-	"ThiefArmorToughness": 0.0,
-	"ThiefArmorKnockback": 0.0,
-	// Spider Armor: Feet, Legs, Body, Head
-	"SpiderArmor": [ 
-		2,
-		4,
-		5,
-		2
-	],
-	"SpiderArmorToughness": 0.0,
-	"SpiderArmorKnockback": 0.0,
-	// Soul Robe: Feet, Legs, Body, Head
-	"SoulRobe": [ 
-		1,
-		5,
-		6,
-		1
-	],
-	"SoulRobeToughness": 2.0,
-	"SoulRobeKnockback": 0.0,
-	// Soul Dancer Robe: Feet, Legs, Body, Head
-	"SoulDancerRobe": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"SouldancerRobeToughness": 2.0,
-	"SouldancerRobeKnockback": 0.0,
-	// Phantom Armor: Feet, Legs, Body, Head
-	"PhantomArmor": [ 
-		3,
-		5,
-		6,
-		2
-	],
-	"PhantomArmorToughness": 0.0,
-	"PhantomArmorKnockback": 0.0,
-	// Frost Bite: Feet, Legs, Body, Head
-	"FrostBiteArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"FrostBiteArmorToughness": 0.0,
-	"FrostBiteArmorKnockback": 0.0,
-	// Grim Armor: Feet, Legs, Body, Head
-	"GrimArmor": [ 
-		3,
-		5,
-		6,
-		2
-	],
-	"GrimArmorToughness": 0.0,
-	"GrimArmorKnockback": 0.0,
-	// Wither Armor: Feet, Legs, Body, Head
-	"WitherArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"WitherArmorToughness": 2.0,
-	"WitherArmorKnockback": 0.0,
-	// Scale Mail: Feet, Legs, Body, Head
-	"ScaleMail": [ 
-		2,
-		4,
-		5,
-		2
-	],
-	"ScaleMailToughness": 0.0,
-	"ScaleMailKnockback": 0.0,
-	// Highland Armor: Feet, Legs, Body, Head
-	"HighlandArmor": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"HighlandArmorToughness": 0.0,
-	"HighlandArmorKnockback": 0.0,
-	// Beehive Armor: Feet, Legs, Body, Head
-	"BeehiveArmor": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"BeehiveArmorToughness": 0.0,
-	"BeehiveArmorKnockback": 0.0,
-	// Beenest Armor: Feet, Legs, Body, Head
-	"BeenestArmor": [ 
-		2,
-		4,
-		5,
-		2
-	],
-	"BeenestArmorToughness": 0.0,
-	"BeenestArmorKnockback": 0.0,
-	// Ghostly Armor: Feet, Legs, Body, Head
-	"GhostlyArmor": [ 
-		2,
-		4,
-		5,
-		2
-	],
-	"GhostlyArmorToughness": 0.0,
-	"GhostlyArmorKnockback": 0.0,
-	// Ghost Kindler Armor: Feet, Legs, Body, Head
-	"GhostKindlerArmor": [ 
-		2,
-		5,
-		6,
-		2
-	],
-	"GhostKindlerArmorToughness": 0.0,
-	"GhostKindlerArmorKnockback": 0.0,
-	// Reinforced Mail: Feet, Legs, Body, Head
-	"ReinforcedMail": [ 
-		3,
-		4,
-		6,
-		3
-	],
-	"ReinforcedMailToughness": 1.0,
-	"ReinforcedMailKnockback": 0.0,
-	// Stalwart Mail: Feet, Legs, Body, Head
-	"StalwartMail": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"StalwartToughness": 1.0,
-	"StalwartKnockback": 0.0,
-	// Guard's Armor: Feet, Legs, Body, Head
-	"GuardsArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"GuardsArmorToughness": 0.0,
-	"GuardsArmorKnockback": 0.0,
-	// Curious Armor: Feet, Legs, Body, Head
-	"CuriousArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"CuriousArmorToughness": 2.0,
-	"CuriousArmorKnockback": 0.0,
-	// Snow Armor: Feet, Legs, Body, Head
-	"SnowArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"SnowArmorToughness": 2.0,
-	"SnowArmorKnockback": 0.0,
-	// Frost Armor: Feet, Legs, Body, Head
-	"FrostArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"FrostArmorToughness": 2.0,
-	"FrostArmorKnockback": 0.0,
-	// Mercenary Armor: Feet, Legs, Body, Head
-	"MercenaryArmor": [ 
-		3,
-		4,
-		5,
-		3
-	],
-	"MercenaryArmorToughness": 1.5,
-	"MercenaryArmorKnockback": 0.0,
-	// Renegade Armor: Feet, Legs, Body, Head
-	"RenegadeArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"RenegadeArmorToughness": 2.0,
-	"RenegadeArmorKnockback": 0.0,
-	// Hungry Horror Armor: Feet, Legs, Body, Head
-	"HungryHorrorArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"HungryHorrorArmorToughness": 2.0,
-	"HungryHorrorArmorKnockback": 0.0,
-	// Emerald Gear: Feet, Legs, Body, Head
-	"EmeraldGearArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"EmeraldGearArmorToughness": 2.0,
-	"EmeraldGearArmorKnockback": 0.0,
-	// Opulent Armor: Feet, Legs, Body, Head
-	"OpulentArmor": [ 
-		3,
-		5,
-		7,
-		3
-	],
-	"OpulentArmorToughness": 2.0,
-	"OpulentArmorKnockback": 0.0,
-	// Dark Armor: Feet, Legs, Body, Head
-	"DarkArmor": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"DarkArmorToughness": 0.0,
-	"DarkArmorKnockback": 0.0,
-	// Titan's Shroud: Feet, Legs, Body, Head
-	"TitanShroud": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"TitanShroudToughness": 0.0,
-	"TitanShroudKnockback": 0.0,
-	// Royal Guard: Feet, Legs, Body, Head
-	"RoyalGuard": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"RoyalGuardToughness": 0.0,
-	"RoyalGuardKnockback": 0.0,
-	// Plate Armor: Feet, Legs, Body, Head
-	"PlateArmor": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"PlateArmorToughness": 0.0,
-	"PlateArmorKnockback": 0.0,
-	// Full Metal Armor: Feet, Legs, Body, Head
-	"FullMetalArmor": [ 
-		4,
-		6,
-		8,
-		4
-	],
-	"FullMetalArmorToughness": 0.0,
-	"FullMetalArmorKnockback": 0.0,
-	// Mystery Armor: Feet, Legs, Body, Head
-	"MysteryArmor": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"MysteryArmorToughness": 0.0,
-	"MysteryArmorKnockback": 0.0,
-	// Champion Armor: Feet, Legs, Body, Head
-	"ChampionArmor": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"ChampionArmorToughness": 0.0,
-	"ChampionArmorKnockback": 0.0,
-	// Hero's Armor: Feet, Legs, Body, Head
-	"HerosArmor": [ 
-		4,
-		7,
-		9,
-		4
-	],
-	"HerosArmorToughness": 2.0,
-	"HerosArmorKnockback": 0.0,
-	// Gilded Glory: Feet, Legs, Body, Head
-	"GildedGloryArmor": [ 
-		3,
-		6,
-		8,
-		3
-	],
-	"GildedGloryArmorToughness": 2.0,
-	"GildedGloryArmorKnockback": 0.0
+	"stats": { 
+		"ARCHER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"HUNTER": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 2,
+				"CHEST": 3,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"OCELOT": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"SHADOW_WALKER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"SPELUNKER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"CAVE_CRAWLER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"WOLF": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"BLACK_WOLF": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"FOX": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"ARCTIC_FOX": { 
+			"armorMap": { 
+				"FEET": 0,
+				"LEGS": 0,
+				"CHEST": 0,
+				"HEAD": 0
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"CLIMBING_GEAR": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"RUGGED_CLIMBING_GEAR": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"BATTLE": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 2,
+				"CHEST": 3,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"SPLENDID": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 2,
+				"CHEST": 3,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"EVOCATION": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 3,
+				"CHEST": 3,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"EMBER": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 3,
+				"CHEST": 3,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"VERDANT": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 3,
+				"CHEST": 3,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"THIEF": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"SPIDER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"SOUL_ROBE": { 
+			"armorMap": { 
+				"FEET": 1,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 1
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"SOULDANCER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"PHANTOM": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"FROST_BITE": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"GRIM": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"WITHER": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"SCALE_MAIL": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"HIGHLAND": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"BEEHIVE": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"BEENEST": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"GHOSTLY": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"GHOST_KINDLER": { 
+			"armorMap": { 
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"REINFORCED_MAIL": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 3
+			},
+			"toughness": 1.0,
+			"knockbackRes": 0.0
+		},
+		"STALWART_MAIL": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 1.0,
+			"knockbackRes": 0.0
+		},
+		"GUARDS": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"CURIOUS": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"SNOW": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"FROST": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"MERCENARY": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 4,
+				"CHEST": 5,
+				"HEAD": 3
+			},
+			"toughness": 1.5,
+			"knockbackRes": 0.0
+		},
+		"RENEGADE": { 
+			"armorMap": { 
+				"FEET": 0,
+				"LEGS": 0,
+				"CHEST": 0,
+				"HEAD": 0
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"HUNGRY_HORROR": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"EMERALD": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"OPULENT": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"DARK": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"TITAN": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"ROYAL": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"PLATE": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"FULL_METAL": { 
+			"armorMap": { 
+				"FEET": 4,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 4
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"MYSTERY": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"BLUE_MYSTERY": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"GREEN_MYSTERY": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"PURPLE_MYSTERY": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"RED_MYSTERY": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"CHAMPION": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0
+		},
+		"HERO": { 
+			"armorMap": { 
+				"FEET": 4,
+				"LEGS": 7,
+				"CHEST": 9,
+				"HEAD": 4
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		},
+		"GILDED": { 
+			"armorMap": { 
+				"FEET": 3,
+				"LEGS": 6,
+				"CHEST": 8,
+				"HEAD": 3
+			},
+			"toughness": 2.0,
+			"knockbackRes": 0.0
+		}
+	}
 }

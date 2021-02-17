@@ -4,7 +4,7 @@
   "easyHarvestDropAsItems": false,
   "autoPlanting": {
     "enabled": true,
-    "delay": 300
+    "delay": 360
   },
   "rejuvenation": {
     "enabled": true,
@@ -26,7 +26,7 @@
   "betterLilyPads": true,
   "farmerVillagerAutomation": true,
   "animalsEatOffGround": true,
-  "breedWildWolves": true,
+  "animalsEatCrops": true,
   "netherRejuvenation": {
     "enabled": true,
     "rootsGrowthRate": 0.0125,
@@ -50,5 +50,8 @@
   "doubleDoors": true,
   "bubbleColumnsFlow": true,
   "infiniteCauldrons": false,
-  "easyXp": false
+  "easyXp": false,
+  "snowFallsThroughLeaves": true,
+  "armorStandSwap": true,
+  "automaticDoors": false
 }

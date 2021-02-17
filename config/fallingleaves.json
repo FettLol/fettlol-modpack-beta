@@ -359,6 +359,14 @@
     "techreborn:rubber_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "blockus:legacy_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "blockus:white_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

@@ -58,7 +58,7 @@ waypointsDistance:1500.0
 waypointsDistanceMin:0.0
 waypointTPCommand:/tp @s
 arrowScale:1.5
-arrowColour:0
+arrowColour:3
 smoothDots:true
 playerIcons:2
 mobIcons:1

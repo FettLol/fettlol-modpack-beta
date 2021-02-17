@@ -1,7 +1,7 @@
 {
-  "panorama": "fettlol:elk",
+  "panorama": "luminous_grove",
   "forcePanorama": false,
-  "randomPerScreen": false,
+  "randomPerScreen": true,
   "hectic": false,
-  "lockPanoramicScreenshotRotation": true
+  "lockPanoramicScreenshotRotation": false
 }
