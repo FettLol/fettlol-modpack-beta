@@ -32,7 +32,7 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 
 # Versions
 
-## Release v1.10.1 (2021-02-09)
+## Release v1.10.1 (2021-02-17)
 
 Bugfix release with a number of minor patches and tweaks.
 
