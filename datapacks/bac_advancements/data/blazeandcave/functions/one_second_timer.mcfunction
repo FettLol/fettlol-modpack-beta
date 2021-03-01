@@ -1,8 +1,5 @@
 # Function runs once per second
 
-# # Oh, look it dings! and Hell's Bells
-execute as @a at @s if score @s bac_ring_bell matches 1.. run function blazeandcave:bell_ring
-
 # # Free Diver and Sleep with the Fishes (stay underwater)
 execute as @a at @s if block ~ ~ ~ #minecraft:underwater_blocks run scoreboard players add @a bac_underwater 1
 execute as @a at @s unless block ~ ~ ~ #minecraft:underwater_blocks run scoreboard players set @s bac_underwater 0

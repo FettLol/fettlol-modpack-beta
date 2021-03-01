@@ -6,7 +6,6 @@
   "compatibilityRenderMode": false,
   "doCheckGlError": false,
   "portalSearchingRange": 128,
-  "longerReachInCreative": false,
   "renderYourselfInPortal": true,
   "activeLoading": true,
   "teleportationDebug": false,
@@ -22,6 +21,9 @@
   "forceMergePortalRendering": false,
   "netherPortalOverlay": false,
   "graduallyIncreaseLoadingRange": true,
+  "scaleLimit": 30,
+  "easeCreativePermission": true,
+  "easeCommandStickPermission": false,
   "dimensionRenderRedirect": {
     "immersive_portals:alternate1": "minecraft:overworld",
     "immersive_portals:alternate2": "minecraft:overworld",

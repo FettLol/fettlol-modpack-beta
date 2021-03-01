@@ -15,7 +15,7 @@
   "mixin_critical": true,
   "mixin_ricochet": true,
   "mixin_shockwave": true,
-  "mixin_bee": true,
+  "mixin_bee": false,
   "mixin_growing": true,
   "mixin_enigma": true,
   "mixin_replenish": true,
@@ -30,8 +30,8 @@
   "mixin_anima": true,
   "mixin_radiance_shot": true,
   "mixin_siphon": true,
-  "mixin_jungle_poison": true,
+  "mixin_jungle_poison": false,
   "mixin_gravity": true,
   "mixin_stunning": true,
-  "enable_op_mixing": true
+  "enable_op_mixing": false
 }

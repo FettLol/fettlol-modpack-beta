@@ -10,7 +10,7 @@
     },
     "MachineSoundVolume": {
       "comment": "Machines crafting sound volume (0 - disabled, 1 - max)",
-      "value": 0.6
+      "value": 0.3
     },
     "IC2TransformersStyle": {
       "comment": "Input from dots side, output from other sides, like in IC2.",

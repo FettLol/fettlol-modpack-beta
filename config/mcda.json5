@@ -4,11 +4,13 @@
 		"CHILLING": true,
 		"COWARDICE": true,
 		"DEFLECT": true,
+		"FIRE_TRAIL": false,
 		"FOOD_RESERVES": true,
 		"FRENZIED": true,
+		"HEAL_ALLIES": true,
 		"POTION_BARRIER": true,
 		"RECYCLER": true,
-		"SNOWBALL": true,
+		"SNOWBALL": false,
 		"SURPRISE_GIFT": true
 	},
 	"armorStats": { 

@@ -26,7 +26,6 @@ scoreboard objectives add bac_loser dummy
 scoreboard objectives add bac_loser_death deathCount
 scoreboard objectives add bac_loser_hurt minecraft.custom:minecraft.damage_taken
 scoreboard objectives add bac_loser_count dummy
-scoreboard objectives add bac_ring_bell minecraft.custom:minecraft.bell_ring
 scoreboard objectives add bac_part_of_raid dummy
 scoreboard objectives add bac_health health
 scoreboard objectives add bac_wiz_break dummy

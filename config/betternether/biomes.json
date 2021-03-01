@@ -11,7 +11,7 @@
                 "max_group_size[def: 6]": 6
               },
               "skull": {
-                "weight[def: 2]": 2,
+                "weight[def: 2]": 0,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 4]": 4
               },

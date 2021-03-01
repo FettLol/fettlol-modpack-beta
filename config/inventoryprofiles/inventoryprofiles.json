@@ -3,7 +3,8 @@
     "sort_order": "ITEM_NAME",
     "enable_lock_slots": false,
     "refill_armor": false,
-    "refill_before_tool_break": false
+    "refill_before_tool_break": false,
+    "restock_hotbar": true
   },
   "GuiSettings": {
     "show_continuous_crafting_checkbox": false,
@@ -13,5 +14,21 @@
     "show_sort_in_rows_button": false,
     "show_button_tooltips": false,
     "use_old_insert_method": true
+  },
+  "Hotkeys": {
+    "open_config_menu": {
+      "main": {
+        "keys": ""
+      }
+    },
+    "sort_inventory": {
+      "main": {
+        "keys": ""
+      }
+    }
+  },
+  "Tweaks": {
+    "prevent_close_gui_drop_item": true,
+    "swipe_move_crafting_result_slot": true
   }
 }

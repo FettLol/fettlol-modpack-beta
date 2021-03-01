@@ -4,16 +4,16 @@
   "easyHarvestDropAsItems": false,
   "autoPlanting": {
     "enabled": true,
-    "delay": 360
+    "delay": 720
   },
   "rejuvenation": {
     "enabled": true,
-    "grassGrowthRate": 0.02,
-    "thePowerOfFriendship": 1.25,
-    "longGrass": 0.01,
+    "grassGrowthRate": 5.0E-4,
+    "thePowerOfFriendship": 2.0,
+    "longGrass": 0.005,
     "saplings": true
   },
-  "plantHitboxes": true,
+  "plantHitboxes": false,
   "leaves": {
     "collide": true,
     "persistentCollide": true,
@@ -22,14 +22,14 @@
     "climb": false,
     "treeClimbingSpeed": 0.75
   },
-  "leafDecaySpeed": 10,
+  "leafDecaySpeed": 60,
   "betterLilyPads": true,
   "farmerVillagerAutomation": true,
   "animalsEatOffGround": true,
-  "animalsEatCrops": true,
+  "animalsEatCrops": false,
   "netherRejuvenation": {
     "enabled": true,
-    "rootsGrowthRate": 0.0125,
+    "rootsGrowthRate": 0.005,
     "thePowerOfFriendship": 1.25,
     "sproutRootsRatio": 75,
     "vinesChance": 0.05

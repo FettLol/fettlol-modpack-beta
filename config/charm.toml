@@ -104,7 +104,7 @@
 #A block that acts like sand but is powered like a block of redstone.
 "RedstoneSand Enabled" = false
 #Decorative block made by smelting obsidian.
-"RefinedObsidian Enabled" = true
+"RefinedObsidian Enabled" = false
 #When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
 "RemoveNitwits Enabled" = true
 #Removes the potion enchantment glint so you can see what the potion color is.

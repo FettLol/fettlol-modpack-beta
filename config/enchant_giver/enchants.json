@@ -8,6 +8,9 @@
   "mcdw:crossbow_doom_crossbow": {
     "minecraft:punch": 1
   },
+  "mcdw:crossbow_auto_crossbow": {
+    "mcdw:bonus_shot": 1
+  },
   "mcdw:bow_hunters_promise": {
     "mcdw:replenish": 1
   },
@@ -130,6 +133,9 @@
   },
   "mcdw:dagger_eternal_knife": {
     "mcdw:soul_siphon": 1
+  },
+  "mcdw:crossbow_butterfly_crossbow": {
+    "mcdw:bonus_shot": 1
   },
   "mcdw:dagger_fangs_of_frost": {
     "mcdw:freezing": 1

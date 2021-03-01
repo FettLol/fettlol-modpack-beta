@@ -1,7 +1,7 @@
 {
-  "panorama": "luminous_grove",
-  "forcePanorama": false,
-  "randomPerScreen": true,
-  "hectic": false,
-  "lockPanoramicScreenshotRotation": false
+  "panorama": "fettlol:v11",
+  "forcePanorama": true,
+  "randomPerScreen": false,
+  "lockScreenshotPitch": false,
+  "lockScreenshotYaw": false
 }

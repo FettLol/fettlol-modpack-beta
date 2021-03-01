@@ -18,10 +18,7 @@
                     "type": "creeper"
                 },
 				"killing_blow": {
-					"is_explosion": true,
-					"source_entity": {
-						"type": "minecraft:tnt"
-					}
+					"is_explosion": true
 				}
             }
         }

@@ -27,10 +27,64 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 - Client log warning: `[12:22:39] [Worker-Main-9/WARN]: Unable to load model: 'appliedenergistics2:dummy_fluid_item#inventory' referenced from: appliedenergistics2:dummy_fluid_item#inventory: java.io.FileNotFoundException: appliedenergistics2:models/item/dummy_fluid_item.json` - This should be reported to the author of the mod in question.
 - Client log error: `[12:24:46] [Netty Client IO #1/ERROR]: Feature: Not a JSON object: "minecraft:freeze_top_layer"` - Need to figure out which mod/datapack is attempting to edit/update/use this particular field and what they're doing wrong. 
 - Client log warning: `[12:30:11] [main/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient` - Maybe just add an empty sound to the resource pack to avoid this warning?
-- When logging out from a server, there is a very long delay before returning to the server list. The following event appears in the client after 40-something seconds of waiting: `Unable to start LAN server detection: Can't assign requested address`. This seems to have something to do with IPv4/IPv6 conflicts? Needs more investigation.
 - Client log info: `[12:38:10] [main/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED` & `[12:38:10] [main/INFO]: Skipping non-result value minecraft:soul_fire_lantern=UNASSIGNED` - Need to figure out where this is coming from.
 
 # Versions
+
+## Release v1.11.0 (2021-03-01)
+
+- **Configuration Changed**: "Skulls" and "Jungle Skeletons" no longer spawn in the Nether (Nor anywhere else, for that matter).
+- **Configuration Changed**: `Tech Reborn` machine volume reduced.
+- **Configuration Changed**: Books can now be enchanted.
+- **Configuration Changed**: Food will be less common in Village chests.
+- **Configuration Changed**: Grass will now *only break when hit with a hoe*. This is to prevent grass being in the way when hitting mobs etc.
+- **Configuration Changed**: Grass will spread to Grass Blocks much slower than before, with a preference to appear near other grass.
+- **Configuration Changed**: Leaf decay speed is now faster.
+- **Configuration Changed**: Player footstep volume has been significantly decreased.
+- **Configuration Changed**: Saplings will now require twice as long before automatically planting themselves when on the ground.
+- **Configuration Changed**: The following enchantments have been removed: Fire Trail, Snowball, Jungle Poison, Bee.
+- **Datapack Added**: `Summer Villagers - Vanilla` from 2021-02-22 added.
+- **Datapack Added**: `Track Raw Statistics` v1.4.0 added.
+- **Datapack Added**: `Track Statistics` v1.1.0 added.
+- **Datapack Removed**: `fettlol_crafting_tweaks` as this is now included in `Fettlol UtilMod`.
+- **Datapack Updated**: `bac_advancements` updated to release from 2021-02-24.
+- **Datapack Updated**: `More Mob Heads` updated from v2.8.1 to v2.8.2.
+- **Mod Added**: `Amecs` v1.3.3 added.
+- **Mod Added**: `Better Ping Display` v1.1 added.
+- **Mod Added**: `Damage Tilt` v0.1.2 added.
+- **Mod Added**: `Emotecraft` v1.4.0 added.
+- **Mod Added**: `Entity Culling` v1.0.2 added.
+- **Mod Added**: `Horse Stats Vanilla` v4.1.7 added.
+- **Mod Added**: `Hwyla Addon: Horse Info` v0.2.2 added.
+- **Mod Added**: `Indium` v1.0.0 added.
+- **Mod Added**: `Limitless` v1.2.2 added.
+- **Mod Added**: `Sodium` v0.1.1-SNAPSHOT added.
+- **Mod Removed**: `Immersive Portals` disabled due to memory leak. It will hopefully be re-introduced in a future version of the modpack.
+- **Mod Updated**: `Alaskan Nativecraft` updated from v1.1.0 to v1.1.1.
+- **Mod Updated**: `Architectury` updated from v1.7.115 to v1.8.128.
+- **Mod Updated**: `Battle Towers` updated from v3.3.2 to v3.3.3.
+- **Mod Updated**: `Better Enchanted Books` updated from v1.2.2 to v1.2.5.
+- **Mod Updated**: `Cloth Config` updated from v4.10.13 to v4.11.14.
+- **Mod Updated**: `Ducts` updated from v1.0.2 to v1.0.4.
+- **Mod Updated**: `Expanded Storage` updated from v5.6.32 to v5.6.33.
+- **Mod Updated**: `Fabric API` updated from v0.30.3 to v0.31.0.
+- **Mod Updated**: `Fettlol UtilMod` updated from v1.0.9 to v1.0.10.
+- **Mod Updated**: `Gentle Fawn` updated from v1.1.2 to v1.1.3.
+- **Mod Updated**: `Immersive Portals` updated from v0.68 to v0.80.
+- **Mod Updated**: `Infinity Water Bucket` updated from v1.1 to v1.2.
+- **Mod Updated**: `Lithium` updated from v0.6.3 to v0.6.4.
+- **Mod Updated**: `MC Dungeons Armor` updated from v1.2.1 to v1.2.5.
+- **Mod Updated**: `MC Dungeons Weapons` updated from v2.7.2 to v2.7.3.
+- **Mod Updated**: `ModMenu` updated from v1.16.7 to v1.16.8.
+- **Mod Updated**: `Polymorph` updated from v0.0.9 to v0.0.10.
+- **Mod Updated**: `RandomPatches` updated from v2.4.2 to v2.4.5.
+- **Mod Updated**: `Repurposed Structures` updated from v1.7.4 to v1.8.3.
+- **Mod Updated**: `Tech Reborn` updated from v3.8.0 to v3.8.1.
+- **Mod Updated**: `TinyTweaks` updated from v1.2.0 to v1.2.1.
+- **Mod Updated**: `Traverse` updated from v3.3.1 to v3.3.2.
+- **Mod Updated**: `Vistas` updated from v1.2.3 to v1.2.4.
+- **Mod Updated**: `WTHIT` updated from v2.2.1 to v2.3.1.
+- **Mod Updated**: `Xaero's Minimap` updated from v21.3.0.2 to v21.4.0.
 
 ## Release v1.10.1 (2021-02-17)
 
@@ -61,11 +115,6 @@ Bugfix release with a number of minor patches and tweaks.
 - **Mod Updated**: `WTHIT` updated from v2.2.0 to v2.2.1.
 - **Mod Updated**: `Xaero's Minimap` updated from v21.2.0.2 to v21.3.0.2.
 - **Mod Updated**: `Xaero's World Map` updated from v1.11.11.2 to v1.12.0.2.
-
-TESTING: `ConnectedTexturesMod`, `Indium`, `Sodium custom branch`. Want to see if this way of using Sodium is compatible with:
-  - Immersive Portals
-  - TechReborn
-  - Applied Energistics
 
 ## Release v1.10.0 (2021-02-08)
 

@@ -1,6 +1,6 @@
 {
 	"version": 10,
-	"thornsDamage": 1.0,
+	"thornsDamage": 0.0,
 	"generation": {
 		"largeCaveChance": 0.2,
 		"stoneSpeleothemCount": 128,
@@ -98,9 +98,9 @@
 					"sandReplacement": false,
 					"iceReplacement": true,
 					"icicles": false,
-					"skulls": true,
-					"cobwebs": true,
-					"spiderDens": true,
+					"skulls": false,
+					"cobwebs": false,
+					"spiderDens": false,
 					"vines": false,
 					"greenGlowshrooms": false,
 					"blueGlowshrooms": true,
