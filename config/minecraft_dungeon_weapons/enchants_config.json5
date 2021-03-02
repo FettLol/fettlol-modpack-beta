@@ -20,7 +20,7 @@
   "mixin_enigma": true,
   "mixin_replenish": true,
   "mixin_smiting": true,
-  "mixin_prospector": true,
+  "mixin_prospector": false,
   "mixin_chains": true,
   "mixin_chain_reaction": true,
   "mixin_tempo_theft": true,
