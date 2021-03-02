@@ -30,11 +30,19 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 
 # Versions
 
+## Release v1.11.2 (2021-03-02)
+
+Fixing oversight in previous release.
+
+- **Mod Removed**: `Entity Culling`.
+
 ## Release v1.11.1 (2021-03-02)
 
 - **Configuration Changed**: Experience cost offset reset to 30 from 0.
 - **Configuration Changed**: Prospector enchantment removed.
 - **Mod Updated**: `Biomes You'll Go` updated from v1.1.4 to v1.1.6.
+- **Mod Updated**: `Xaero's Minimap` updated from v21.4.0 to v21.4.1.
+- **Mod Updated**: `Xaero's World Map` updated from v1.12.0.2 to v1.12.1.
 
 ## Release v1.11.0 (2021-03-01)
 
