@@ -9,7 +9,7 @@
 		},
 		"normalization": { 
 			"enabled": true,
-			"offset": 0,
+			"offset": 30,
 			"display": "APPEND"
 		},
 		"reenchanting": { 

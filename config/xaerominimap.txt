@@ -17,7 +17,7 @@ showOther:true
 showOtherTeam:true
 showTamed:true
 showWaypoints:true
-showIngameWaypoints:false
+showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
 oldDeathpoints:true

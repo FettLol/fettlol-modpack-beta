@@ -21,7 +21,6 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 # Future Development, Known Issues & Planned Future Changes
 
 - The `Hydrogen` mod will be added for further optimization in the future. It is currently the cause of many crashes due to a BlockState bug, and will not be added until this bug is fixed.
-- The `Sodium` mod was removed in modpack `v1.10` due to it not being compatible with `Applied Energistics 2` and `Tech Reborn`. This has caused some issues with load times, chunk rendering time, etc. Once `Sodium` has been updated to properly use the Fabric Rendering API, it will most likely be re-introduced to the modpack, assuming no other optimization mods have taken its place by then.
 - Client log warning: `[12:21:56] [main/WARN]: Method overwrite conflict for setRecipeRemainder in appliedenergistics2.mixins.json:RemainderSetter, previously written by moreberries.mixin.item.ItemMixin. Skipping method.` - This should be reported to the authors of the mods in question.
 - Client log warning: `[12:22:10] [main/WARN]: @ModifyConstant conflict. Skipping imm_ptl_peripheral_fabric.mixins.json:block_manipulation.MixinServerPlayNetworkHandler_B->@ModifyConstant::modifyPlacingBlockRangeSquared(D)D with priority 900, already redirected by mixins.reach-entity-attributes.json:ServerPlayNetworkHandlerMixin->@ModifyConstant::modifyReachDistance(D)D with priority 1000` - Unsure which mod is responsible here and what these mixins are doing. Need to research further.
 - Client log warning: `[12:22:39] [Worker-Main-9/WARN]: Unable to load model: 'appliedenergistics2:dummy_fluid_item#inventory' referenced from: appliedenergistics2:dummy_fluid_item#inventory: java.io.FileNotFoundException: appliedenergistics2:models/item/dummy_fluid_item.json` - This should be reported to the author of the mod in question.
@@ -30,6 +29,12 @@ Changes to the resource pack used on the `fett.lol` server are handled separatel
 - Client log info: `[12:38:10] [main/INFO]: Skipping non-result value minecraft:lantern=UNASSIGNED` & `[12:38:10] [main/INFO]: Skipping non-result value minecraft:soul_fire_lantern=UNASSIGNED` - Need to figure out where this is coming from.
 
 # Versions
+
+## Release v1.11.1 (2021-03-02)
+
+- **Configuration Changed**: Experience cost offset reset to 30 from 0.
+- **Configuration Changed**: Prospector enchantment removed.
+- **Mod Updated**: `Biomes You'll Go` updated from v1.1.4 to v1.1.6.
 
 ## Release v1.11.0 (2021-03-01)
 
