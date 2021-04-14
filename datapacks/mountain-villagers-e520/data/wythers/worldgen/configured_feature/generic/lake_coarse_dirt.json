@@ -1,0 +1,19 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "state": {
+          "Name": "minecraft:coarse_dirt"
+        }
+      },
+      "type": "minecraft:lake"
+    },
+    "decorator": {
+      "config": {
+        "chance": 20
+      },
+      "type": "minecraft:lava_lake"
+    }
+  },
+  "type": "minecraft:decorated"
+}

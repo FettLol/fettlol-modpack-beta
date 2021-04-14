@@ -367,6 +367,38 @@
     "blockus:white_oak_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "croptopia:cinnamon_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:skyroot_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:lavender_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:frost_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:rose_wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:golden_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "the_aether:crystal_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "biomemakeover:ancient_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

@@ -1,3 +1,0 @@
-summon minecraft:firework_rocket ~ ~ ~ {Tags:["d1"],Silent:1b,Motion:[0.0,0.0,0.0],ShotAtAngle:1b,LifeTime:90,FireworksItem:{id:"lapis_block",Count:1,tag:{Fireworks:{Flight:1,Explosions:[{Type:0,Flicker:0,Trail:0,Colors:[I;255]},{Type:0,Flicker:0,Trail:0,Colors:[I;255]},{Type:0,Flicker:0,Trail:0,Colors:[I;255]}]}}}}
-summon area_effect_cloud ~ ~ ~ {Tags:["select"]}
-execute as @e[type=area_effect_cloud,tag=select] run function starmute:avatar/attacks/aim

@@ -1,8 +1,0 @@
-{
-  "config": {
-    "start_pool": "starmute:castle/floor_l1",
-    "size": 7
-  },
-  "type": "minecraft:bastion_remnant",
-  "name": "starmute:pipe_start"
-}

@@ -1,1 +1,0 @@
-summon piglin_brute ~ ~ ~ {CanPickUpLoot:0b,Tags:["castle","knight"],HandItems:[{id:"minecraft:iron_sword",Count:1b},{}],HandDropChances:[0.000F,0.085F],ArmorItems:[{id:"minecraft:iron_boots",Count:1b},{id:"minecraft:iron_leggings",Count:1b},{id:"minecraft:iron_chestplate",Count:1b},{id:"minecraft:iron_helmet",Count:1b}],ArmorDropChances:[0.000F,0.000F,0.000F,0.000F]}

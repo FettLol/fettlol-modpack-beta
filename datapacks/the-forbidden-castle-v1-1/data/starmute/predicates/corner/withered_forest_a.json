@@ -1,6 +1,0 @@
-{
-  "condition": "minecraft:location_check",
-  "predicate": {
-    "biome": "starmute:withered_forest_a"
-  }
-}

@@ -1,0 +1,47 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {
+            "features": [
+              {
+                "feature": "wythers:forest/feature_tree_oak",
+                "chance": 0.4
+              },
+              {
+                "feature": "wythers:birch/feature_tree_birch_tall",
+                "chance": 0.3
+              }
+            ],
+            "default": "wythers:birch/feature_tree_birch"
+          },
+          "type": "minecraft:random_selector"
+        },
+        "decorator": {
+          "config": {
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "type": "minecraft:count_noise_biased",
+      "config": {
+        "noise_to_count_ratio": 100,
+        "noise_factor": 100,
+        "noise_offset": -0.5
+      }
+    }
+  },
+  "type": "minecraft:decorated"
+}

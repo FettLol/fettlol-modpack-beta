@@ -29,10 +29,43 @@ The latest released version of the Fettlol Modpack is v1.12.0, which includes th
 - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) v2.1.0
 - [Break Progress](https://www.curseforge.com/minecraft/mc-mods/break-progress) v1.0.1
 - [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric) v1.1.7
+- [Charm]() v2.3.1
+- [Chat Heads]() v0.2.1
+- [Chillager]() v1.1
+- [Cinderscapes]() v1.3.3
+- [Clear Skies]() v1.5.55
+- [Colored Slime Blocks]() v1.1.1
+- [Crimson Moon]() v2.0.3
+- [Croptopia]() v1.3.1
+- [Damage Tilt]() v0.1.2
+- [Dank Storage]() v1.9a
+- [Dark Loading Screen]() v1.6.3
+- [Discerning Furnace]() v1.0.1
+- [Ducts]() v1.0.4
+- [Earth2Java]() v1.6.1
+- [EmoteCraft]() v1.4.0
+- [Expanded Concrete]() v0.0.2
+- [ExpandedStorage]() v5.6.33
+- [Fabric Seasons]() v1.1.1-BETA
+- [Fade In Chunks]() v1.0.0
+- [Falling Leaves]() v1.5.0
+- [FallingTree]() v2.11.0
+- [Fat Experience Orbs]() v0.0.9
+- [Fettlol Utilmod]() v1.0.12
+- [Flamingo, oh, oh, oh...]() v1.0.4
+- [Flonters]() v1.1.1
+- [Flora Doubling]() v1.2.0
+
+
 
 
 ## Libraries Required by These Mods
 
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) v1.10.138-fabric
+- [Cloth Config v4]() v4.11.18
+- [Cotton]() v1.1.0
+- [Curios API]() v0.0.11
+- [Fabric API]() v0.32.5
+- [Fabric Language Kotlin]() v1.4.0
 
 ## Datapacks

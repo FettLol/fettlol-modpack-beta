@@ -1,6 +1,0 @@
-{
-  "condition": "minecraft:location_check",
-  "predicate": {
-    "biome": "starmute:crimson_forest_s"
-  }
-}

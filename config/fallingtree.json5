@@ -14,10 +14,13 @@
 		*/
 		"blacklistedLogs": [ 
 ],
-		/* Additional list of blocks considered as leaves. 
+		/* Additional list of blocks considered as leaves (decay naturally). 
 		   INFO: Blocks marked with the leaves tag will already be whitelisted.
 		*/
 		"whitelistedLeaves": [ 
+],
+		// Additional list of blocks considered as leaves but that doesn't decay (need to be broken by tool).
+		"whitelistedNonDecayLeaves": [ 
 ],
 		/* List of blocks that should not be considered as leaves. 
 		   INFO: This wins over the whitelist.
@@ -46,7 +49,7 @@
 		// When set to true, the mod be applied when cutting trunks.
 		"treeBreaking": true,
 		// When set to true, leaves that should naturally break will be broken instantly.
-		"leavesBreaking": false,
+		"leavesBreaking": true,
 		/* Radius to force break leaves. If another tree is still holding the leaves they'll still be broken. If the leaves are persistent (placed by player) they'll also be destroyed. 
 		   The radius is applied from one of the top most log blocks. 
 		   INFO: break_leaves must be activated for this to take effect. 
@@ -107,6 +110,6 @@
 		   INFO: Only in INSTANTANEOUS mode. 
 		   WARNING: If you are on a server, this either has to be set to 0 or every player should have the mod. Else they'll have a weird effect of breaking the block but the block is still there.
 		*/
-		"speedMultiplicand": 0.0
+		"speedMultiplicand": 0.1
 	}
 }

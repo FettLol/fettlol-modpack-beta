@@ -16,8 +16,6 @@ Changes to the modpack that will be included here include, but are not limited t
 - Addition, removal or upgrades of individual datapacks.
 - Significant changes to configuration of existing mods.
 
-Changes to the resource pack used on the `fett.lol` server are handled separately as the resource pack is not an official part of the modpack.
-
 # Versions
 
 ## Release v1.12.0 (XXXX-XX-XX)
@@ -26,32 +24,38 @@ In addition to the standard mod version updates, this version of the modpack aim
 
 **Note**: Fettlol Modpack v1.12 requires Fabric Loader v0.11.3 or higher. If you are manually updating from a previous version, make sure to manually update the Loader as well.
 
-- Evaluating: Crimson Moon
-- Evaluating: Seasons
-- Evaluating: Fabric Waystones
+- Evaluating: Seasons.
+- Evaluating: Fabric Waystones.
 
 - **Configuration Changed**: `Battle Towers`: Boss now hits slightly harder.
 - **Configuration Changed**: `Dank Storage`: Dank 5, Dank 6 and Dank 7 recipes have been rebalanced.
 - **Configuration Changed**: `Mo' Structures`: Distance between structures increased.
-- **Configuration Changed**: `Tech Reborn`: Gas and Thermal generators output more power.
 - **Configuration Changed**: `Tech Reborn`: (Recipes for) Overpowered armor and weapons have been removed.
+- **Configuration Changed**: `Tech Reborn`: Gas and Thermal generators output more power.
 - **Configuration Changed**: Bone Meal can now be used on grass and double-high plants again.
+- **Configuration Changed**: Stone is no longer changed to ice in cold biomes as this was messing with seasons.
+- **Datapack Added**: `Abyssal Villages` release 2021-01-11 added.
+- **Datapack Added**: `Finesta's BetterVanilla Renewed` v1.0.6 added.
+- **Datapack Added**: `Villages Overhauled` release 2021-03-28 added.
 - **Datapack Removed**: `End City for Better End`.
-- **Datapack Removed**: `Summer Villagers`.
 - **Datapack Removed**: `The Forbidden Castle`.
+- **Datapack Replaced**: `Villagers Conquering Mountains` replaced with its successor, `Mountain Villages`.
 - **Datapack Updated**: `BlazeAndCave's Advancements Pack` updated to v1.11.5.
 - **Mod Added**: `Advancement Debug` v2.2.0 added.
 - **Mod Added**: `Axes are Weapons` v1.0.0 added.
 - **Mod Added**: `Chillager` v1.1.0 added.
+- **Mod Added**: `Crimson Moon` v2.0.4 added.
 - **Mod Added**: `Fade In Chunks` v1.0.0 added.
 - **Mod Added**: `Fat XP Orbs` v0.0.9 added.
 - **Mod Added**: `Lifts` v1.0.5 added.
-- **Mod Added**: `MobFarmHelpers` v1.4.0 added with many features disabled.
-- **Mod Added**: `Roughly Enough Items` v5.11.188 added.
+- **Mod Added**: `MobFarmHelpers` v1.4.0 added with some features disabled.
+- **Mod Added**: `Perfect Accuracy` v1.0.0 added.
+- **Mod Added**: `Roughly Enough Items` v5.11.202 added.
 - **Mod Added**: `Roughly Enough Resources` v2.1.3 added.
+- **Mod Added**: `Show off` v1.0.0 added.
 - **Mod Added**: `SlimyFloor` v1.0.0 added.
 - **Mod Added**: `Stoneholm` v1.1.0 added.
-- **Mod Added**: `Tiered` v1.2.1-beta added. **CONFIGURATION REMAINS**
+- **Mod Added**: `Tax Free Levels` v1.1.0 added.
 - **Mod Added**: `TRansliterationLib` v1.0.4 added, as it is now a requirement for `Not Enough Animations`.
 - **Mod Added**: `True Darkness` v1.6.58 added.
 - **Mod Added**: `Untitled Duck Mod` v0.1.1 added.
@@ -61,27 +65,33 @@ In addition to the standard mod version updates, this version of the modpack aim
 - **Mod Updated**: `Applied Energistics 2` updated from v8.1.0-alpha.13 to v8.2.0-alpha.3
 - **Mod Updated**: `Architectury` updated from v1.8.128 to v1.10.138.
 - **Mod Updated**: `Battle Towers` updated from v3.3.3 to v3.3.4.
-- **Mod Updated**: `Biome Makeover` updated from v1.2.11 to v1.2.12.
+- **Mod Updated**: `Better Enchanted Books` updated from v1.2.5 to v1.2.6.
+- **Mod Updated**: `Biome Makeover` updated from v1.2.11 to v1.3.4.
 - **Mod Updated**: `Biomes You'll Go` updated from v1.1.6 to v1.1.7.
 - **Mod Updated**: `Blur` updated from v2.0.0 to v2.1.0.
 - **Mod Updated**: `Cloth Config API` updated from v4.11.14 to v4.11.18.
 - **Mod Updated**: `Colored Slime Blocks` updated from v1.1.0 to v1.1.1.
-- **Mod Updated**: `Croptopia` updated from v1.2.0 to v1.3.2.
-- **Mod Updated**: `Fabric API` updated from v0.32.0 to v0.32.5.
+- **Mod Updated**: `Croptopia` updated from v1.2.0 to v1.3.3.
+- **Mod Updated**: `Fabric API` updated from v0.32.0 to v0.32.9.
 - **Mod Updated**: `Falling Tree` updated from v2.10.0 to v2.11.0.
 - **Mod Updated**: `Fettlol Utilmod` updated from v1.0.10 to v1.0.11.
 - **Mod Updated**: `Gentle Fawn` updated from v1.1.3 to v1.1.4.
-- **Mod Updated**: `Illuminations` updated from v1.4.5 to v1.4.8.
-- **Mod Updated**: `MC Dungeons Armor` updated from v1.2.5 to v1.3.7.
-- **Mod Updated**: `MC Dungeons Weapons` updated from v2.7.3 to v3.0.6.
-- **Mod Updated**: `Mo' Structures` updated from v1.0.1 to v1.1.0.
-- **Mod Updated**: `Not Enough Animations` updated from v1.0.3 to v1.2.2.
-- **Mod Updated**: `Repurposed Structures` updated from v1.8.3 to v1.9.0.
+- **Mod Updated**: `Illuminations` updated from v1.4.5 to v1.4.9.
+- **Mod Updated**: `Infinity Water Bucket` updated from v1.2 to v1.3.
+- **Mod Updated**: `MC Dungeons Armor` updated from v1.2.5 to v1.3.9.
+- **Mod Updated**: `MC Dungeons Weapons` updated from v2.7.3 to v3.1.0.
+- **Mod Updated**: `Mo' Structures` updated from v1.0.1 to v1.1.1.
+- **Mod Updated**: `ModMenu` updated from v1.16.8 to v1.16.9.
+- **Mod Updated**: `Not Enough Animations` updated from v1.0.3 to v1.2.3.
+- **Mod Updated**: `Repurposed Structures` updated from v1.8.3 to v1.10.1.
+- **Mod Updated**: `Reroll` updated from v1.2.0 to v1.2.1.
 - **Mod Updated**: `Tech Reborn` updated from v3.8.1 to v3.8.2.
 - **Mod Updated**: `Tiny Tweaks` updated from v1.2.1 to v1.2.3.
-- **Mod Updated**: `WTHIT` updated from v2.3.1 to v2.5.4.
-- **Mod Updated**: `Xaero's Minimap` updated from v21.4.1 to v21.4.4.
-- **Mod Updated**: `Xaero's World Map` updated from v1.12.1 to v1.13.1.
+- **Mod Updated**: `Vistas` updated from v1.2.4 to v1.3.1.
+- **Mod Updated**: `Winged` replaced with custom build to fix bug.
+- **Mod Updated**: `WTHIT` updated from v2.3.1 to v2.7.0.
+- **Mod Updated**: `Xaero's Minimap` updated from v21.4.1 to v21.6.0.
+- **Mod Updated**: `Xaero's World Map` updated from v1.12.1 to v1.13.2.
 - **Mox Updated**: `Fabric API` updated from v0.31.0 to v0.32.0.
 
 ## Release v1.11.3 (2021-03-02)

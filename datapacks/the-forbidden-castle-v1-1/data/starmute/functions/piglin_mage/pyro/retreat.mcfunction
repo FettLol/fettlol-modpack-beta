@@ -1,3 +1,0 @@
-#execute facing entity @p[distance=..12] eyes run function starmute:piglin_mage/pyro/retreat
-execute rotated ~ 0 run summon minecraft:armor_stand ^ ^ ^-10 {Invisible:1b,Silent:1b,Marker:1b,NoGravity:1b,Tags:["pyro_retreat"]}
-execute rotated ~ 0 positioned ^ ^ ^-10 run data modify entity @s Brain.memories."minecraft:angry_at".value set from entity @e[type=minecraft:armor_stand,tag=pyro_retreat,distance=..0.5,limit=1] UUID

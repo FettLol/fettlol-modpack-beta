@@ -11,7 +11,7 @@
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = false
 #Unlocks all vanilla recipes.
-"AutomaticRecipeUnlock Enabled" = true
+"AutomaticRecipeUnlock Enabled" = false
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
 "BatBuckets Enabled" = false
 #Passive and friendly mobs will heal themselves within range of a beacon with the regeneration effect.
@@ -29,7 +29,7 @@
 #Campfires no longer damage mobs.
 "CampfiresNoDamage Enabled" = false
 #Candles are made from beeswax and have a lower ambient light than torches.
-"Candles Enabled" = false
+"Candles Enabled" = true
 #Cave spiders have a chance to drop cobwebs.
 "CaveSpidersDropCobwebs Enabled" = true
 #Chickens randomly drop feathers.
@@ -51,7 +51,7 @@
 #Adds custom recipes.
 "ExtraRecipes Enabled" = true
 #Extract enchantments from any enchanted item into an empty book using the grindstone.
-"ExtractEnchantments Enabled" = false
+"ExtractEnchantments Enabled" = true
 #A player wearing feather falling enchanted boots will not trample crops.
 "FeatherFallingCrops Enabled" = true
 #Glowballs can be thrown to produce a light source where they impact.
@@ -102,7 +102,7 @@
 #A lantern that emits light when a redstone signal is received.
 "RedstoneLanterns Enabled" = false
 #A block that acts like sand but is powered like a block of redstone.
-"RedstoneSand Enabled" = false
+"RedstoneSand Enabled" = true
 #Decorative block made by smelting obsidian.
 "RefinedObsidian Enabled" = false
 #When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
@@ -116,7 +116,7 @@
 #Smelt glowstone to get smooth glowstone.
 "SmoothGlowstone Enabled" = true
 #Increases snow layers in cold biomes during thunderstorms.
-"SnowStorms Enabled" = true
+"SnowStorms Enabled" = false
 #Allows enchanted books to stack.
 "StackableEnchantedBooks Enabled" = true
 #Allows potions to stack.

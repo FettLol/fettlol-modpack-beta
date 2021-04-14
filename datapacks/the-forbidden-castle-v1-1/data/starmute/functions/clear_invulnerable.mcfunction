@@ -1,1 +1,0 @@
-execute as @e[type=blaze,tag=sentry] run data merge entity @s {Invulnerable:0b}

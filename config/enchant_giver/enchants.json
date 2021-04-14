@@ -8,8 +8,14 @@
   "mcdw:crossbow_doom_crossbow": {
     "minecraft:punch": 1
   },
+  "mcdw:hammer_bone_cudgel": {
+    "mcdw:illagers_bane": 1
+  },
   "mcdw:crossbow_auto_crossbow": {
     "mcdw:bonus_shot": 1
+  },
+  "mcdw:crossbow_pride_of_the_piglins": {
+    "minecraft:piercing": 1
   },
   "mcdw:bow_hunters_promise": {
     "mcdw:replenish": 1
@@ -42,7 +48,7 @@
     "minecraft:power": 1
   },
   "mcdw:sickle_jailors_scythe": {
-    "mcdw:chained": 1
+    "mcdw:chains": 1
   },
   "mcdw:bow_love_spell_bow": {
     "mcdw:radiance_shot": 1
@@ -108,7 +114,7 @@
     "mcdw:swirling": 1
   },
   "mcdw:hammer_flail": {
-    "mcdw:chained": 1
+    "mcdw:chains": 1
   },
   "mcdw:sword_masters_katana": {
     "mcdw:critical_hit": 1
@@ -180,7 +186,7 @@
     "mcdw:freezing": 1
   },
   "mcdw:dagger_resolute_tempest_knife": {
-    "mcdw:committed": 1
+    "mcdw:rushdown": 1
   },
   "mcdw:axe_whirlwind": {
     "mcdw:shockwave": 1

@@ -1,6 +1,0 @@
-{
-  "condition": "minecraft:location_check",
-  "predicate": {
-    "biome": "starmute:soul_sand_valley_d"
-  }
-}

@@ -2,6 +2,8 @@
   "addEggCollectorEnchantment": true,
   "infinityCanMixWithMending": true,
   "infinityDoesNotRequireArrow": true,
+  "witchesKeepDistance": true,
+  "babyWitherSkeletons": true,
   "poisonousPotatoIsCompostable": true,
   "wanderingHeadHunter": true,
   "villagersFollowEmeraldBlocks": true

@@ -1,0 +1,19 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "state": {
+          "Name": "minecraft:white_concrete_powder"
+        }
+      },
+      "type": "minecraft:lake"
+    },
+    "decorator": {
+      "config": {
+        "chance": 40
+      },
+      "type": "minecraft:water_lake"
+    }
+  },
+  "type": "minecraft:decorated"
+}

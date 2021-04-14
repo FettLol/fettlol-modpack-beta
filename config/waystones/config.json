@@ -1,0 +1,7 @@
+{
+  "global_discover": false,
+  "cost_type": "xp",
+  "cost_item": "fettlol:jade_gem",
+  "cost_amount": 10,
+  "village_generation": false
+}

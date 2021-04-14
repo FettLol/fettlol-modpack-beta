@@ -1,0 +1,15 @@
+{
+  "name": "kaisyn:coast_village",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "kaisyn:village/coast/town_centre/the_cathedral",
+        "processors": "kaisyn:street_coast",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

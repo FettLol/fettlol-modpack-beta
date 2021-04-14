@@ -1,3 +1,0 @@
-scoreboard players set #hit in.fire_laser 1
-execute at @s if predicate starmute:15_percent run summon minecraft:firework_rocket ~ ~1 ~ {Silent:1b,Motion:[0.0,0.0,0.0],ShotAtAngle:1,LifeTime:1,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:1,Explosions:[{Type:4,Flicker:0,Trail:0,Colors:[I;11750700]},{Type:4,Flicker:0,Trail:0,Colors:[I;11757612]}]}}}}
-data merge entity @s {Fire:200}

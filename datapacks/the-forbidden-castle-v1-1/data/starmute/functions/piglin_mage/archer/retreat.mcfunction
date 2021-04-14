@@ -1,2 +1,0 @@
-execute rotated ~ 0 run summon minecraft:armor_stand ^ ^ ^-12 {Invisible:1b,Silent:1b,Marker:1b,NoGravity:1b,Tags:["archer_retreat"]}
-execute rotated ~ 0 positioned ^ ^ ^-12 run data modify entity @s Brain.memories."minecraft:angry_at".value set from entity @e[type=minecraft:armor_stand,tag=archer_retreat,distance=..0.5,limit=1] UUID

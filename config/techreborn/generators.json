@@ -56,7 +56,7 @@
     },
     "ThermalGeneratorEnergyPerTick": {
       "comment": "Thermal Generator Energy Per Tick (Value in EU)",
-      "value": 16
+      "value": 32
     }
   },
   "wind_mill": {
@@ -170,7 +170,7 @@
     },
     "GasGeneratorEnergyPerTick": {
       "comment": "Gas Generator Energy Per Tick (Value in EU)",
-      "value": 16
+      "value": 24
     }
   },
   "solarPanelGeneral": {

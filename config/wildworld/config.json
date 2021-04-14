@@ -96,7 +96,7 @@
 					"stoneSpeleothems": false,
 					"sandstoneSpeleothems": false,
 					"sandReplacement": false,
-					"iceReplacement": true,
+					"iceReplacement": false,
 					"icicles": false,
 					"skulls": false,
 					"cobwebs": false,

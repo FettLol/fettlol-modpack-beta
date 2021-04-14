@@ -80,7 +80,7 @@
         "wailing_garth_chance[def: 1.0]": 0.0,
         "withering_woods_chance[def: 1.0]": 0.0,
         "weeping_mire_chance[def: 1.0]": 1.0,
-        "quartz_desert_chance[def: 1.0]": 1.0
+        "quartz_desert_chance[def: 1.0]": 0.2
       }
     },
     "cinderscapes": {
@@ -89,6 +89,16 @@
         "quartz_canyon_chance[def: 1.0]": 1.0,
         "luminous_grove_chance[def: 1.0]": 1.0,
         "ashy_shoals_chance[def: 1.0]": 1.0
+      }
+    },
+    "starmute": {
+      "main": {
+        "basalt_deltas_cooled_chance[def: 1.0]": 1.0,
+        "basalt_deltas_ex_chance[def: 1.0]": 1.0,
+        "crimson_forest_s_chance[def: 1.0]": 1.0,
+        "crimson_forest_z_chance[def: 1.0]": 1.0,
+        "cursed_forest_chance[def: 1.0]": 1.0,
+        "infernal_dunes_chance[def: 1.0]": 1.0
       }
     }
   }
