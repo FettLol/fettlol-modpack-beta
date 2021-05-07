@@ -413,7 +413,7 @@ lockfileVersion = 1
     Sha256 = "dfa15ac90d79443d88d59a156045f00a9d50286c656e4243875f0875fe9aba2f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.32.5/download"
     provider = "minepkg"
-    dependend = "wthit"
+    dependend = "adorn"
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.4.31-0.mpkg.1"
@@ -971,7 +971,7 @@ lockfileVersion = 1
     Sha256 = "a5202cf60156641dd615c7f4c5a65152665e10e9c45909cf48ca04b84fe63b9f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn-energy@0.1.1-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = "fabric-language-kotlin"
+    dependend = "lifts"
   [dependencies.terrestria]
     name = "terrestria"
     version = "2.2.0-0.mpkg.1"
