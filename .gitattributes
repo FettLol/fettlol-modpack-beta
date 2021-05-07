@@ -1,11 +1,9 @@
 # Default behaviour
 * text=auto
-
 # Removing those CRLF linebreaks and making them proper LF.
 *.json  eol=lf
 *.toml  eol=lf
 *.md    eol.lf
-
 # Binary files to be handled by Git LFS
 *.jar filter=lfs diff=lfs merge=lfs binary
 *.zip filter=lfs diff=lfs merge=lfs binary
