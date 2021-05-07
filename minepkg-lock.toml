@@ -261,15 +261,6 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@4.11.0-0.mpkg.2/download"
     provider = "minepkg"
     dependend = "_root"
-  [dependencies.clothconfig]
-    name = "clothconfig"
-    version = "4.8.3-0.mpkg.1"
-    type = "mod"
-    ipfsHash = "QmZ8P6ASuerXxd7djGWorS6aeXUF9f8SjS14mmwz6XqMPj"
-    Sha256 = "d71329661523f204b595f145e2e906caa990ab7a823ff12ffe796ecbc2cb468c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/clothconfig@4.8.3-0.mpkg.1/download"
-    provider = "minepkg"
-    dependend = "better-enchanted-books"
   [dependencies.coloredslime]
     name = "coloredslime"
     version = "1.1.7"
@@ -413,7 +404,7 @@ lockfileVersion = 1
     Sha256 = "dfa15ac90d79443d88d59a156045f00a9d50286c656e4243875f0875fe9aba2f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.32.5/download"
     provider = "minepkg"
-    dependend = "adorn"
+    dependend = "cloth-config"
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.4.31-0.mpkg.1"
