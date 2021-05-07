@@ -1,8 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "parent": "item/piston",
-    "textures": {
-		"particle": "block/piston_side_sticky",
-        "top": "block/piston_top_sticky"
-    }
-}

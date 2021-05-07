@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "parent": "item/oak_sign",
-    "textures": {
-        "texture": "item/warped_sign"
-    }
-}

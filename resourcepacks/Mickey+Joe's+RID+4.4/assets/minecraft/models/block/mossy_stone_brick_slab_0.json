@@ -1,9 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "minecraft:block/mossy_stone_bricks_0",
-    "top": "minecraft:block/mossy_stone_bricks_0",
-    "side": "minecraft:block/mossy_stone_bricks_0"
-  }
-}

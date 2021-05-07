@@ -1,8 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "variants": {
-        "type=bottom": { "model": "block/cut_red_sandstone_slab" },
-        "type=top": { "model": "block/cut_red_sandstone_slab_top" },
-        "type=double": { "model": "block/cut_red_sandstone_slab_double" }
-    }
-}

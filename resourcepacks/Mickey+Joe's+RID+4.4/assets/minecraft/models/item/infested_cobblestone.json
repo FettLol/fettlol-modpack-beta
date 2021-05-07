@@ -1,8 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "parent": "item/infested_stone",
-    "textures": {
-		"2": "block/cobblestone",
-        "particle": "item/infested_cobblestone"
-    }
-}

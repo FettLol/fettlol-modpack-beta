@@ -1,9 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "parent": "block/oak_door_bottom_hinge",
-    "textures": {
-        "particle": "block/jungle_door_bottom",
-        "sides": "block/jungle_door_sides",
-		"ends": "block/jungle_door_ends"
-    }
-}

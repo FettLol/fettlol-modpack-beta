@@ -1,8 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "variants": {
-        "axis=y":  { "model": "block/quartz_pillar_v" },
-        "axis=z":   { "model": "block/quartz_pillar_h", "x": 90 },
-        "axis=x":   { "model": "block/quartz_pillar_h", "x": 90, "y": 90 }
-    }
-}

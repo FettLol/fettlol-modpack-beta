@@ -1,9 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "variants": {
-        "": [
-            { "model": "block/cactus", "weight": 85 },
-            { "model": "block/cactus_0", "weight": 15 }
-        ]
-    }
-}

@@ -1,7 +1,0 @@
-{
-  "credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/nether_wart_block_0"
-  }
-}

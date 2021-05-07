@@ -1,7 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "parent": "block/oak_fence_gate_open",
-    "textures": {
-        "particle": "block/warped_fence_gate"
-    }
-}

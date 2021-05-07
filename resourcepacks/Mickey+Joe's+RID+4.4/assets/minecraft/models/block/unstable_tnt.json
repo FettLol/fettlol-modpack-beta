@@ -1,9 +1,0 @@
-{
-	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/tnt_bottom",
-        "top": "block/tnt_top",
-        "side": "block/unstable_tnt_side"
-    }
-}
