@@ -1,0 +1,26 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/pumpkin_side",
+		"top": "block/pumpkin_top",
+		"inside": "block/carved_pumpkin_inside_0"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 16, 0 ],
+			"to": [ 16, 16.001, 16 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "up" }
+			}
+		},
+		{
+			"from": [ 0, 16, 0 ],
+			"to": [ 16, 16.001, 16 ],
+			"shade": false,
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#inside" }
+			}
+		}
+	]
+}

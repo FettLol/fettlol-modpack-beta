@@ -1,0 +1,8 @@
+{
+  "credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/magenta_terracotta",
+    "side": "minecraft:block/magenta_terracotta_side"
+  }
+}

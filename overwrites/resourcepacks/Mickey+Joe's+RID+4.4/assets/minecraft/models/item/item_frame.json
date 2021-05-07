@@ -1,0 +1,63 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/item_frame",
+		"texture": "block/item_frame",
+		"back": "block/item_frame_back"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 3, 3, 8 ],
+			"to": [ 13, 13, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 3, 3, 13, 13 ], "texture": "#texture" },
+				"south": { "uv": [ 3, 3, 13, 13 ], "texture": "#back" }
+			}
+		},
+		{
+			"from": [ 2, 2, 7.5 ],
+			"to": [ 14, 3, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 14, 13, 2, 14 ], "texture": "#texture" },
+				"up": { "uv": [ 14, 13, 2, 14 ], "texture": "#texture" },
+				"north": { "uv": [ 2, 13, 14, 14 ], "texture": "#texture" },
+				"south": { "uv": [ 2, 13, 14, 14 ], "texture": "#back" },
+				"west": { "uv": [ 13, 13, 14, 14 ], "texture": "#texture" },
+				"east": { "uv": [ 2, 13, 3, 14 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 2, 13, 7.5 ],
+			"to": [ 14, 14, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 14, 2, 2, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 14, 2, 2, 3 ], "texture": "#texture" },
+				"north": { "uv": [ 2, 2, 14, 3 ], "texture": "#texture" },
+				"south": { "uv": [ 2, 2, 14, 3 ], "texture": "#back" },
+				"west": { "uv": [ 13, 2, 14, 3 ], "texture": "#texture" },
+				"east": { "uv": [ 2, 2, 3, 3 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 2, 3, 7.5 ],
+			"to": [ 3, 13, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 13, 3, 14, 13 ], "texture": "#texture" },
+				"south": { "uv": [ 13, 3, 14, 13 ], "texture": "#back" },
+				"west": { "uv": [ 13, 3, 14, 13 ], "texture": "#texture" },
+				"east": { "uv": [ 13, 3, 14, 13 ], "texture": "#texture" }
+			}
+		},
+		{
+			"from": [ 13, 3, 7.5 ],
+			"to": [ 14, 13, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 2, 3, 3, 13 ], "texture": "#texture" },
+				"south": { "uv": [ 2, 3, 3, 13 ], "texture": "#back" },
+				"west": { "uv": [ 2, 3, 3, 13 ], "texture": "#texture" },
+				"east": { "uv": [ 2, 3, 3, 13 ], "texture": "#texture" }
+			}
+		}
+	]
+}

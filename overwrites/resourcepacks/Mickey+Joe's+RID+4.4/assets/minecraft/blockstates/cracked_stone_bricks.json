@@ -1,0 +1,9 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "variants": {
+        "": [
+            { "model": "block/cracked_stone_bricks", "weight": 66.66 },
+            { "model": "block/cracked_stone_bricks_0", "weight": 33.33 }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"textures": {
+		"particle": "block/birch_door_top",
+		"sides": "block/birch_door_sides",
+		"ends": "block/birch_door_ends"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 3, 16, 3 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 3, 3 ], "texture": "#ends", "cullface": "up", "rotation": 90 },
+				"north": { "uv": [ 0, 0, 3, 16 ], "texture": "#sides", "cullface": "north" },
+				"south": { "uv": [ 2, 0, 3, 16 ], "texture": "#particle" },
+				"west": { "uv": [ 0, 0, 3, 16 ], "texture": "#particle", "cullface": "west" },
+				"east": { "uv": [ 3, 0, 0, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ 0, 0, 13 ],
+			"to": [ 3, 16, 16 ],
+			"faces": {
+				"up": { "uv": [ 13, 0, 16, 3 ], "texture": "#ends", "cullface": "up", "rotation": 90 },
+				"north": { "uv": [ 13, 0, 14, 16 ], "texture": "#particle" },
+				"south": { "uv": [ 3, 0, 6, 16 ], "texture": "#sides", "cullface": "south" },
+				"west": { "uv": [ 13, 0, 16, 16 ], "texture": "#particle", "cullface": "west" },
+				"east": { "uv": [ 16, 0, 13, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ 0, 13, 3 ],
+			"to": [ 3, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 13, 2, 3, 3 ], "texture": "#particle", "rotation": 90 },
+				"up": { "uv": [ 3, 0, 13, 3 ], "texture": "#ends", "cullface": "up", "rotation": 90 },
+				"west": { "uv": [ 3, 0, 13, 3 ], "texture": "#particle", "cullface": "west" },
+				"east": { "uv": [ 13, 0, 3, 3 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ 1, 0, 3 ],
+			"to": [ 2, 13, 13 ],
+			"faces": {
+				"west": { "uv": [ 3, 3, 13, 16 ], "texture": "#particle" },
+				"east": { "uv": [ 13, 3, 3, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ -0.9687999, 0, 14 ],
+			"to": [ 3.9687, 2, 15 ],
+			"faces": {
+				"down": { "uv": [ 14, 15, 15, 16 ], "texture": "#particle" },
+				"up": { "uv": [ 14, 14, 15, 15 ], "texture": "#particle" },
+				"north": { "uv": [ 14, 14, 15, 16 ], "texture": "#particle" },
+				"south": { "uv": [ 14, 14, 15, 16 ], "texture": "#particle" },
+				"west": { "uv": [ 14, 14, 15, 16 ], "texture": "#particle", "cullface": "west" },
+				"east": { "uv": [ 14, 14, 15, 16 ], "texture": "#particle" }
+			}
+		}
+	]
+}

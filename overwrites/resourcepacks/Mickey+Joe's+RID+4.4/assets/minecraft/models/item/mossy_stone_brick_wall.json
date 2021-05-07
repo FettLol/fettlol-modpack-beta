@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "item/stone_brick_wall",
+    "textures": {
+		"wall": "block/mossy_stone_bricks",
+		"post": "block/mossy_stone_brick_wall"
+    }
+}

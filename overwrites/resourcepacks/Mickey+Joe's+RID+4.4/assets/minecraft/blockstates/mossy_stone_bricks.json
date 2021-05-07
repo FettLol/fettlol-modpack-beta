@@ -1,0 +1,10 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "variants": {
+        "": [
+            { "model": "block/mossy_stone_bricks" },
+            { "model": "block/mossy_stone_bricks_0" },
+            { "model": "block/mossy_stone_bricks_1" }
+        ]
+    }
+}

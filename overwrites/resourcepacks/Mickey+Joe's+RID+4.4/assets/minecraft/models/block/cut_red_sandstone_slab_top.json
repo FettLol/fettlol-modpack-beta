@@ -1,0 +1,9 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "block/red_sandstone_end",
+        "top": "block/red_sandstone_end",
+        "side": "block/cut_red_sandstone_slab"
+    }
+}

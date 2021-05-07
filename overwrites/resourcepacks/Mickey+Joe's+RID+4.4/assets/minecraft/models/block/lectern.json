@@ -1,0 +1,99 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/lectern_sides",
+		"bottom": "block/oak_planks",
+		"base": "block/lectern_base",
+		"front": "block/lectern_front",
+		"sides": "block/lectern_sides",
+		"top": "block/lectern_top"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 2, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom", "cullface": "down" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#base", "rotation": 180 },
+				"north": { "uv": [ 0, 14, 16, 16 ], "texture": "#base", "cullface": "north" },
+				"south": { "uv": [ 0, 6, 16, 8 ], "texture": "#base", "cullface": "south" },
+				"west": { "uv": [ 0, 6, 16, 8 ], "texture": "#base", "cullface": "west" },
+				"east": { "uv": [ 0, 6, 16, 8 ], "texture": "#base", "cullface": "east" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 4, 8, 4 ],
+			"to": [ 12, 15, 12 ],
+			"faces": {
+				"down": { "uv": [ 0, 6, 8, 7 ], "texture": "#front" },
+				"north": { "uv": [ 0, 0, 8, 7 ], "texture": "#front" },
+				"south": { "uv": [ 8, 3, 16, 10 ], "texture": "#front" },
+				"west": { "uv": [ 2, 8, 9, 16 ], "texture": "#sides", "rotation": 90 },
+				"east": { "uv": [ 2, 16, 9, 8 ], "texture": "#sides", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0.01, 12, 3 ],
+			"to": [ 15.99, 16, 16 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 13 ], "texture": "#bottom" },
+				"up": { "uv": [ 0, 1, 16, 14 ], "texture": "#top", "rotation": 180 },
+				"north": { "uv": [ 0, 0, 16, 4 ], "texture": "#sides" },
+				"south": { "uv": [ 0, 4, 16, 8 ], "texture": "#sides" },
+				"west": { "uv": [ 0, 4, 13, 8 ], "texture": "#sides" },
+				"east": { "uv": [ 0, 4, 13, 8 ], "texture": "#sides" }
+			}
+		},
+		{
+			"__comment": "Box4",
+			"from": [ 4, 2, 5 ],
+			"to": [ 12, 8, 12 ],
+			"faces": {
+				"north": { "uv": [ 0, 7, 8, 13 ], "texture": "#front" },
+				"south": { "uv": [ 8, 9, 16, 15 ], "texture": "#front" },
+				"west": { "uv": [ 10, 8, 16, 15 ], "texture": "#sides", "rotation": 90 },
+				"east": { "uv": [ 10, 15, 16, 8 ], "texture": "#sides", "rotation": 90 }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ 5, 2, 4 ],
+			"to": [ 11, 3, 5 ],
+			"faces": {
+				"up": { "uv": [ 7, 12, 1, 13 ], "texture": "#front" },
+				"north": { "uv": [ 1, 12, 7, 13 ], "texture": "#front" }
+			}
+		},
+		{
+			"__comment": "Box6",
+			"from": [ 4, 2, 4 ],
+			"to": [ 5, 8, 5 ],
+			"faces": {
+				"north": { "uv": [ 7, 7, 8, 13 ], "texture": "#front" },
+				"west": { "uv": [ 10, 16, 16, 15 ], "texture": "#sides", "rotation": 90 },
+				"east": { "uv": [ 7, 7, 8, 13 ], "texture": "#front" }
+			}
+		},
+		{
+			"__comment": "Box7",
+			"from": [ 11, 2, 4 ],
+			"to": [ 12, 8, 5 ],
+			"faces": {
+				"north": { "uv": [ 0, 7, 1, 13 ], "texture": "#front" },
+				"west": { "uv": [ 0, 7, 1, 13 ], "texture": "#front" },
+				"east": { "uv": [ 10, 16, 16, 15 ], "texture": "#sides", "rotation": 90 }
+			}
+		}
+	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation":  [ 0, 135, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

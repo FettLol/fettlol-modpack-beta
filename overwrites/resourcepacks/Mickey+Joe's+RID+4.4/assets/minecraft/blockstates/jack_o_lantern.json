@@ -1,0 +1,43 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "multipart": [
+        {   "apply": [
+		    { "model": "block/jack_o_lantern_top" },
+            { "model": "block/jack_o_lantern_top", "y": 90 },
+            { "model": "block/jack_o_lantern_top", "y": 180 },
+            { "model": "block/jack_o_lantern_top", "y": 270 }
+			]
+        },
+        {   "apply": [
+		    { "model": "block/jack_o_lantern_bottom" },
+            { "model": "block/jack_o_lantern_bottom", "y": 90 },
+            { "model": "block/jack_o_lantern_bottom", "y": 180 },
+            { "model": "block/jack_o_lantern_bottom", "y": 270 }
+			]
+        },
+		{     "when": { "facing": "north" },
+              "apply": [
+		    { "model": "block/jack_o_lantern_0" },
+            { "model": "block/jack_o_lantern_1" }
+			]
+        },
+		{     "when": { "facing": "south" },
+              "apply": [
+		    { "model": "block/jack_o_lantern_0", "y": 180 },
+            { "model": "block/jack_o_lantern_1", "y": 180 }
+			]
+        },
+		{     "when": { "facing": "west" },
+              "apply": [
+		    { "model": "block/jack_o_lantern_0", "y": 270 },
+            { "model": "block/jack_o_lantern_1", "y": 270 }
+			]
+        },
+		{     "when": { "facing": "east" },
+              "apply": [
+		    { "model": "block/jack_o_lantern_0", "y": 90 },
+            { "model": "block/jack_o_lantern_1", "y": 90 }
+			]
+		}
+    ]
+}

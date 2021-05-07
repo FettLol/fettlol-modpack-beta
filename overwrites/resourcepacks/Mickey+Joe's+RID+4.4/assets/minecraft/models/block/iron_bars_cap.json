@@ -1,0 +1,19 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"textures": {
+		"particle": "block/iron_bars",
+		"bars": "block/iron_bars",
+		"edge": "block/iron_bars"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 8, 0, 8 ],
+			"to": [ 8.001, 16, 9 ],
+			"faces": {
+				"west": { "uv": [ 8, 0, 7, 16 ], "texture": "#bars" },
+				"east": { "uv": [ 7, 0, 8, 16 ], "texture": "#bars" }
+			}
+		}
+	]
+}

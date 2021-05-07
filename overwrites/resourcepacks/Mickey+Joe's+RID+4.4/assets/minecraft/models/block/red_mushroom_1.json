@@ -1,0 +1,33 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"textures": {
+		"particle": "block/red_mushroom"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [8, 3, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [6, 8, 8, 11], "texture": "#particle"},
+				"east": {"uv": [6, 8, 8, 11], "texture": "#particle"},
+				"south": {"uv": [6, 8, 8, 11], "texture": "#particle"},
+				"west": {"uv": [6, 8, 8, 11], "texture": "#particle"},
+				"down": {"uv": [8, 6, 10, 8], "texture": "#particle", "cullface": "down"}
+			}
+		},
+		{
+			"from": [4, 3, 4],
+			"to": [10, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [6, 6, 0, 10], "texture": "#particle"},
+				"east": {"uv": [6, 6, 0, 10], "texture": "#particle"},
+				"south": {"uv": [0, 6, 6, 10], "texture": "#particle"},
+				"west": {"uv": [0, 6, 6, 10], "texture": "#particle"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#particle"},
+				"down": {"uv": [6, 0, 12, 6], "texture": "#particle"}
+			}
+		}
+	]
+}

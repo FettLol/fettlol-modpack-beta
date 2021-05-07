@@ -1,0 +1,23 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "gui_light": "front",
+	"parent": "block/block",
+	"textures": {
+		"back": "painting/back",
+		"art": "item/painting"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 7.5 ],
+			"to": [ 16, 16, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 3, 16, 4 ], "texture": "#back" },
+				"up": { "uv": [ 0, 15, 16, 16 ], "texture": "#back" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#art" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#back" },
+				"west": { "uv": [ 0, 7, 16, 8 ], "texture": "#back", "rotation": 90 },
+				"east": { "uv": [ 0, 11, 16, 12 ], "texture": "#back", "rotation": 90 }
+			}
+		}
+	]
+}

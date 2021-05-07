@@ -1,0 +1,9 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "block/crimson_door_top_hinge",
+    "textures": {
+        "particle": "block/warped_door_top",
+        "sides": "block/warped_door_sides",
+		"ends": "block/warped_door_ends"
+    }
+}

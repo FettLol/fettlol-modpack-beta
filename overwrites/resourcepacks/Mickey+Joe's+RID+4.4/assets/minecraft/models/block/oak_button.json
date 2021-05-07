@@ -1,0 +1,20 @@
+{
+	"__comment": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"textures": {
+		"particle": "block/oak_button"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 5, 0, 6 ],
+			"to": [ 11, 2, 10 ],
+			"faces": {
+				"down": { "uv": [ 10, 2, 16, 6 ], "texture": "#particle", "cullface": "down" },
+				"up": { "uv": [ 8, 6, 2, 2 ], "texture": "#particle" },
+				"north": { "uv": [ 8, 0, 14, 2 ], "texture": "#particle" },
+				"south": { "uv": [ 8, 2, 2, 0 ], "texture": "#particle" },
+				"west": { "uv": [ 8, 2, 10, 6 ], "texture": "#particle", "rotation": 90 },
+				"east": { "uv": [ 0, 2, 2, 6 ], "texture": "#particle", "rotation": 270 }
+			}
+		}
+	]
+}

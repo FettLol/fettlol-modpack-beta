@@ -1,0 +1,9 @@
+{
+  "credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "variants": {
+        "": [
+            { "model": "minecraft:block/nether_wart_block", "weight": 9 },
+            { "model": "minecraft:block/nether_wart_block_0", "weight": 1 }
+        ]
+    }
+}

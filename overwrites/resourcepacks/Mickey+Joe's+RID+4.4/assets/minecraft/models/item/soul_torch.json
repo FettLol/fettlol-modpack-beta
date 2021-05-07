@@ -1,0 +1,35 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "block/torch",
+    "textures": {
+        "torch": "block/soul_torch"
+    },
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ -0.5, 4, 1.5 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ -0.5, 4, 1.5 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 45, 0 ],
+			"translation":  [ 0, 2.5, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"translation":  [ 0, 2, 0 ],
+			"scale":  [ 1.025, 1.025, 1.025 ]
+		},
+		"head": {
+			"translation":  [ 0, 14.5, 0 ]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/stone_brick_wall",
+  "textures": {
+		"wall": "block/polished_blackstone",
+		"post": "block/polished_blackstone_wall"
+  }
+}

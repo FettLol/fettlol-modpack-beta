@@ -1,0 +1,10 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "variants": {
+        "": [
+            { "model": "block/copper_ore_0" },
+            { "model": "block/copper_ore" },
+            { "model": "block/copper_ore_2" }
+        ]
+    }
+}
