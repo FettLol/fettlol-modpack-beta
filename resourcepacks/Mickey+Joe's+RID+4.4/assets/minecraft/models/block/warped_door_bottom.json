@@ -1,0 +1,9 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "block/oak_door_bottom",
+    "textures": {
+        "particle": "block/warped_door_bottom",
+        "sides": "block/warped_door_sides",
+		"ends": "block/warped_door_ends"
+    }
+}

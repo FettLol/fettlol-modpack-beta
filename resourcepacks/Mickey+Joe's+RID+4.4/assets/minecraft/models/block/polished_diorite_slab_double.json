@@ -1,0 +1,9 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "block/polished_diorite",
+        "top": "block/polished_diorite",
+        "side": "block/polished_diorite_slab"
+    }
+}

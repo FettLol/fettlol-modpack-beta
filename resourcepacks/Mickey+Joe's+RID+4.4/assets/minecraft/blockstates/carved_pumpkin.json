@@ -1,0 +1,43 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "multipart": [
+        {   "apply": [
+		    { "model": "block/carved_pumpkin_top" },
+            { "model": "block/carved_pumpkin_top", "y": 90 },
+            { "model": "block/carved_pumpkin_top", "y": 180 },
+            { "model": "block/carved_pumpkin_top", "y": 270 }
+			]
+        },
+        {   "apply": [
+		    { "model": "block/carved_pumpkin_bottom" },
+            { "model": "block/carved_pumpkin_bottom", "y": 90 },
+            { "model": "block/carved_pumpkin_bottom", "y": 180 },
+            { "model": "block/carved_pumpkin_bottom", "y": 270 }
+			]
+        },
+		{     "when": { "facing": "north" },
+              "apply": [
+		    { "model": "block/carved_pumpkin_0" },
+            { "model": "block/carved_pumpkin_1" }
+			]
+        },
+		{     "when": { "facing": "south" },
+              "apply": [
+		    { "model": "block/carved_pumpkin_0", "y": 180 },
+            { "model": "block/carved_pumpkin_1", "y": 180 }
+			]
+        },
+		{     "when": { "facing": "west" },
+              "apply": [
+		    { "model": "block/carved_pumpkin_0", "y": 270 },
+            { "model": "block/carved_pumpkin_1", "y": 270 }
+			]
+        },
+		{     "when": { "facing": "east" },
+              "apply": [
+		    { "model": "block/carved_pumpkin_0", "y": 90 },
+            { "model": "block/carved_pumpkin_1", "y": 90 }
+			]
+		}
+    ]
+}

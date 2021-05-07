@@ -7,6 +7,11 @@
   "coniferLeafSpawnRate": 0,
   "dropFromPlayerPlacedBlocks": true,
   "minimumFreeSpaceBelow": 1,
+  "windEnabled": true,
+  "windlessDimensions": [
+    "minecraft:the_end",
+    "minecraft:the_nether"
+  ],
   "leafSettings": {
     "minecraft:jungle_leaves": {
       "spawnRateFactor": 0.0,
@@ -397,6 +402,10 @@
       "isConiferBlock": false
     },
     "biomemakeover:ancient_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "betterend:lucernia_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
     }

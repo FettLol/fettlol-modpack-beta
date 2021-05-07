@@ -1,0 +1,22 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"textures": {
+		"particle": "block/bell_bottom",
+		"bar": "block/bell_base"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 0, 13, 7 ],
+			"to": [ 16, 15, 9 ],
+			"faces": {
+				"down": { "uv": [ 14, 0, 16, 16 ], "texture": "#bar", "rotation": 270 },
+				"up": { "uv": [ 12, 0, 14, 16 ], "texture": "#bar", "rotation": 270 },
+				"north": { "uv": [ 15, 0, 13, 16 ], "texture": "#bar", "rotation": 270 },
+				"south": { "uv": [ 15, 0, 13, 16 ], "texture": "#bar", "rotation": 270 },
+				"west": { "uv": [ 9, 1, 11, 3 ], "texture": "#bar", "cullface": "west" },
+				"east": { "uv": [ 9, 1, 11, 3 ], "texture": "#bar", "cullface": "east" }
+			}
+		}
+	]
+}

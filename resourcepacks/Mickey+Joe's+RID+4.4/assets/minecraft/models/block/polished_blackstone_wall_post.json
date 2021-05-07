@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/stone_brick_wall_post",
+  "textures": {
+		"particle": "block/polished_blackstone",
+		"wall": "block/polished_blackstone_wall"
+  }
+}

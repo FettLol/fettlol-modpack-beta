@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document was started a little way through the modpack, so version 1.0.0 will be considered to be the version that we went live with when upgrading the `Fett.lol` server to Minecraft vresion 1.16.4.
+This document was started a little way through the modpack, so version 1.0.0 will be considered to be the version that we went live with when upgrading the `Fett.lol` server to Minecraft version 1.16.4.
 
 This changelog tries to follow semantic versioning as much as possible. Since this is a modpack that depends on multiple other software products and versions, this can be somewhat difficult to do at times. These are the rules for how we will be naming any new versions and releases, following the Major.Minor.Patch version naming principle:
 
@@ -18,14 +18,69 @@ Changes to the modpack that will be included here include, but are not limited t
 
 # Versions
 
-## Release v1.12.0 (XXXX-XX-XX)
+## Release v1.12.1 (XXXX-XX-XX)
+
+- BUG: `Gilded Netherite` v1.7.0 is buggy and we have returned to v1.6.0.
+- BUG: `Fabric Seasons` breaks some other mods and is disabled until a fix comes along.
+- BUG: `Fabric API` v0.34.1 is causing crashes. Charm / Expanded Storage / Go Fish incompatibility?
+
+- Evaluating: `Slapmap` v1.0.1. Fun to have, not entirly sure how useful it is, though.
+- Evaluating: `Miskatonic Mysteries` v0.0.3.
+  - Miskatonic requires `Trinkets`.
+
+- **Datapack Removed**: `Summer Villages`.
+- **Datapack Removed**: `Abyssal Villages`.
+- **Datapack Removed**: `Enhanced Villages`.
+- **Datapack Removed**: `Finesta's BetterVanilla Renewed`.
+- **Datapack Removed**: `Mountain Villagers`.
+- **Datapack Updated**: `Maquis Shrubland Remastered` updated to 2021-04-18 release.
+- **Mod Added**: `Blame` v2.4.1 added.
+- **Mod Added**: `Extra Generators` v1.0.1-BETA.
+- **Mod Added**: `Go Fish` v1.2.1 added.
+- **Mod Added**: `More Music Discs+` v1.0.4 added.
+- **Mod Added**: `Music Discs Galore` v2.0.0 added.
+- **Mod Added**: `NPC Variety` v1.2.3.
+- **Mod Removed**: `Flamingo, Oh, oh, oh...` removed due to All Rights Reserved restrictions.
+- **Mod Removed**: `Roughly Enough Resources`.
+- **Mod Removed**: `The Parakeet Mod` removed due to All Rights Reserved restrictions.
+- **Mod Updated**: `Architectury` updated from v1.10.138 to v1.12.148.
+- **Mod Updated**: `Axes are Weapons` updated from v1.0 to v1.1.
+- **Mod Updated**: `Better Enchanted Books` updated from v1.2.6 to v1.2.7.
+- **Mod Updated**: `Better End` updated from v0.9.1 to v0.9.5.
+- **Mod Updated**: `Biome Makeover` updated from v1.3.4 to v1.3.8.
+- **Mod Updated**: `Charm` updated from v2.3.1 to v2.3.2.
+- **Mod Updated**: `Croptopia` updated from v1.3.3 to v1.3.6.
+- **Mod Updated**: `Dank Storage` updated from v1.9 to v1.10a.
+- **Mod Updated**: `Earth2Java` updated from v1.6.1 to v1.7.0.
+- **Mod Updated**: `Emotecraft` updated from v1.4.0 to v2.0.3.
+- **Mod Updated**: `Fabric API` updated from v0.32.9 to v0.33.1.
+- **Mod Updated**: `Fabric Language-Kotlin` updated from v1.4.0 to v1.5.0.
+- **Mod Updated**: `Falling Leaves` updated from v1.5.0 to v1.6.0.
+- **Mod Updated**: `Falling Tree` updated from v2.11.0 to v2.11.3.
+- **Mod Updated**: `Illuminations` updated from v1.4.9 to v1.5.0.
+- **Mod Updated**: `Keep Head Names` updated from v1.1 to v1.2.
+- **Mod Updated**: `Lifts` updated from v1.0.5 to v1.1.1.
+- **Mod Updated**: `Light Overlay` updated from v5.7.0 to v5.8.1.
+- **Mod Updated**: `MC Dungeons Armor` updated from v1.3.9 to v1.4.2.
+- **Mod Updated**: `MC Dungeons Weapons` updated from v3.1.0 to v3.1.2.
+- **Mod Updated**: `More Berries` updated from v1.3.4 to v1.3.5.
+- **Mod Updated**: `Not Enough Animations` updated from v1.2.3 to v1.2.4.
+- **Mod Updated**: `Not Enough Crashes` updated from v3.1.5 to v3.2.0.
+- **Mod Updated**: `Phosphor` updated from v0.7.1 to v0.7.2.
+- **Mod Updated**: `Repurposed Structures` updated from v1.10.1 to v1.10.5.
+- **Mod Updated**: `Roughly Enough Items` updated from v5.11.202 to v5.11.218.
+- **Mod Updated**: `Stoneholm` updated from v1.1.0 to v1.2.1.
+- **Mod Updated**: `Tech Reborn` updated from v3.8.2 to v3.8.3.
+- **Mod Updated**: `Wolves With Armor` updated from v1.5.2 to v1.5.4.
+- **Mod Updated**: `WTHIT` updated from v2.7.0 to v2.8.1.
+- **Mod Updated**: `Xaero's Minimap` updated from v21.6.0 to v21.8.0.
+- **Mod Updated**: `Xaero's World Map` updated from v1.13.2 to v1.13.4.
+
+## Release v1.12.0 (2021-04-15)
 
 In addition to the standard mod version updates, this version of the modpack aims to balance armor, tools and other gear in various ways. Some things that were previously considered overpowered have been nerfed or made more difficult/impossible to get, while things that were previously underpowered have been removed or buffed. This version also adds several new mods aimed at quality of life-improvements.
 
 **Note**: Fettlol Modpack v1.12 requires Fabric Loader v0.11.3 or higher. If you are manually updating from a previous version, make sure to manually update the Loader as well.
-
-- Evaluating: Seasons.
-- Evaluating: Fabric Waystones.
 
 - **Configuration Changed**: `Battle Towers`: Boss now hits slightly harder.
 - **Configuration Changed**: `Dank Storage`: Dank 5, Dank 6 and Dank 7 recipes have been rebalanced.
@@ -45,6 +100,7 @@ In addition to the standard mod version updates, this version of the modpack aim
 - **Mod Added**: `Axes are Weapons` v1.0.0 added.
 - **Mod Added**: `Chillager` v1.1.0 added.
 - **Mod Added**: `Crimson Moon` v2.0.4 added.
+- **Mod Added**: `Fabric Waystones` v1.1.1.1 added.
 - **Mod Added**: `Fade In Chunks` v1.0.0 added.
 - **Mod Added**: `Fat XP Orbs` v0.0.9 added.
 - **Mod Added**: `Lifts` v1.0.5 added.
@@ -52,6 +108,7 @@ In addition to the standard mod version updates, this version of the modpack aim
 - **Mod Added**: `Perfect Accuracy` v1.0.0 added.
 - **Mod Added**: `Roughly Enough Items` v5.11.202 added.
 - **Mod Added**: `Roughly Enough Resources` v2.1.3 added.
+- **Mod Added**: `Seasons` v1.1.1 added.
 - **Mod Added**: `Show off` v1.0.0 added.
 - **Mod Added**: `SlimyFloor` v1.0.0 added.
 - **Mod Added**: `Stoneholm` v1.1.0 added.

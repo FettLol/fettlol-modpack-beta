@@ -1,0 +1,44 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"textures": {
+		"particle": "block/dark_oak_sapling_stage_1"
+	},
+	"elements": [ 	 
+		{
+			"from": [ -5.3438, 0, -0.2813 ],
+			"to": [ 26.6562, 32, -0.2803001 ],
+			"rotation": { "origin": [ -5.34375, 0, -0.28125 ], "axis": "y", "angle": -22.5 },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ 12.6562, 0, -13.2812 ],
+			"to": [ 12.6572, 32, 18.7188 ],
+			"rotation": { "origin": [ -5.34375, 0, -0.28125 ], "axis": "y", "angle": -22.5 },
+			"shade": false,
+			"faces": {
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ 7.6562, 0, -14.2813 ],
+			"to": [ 7.6572, 32, 17.7187 ],
+			"rotation": { "origin": [ -5.34375, 0, -0.28125 ], "axis": "y", "angle": -22.5 },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ -6.3438, 0, 4.7188 ],
+			"to": [ 25.6562, 32, 4.7198 ],
+			"rotation": { "origin": [ -5.34375, 0, -0.28125 ], "axis": "y", "angle": -22.5 },
+			"shade": false,
+			"faces": {
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#particle" }
+			}
+		}
+	]
+}

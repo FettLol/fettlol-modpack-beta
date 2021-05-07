@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/spawner_top",
+        "side": "block/spawner"
+    }
+}

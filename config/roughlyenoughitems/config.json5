@@ -498,6 +498,129 @@
 					"Count": 127,
 					"type": "item"
 				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:dark_oak_planks",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:magma_cream",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "techreborn:rubber_log",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "appliedenergistics2:quartz_ore",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "adorn:spruce_kitchen_sink",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:enchanted_book",
+					"Count": 127,
+					"tag": {
+						"StoredEnchantments": [
+							{
+								"lvl": 4,
+								"id": "minecraft:projectile_protection"
+							}
+						]
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "adorn:polished_blackstone_platform",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "mcdw:sword_heartstealer",
+					"Count": 127,
+					"tag": {
+						"Damage": 0
+					},
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:polished_diorite_slab",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:polished_diorite",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:stripped_crimson_stem",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:infested_chiseled_stone_bricks",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "wolveswitharmor:golden_wolf_armor",
+					"Count": 127,
+					"type": "item"
+				}
+			},
+			{
+				"type": "roughlyenoughitems:entry_stack",
+				"data": {
+					"id": "minecraft:golden_apple",
+					"Count": 127,
+					"type": "item"
+				}
 			}
 		],
 		// Declares whether cheating mode is on.
@@ -514,7 +637,7 @@
 			},
 			"hideKeybind": {
 				"keyCode": "key.keyboard.o",
-				"modifier": 2
+				"modifier": 4
 			},
 			"previousPageKeybind": {
 				"keyCode": "key.keyboard.unknown",

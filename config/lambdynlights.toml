@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fancy"
+mode = "fast"
 
 # Light sources settings.
 [light_sources]
@@ -9,9 +9,9 @@ mode = "fancy"
 	# Enable block entities light source.
 	block_entities = true
 	# Enable entities light source.
-	entities = true
+	entities = false
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "fancy"
+	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
-	creeper = "fancy"
+	creeper = "simple"
 

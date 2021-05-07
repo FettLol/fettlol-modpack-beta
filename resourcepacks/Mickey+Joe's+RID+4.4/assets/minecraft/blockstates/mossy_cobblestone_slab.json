@@ -1,0 +1,17 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "variants": {
+        "type=bottom": [
+            { "model": "minecraft:block/mossy_cobblestone_slab" },
+            { "model": "minecraft:block/mossy_cobblestone_slab_0" }
+        ],
+        "type=double": [
+            { "model": "minecraft:block/mossy_cobblestone" },
+            { "model": "minecraft:block/mossy_cobblestone_0" }
+        ],
+        "type=top": [
+            { "model": "minecraft:block/mossy_cobblestone_slab_top" },
+            { "model": "minecraft:block/mossy_cobblestone_slab_top_0" }
+        ]
+    }
+}

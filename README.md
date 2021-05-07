@@ -25,9 +25,9 @@ If you already have a version of the Fettlol Modpack installed and wish to upgra
 > **Note** Before upgrading your server/client make sure to first read the `CHANGELOG.md` of all versions greater than your current version. In rare cases, we advise against upgrading from one version to another as it can lead to weirdness in world generation.
 
 1. Ensure that your game is not running.
-2. Open your Minecraft folder and completely delete the folders `config`, `mods` and `datapacks`. 
+2. Open your Minecraft folder and completely delete the folders `config`, `mods`, `resourcepacks` and `datapacks`. 
 3. Download the `files.zip` file for the version you wish to upgrade to from the [Releases page](https://github.com/BrekiTomasson/fettlol-modpack/releases).
-4. Extract the contents of this file into your Minecraft folder, it will create the `config`, `mods` and `datapacks` folders again.
+4. Extract the contents of this file into your Minecraft folder, it will create the `config`, `mods`, `resourcepacks` and `datapacks` folders again.
 5. Delete the `files.zip` file.
 6. Start the game back up and enjoy the new version of the modpack!
 
@@ -76,4 +76,4 @@ The modpack can be played in single-player worlds or multiplayer - some of the f
 
 To mod developers out there, if you find your mod in this modpack and do not wish for us to include it, please contact us by opening an issue in the [GitHub repository](https://github.com/BrekiTomasson/fettlol-modpack). Please do so using an account that contains the repository for the mod in question so that we can verify ownership. Also note that while we do take your request to remove the mod seriously, to do so can sometimes take a few days, depending on how integral the mod is to the modpack.
 
-The full list of mods and datapacks, including any tweaks or adjustments we have made to the mod in question, can be found in the file `MODS.md`.
+The full list of mods and datapacks, including any tweaks or adjustments we have made to the mod in question, can be found in the file `CREDITS.md`.

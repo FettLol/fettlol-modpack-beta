@@ -1,0 +1,22 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/daylight_detector_side",
+		"all": "block/daylight_detector"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 6, 16 ],
+			"faces": {
+				"down": { "uv": [ 10.66667, 0, 16, 5.333332 ], "texture": "#all" },
+				"up": { "uv": [ 10.66667, 5.333334, 16, 10.66667 ], "texture": "#all" },
+				"north": { "uv": [ 0, 0, 5.333333, 2 ], "texture": "#all" },
+				"south": { "uv": [ 0, 0, 5.333333, 2 ], "texture": "#all" },
+				"west": { "uv": [ 0, 0, 5.333333, 2 ], "texture": "#all" },
+				"east": { "uv": [ 0, 0, 5.333333, 2 ], "texture": "#all" }
+			}
+		}
+	]
+}

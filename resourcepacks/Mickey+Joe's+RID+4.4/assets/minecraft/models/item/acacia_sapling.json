@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/acacia_pod"
+    }
+}

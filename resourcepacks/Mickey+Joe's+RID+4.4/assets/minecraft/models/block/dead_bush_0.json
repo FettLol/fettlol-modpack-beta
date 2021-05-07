@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "block/dead_bush_0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "portals": [
+    {
+      "dimension": "minecraft:overworld",
+      "item": "betterend:eternal_crystal",
+      "colorRed": 240,
+      "colorGreen": 240,
+      "colorBlue": 255
+    }
+  ]
+}

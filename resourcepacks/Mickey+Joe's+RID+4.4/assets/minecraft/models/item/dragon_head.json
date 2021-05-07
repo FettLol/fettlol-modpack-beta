@@ -1,0 +1,29 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "item/template_skull",
+    "display": {
+        "gui": {
+            "translation": [ 0, 0.5, -2 ],
+            "rotation": [ 30, 45, 0 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 2 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 185, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.90, 0.90, 0.90 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 185, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.90, 0.90, 0.90 ]
+		},
+		"head": {
+			"translation":  [ 0.5, 1, 0 ]
+		}
+	}
+}

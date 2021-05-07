@@ -1,5 +1,5 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "animationSmoothingSpeed": 20.0,
   "holdingItems": [
     "minecraft:clock",
@@ -10,5 +10,10 @@
   "enableAnimationSmoothing": true,
   "enableInWorldMapRendering": true,
   "enableOffhandHiding": true,
-  "enableRotationLocking": true
+  "enableRotationLocking": true,
+  "enableLadderAnimation": true,
+  "enableEatDrinkAnimation": true,
+  "enableRowBoatAnimation": true,
+  "enableHorseAnimation": true,
+  "enableIngameMapHolding": true
 }

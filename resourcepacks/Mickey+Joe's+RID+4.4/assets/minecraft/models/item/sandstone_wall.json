@@ -1,0 +1,45 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"parent": "block/block",
+	"textures": {
+		"top": "block/chiseled_sandstone_end",
+		"side": "block/sandstone",
+		"bottom": "block/sandstone_bottom"
+	},
+	"elements": [ 	 
+		{
+			"from": [ -4, 0, 4 ],
+			"to": [ 4, 16, 12 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 12 ], "texture": "#bottom", "cullface": "down", "rotation": 270 },
+				"up": { "uv": [ 4, 4, 12, 12 ], "texture": "#top", "rotation": 90 },
+				"north": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" },
+				"south": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" },
+				"west": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" },
+				"east": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" }
+			}
+		},
+		{
+			"from": [ 4, 0, 5 ],
+			"to": [ 12, 13, 11 ],
+			"faces": {
+				"down": { "uv": [ 5, 4, 11, 12 ], "texture": "#bottom", "cullface": "down", "rotation": 270 },
+				"up": { "uv": [ 5, 4, 11, 12 ], "texture": "#bottom", "rotation": 90 },
+				"north": { "uv": [ 4, 3, 12, 16 ], "texture": "#bottom" },
+				"south": { "uv": [ 4, 3, 12, 16 ], "texture": "#bottom" }
+			}
+		},
+		{
+			"from": [ 12, 0, 4 ],
+			"to": [ 20, 16, 12 ],
+			"faces": {
+				"down": { "uv": [ 4, 4, 12, 12 ], "texture": "#bottom", "cullface": "down", "rotation": 270 },
+				"up": { "uv": [ 4, 4, 12, 12 ], "texture": "#top", "rotation": 90 },
+				"north": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" },
+				"south": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" },
+				"west": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" },
+				"east": { "uv": [ 4, 0, 12, 16 ], "texture": "#side" }
+			}
+		}
+	]
+}

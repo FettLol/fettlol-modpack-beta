@@ -1,0 +1,35 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/lily_pad"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 1, 0.25, 1 ],
+			"to": [ 14, 0.251, 15 ],
+			"faces": {
+				"down": { "uv": [ 16, 16, 3, 2 ], "texture": "#particle", "tintindex": 0 },
+				"up": { "uv": [ 16, 2, 3, 16 ], "texture": "#particle", "tintindex": 0 }
+			}
+		},
+		{
+			"from": [ 8.906199, 0.25, 9.0938 ],
+			"to": [ 8.9072, 3.25, 13.0938 ],
+			"rotation": { "origin": [ 8.90625, 0.25, 9.09375 ], "axis": "y", "angle": -45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 4, 3 ], "texture": "#particle" },
+				"east": { "uv": [ 0, 0, 4, 3 ], "texture": "#particle" }
+			}
+		},
+		{
+			"from": [ 6.0938, 0.25, 9.0938 ],
+			"to": [ 6.0948, 3.25, 13.0938 ],
+			"rotation": { "origin": [ 6.09375, 0.25, 9.09375 ], "axis": "y", "angle": 45 },
+			"faces": {
+				"west": { "uv": [ 0, 0, 4, 3 ], "texture": "#particle" },
+				"east": { "uv": [ 0, 0, 4, 3 ], "texture": "#particle" }
+			}
+		}
+	]
+}

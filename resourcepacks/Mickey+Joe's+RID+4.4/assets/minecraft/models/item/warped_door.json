@@ -1,0 +1,10 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "parent": "item/crimson_door",
+    "textures": {
+		"top": "block/warped_door_top",
+		"sides": "block/warped_door_sides",
+		"ends": "block/warped_door_ends",
+		"bottom": "block/warped_door_bottom"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "parent": "minecraft:item/item_frame",
+  "textures": {
+	"particle": "block/item_frame",
+	"texture": "block/item_frame"
+  }
+}

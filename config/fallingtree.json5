@@ -1,32 +1,27 @@
-{ 
+{
 	// When set to true, a tree will only be chopped down if the player is sneaking.
 	"reverseSneaking": false,
 	// When set to true, the mod will cut down trees in creative too.
 	"breakInCreative": true,
-	"trees": { 
+	"trees": {
 		/* Additional list of blocks considered as logs and that will be destroyed by the mod. 
 		   INFO: Blocks marked with the log tag will already be whitelisted.
 		*/
-		"whitelistedLogs": [ 
-],
+		"whitelistedLogs": [],
 		/* List of blocks that should not be considered as logs. 
 		   INFO: This wins over the whitelist.
 		*/
-		"blacklistedLogs": [ 
-],
+		"blacklistedLogs": [],
 		/* Additional list of blocks considered as leaves (decay naturally). 
 		   INFO: Blocks marked with the leaves tag will already be whitelisted.
 		*/
-		"whitelistedLeaves": [ 
-],
+		"whitelistedLeaves": [],
 		// Additional list of blocks considered as leaves but that doesn't decay (need to be broken by tool).
-		"whitelistedNonDecayLeaves": [ 
-],
+		"whitelistedNonDecayLeaves": [],
 		/* List of blocks that should not be considered as leaves. 
 		   INFO: This wins over the whitelist.
 		*/
-		"blacklistedLeaves": [ 
-],
+		"blacklistedLeaves": [],
 		/* How to break the tree. 
 		   INSTANTANEOUS will break it in one go. 
 		   SHIFT_DOWN will make the tree fall down as you cut it, so you still have to break x blocks but don't have to climb the tree for them.
@@ -49,7 +44,7 @@
 		// When set to true, the mod be applied when cutting trunks.
 		"treeBreaking": true,
 		// When set to true, leaves that should naturally break will be broken instantly.
-		"leavesBreaking": true,
+		"leavesBreaking": false,
 		/* Radius to force break leaves. If another tree is still holding the leaves they'll still be broken. If the leaves are persistent (placed by player) they'll also be destroyed. 
 		   The radius is applied from one of the top most log blocks. 
 		   INFO: break_leaves must be activated for this to take effect. 
@@ -71,25 +66,22 @@
 		/* List the blocks that can be against the tree. If something else is adjacent then the tree won't be cut. 
 		   INFO: Use adjacentStopMode to define how we stop the search for the tree.
 		*/
-		"whitelistedAdjacentBlocks": [ 
-],
+		"whitelistedAdjacentBlocks": [],
 		/* What to do when an non whitelisted adjacent block is found. 
 		   STOP_ALL will stop the search and nothing will be cut. 
 		   STOP_BRANCH will stop the current branch only. The rest of the tree will be cut.
 		*/
-		"adjacentStopMode": "STOP_ALL"
+		"adjacentStopMode": "STOP_BRANCH"
 	},
-	"tools": { 
+	"tools": {
 		/* Additional list of tools that can be used to chop down a tree. 
 		   INFO: Items marked with the axe tag will already be whitelisted.
 		*/
-		"whitelisted": [ 
-],
+		"whitelisted": [],
 		/* List of tools that should not be considered as tools. 
 		   INFO: This wins over the whitelist.
 		*/
-		"blacklisted": [ 
-],
+		"blacklisted": [],
 		// When set to true, when a tree is broken and the tool is about to break we will just break enough blocks so that the tool is left at 1 of durability.
 		"preserve": false,
 		/* When set to true, the mod will be activated no matter what you have in your hand (or empty hand). 
@@ -110,6 +102,6 @@
 		   INFO: Only in INSTANTANEOUS mode. 
 		   WARNING: If you are on a server, this either has to be set to 0 or every player should have the mod. Else they'll have a weird effect of breaking the block but the block is still there.
 		*/
-		"speedMultiplicand": 0.1
+		"speedMultiplicand": 0.0
 	}
 }

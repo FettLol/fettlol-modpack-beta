@@ -100,6 +100,12 @@
         "cursed_forest_chance[def: 1.0]": 1.0,
         "infernal_dunes_chance[def: 1.0]": 1.0
       }
+    },
+    "ultra_amplified_dimension": {
+      "main": {
+        "basalt_deltas_chance[def: 1.0]": 1.0,
+        "crimson_forest_chance[def: 1.0]": 1.0
+      }
     }
   }
 }

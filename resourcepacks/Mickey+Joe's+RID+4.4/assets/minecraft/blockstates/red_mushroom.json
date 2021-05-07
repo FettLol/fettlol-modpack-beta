@@ -1,0 +1,19 @@
+{
+	"credit": "Created by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+    "variants": {
+        "": [
+            { "model": "block/red_mushroom_0" },
+            { "model": "block/red_mushroom_0", "y": 90 },
+			{ "model": "block/red_mushroom_0", "y": 180 },
+			{ "model": "block/red_mushroom_0", "y": 270 },
+			{ "model": "block/red_mushroom_1" },
+            { "model": "block/red_mushroom_1", "y": 90 },
+            { "model": "block/red_mushroom_1", "y": 180 },
+			{ "model": "block/red_mushroom_1", "y": 270 },
+			{ "model": "block/red_mushroom_2" },
+            { "model": "block/red_mushroom_2", "y": 90 },
+			{ "model": "block/red_mushroom_2", "y": 180 },
+			{ "model": "block/red_mushroom_2", "y": 270 }
+        ]
+    }
+}
