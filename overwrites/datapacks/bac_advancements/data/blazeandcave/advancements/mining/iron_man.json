@@ -1,0 +1,43 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_helmet"
+        },
+        "title": {"translate":"Iron Man"},
+        "description": {"translate":"Wear a full suit of iron armor"},
+		"frame": "goal"
+    },
+    "parent": "minecraft:story/obtain_armor",
+	"rewards": {
+		"function": "bc_rewards:mining/iron_man"
+    },
+    "criteria": {
+        "iron_armor": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:entity_properties",
+						"entity": "this",
+						"predicate": {
+							"equipment": {
+								"head": {
+									"item": "minecraft:iron_helmet"
+								},
+								"chest": {
+									"item": "minecraft:iron_chestplate"
+								},
+								"legs": {
+									"item": "minecraft:iron_leggings"
+								},
+								"feet": {
+									"item": "minecraft:iron_boots"
+								}
+							}
+						}
+                    }
+                ]
+            }
+        }
+    }
+}

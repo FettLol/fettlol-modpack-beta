@@ -1,0 +1,26 @@
+{
+  "config_version": 2,
+  "showDebug": false,
+  "validate": false,
+  "validThreshold": 8.0,
+  "dark": false,
+  "enablequark": true,
+  "showIcon": true,
+  "stopThreshold": 0.04,
+  "yRatio": 0.75,
+  "loadBuiltin": true,
+  "playersafety": true,
+  "perspective": false,
+  "preduxintegration": true,
+  "fastmenu": {
+    "0": 2091602184,
+    "1": 453356665,
+    "2": -1108308279,
+    "3": 48659845,
+    "4": 39133942,
+    "5": 846264910,
+    "6": -432819277,
+    "7": 2007599949
+  },
+  "keys": []
+}

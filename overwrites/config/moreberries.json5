@@ -1,0 +1,15 @@
+{
+	"blackBerrySpawnChance": 32,
+	"blueBerrySpawnChance": 32,
+	"greenBerrySpawnChance": 32,
+	"orangeBerrySpawnChance": 32,
+	"purpleBerrySpawnChance": 32,
+	"yellowBerrySpawnChance": 32,
+	"blackBerrySpawnBiomes": "minecraft:plains,traverse:rolling_hills,traverse:meadow",
+	"blueBerrySpawnBiomes": "minecraft:forest,minecraft:wooded_hills",
+	"greenBerrySpawnBiomes": "minecraft:jungle,minecraft:jungle_hills,minecraft:jungle_edge,minecraft:modified_jungle,minecraft:modified_jungle_edge,minecraft:bamboo_jungle,minecraft:bamboo_jungle_hills,traverse:mini_jungle,terrestria:oasis,terrestria:outback_uluru",
+	"orangeBerrySpawnBiomes": "minecraft:badlands,minecraft:wooded_badlands_plateau,minecraft:badlands_plateau,minecraft:eroded_badlands,minecraft:modified_wooded_badlands_plateau,minecraft:modified_badlands_plateau,terrestria:redwood_forest,terrestria:dunes,traverse:desert_shrubland,terrestria:outback,terrestria:lush_desert",
+	"purpleBerrySpawnBiomes": "minecraft:swamp,minecraft:swamp_hills,terrestria:cypress_forest,traverse:lush_swamp,terrestria:cypress_swamp",
+	"yellowBerrySpawnBiomes": "minecraft:birch_forest,minecraft:birch_forest_hills,minecraft:tall_birch_forest,minecraft:tall_birch_hills,terrestria:dense_woodlands,traverse:autumnal_woods,traverse:wooded_island,traverse:autumnal_wooded_hills",
+	"craftableBerryBushes": false
+}

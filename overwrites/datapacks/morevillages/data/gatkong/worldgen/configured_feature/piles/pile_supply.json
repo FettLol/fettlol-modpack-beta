@@ -1,0 +1,60 @@
+{
+  "config": {
+    "state_provider": {
+      "entries": [
+        {
+          "weight": 20,
+          "data": {
+            "Name": "minecraft:pumpkin"
+          }
+        },
+        {
+          "weight": 5,
+          "data": {
+            "Properties": {
+              "facing": "north",
+              "type": "single",
+              "waterlogged": "false"
+            },
+            "Name": "minecraft:chest"
+          }
+        },
+        {
+          "weight": 5,
+          "data": {
+            "Properties": {
+              "facing": "south",
+              "type": "single",
+              "waterlogged": "false"
+            },
+            "Name": "minecraft:chest"
+          }
+        },
+        {
+          "weight": 5,
+          "data": {
+            "Properties": {
+              "facing": "east",
+              "type": "single",
+              "waterlogged": "false"
+            },
+            "Name": "minecraft:chest"
+          }
+        },
+        {
+          "weight": 5,
+          "data": {
+            "Properties": {
+              "facing": "west",
+              "type": "single",
+              "waterlogged": "false"
+            },
+            "Name": "minecraft:chest"
+          }
+        }
+      ],
+      "type": "minecraft:weighted_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+}

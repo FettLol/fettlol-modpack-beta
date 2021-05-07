@@ -1,0 +1,35 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cartography_table"
+        },
+        "title": {"translate":"Did you just run across earth?"},
+        "description": {"translate":"Sprint 1000km"},
+		"frame": "challenge"
+    },
+    "parent": "blazeandcave:statistics/your_legs_must_be_tired",
+	"rewards": {
+		"experience": 500,
+		"function": "bc_rewards:statistics/did_you_just_run_across_earth"
+    },		
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:location",
+			"conditions": {
+				"player":  {
+					"player": {
+						"stats": [
+							{
+								"type": "minecraft:custom",
+								"stat": "minecraft:sprint_one_cm",
+								"value": {
+									"min": 100000000
+								}
+							}
+						]
+					}
+				}
+			}
+        }
+    }
+}

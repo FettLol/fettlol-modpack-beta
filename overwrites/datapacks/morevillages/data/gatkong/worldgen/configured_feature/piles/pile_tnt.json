@@ -1,0 +1,15 @@
+{
+  "config": {
+    "state_provider": {
+      "state": {
+        "Name": "minecraft:tnt",
+		  "Properties":
+		  {
+		      "unstable": "true"
+		  }
+      },
+      "type": "minecraft:simple_state_provider"
+    }
+  },
+  "type": "minecraft:block_pile"
+}

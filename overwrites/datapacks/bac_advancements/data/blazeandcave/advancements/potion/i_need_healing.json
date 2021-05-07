@@ -1,0 +1,33 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:glistering_melon_slice"
+        },
+        "title": {"translate":"Medic!"},
+        "description": {"translate":"Brew a healing potion"}
+    },
+    "parent": "blazeandcave:potion/root",
+	"rewards": {
+		"function": "bc_rewards:potion/i_need_healing"
+    },	
+    "criteria": {
+        "healing": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:healing"
+            }
+        },
+        "strong_healing": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:strong_healing"
+            }
+        }
+    },
+	"requirements": [
+		[
+			"healing",
+			"strong_healing"
+		]
+	]
+}

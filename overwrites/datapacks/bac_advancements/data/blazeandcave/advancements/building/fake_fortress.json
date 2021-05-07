@@ -1,0 +1,125 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:red_nether_bricks"
+        },
+        "title": {"translate":"Fake fortress"},
+        "description": {"translate":"Craft or collect all forms of nether brick and red nether brick"}
+    },
+    "parent": "blazeandcave:building/fake_stronghold",
+    "rewards": {
+        "function": "bc_rewards:building/fake_fortress"
+    },		
+    "criteria": {
+        "nether_brick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_bricks"
+                    }
+                ]
+            }
+        },
+        "nether_brick_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_brick_slab"
+                    }
+                ]
+            }
+        },
+		"nether_brick_stairs": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_brick_stairs"
+                    }
+                ]
+            }
+        },
+        "nether_brick_fence": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_brick_fence"
+                    }
+                ]
+            }
+        },
+        "nether_brick_wall": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_brick_wall"
+                    }
+                ]
+            }
+        },
+		"red_nether_brick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_nether_bricks"
+                    }
+                ]
+            }
+        },
+        "red_nether_brick_slab": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_nether_brick_slab"
+                    }
+                ]
+            }
+        },
+		"red_nether_brick_stairs": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_nether_brick_stairs"
+                    }
+                ]
+            }
+        },
+        "red_nether_brick_wall": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:red_nether_brick_wall"
+                    }
+                ]
+            }
+        },
+        "cracked_nether_brick": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:cracked_nether_bricks"
+                    }
+                ]
+            }
+        },
+        "chiseled_nether_bricks": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:chiseled_nether_bricks"
+                    }
+                ]
+            }
+        }
+	}		
+}

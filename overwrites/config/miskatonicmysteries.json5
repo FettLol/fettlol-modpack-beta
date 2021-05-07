@@ -1,0 +1,25 @@
+{
+	"modUpdateInterval": 20,
+	"client": {
+		"useShaders": true
+	},
+	"entities": {
+		"protagonistAggressionThreshold": 700,
+		"yellowSerfPercentage": 0.25,
+		"subtlety": true,
+		"statueEffectChance": 0.4000000059604645
+	},
+	"sanity": {
+		"deadlyInsanityThreshold": 50,
+		"insanityEventAttempts": 3,
+		"insanityInterval": 2000,
+		"shockRemoveChance": 0.009999999776482582,
+		"tranquilizedSanityBonus": 25,
+		"tranquilizedSanityCapRegainChance": 0.10000000149011612
+	},
+	"world": {
+		"psychonautHouseWeight": 3,
+		"hasturShrineWeight": 60,
+		"infestedWheatChance": 0.05000000074505806
+	}
+}

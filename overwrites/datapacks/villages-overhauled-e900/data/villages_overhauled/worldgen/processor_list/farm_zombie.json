@@ -1,0 +1,47 @@
+{
+    "processors": [
+      {
+        "processor_type": "minecraft:rule",
+        "rules": [
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:wheat",
+              "probability": 0.7
+            },
+            "output_state": {
+              "Name": "minecraft:air"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:random_block_match",
+              "block": "minecraft:farmland",
+              "probability": 0.25
+            },
+            "output_state": {
+              "Name": "minecraft:dirt"
+            }
+          },
+          {
+            "location_predicate": {
+              "predicate_type": "minecraft:always_true"
+            },
+            "input_predicate": {
+              "predicate_type": "minecraft:block_match",
+              "block": "minecraft:wheat"
+            },
+            "output_state": {
+              "Name": "minecraft:dead_bush"
+            }
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,7 @@
+# Netherite Horse Armor Mod by P3NG00
+netheriteFireResistHorse=true
+netheriteFireResistPlayer=true
+bastionTreasureAmount=2
+bastionTreasureChance=0.25
+ruinedPortalAmount=1
+ruinedPortalChance=0.1

@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:hoglin_spawn_egg"
+        },
+        "title": {"translate":"Giddy Up!"},
+        "description": {"translate":"Punch a baby Hoglin that is being ridden by a baby Piglin"},
+        "frame": "goal"
+    },
+    "parent": "blazeandcave:nether/whole_hog",
+	"rewards": {
+        "experience": 50,
+		"function": "bc_rewards:nether/giddy_up"
+    },	
+    "criteria": {
+        "piglin_jockey": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "hoglin",
+					"flags": {
+						"is_baby": true
+					},
+					"nbt": "{Passengers:[{id:\"minecraft:piglin\"}]}"
+                }
+            }
+        }
+    }
+}

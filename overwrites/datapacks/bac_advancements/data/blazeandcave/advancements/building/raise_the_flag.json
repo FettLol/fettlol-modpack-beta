@@ -1,0 +1,131 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:cyan_banner"
+        },
+        "title": {"translate":"Raise the flag!"},
+        "description": {"translate":"Craft and place a banner"}
+    },
+    "parent": "blazeandcave:building/display_your_items_for_all_to_see",
+	"rewards": {
+		"function": "bc_rewards:building/raise_the_flag"
+    },		
+    "criteria": {
+        "white_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:white_banner"
+            }
+        },
+        "orange_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:orange_banner"
+            }
+        },
+        "magenta_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:magenta_banner"
+            }
+        },
+        "light_blue_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:light_blue_banner"
+            }
+        },
+        "yellow_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:yellow_banner"
+            }
+        },
+        "lime_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:lime_banner"
+            }
+        },
+        "pink_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:pink_banner"
+            }
+        },
+        "gray_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:gray_banner"
+            }
+        },
+        "light_gray_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:light_gray_banner"
+            }
+        },
+        "cyan_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:cyan_banner"
+            }
+        },
+        "purple_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:purple_banner"
+            }
+        },
+        "blue_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:blue_banner"
+            }
+        },
+        "brown_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:brown_banner"
+            }
+        },
+        "green_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:green_banner"
+            }
+        },
+        "red_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:red_banner"
+            }
+        },
+        "black_banner": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:black_banner"
+            }
+        }
+    },
+    "requirements": [
+		[
+        "white_banner",
+        "orange_banner",
+        "magenta_banner",
+        "light_blue_banner",
+        "yellow_banner",
+        "lime_banner",
+        "pink_banner",
+        "gray_banner",
+        "light_gray_banner",
+        "cyan_banner",
+        "purple_banner",
+        "blue_banner",
+        "brown_banner",
+        "green_banner",
+        "red_banner",
+        "black_banner"
+		]
+	]
+}
