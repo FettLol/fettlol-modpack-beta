@@ -11,11 +11,11 @@ lockfileVersion = 1
 [dependencies]
   [dependencies.adorn]
     name = "adorn"
-    version = "1.14.0-0.mpkg.1.beta"
+    version = "1.14.0-0.mpkg.2.beta.1"
     type = "mod"
-    ipfsHash = "QmdVVHG4noH3xethDY7xZd9QvopCe3PCFfRRk6qFtbAYCb"
-    Sha256 = "87cf9e6a2ec356ec5309e538bd71160b26204d78154125aadd0a9052391abba5"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@1.14.0-0.mpkg.1.beta/download"
+    ipfsHash = ""
+    Sha256 = "6c1cd0ef53e49198e6cee637f6dcaf51cc2cf5e54547d58710dc9db50a2d984b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@1.14.0-0.mpkg.2.beta.1/download"
     provider = "minepkg"
     dependend = "_root"
   [dependencies.advancements-debug]
@@ -368,7 +368,7 @@ lockfileVersion = 1
     Sha256 = "dfa15ac90d79443d88d59a156045f00a9d50286c656e4243875f0875fe9aba2f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.32.5/download"
     provider = "minepkg"
-    dependend = "cloth-config"
+    dependend = "fallingtree"
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.6.0-0.mpkg.1.kotlin.1.5.0"
