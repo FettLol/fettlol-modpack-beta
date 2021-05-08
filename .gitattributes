@@ -7,3 +7,4 @@
 # Binary files to be handled by Git LFS
 *.jar filter=lfs diff=lfs merge=lfs binary
 *.zip filter=lfs diff=lfs merge=lfs binary
+minecraft/mods/* filter=lfs diff=lfs merge=lfs binary

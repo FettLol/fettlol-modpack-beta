@@ -3,5 +3,6 @@
   "cost_type": "xp",
   "cost_item": "fettlol:jade_gem",
   "cost_amount": 10,
+  "waystone_hardness_value": 5.0,
   "village_generation": false
 }

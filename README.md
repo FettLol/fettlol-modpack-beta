@@ -2,34 +2,7 @@
 
 This is a Fabric modpack designed for singleplayer and multiplayer. It sees fairly regular updates and iterations, which can be followed in the `CHANGELOG.md` file. The most recent release can always be found on the [Releases page](https://github.com/BrekiTomasson/fettlol-modpack/releases).
 
-Any questions or problems can be raised as an issue on this repository or by getting in touch through the [Fettlol Discord Server](https://discord.gg/HVBkxdzh). This server is the home of the community surrounding both the modpack and the multiplayer server that it is connected to.
-
-# Installing & Upgrading
-
-## Installation
-
-We suggest installing the modpack using [MultiMC](https://multimc.org/). Click "Add Instance", select "Import from zip" and then paste the URL to the `fettlol-full-client-vX.Y.Z.zip` file on the [Releases page](https://github.com/BrekiTomasson/fettlol-modpack/releases).
-
-## Compatibility & Settings
-
-As this modpack has a whole lot more going for it than standard Vanilla Minecraft, it also has higher requirements. We try hard to optimize everything and get rid of memory leaks and other issues, but there's no avoiding the fact that you will need to change some of the default settings.
-
-- For your Java runtime, we recommend increasing the minimum RAM to at least 4Gb, preferably more. More than 8Gb should not be necessary.
-- We aim for supporting Java 8 as a minimum in everything we do, but the modpack is also tested using Java 11.
-  - Java versions higher than 11 *should* work, but we do not test them and cannot give any guarantees.
-
-## Upgrading
-
-If you already have a version of the Fettlol Modpack installed and wish to upgrade it to a later version, follow these steps:
-
-> **Note** Before upgrading your server/client make sure to first read the `CHANGELOG.md` of all versions greater than your current version. In rare cases, we advise against upgrading from one version to another as it can lead to weirdness in world generation.
-
-1. Ensure that your game is not running.
-2. Open your Minecraft folder and completely delete the folders `config`, `mods`, `resourcepacks` and `datapacks`. 
-3. Download the `files.zip` file for the version you wish to upgrade to from the [Releases page](https://github.com/BrekiTomasson/fettlol-modpack/releases).
-4. Extract the contents of this file into your Minecraft folder, it will create the `config`, `mods`, `resourcepacks` and `datapacks` folders again.
-5. Delete the `files.zip` file.
-6. Start the game back up and enjoy the new version of the modpack!
+Any questions or problems can be raised as an issue on this repository or by getting in touch through the [Fettlol Discord Server](https://discord.gg/W8DXp6V9gd). This server is the home of the community surrounding both the modpack and the multiplayer server that it is connected to.
 
 # Inspiration and Philosophy
 
@@ -74,6 +47,6 @@ The modpack can be played in single-player worlds or multiplayer - some of the f
 
 # Credits and Acknowledgements
 
-To mod developers out there, if you find your mod in this modpack and do not wish for us to include it, please contact us by opening an issue in the [GitHub repository](https://github.com/BrekiTomasson/fettlol-modpack). Please do so using an account that contains the repository for the mod in question so that we can verify ownership. Also note that while we do take your request to remove the mod seriously, to do so can sometimes take a few days, depending on how integral the mod is to the modpack.
+To mod developers out there, if you find your mod in this modpack and do not wish for us to include it, please contact us by opening an issue in the [GitHub repository](https://github.com/FettLol/fettlol-modpack). Please do so using an account that contains the repository for the mod in question so that we can verify ownership. Also note that while we do take your request to remove the mod seriously, to do so can sometimes take a few days, depending on how integral the mod is to the modpack.
 
 The full list of mods and datapacks, including any tweaks or adjustments we have made to the mod in question, can be found in the file `CREDITS.md`.

@@ -4,7 +4,7 @@
 
 The latest released version of the Fettlol Modpack is v1.12.0, which includes the following mods and datapacks. Several of these mods have had their configuration tweaked slightly to fit into the modpack in the best possible way. You can see the configuration files in the `config` folder or - if the mod supports it - through the `ModMenu` interface. A small handful of these mods, however, have had to be altered in one or more significant ways in order to fit the modpack. These significant changes will be mentioned below.
 
-> **NOTE**: This list is a work in progress and remains incomplete. Please be patient; we hope to have the full list prepared very soon.
+> **NOTE**: This list is a work in progress and remains incomplete. 
 
 ## Mods
 
@@ -24,8 +24,6 @@ The latest released version of the Fettlol Modpack is v1.12.0, which includes th
 - [Better Dropped Items](https://www.curseforge.com/minecraft/mc-mods/better-dropped-items) v1.2.4
 - [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) v1.1
 - [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover) v1.2.11
-- [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) v1.3.1
-  - This mod is disabled by default and should only be enabled when running the modpack as a server.
 - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) v2.1.0
 - [Break Progress](https://www.curseforge.com/minecraft/mc-mods/break-progress) v1.0.1
 - [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric) v1.1.7
