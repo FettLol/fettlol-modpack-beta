@@ -386,7 +386,7 @@ lockfileVersion = 1
     Sha256 = "dfa15ac90d79443d88d59a156045f00a9d50286c656e4243875f0875fe9aba2f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.32.5/download"
     provider = "minepkg"
-    dependend = "sodium"
+    dependend = "inventory-profiles"
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.6.0-0.mpkg.1.kotlin.1.5.0"
@@ -425,11 +425,11 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.0.14"
+    version = "1.0.15"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "798e8df10c88daf196a61de9100584a8e9ae9ea0cd4d929b7421822e234a1051"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.0.14/download"
+    Sha256 = "8475268616aa20ec690685ca63ef029ecb3286b11ce6bf9a181747b116bb01d4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.0.15/download"
     provider = "minepkg"
     dependend = "_root"
   [dependencies.flonters]
