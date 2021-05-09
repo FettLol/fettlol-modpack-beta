@@ -162,6 +162,15 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/biome-makeover-1.16.5-1.3.8.jar"
     provider = "https"
     dependend = "_root"
+  [dependencies.blame]
+    name = "blame"
+    version = "1.16.4-0.mpkg.1.2.4.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "84ce4e542f065f4c998401982b43a70156fd1545f284791167a2651009dca9b9"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/blame@1.16.4-0.mpkg.1.2.4.1/download"
+    provider = "minepkg"
+    dependend = "_root"
   [dependencies.blur]
     name = "blur"
     version = "2.1.0-0.mpkg.1"
@@ -395,7 +404,7 @@ lockfileVersion = 1
     Sha256 = "85684c19837fc5028b47278e23fae7391e4e40f4d88cdbe927f8202ab6f3b63e"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.34.1/download"
     provider = "minepkg"
-    dependend = "cloth-config"
+    dependend = "perfectaccuracy"
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.6.0-0.mpkg.1.kotlin.1.5.0"
@@ -623,11 +632,11 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.mdg]
     name = "mdg"
-    version = "60958c4d-83cc812"
+    version = "60982d09-83cc888"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/MDG%2B-%2B2.0.1%2B(FABRIC).jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/MDG+-+2.0.2b+(FABRIC).jar"
     provider = "https"
     dependend = "_root"
   [dependencies.midas-hunger]
@@ -983,12 +992,12 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.untitledduckmod]
     name = "untitledduckmod"
-    version = "0.1.2-0.mpkg.1"
+    version = "60982cb7-3f8b0"
     type = "mod"
-    ipfsHash = "QmVpAh6UR1yTjvKHyuDpbgHpP9AU69Pv79nvHKdUQC376f"
-    Sha256 = "865845eba8e248aab17e9470be6c557d099eb5a11c562d0760081eee68802b93"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/untitledduckmod@0.1.2-0.mpkg.1/download"
-    provider = "minepkg"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/untitledduckmod-0.2.0-fabric.jar"
+    provider = "https"
     dependend = "_root"
   [dependencies.villagerhats]
     name = "villagerhats"
