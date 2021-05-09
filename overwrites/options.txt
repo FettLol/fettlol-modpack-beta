@@ -1,4 +1,4 @@
-version:2586
+ersion:2586
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -14,7 +14,7 @@ reducedDebugInfo:false
 snooperEnabled:false
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -146,20 +146,3 @@ key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown
 key_key.okzoomer.reset_zoom:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.keypad.subtract
-soundCategory_master:1.0
-soundCategory_music:0.0
-soundCategory_record:0.6027779
-soundCategory_weather:0.4058269
-soundCategory_block:0.9058569
-soundCategory_hostile:1.0
-soundCategory_neutral:0.65027887
-soundCategory_player:1.0
-soundCategory_ambient:0.60756654
-soundCategory_voice:0.702878
-modelPart_cape:true
-modelPart_jacket:true
-modelPart_left_sleeve:true
-modelPart_right_sleeve:true
-modelPart_left_pants_leg:true
-modelPart_right_pants_leg:true
-modelPart_hat:true
