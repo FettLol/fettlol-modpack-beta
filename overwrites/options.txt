@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:7
 renderClouds:false
-resourcePacks:["vanilla","file/Mickey+Joe\u0027s+RID+4.4","Fabric Mods","file/VanillaTweaks-Variation.zip","file/VanillaTweaks-Utility.zip","file/VanillaTweaks-LowerSides.zip","file/VanillaTweaks-Aesthetic.zip","file/VanillaTweaks-3D.zip"]
+resourcePacks:["vanilla","file/MickeyJoes.zip","Fabric Mods","file/VanillaTweaks-Variation.zip","file/VanillaTweaks-Utility.zip","file/VanillaTweaks-LowerSides.zip","file/VanillaTweaks-Aesthetic.zip","file/VanillaTweaks-3D.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -100,6 +100,8 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.emotecraft.fastchoose:key.keyboard.v
+key_key.emotecraft.stop:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.amecs.toggle_auto_jump:key.keyboard.unknown
 key_key.amecs.toggle_cape:key.keyboard.unknown
@@ -109,8 +111,6 @@ key_key.amecs.toggle_right_sleeve:key.keyboard.unknown
 key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
-key_key.emotecraft.fastchoose:key.keyboard.v
-key_key.emotecraft.stop:key.keyboard.unknown
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -139,7 +139,6 @@ key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
-key_key.miskatonicmysteries.hud:key.keyboard.r
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
 key_key.toggle_focus.desc:key.keyboard.unknown
 key_key.okzoomer.zoom:key.keyboard.c
