@@ -137,7 +137,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.betterend]
     name = "betterend"
-    version = "60958b4b-4d1893a"
+    version = "60915d63-4d1893a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -155,7 +155,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "60958b65-5fa601"
+    version = "608c99d7-5fa601"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -182,7 +182,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.breakprogress]
     name = "breakprogress"
-    version = "60958b66-1724"
+    version = "60781426-1724"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -281,7 +281,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.crimson-moon]
     name = "crimson-moon"
-    version = "60958b84-42f58"
+    version = "60781427-42f58"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -335,7 +335,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.ducts]
     name = "ducts"
-    version = "60958b89-b8b4a"
+    version = "60781427-b8b4a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -371,7 +371,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.expanded-concrete]
     name = "expanded-concrete"
-    version = "60958b92-3236b"
+    version = "60781427-3236b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -404,7 +404,7 @@ lockfileVersion = 1
     Sha256 = "85684c19837fc5028b47278e23fae7391e4e40f4d88cdbe927f8202ab6f3b63e"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.34.1/download"
     provider = "minepkg"
-    dependend = "villagerhats"
+    dependend = "terrestria"
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.6.0-0.mpkg.1.kotlin.1.5.0"
@@ -479,7 +479,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.gentlefawn]
     name = "gentlefawn"
-    version = "60958bd5-1cdc0"
+    version = "60781427-1cdc0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -488,7 +488,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.gilded-netherite]
     name = "gilded-netherite"
-    version = "60958bd6-7033c"
+    version = "608f7186-7033c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -497,7 +497,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.go-fish]
     name = "go-fish"
-    version = "60958bd6-79556"
+    version = "607868b7-79556"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -524,7 +524,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.illuminations]
     name = "illuminations"
-    version = "60958bda-902a3"
+    version = "6086a821-902a3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -614,7 +614,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "60958be4-1416e1"
+    version = "608c5c06-1416e1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -632,7 +632,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.midas-hunger]
     name = "midas-hunger"
-    version = "60958c4d-41203"
+    version = "60781428-41203"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -686,7 +686,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.moreberries]
     name = "moreberries"
-    version = "60958cfe-28e58"
+    version = "6081c43a-28e58"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -695,7 +695,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.morediscs]
     name = "morediscs"
-    version = "60958cfd-c494c6d"
+    version = "6094254f-c494c6d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -704,7 +704,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.morepaths]
     name = "morepaths"
-    version = "60958cfd-250d5"
+    version = "60781428-250d5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -720,6 +720,15 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/mostructures@1.2.0-0.mpkg.2+0426/download"
     provider = "minepkg"
     dependend = "_root"
+  [dependencies.mouse-wheelie]
+    name = "mouse-wheelie"
+    version = "1.7.0-0.mpkg.1"
+    type = "mod"
+    ipfsHash = "QmRZjTGLXMf3h5QoxJsRDPxPgZNHdE2KoYiK9A3yb2ytAU"
+    Sha256 = "b3819f6f56d84ef973e8c9f5b33090b9e34d47c52041ff34e343a1c8c4e00729"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/mouse-wheelie@1.7.0-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = "_root"
   [dependencies.netherite-horse-armor]
     name = "netherite-horse-armor"
     version = "1.1.0-0.mpkg.1"
@@ -731,7 +740,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
-    version = "60958cff-4b47c"
+    version = "608f5fb1-4b47c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -749,11 +758,11 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.npc-variety]
     name = "npc-variety"
-    version = "60958d00-57dd7"
+    version = "609d0b4c-57e20"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/npc-variety-1.16.4-1.2.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/npc-variety-1.16.4-1.2.4.jar"
     provider = "https"
     dependend = "_root"
   [dependencies.okzoomer]
@@ -812,7 +821,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.quick-shulker]
     name = "quick-shulker"
-    version = "60958d0c-7f145"
+    version = "60781428-7f145"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -848,7 +857,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.ringofattraction]
     name = "ringofattraction"
-    version = "60958d14-31696"
+    version = "60781428-31696"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -893,7 +902,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.slimyfloor]
     name = "slimyfloor"
-    version = "60958d16-20328"
+    version = "60781428-20328"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -953,7 +962,7 @@ lockfileVersion = 1
     Sha256 = "a5202cf60156641dd615c7f4c5a65152665e10e9c45909cf48ca04b84fe63b9f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn-energy@0.1.1-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = "lifts"
+    dependend = "techreborn"
   [dependencies.terrestria]
     name = "terrestria"
     version = "2.2.0-0.mpkg.1"
@@ -965,7 +974,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.tinytweaks]
     name = "tinytweaks"
-    version = "60958d23-bbc3d"
+    version = "60781428-bbc3d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -1028,7 +1037,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.villagernames]
     name = "villagernames"
-    version = "60958d29-1029ed"
+    version = "60781428-1029ed"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -1064,7 +1073,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.winged]
     name = "winged"
-    version = "60958d2d-1768bb"
+    version = "60781428-1768bb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -1100,7 +1109,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.xaeros-minimap]
     name = "xaeros-minimap"
-    version = "609c3f30-c444b"
+    version = "609c3edb-c444b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -1109,7 +1118,7 @@ lockfileVersion = 1
     dependend = "_root"
   [dependencies.xaeros-worldmap]
     name = "xaeros-worldmap"
-    version = "609c3f31-6f346"
+    version = "609c3ec9-6f346"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
