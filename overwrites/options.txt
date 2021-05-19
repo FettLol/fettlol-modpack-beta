@@ -139,10 +139,14 @@ key_key.waila.show_overlay:key.keyboard.unknown
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
-key_key.miskatonicmysteries.hud:key.keyboard.r
-key_key.miskatonicmysteries.quick_cast:key.keyboard.y
+key_key.mousewheelie.open_config_screen:key.keyboard.unknown
+key_key.mousewheelie.sort_inventory:key.mouse.middle
+key_key.mousewheelie.scroll_up:amecsapi.key.mouse.scroll.up
+key_key.mousewheelie.scroll_down:amecsapi.key.mouse.scroll.down
+key_key.mousewheelie.pick_tool:key.keyboard.unknown
+key_key.miskatonicmysteries.select_spell:key.keyboard.r
+key_key.miskatonicmysteries.cast:key.keyboard.g
 key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_key.toggle_focus.desc:key.keyboard.unknown
 key_key.okzoomer.zoom:key.keyboard.c
 key_key.okzoomer.decrease_zoom:key.keyboard.unknown
 key_key.okzoomer.increase_zoom:key.keyboard.unknown

@@ -1,4 +1,5 @@
 {
+  "configVersion": 1,
   "general": {
     "displayTooltip": true,
     "shiftForDetails": false,
@@ -13,13 +14,13 @@
   "overlay": {
     "position": {
       "x": 0,
-      "y": 35,
+      "y": 20,
       "alignX": "CENTER",
-      "alignY": "MIDDLE",
+      "alignY": "TOP",
       "anchorX": "CENTER",
       "anchorY": "TOP"
     },
-    "scale": 0.95,
+    "scale": 0.9,
     "color": {
       "alpha": 80,
       "themes": [
@@ -42,10 +43,10 @@
     }
   },
   "formatting": {
-    "modName": "§3§o%s",
+    "modName": "§9§o%s",
     "blockName": "§f%s",
-    "fluidName": "§b%s",
-    "entityName": "§7%s",
-    "registryName": "§6%s"
+    "fluidName": "§f%s",
+    "entityName": "§f%s",
+    "registryName": "§8%s"
   }
 }

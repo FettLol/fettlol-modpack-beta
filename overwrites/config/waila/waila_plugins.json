@@ -18,6 +18,7 @@
   "waila": {
     "show_pos": false,
     "show_blocks": true,
+    "show_registry": false,
     "show_mod_name": false,
     "show_fluids": false,
     "show_entity_hp": true,
