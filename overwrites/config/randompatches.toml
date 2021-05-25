@@ -23,10 +23,10 @@
 	# Min: 1.4E-45
 	# Max: 260.0
 	# Default: 1.0
-	framerate_limit_slider_step_size = 1.0
+	framerate_limit_slider_step_size = 5.0
 	# Causes Minecraft to show the main menu screen after disconnecting rather than the Realms or multiplayer screen.
 	# Default: false
-	return_to_main_menu_after_disconnect = false
+	return_to_main_menu_after_disconnect = true
 	# Gives capes to RandomPatches contributors.
 	# Default: true
 	contributor_capes = true
@@ -64,7 +64,7 @@
 		# The dismount key binding.
 		# This allows the dismount key to be different from the sneak key.
 		# Default: true
-		dismount = false
+		dismount = true
 		# The narrator toggle key binding.
 		# This fixes MC-122645: https://bugs.mojang.com/browse/MC-122645
 		# Default: true
@@ -86,7 +86,7 @@
 		# Allows double-tap sprinting while flying.
 		# This fixes MC-68453: https://bugs.mojang.com/browse/MC-68453
 		# Default: true
-		double_tap_sprinting_while_flying = false
+		double_tap_sprinting_while_flying = true
 
 	# Options related to the Minecraft window.
 	[client.window]
@@ -102,7 +102,7 @@
 		#  - ${modversion:modid}: The version of the mod with the specified ID.
 		# '$' can be escaped by using an extra '$'.
 		# Default: "Minecraft ${mcversion}"
-		title = "Minecraft ${mcversion} - Fettlol Modpack"
+		title = "Fettlol Modpack - Minecraft ${mcversion}"
 		# The Minecraft window title that also takes into account the current activity.
 		# Variables:
 		#  - ${mcversion}: The Minecraft version
@@ -112,7 +112,7 @@
 		#  - ${modversion:modid}: The version of the mod with the specified ID.
 		# '$' can be escaped by using an extra '$'.
 		# Default: "Minecraft ${mcversion} - ${activity}"
-		title_with_activity = "Minecraft ${mcversion} - ${activity}"
+		title_with_activity = "Fettlol Modpack - ${activity}"
 		# Enables custom Minecraft window icons.
 		# Default: true
 		custom_icon = true
@@ -120,16 +120,16 @@
 		# Forward slashes should be used even on Windows to preserve compatibility with other platforms.
 		# Backward slashes will automatically be replaced.
 		# Default: ""
-		icon_16x16 = ""
+		icon_16x16 = "img/fettlol-16.png"
 		# The path to the 16x16 Minecraft window icon relative to the Minecraft instance directory.
 		# Forward slashes should be used even on Windows to preserve compatibility with other platforms.
 		# Backward slashes will automatically be replaced.
 		# Default: ""
-		icon_32x32 = ""
+		icon_32x32 = "img/fettlol-32.png"
 		# The path to the 256x256 Minecraft window icon relative to the Minecraft instance directory.
 		# This is only used on Mac OS X.
 		# Default: ""
-		icon_256x256 = ""
+		icon_256x256 = "img/fettlol-256.png"
 
 # Options related to connection timeouts.
 [connection_timeouts]
@@ -138,7 +138,7 @@
 	# Min: 1
 	# Max: 2147483647
 	# Default: 120
-	read_timeout_seconds = 120
+	read_timeout_seconds = 180
 	# The login timeout in ticks.
 	# Min: 1
 	# Max: 2147483647
@@ -148,14 +148,14 @@
 	# Min: 1
 	# Max: 2147483647
 	# Default: 15
-	keep_alive_packet_interval_seconds = 15
+	keep_alive_packet_interval_seconds = 20
 	# The KeepAlive timeout in seconds.
 	# This is how long the server waits for a player to return a KeepAlive packet before disconnecting them.
 	# This is automatically rounded up to a multiple of the KeepAlive packet interval.
 	# Min: 1
 	# Max: 2147483647
 	# Default: 120
-	keep_alive_timeout_seconds = 120
+	keep_alive_timeout_seconds = 180
 
 # Options related to packet size limits.
 [packet_size_limits]
@@ -191,19 +191,19 @@
 	# Min: 0.0
 	# Max: 3.4028235E38
 	# Default: 1000000.0
-	default_max_speed = 1000000.0
+	default_max_speed = 10000.0
 	# The maximum player elytra speed.
 	# The vanilla default is 300.0.
 	# Min: 0.0
 	# Max: 3.4028235E38
 	# Default: 1000000.0
-	max_elytra_speed = 1000000.0
+	max_elytra_speed = 10000.0
 	# The maximum player vehicle speed.
 	# The vanilla default is 100.0.
 	# Min: 0.0
 	# Max: 1.7976931348623157E308
 	# Default: 1000000.0
-	max_vehicle_speed = 1000000.0
+	max_vehicle_speed = 10000.0
 
 # Miscellaneous options.
 [misc]
@@ -211,13 +211,13 @@
 	# The vanilla default is -0.0007.
 	# Setting this to a positive value allows boats to float up when they move into a higher block of water, fixing MC-91206: https://bugs.mojang.com/browse/MC-91206
 	# Default: 0.023
-	boat_buoyancy_under_flowing_water = 0.023
+	boat_buoyancy_under_flowing_water = 0.05
 	# How long it takes in ticks for a boat passenger to be ejected when underwater.
 	# Set this to -1 to disable underwater boat passenger ejection.
 	# Min: -1
 	# Max: 2147483647
 	# Default: 60
-	underwater_boat_passenger_ejection_delay_ticks = 60
+	underwater_boat_passenger_ejection_delay_ticks = -1
 	# The name of the command that reloads this configuration from disk.
 	# Set this to an empty string to disable the command.
 	# Changes to this option are applied when a server is loaded.

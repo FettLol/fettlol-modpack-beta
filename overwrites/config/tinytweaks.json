@@ -8,8 +8,8 @@
   },
   "rejuvenation": {
     "enabled": true,
-    "grassGrowthRate": 5.0E-4,
-    "thePowerOfFriendship": 2.0,
+    "grassGrowthRate": 0.001,
+    "thePowerOfFriendship": 1.75,
     "longGrass": 0.005,
     "saplings": true
   },
@@ -22,17 +22,17 @@
     "climb": false,
     "treeClimbingSpeed": 0.75
   },
-  "leafDecaySpeed": 1,
+  "leafDecaySpeed": 5,
   "betterLilyPads": true,
   "farmerVillagerAutomation": true,
   "animalsEatOffGround": true,
-  "animalsEatCrops": false,
+  "animalsEatCrops": true,
   "netherRejuvenation": {
     "enabled": true,
     "rootsGrowthRate": 0.005,
     "thePowerOfFriendship": 1.25,
     "sproutRootsRatio": 75,
-    "vinesChance": 0.05
+    "vinesChance": 0.005
   },
   "blueSoulFireEffects": true,
   "soulFireDoesMoreDamage": false,
@@ -45,7 +45,7 @@
     "containerLabels": true,
     "labelScale": 50
   },
-  "mossyThings": true,
+  "mossyThings": false,
   "burningLogsDropCharcoal": true,
   "doubleDoors": true,
   "bubbleColumnsFlow": true,

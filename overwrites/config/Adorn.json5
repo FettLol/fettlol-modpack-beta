@@ -10,7 +10,7 @@
 		// If true, Adorn's Towelette support will be enabled for EP blocks. (warning: resource heavy)
 		"toweletteSupport": false,
 		// If true, enables carpeting for all Adorn chair and table piece blocks (warning: resource heavy).
-		"carpetedEverything": true,
+		"carpetedEverything": false,
 		// A list of piece sets that will have carpeting support.
 		"carpetedPieceSets": []
 	},
@@ -31,7 +31,7 @@
 		"traverse": true,
 		"byg": true,
 		"terrestria": true,
-		"woods_and_mires": true,
+		"woods_and_mires": false,
 		"towelette": false
 	}
 }

@@ -4,5 +4,7 @@ desktop.ini
 
 # Ignore the Minecraft folder created by minepkg
 minecraft/
+
+# Other
 .idea/
 FettLolModpack.iml

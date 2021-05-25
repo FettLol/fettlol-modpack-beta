@@ -68,9 +68,9 @@
   "isSeasonMessingBonemeal": false,
   "defaultCropConfig": {
     "springModifier": 1.0,
-    "summerModifier": 0.8,
-    "fallModifier": 0.6,
-    "winterModifier": 0.0
+    "summerModifier": 0.9,
+    "fallModifier": 0.7,
+    "winterModifier": 0.4
   },
   "cropConfigs": [],
   "doAnimalsBreedsInWinter": true

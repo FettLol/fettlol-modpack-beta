@@ -141,15 +141,15 @@ crimsonMineshaftMinHeight = 8
 warpedMineshaftMinHeight = 8
 
 [RSMineshaftsConfig.maxHeight]
-birchMineshaftMaxHeight = 50
-jungleMineshaftMaxHeight = 50
-desertMineshaftMaxHeight = 50
-stoneMineshaftMaxHeight = 50
-savannaMineshaftMaxHeight = 50
-icyMineshaftMaxHeight = 50
-oceanMineshaftMaxHeight = 30
-taigaMineshaftMaxHeight = 50
-swampAndDarkForestMineshaftMaxHeight = 50
+birchMineshaftMaxHeight = 40
+jungleMineshaftMaxHeight = 40
+desertMineshaftMaxHeight = 40
+stoneMineshaftMaxHeight = 40
+savannaMineshaftMaxHeight = 40
+icyMineshaftMaxHeight = 40
+oceanMineshaftMaxHeight = 40
+taigaMineshaftMaxHeight = 40
+swampAndDarkForestMineshaftMaxHeight = 40
 endMineshaftMaxHeight = 37
 netherMineshaftMaxHeight = 13
 crimsonMineshaftMaxHeight = 13
