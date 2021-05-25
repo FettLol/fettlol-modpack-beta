@@ -26,7 +26,7 @@
   "betterLilyPads": true,
   "farmerVillagerAutomation": true,
   "animalsEatOffGround": true,
-  "animalsEatCrops": true,
+  "animalsEatCrops": false,
   "netherRejuvenation": {
     "enabled": true,
     "rootsGrowthRate": 0.005,
