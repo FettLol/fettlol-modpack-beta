@@ -8,8 +8,8 @@
   },
   "rejuvenation": {
     "enabled": true,
-    "grassGrowthRate": 0.001,
-    "thePowerOfFriendship": 1.75,
+    "grassGrowthRate": 1.0E-4,
+    "thePowerOfFriendship": 1.15,
     "longGrass": 0.005,
     "saplings": true
   },
@@ -22,7 +22,7 @@
     "climb": false,
     "treeClimbingSpeed": 0.75
   },
-  "leafDecaySpeed": 5,
+  "leafDecaySpeed": 10,
   "betterLilyPads": true,
   "farmerVillagerAutomation": true,
   "animalsEatOffGround": true,

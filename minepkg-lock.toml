@@ -612,15 +612,6 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/lonsdaleite@1.0.15-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
-  [dependencies.mcdar]
-    name = "mcdar"
-    version = "60ace28d-38722"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/mcdar-1.1.3.jar"
-    provider = "https"
-    dependend = ""
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
     version = "60ace0d5-1420a0"
@@ -1100,11 +1091,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.wthit]
     name = "wthit"
-    version = "2.10.0-0.mpkg.1"
+    version = "2.10.1-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "ce1f3a026673e1f0c04da7cffbad3562dce3f595f0b5137fa98e543297272ca0"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@2.10.0-0.mpkg.1/download"
+    Sha256 = "0194c261e9ebfc7447f9f05ee34a3687c76be139f285e075fcccc97086b9fe35"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@2.10.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.xaeros-minimap]
