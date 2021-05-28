@@ -22,7 +22,7 @@
     "climb": false,
     "treeClimbingSpeed": 0.75
   },
-  "leafDecaySpeed": 10,
+  "leafDecaySpeed": 1,
   "betterLilyPads": true,
   "farmerVillagerAutomation": true,
   "animalsEatOffGround": true,
