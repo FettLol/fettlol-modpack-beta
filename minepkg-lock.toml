@@ -306,6 +306,15 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/curios@0.0.13-0.mpkg.1+0509/download"
     provider = "minepkg"
     dependend = ""
+  [dependencies.damagetilt]
+    name = "damagetilt"
+    version = "0.1.2-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "77867dfe33bde7d25ff24bbccad49c1017419a0bb0e54c489163bc68aabef1e1"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/damagetilt@0.1.2-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
   [dependencies.dankstorage]
     name = "dankstorage"
     version = "1.10.0-0.mpkg.1.a"
@@ -470,11 +479,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.33-0.mpkg.1"
+    version = "3.0.36-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b7a9c60fdefdc88a3633e2f09fc6ee9b7e56c62e730c2e69f83b5c9792bd6839"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.33-0.mpkg.1/download"
+    Sha256 = "47c8e235ce5d3365d4ff585ceb4904331b6b89cc7bbf89d5a63cabb3a7341281"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.36-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.gentlefawn]
@@ -1001,11 +1010,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.trinkets]
     name = "trinkets"
-    version = "2.6.7-0.mpkg.1"
+    version = "2.6.7-0.mpkg.2"
     type = "mod"
-    ipfsHash = "QmSfFfWJdLmqqUJ4zGgsDFWLAuG1PjydccVXiJC6bnmSZv"
-    Sha256 = "c3b6af457f7bf711484e8493535fb867973296bdb7bfed1789a058851261a243"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/trinkets@2.6.7-0.mpkg.1/download"
+    ipfsHash = ""
+    Sha256 = "f5b7c30ac43b13e7337b3c7a5fbb103a68789eb1fb105b25fecc0d45975f1577"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/trinkets@2.6.7-0.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.truedarkness]
@@ -1019,12 +1028,12 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.untitledduckmod]
     name = "untitledduckmod"
-    version = "60a1b2f1-3fe26"
+    version = "0.2.2-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/untitledduckmod-0.2.1-fabric.jar"
-    provider = "https"
+    Sha256 = "1ce177ab4bd9d41ac2bc1d136bfea7e8ae105ccb2aaa8a24991dd8859d8eef6c"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/untitledduckmod@0.2.2-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
   [dependencies.villagerhats]
     name = "villagerhats"
