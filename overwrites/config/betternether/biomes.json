@@ -11,7 +11,7 @@
                 "max_group_size[def: 6]": 6
               },
               "skull": {
-                "weight[def: 2]": 0,
+                "weight[def: 2]": 1,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 4]": 4
               },
@@ -562,7 +562,7 @@
           "mobs": {
             "betternether": {
               "jungle_skeleton": {
-                "weight[def: 40]": 0,
+                "weight[def: 40]": 1,
                 "min_group_size[def: 2]": 2,
                 "max_group_size[def: 4]": 4
               },
