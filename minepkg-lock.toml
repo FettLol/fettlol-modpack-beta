@@ -506,12 +506,12 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.go-fish]
     name = "go-fish"
-    version = "1.2.1-0.mpkg.1.beta"
+    version = "60b7c8bb-7c74a"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "45dfc863e92fbacd798f7869907df42915dc3bfd88df7a23719c115bb26b5f82"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/go-fish@1.2.1-0.mpkg.1.beta/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/go-fish-1.2.3-beta-1.16.5.jar"
+    provider = "https"
     dependend = ""
   [dependencies.horseinfo]
     name = "horseinfo"
@@ -792,15 +792,6 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.0.1/download"
     provider = "minepkg"
     dependend = ""
-  [dependencies.phosphor]
-    name = "phosphor"
-    version = "0.7.2-0.mpkg.1.SNAPSHOT"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "a8c7cf8d0d9e2c20111100159e62c59e915c3da6548784ffcd2fb7f926c8ac0a"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/phosphor@0.7.2-0.mpkg.1.SNAPSHOT/download"
-    provider = "minepkg"
-    dependend = ""
   [dependencies.polymorph]
     name = "polymorph"
     version = "0.0.10-0.mpkg.1+0131"
@@ -934,6 +925,15 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = "b386b1722788541549f5a790edee84df1a5fb925cf88e45b696b1736cdd281fb"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/spark@1.5.2-0.mpkg.2/download"
+    provider = "minepkg"
+    dependend = ""
+  [dependencies.starlight]
+    name = "starlight"
+    version = "1.0.0-0.mpkg.1.RC2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "0fb1ba5d66260c238b15b303dc98678a0dc756a9661433cfb15cf226986299f9"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/starlight@1.0.0-0.mpkg.1.RC2/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.stoneholm]
