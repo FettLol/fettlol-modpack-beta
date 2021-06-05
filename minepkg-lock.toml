@@ -452,11 +452,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.0.16"
+    version = "1.0.17"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "0f2db70b22e9fcc8012264402f1d9d13d9ffb391f5fd8a08aa64268bd4b0a231"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.0.16/download"
+    Sha256 = "0a981fcc5798f8e67575d297a421c22a8f34b7fc2e8ea6f1c0914eddb42f6ac5"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.0.17/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.flonters]
