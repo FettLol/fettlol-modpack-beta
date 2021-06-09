@@ -1,5 +1,7 @@
 {
+	// When set to true, a tree will only be chopped down if the player is sneaking.
 	"reverseSneaking": false,
+	// When set to true, the mod will cut down trees in creative too.
 	"breakInCreative": true,
 	"trees": {
 		"whitelistedLogs": [],
@@ -7,12 +9,12 @@
 		"whitelistedLeaves": [],
 		"whitelistedNonDecayLeaves": [],
 		"blacklistedLeaves": [],
-		"breakMode": "SHIFT_DOWN",
-		"detectionMode": "ABOVE_Y",
+		"breakMode": "INSTANTANEOUS",
+		"detectionMode": "WHOLE_TREE",
 		"maxSize": 256,
 		"minimumLeavesAroundRequired": 1,
 		"treeBreaking": true,
-		"leavesBreaking": true,
+		"leavesBreaking": false,
 		"leavesBreakingForceRadius": 0,
 		"allowMixedLogs": false,
 		"breakNetherTreeWarts": true,
