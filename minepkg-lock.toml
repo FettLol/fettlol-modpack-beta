@@ -5,7 +5,7 @@ lockfileVersion = 1
 
 [fabric]
   minecraft = "1.16.5"
-  fabricLoader = "0.11.3"
+  fabricLoader = "0.11.6"
   mapping = "1.16.5+build.9"
 
 [dependencies]
@@ -522,15 +522,6 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/illuminations-1.5.jar"
     provider = "https"
     dependend = ""
-  [dependencies.indium]
-    name = "indium"
-    version = "1.0.0-0.mpkg.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "5a0bbaf126777c9ae9c27db4c05b208d8c61f49d51f656618080eceea64204f1"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/indium@1.0.0-0.mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
   [dependencies.infinitywaterbucket]
     name = "infinitywaterbucket"
     version = "1.3.0-0.mpkg.1"
@@ -547,6 +538,15 @@ lockfileVersion = 1
     ipfsHash = "QmVC4SwrfwGzyPXRMv58jdP4sPjT2jhRVtBxt252jdrdhM"
     Sha256 = "923abf04448ad52bda085540c330350bdb918e852a1b7a93ee1a4d94eb6f543d"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/inventory-profiles@0.4.2-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+  [dependencies.iris]
+    name = "iris"
+    version = "1.0.0-0.rc1.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "5767a07922d45a793c2b3ea8b41c68232c159cc0ce231a97e41ea15c73b1954a"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/iris@1.0.0-0.rc1.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.keepheadnames]
@@ -891,13 +891,13 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/slimyfloor-1.0.0%2B1.16.x.jar"
     provider = "https"
     dependend = ""
-  [dependencies.sodium]
-    name = "sodium"
-    version = "0.2.0-0.mpkg.1.next.rev.d87da3c"
+  [dependencies.sodium-iris]
+    name = "sodium-iris"
+    version = "0.2.0-0.iris.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "12f456e7d308192369f6275f8c80aa1e7042647fa60822187d1875e222439180"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.2.0-0.mpkg.1.next.rev.d87da3c/download"
+    Sha256 = "f9ef5a8abc0b33fd9cac840cf537af85abb520cf293601397cfdb6a016fd1391"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium-iris@0.2.0-0.iris.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.spark]
