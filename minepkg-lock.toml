@@ -11,11 +11,11 @@ lockfileVersion = 1
 [dependencies]
   [dependencies.adorn]
     name = "adorn"
-    version = "1.14.0-0.mpkg.2.beta.1"
+    version = "1.14.1-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "6c1cd0ef53e49198e6cee637f6dcaf51cc2cf5e54547d58710dc9db50a2d984b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@1.14.0-0.mpkg.2.beta.1/download"
+    Sha256 = "8fa6632e13a65fb1d73d4ba49fd4d1ee8a1e500decba3dabd671b216139a4d35"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@1.14.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.advancements-debug]
@@ -83,11 +83,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.axesareweapons]
     name = "axesareweapons"
-    version = "1.1.1"
+    version = "1.1.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "1196776c5fb1e6b0c219694fcac9a364ed21a1bcdcac1dbdc2b9d777ba093c0f"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.1.1/download"
+    Sha256 = "963959610523bfea59a600b4187b3ab5430e8407b38398fc81f1405d65fa306c"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.1.2/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.battle-towers]
@@ -233,15 +233,6 @@ lockfileVersion = 1
     Sha256 = "bd7d82c87896138bb1b6dfbe0a0025873d441153b59f7e4d4d69be8fbac66aaa"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/chillager@1.1.0-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = ""
-  [dependencies.chisel-decor]
-    name = "chisel-decor"
-    version = "60bbd143-599e5"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/chiseldecor-1.16.5-1.1.3.jar"
-    provider = "https"
     dependend = ""
   [dependencies.cinderscapes]
     name = "cinderscapes"
@@ -423,15 +414,6 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.0-0.mpkg.1.kotlin.1.5.0/download"
     provider = "minepkg"
     dependend = ""
-  [dependencies.fadeinchunks]
-    name = "fadeinchunks"
-    version = "1.0.0-0.mpkg.2"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "3fef15dca66525dbda8668ff2a335dc14e31410092775ef1bb40dccfac68f004"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fadeinchunks@1.0.0-0.mpkg.2/download"
-    provider = "minepkg"
-    dependend = ""
   [dependencies.fallingleaves]
     name = "fallingleaves"
     version = "1.6.0"
@@ -569,11 +551,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.keepheadnames]
     name = "keepheadnames"
-    version = "1.2.1"
+    version = "1.2.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "093aa1f2ffdf6e2340aff41f9b90a2eb6aca17a06418e1fd8d1a8cb6eb9b52db"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.2.1/download"
+    Sha256 = "2646725f7642b34a2df5f1134bed14e1900a8a6317340189c29c766661074dcb"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.2.2/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.lambdynamiclights]
@@ -785,11 +767,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.perfectaccuracy]
     name = "perfectaccuracy"
-    version = "1.0.1"
+    version = "1.0.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "fa11636df201ff88bd3af4d4dae73ff84238381afb795f27d61b7ff3106d2665"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.0.1/download"
+    Sha256 = "661e14fdcf605b6523859fa274d1c953fa964d276757d1900780805a3b99947f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.0.2/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.polymorph]
@@ -911,11 +893,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.sodium]
     name = "sodium"
-    version = "0.1.1-next.3"
+    version = "0.2.0-0.mpkg.1.next.rev.d87da3c"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "dc164efba828feb17a17a11200e253c09f5b207e1642c5be9016cca2d4d14189"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.1.1-next.3/download"
+    Sha256 = "12f456e7d308192369f6275f8c80aa1e7042647fa60822187d1875e222439180"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.2.0-0.mpkg.1.next.rev.d87da3c/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.spark]
@@ -947,11 +929,11 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.taxfreelevels]
     name = "taxfreelevels"
-    version = "1.1.1"
+    version = "1.1.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "9bed3ef4f39318d7ae59dc698be3776cb8d42435ca72aee0871b6d76963ad546"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.1.1/download"
+    Sha256 = "e01964d49436ac0647afe207c9dd8fd05963b5823dfdb1caecfeff39417a7bdc"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.1.2/download"
     provider = "minepkg"
     dependend = ""
   [dependencies.techreborn]

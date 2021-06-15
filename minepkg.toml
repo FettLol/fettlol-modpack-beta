@@ -58,7 +58,6 @@ manifestVersion = 0
   expandedstorage = "^5.6.33-0.mpkg.1"
   extra-generators = "^1.0.1-0.mpkg.1.BETA"
   fabric-language-kotlin = "^1.6.0-0.mpkg.1"
-  fadeinchunks = "^1.0.0-0.mpkg.2"
   fallingleaves = "^1.6.0"
   fallingtree = "^1.16.5-0.mpkg.1.2.11.3"
   fettlol-utilmod = "^1.0.17"
