@@ -333,6 +333,15 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.3-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+  [dependencies.defaultsettings]
+    name = "defaultsettings"
+    version = "60c9d48b-1afc2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/DefaultSettings-1.16.x-3.0.2.jar"
+    provider = "https"
+    dependend = ""
   [dependencies.discerning-furnace]
     name = "discerning-furnace"
     version = "1.0.1-0.mpkg.1"

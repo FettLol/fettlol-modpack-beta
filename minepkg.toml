@@ -50,6 +50,7 @@ manifestVersion = 0
   damagetilt = "^0.1.2-0.mpkg.1"
   dankstorage = "https://www.brekitomasson.com/fettlol/mods/dankstorage-1.9a-1.16.3.jar"
   dark-loading-screen = "^1.6.3-0.mpkg.1"
+  defaultsettings = "https://www.brekitomasson.com/fettlol/mods/DefaultSettings-1.16.x-3.0.2.jar"
   discerning-furnace = "^1.0.1-0.mpkg.1"
   ducts = "https://www.brekitomasson.com/fettlol/mods/ducts-1.0.4.jar"
   earth2java = "^1.7.0-0.mpkg.1"
