@@ -11,7 +11,7 @@ lockfileVersion = 1
 [dependencies]
   [dependencies.advancements-debug]
     name = "advancements-debug"
-    version = "60c14d7e-2b6d"
+    version = "60c90ddc-2b6d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -20,7 +20,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.architectury]
     name = "architectury"
-    version = "60c25e50-73c2f"
+    version = "60c90ddc-73c2f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -29,7 +29,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.autopath]
     name = "autopath"
-    version = "60c7b319-e37eb"
+    version = "60c90ddc-e37eb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -38,7 +38,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.axesareweapons]
     name = "axesareweapons"
-    version = "60c11774-399e"
+    version = "60c90ddc-399e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -47,7 +47,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.bedspreads]
     name = "bedspreads"
-    version = "60c38611-124c9"
+    version = "60c90ddc-124c9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -56,7 +56,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.beenfo]
     name = "beenfo"
-    version = "60c3e70b-45662"
+    version = "60c90ddc-45662"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -65,7 +65,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.better-dropped-items]
     name = "better-dropped-items"
-    version = "60c45243-c289"
+    version = "60c90ddc-c289"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -74,7 +74,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.blame]
     name = "blame"
-    version = "60c5ea9d-153a4"
+    version = "60c90ddc-153a4"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -83,7 +83,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.builtin-servers]
     name = "builtin-servers"
-    version = "60c07123-bb43"
+    version = "60c90ddc-bb43"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -92,7 +92,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.cloth-config]
     name = "cloth-config"
-    version = "60c69c46-f182f"
+    version = "60c90ddc-f182f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -101,7 +101,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.coloredslime]
     name = "coloredslime"
-    version = "60c10733-18d19"
+    version = "60c90ddc-18d19"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -110,7 +110,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.croptopia]
     name = "croptopia"
-    version = "60c070ce-1dc769"
+    version = "60c90ddc-1dc769"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -119,7 +119,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.damagetilt]
     name = "damagetilt"
-    version = "60c384e5-6990"
+    version = "60c90ddc-6990"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -128,7 +128,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.dankstorage]
     name = "dankstorage"
-    version = "60c5e89c-29110"
+    version = "60c90ddc-29110"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -137,7 +137,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "60c3de75-9394"
+    version = "60c90ddc-9394"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -146,7 +146,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.discerning-furnace]
     name = "discerning-furnace"
-    version = "60c1aca9-409d"
+    version = "60c90ddc-409d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -155,7 +155,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.ducts]
     name = "ducts"
-    version = "60c04177-bdebe"
+    version = "60c90ddc-bdebe"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -164,7 +164,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.earth2java]
     name = "earth2java"
-    version = "60c06ef5-3e1746"
+    version = "60c90ddc-3e1746"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -173,7 +173,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "60c04162-1c90cb"
+    version = "60c90ddc-1c90cb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -182,7 +182,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.expandedstorage]
     name = "expandedstorage"
-    version = "60c5e8c0-5ec67"
+    version = "60c90ddc-5ec67"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -191,7 +191,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.fabric-api]
     name = "fabric-api"
-    version = "60c5626b-e6455"
+    version = "60c90ddc-e6455"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -209,7 +209,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.fallingleaves]
     name = "fallingleaves"
-    version = "60c06e84-40657"
+    version = "60c90ddc-40657"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -218,7 +218,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.fallingtree]
     name = "fallingtree"
-    version = "60c5621a-1182e5"
+    version = "60c90ddc-1182e5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -227,7 +227,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "60c14481-e4f5b5"
+    version = "60c90ddc-e4f5b5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -236,7 +236,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.geckolib]
     name = "geckolib"
-    version = "60c04bca-36357f"
+    version = "60c90ddc-36357f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -245,7 +245,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.horsestatsvanilla]
     name = "horsestatsvanilla"
-    version = "60c5e82e-14bc56"
+    version = "60c90ddc-14bc56"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -254,7 +254,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.infinitywaterbucket]
     name = "infinitywaterbucket"
-    version = "60c04137-2330"
+    version = "60c90ddc-2330"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -263,7 +263,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.keepheadnames]
     name = "keepheadnames"
-    version = "60c1175a-85e6"
+    version = "60c90ddc-85e6"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -272,7 +272,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.krypton]
     name = "krypton"
-    version = "60c04c79-1f10c"
+    version = "60c90ddc-1f10c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -281,16 +281,25 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.lambdynamiclights]
     name = "lambdynamiclights"
-    version = "60c06eaf-822d7"
+    version = "60c90ddc-822d7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/lambdynamiclights-2.0.0+1.17.jar"
     provider = "https"
     dependend = ""
+  [dependencies.lightoverlay]
+    name = "lightoverlay"
+    version = "60c90e5c-e799"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/light-overlay-6.0.0-fabric.jar"
+    provider = "https"
+    dependend = ""
   [dependencies.lithium]
     name = "lithium"
-    version = "60c04079-61b08"
+    version = "60c90ddc-61b08"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -299,7 +308,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "60c64e88-1507fb"
+    version = "60c90ddc-1507fb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -308,7 +317,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "60c25e63-194a0d"
+    version = "60c90ddc-194a0d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -317,7 +326,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.midas-hunger]
     name = "midas-hunger"
-    version = "60c561d4-103b4"
+    version = "60c90ddc-103b4"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -326,7 +335,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.modmenu]
     name = "modmenu"
-    version = "60c452a8-3d09b"
+    version = "60c90ddc-3d09b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -335,7 +344,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.moreberries]
     name = "moreberries"
-    version = "60c385e1-5dcf0"
+    version = "60c90ddc-5dcf0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -344,7 +353,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.morevillagers]
     name = "morevillagers"
-    version = "60c25e1d-3661f"
+    version = "60c90ddc-3661f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -353,7 +362,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
-    version = "60c1d929-4b523"
+    version = "60c90ddc-4b523"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -362,7 +371,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.npcvariety]
     name = "npcvariety"
-    version = "60c14ccf-57fe5"
+    version = "60c90ddc-57fe5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -371,7 +380,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.packages]
     name = "packages"
-    version = "60c38476-1f8c8"
+    version = "60c90ddc-1f8c8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -380,7 +389,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.perfectaccuracy]
     name = "perfectaccuracy"
-    version = "60c69c0c-327d8"
+    version = "60c90ddc-327d8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -389,7 +398,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.presence-footsteps]
     name = "presence-footsteps"
-    version = "60c117be-6e2ff3"
+    version = "60c90ddc-6e2ff3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -398,7 +407,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.ringofattraction]
     name = "ringofattraction"
-    version = "60c380a3-3a3e"
+    version = "60c90ddc-3a3e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -407,7 +416,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.riverredux]
     name = "riverredux"
-    version = "60c06d5c-f239"
+    version = "60c90ddc-f239"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -416,16 +425,25 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "60c7b29f-11c349"
+    version = "60c90ddc-11c349"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/RoughlyEnoughItems-6.0.251-alpha-fabric.jar"
     provider = "https"
     dependend = ""
+  [dependencies.seasons]
+    name = "seasons"
+    version = "60c90ede-3db14"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/fabric-seasons-1.2.2-BETA+1.17.jar"
+    provider = "https"
+    dependend = ""
   [dependencies.sheepconsistency]
     name = "sheepconsistency"
-    version = "60c70031-497b"
+    version = "60c90ddc-497b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -434,7 +452,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.spark]
     name = "spark"
-    version = "60c5ef8a-26fabf"
+    version = "60c90ddc-26fabf"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -443,7 +461,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.stoneholm]
     name = "stoneholm"
-    version = "60c7b2cd-3a545"
+    version = "60c90ddc-3a545"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -452,7 +470,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.taxfreelevels]
     name = "taxfreelevels"
-    version = "60c11640-2847"
+    version = "60c90ddc-2847"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -461,7 +479,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.techreborn]
     name = "techreborn"
-    version = "60c73709-3a3c07"
+    version = "60c90ddc-3a3c07"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -470,7 +488,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.transliterationlib]
     name = "transliterationlib"
-    version = "60c1d96d-f0475"
+    version = "60c90ddc-f0475"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -479,7 +497,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.villagernames]
     name = "villagernames"
-    version = "60c03b8b-14bb94"
+    version = "60c90ddc-14bb94"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -488,7 +506,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.waystones]
     name = "waystones"
-    version = "60c67241-30142"
+    version = "60c90ddc-30142"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -497,7 +515,7 @@ lockfileVersion = 1
     dependend = ""
   [dependencies.wthit]
     name = "wthit"
-    version = "60c64ecf-373ea"
+    version = "60c90ddc-373ea"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
