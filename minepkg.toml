@@ -1,3 +1,5 @@
+
+# Preview of the minepkg.toml format! Could break anytime!
 manifestVersion = 0
 
 [package]
@@ -9,6 +11,7 @@ manifestVersion = 0
   license = "MIT"
   author = "Breki Tomasson <breki.tomasson@gmail.com>"
 
+# These are global requirements
 [requirements]
   minecraft = "1.16.5"
   fabric = "*"
@@ -76,7 +79,7 @@ manifestVersion = 0
   iris = "^1.0.0-0.rc1.mpkg.1"
   keepheadnames = "^1.2.1"
   lambdynamiclights = "^1.3.4"
-  lifts = "^1.1.0"
+  lifts = "^1.1.1-0.mpkg.2.BETA"
   lightoverlay = "^5.8.0-0.mpkg.1"
   lithium = "^0.6.4-next"
   lonsdaleite = "^1.0.15-0.mpkg.1"

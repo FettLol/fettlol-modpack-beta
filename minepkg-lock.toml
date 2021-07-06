@@ -9,6 +9,7 @@ lockfileVersion = 1
   mapping = "1.16.5+build.9"
 
 [dependencies]
+
   [dependencies.adorn]
     name = "adorn"
     version = "1.14.1-0.mpkg.1"
@@ -18,6 +19,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@1.14.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.advancements-debug]
     name = "advancements-debug"
     version = "2.2.0-0.mpkg.1"
@@ -27,6 +29,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/advancements-debug@2.2.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.advancements-enlarger]
     name = "advancements-enlarger"
     version = "0.2.3-0.mpkg.1"
@@ -36,6 +39,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/advancements-enlarger@0.2.3-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.alaska-nativecraft]
     name = "alaska-nativecraft"
     version = "60bbd1e2-8c996"
@@ -45,6 +49,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/alaskanativecraft-1.2.2.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.amecs]
     name = "amecs"
     version = "1.3.4-0.mpkg.1"
@@ -54,6 +59,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/amecs@1.3.4-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.appleskin]
     name = "appleskin"
     version = "1.0.11"
@@ -63,6 +69,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@1.0.11/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.appliedenergistics2]
     name = "appliedenergistics2"
     version = "8.3.0-0.mpkg.1.alpha.2"
@@ -72,6 +79,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/appliedenergistics2@8.3.0-0.mpkg.1.alpha.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.architectury]
     name = "architectury"
     version = "1.14.0-0.mpkg.1+0515"
@@ -81,6 +89,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@1.14.0-0.mpkg.1+0515/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.axesareweapons]
     name = "axesareweapons"
     version = "1.1.2"
@@ -90,6 +99,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.1.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.battle-towers]
     name = "battle-towers"
     version = "3.3.4"
@@ -99,6 +109,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/battle-towers@3.3.4/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.bedspreads]
     name = "bedspreads"
     version = "1.3.1-0.mpkg.1"
@@ -108,6 +119,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/bedspreads@1.3.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.better-dropped-items]
     name = "better-dropped-items"
     version = "1.2.4-0.minepkg.1"
@@ -117,6 +129,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/better-dropped-items@1.2.4-0.minepkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.better-enchanted-books]
     name = "better-enchanted-books"
     version = "1.2.8-0.mpkg.1"
@@ -126,6 +139,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/better-enchanted-books@1.2.8-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.better-ping-display]
     name = "better-ping-display"
     version = "1.1.0-0.mpkg.1"
@@ -135,6 +149,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/better-ping-display@1.1.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.betterend]
     name = "betterend"
     version = "60915d63-4d1893a"
@@ -144,6 +159,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/better-end-0.9.5-pre.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.betternether]
     name = "betternether"
     version = "5.0.8"
@@ -153,6 +169,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/betternether@5.0.8/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.biome-makeover]
     name = "biome-makeover"
     version = "608c99d7-5fa601"
@@ -162,6 +179,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/biome-makeover-1.16.5-1.3.8.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.blame]
     name = "blame"
     version = "1.16.5-0.mpkg.1.3.0.1"
@@ -171,6 +189,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/blame@1.16.5-0.mpkg.1.3.0.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.blur]
     name = "blur"
     version = "2.1.0-0.mpkg.1"
@@ -180,6 +199,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/blur@2.1.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.breakprogress]
     name = "breakprogress"
     version = "60781426-1724"
@@ -189,6 +209,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/breakprogress-1.0.1.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.byg]
     name = "byg"
     version = "60a1b35c-a87125"
@@ -198,6 +219,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/byg-1.1.8.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.cca]
     name = "cca"
     version = "2.8.2-0.mpkg.1"
@@ -207,6 +229,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/cca@2.8.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.charm]
     name = "charm"
     version = "2.3.2-0.mpkg.1"
@@ -216,6 +239,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/charm@2.3.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.chat-heads]
     name = "chat-heads"
     version = "0.2.2-0.mpkg.1"
@@ -225,6 +249,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/chat-heads@0.2.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.chillager]
     name = "chillager"
     version = "1.1.0-0.mpkg.1"
@@ -234,6 +259,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/chillager@1.1.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.cinderscapes]
     name = "cinderscapes"
     version = "1.3.3-0.mpkg.1"
@@ -243,6 +269,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/cinderscapes@1.3.3-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.clear-skies]
     name = "clear-skies"
     version = "1.5.57-0.mpkg.2.snapshot+0208"
@@ -252,6 +279,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/clear-skies@1.5.57-0.mpkg.2.snapshot+0208/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.cloth-config]
     name = "cloth-config"
     version = "60a1b303-f1682"
@@ -261,6 +289,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/cloth-config-4.11.26-fabric.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.coloredslime]
     name = "coloredslime"
     version = "1.1.7"
@@ -270,6 +299,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/coloredslime@1.1.7/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.cotton]
     name = "cotton"
     version = "1.1.0-0.mpkg.1"
@@ -279,6 +309,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/cotton@1.1.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.crimsonmoon]
     name = "crimsonmoon"
     version = "2.0.4-0.mpkg.1"
@@ -288,6 +319,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/crimsonmoon@2.0.4-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.croptopia]
     name = "croptopia"
     version = "1.4.0-0.mpkg.3"
@@ -297,6 +329,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/croptopia@1.4.0-0.mpkg.3/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.curios]
     name = "curios"
     version = "0.0.13-0.mpkg.1+0509"
@@ -306,6 +339,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/curios@0.0.13-0.mpkg.1+0509/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.damagetilt]
     name = "damagetilt"
     version = "0.1.2-0.mpkg.1"
@@ -315,6 +349,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/damagetilt@0.1.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.dankstorage]
     name = "dankstorage"
     version = "60bb93f8-296ee"
@@ -324,6 +359,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/dankstorage-1.9a-1.16.3.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
     version = "1.6.3-0.mpkg.1"
@@ -333,15 +369,17 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.3-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.defaultsettings]
     name = "defaultsettings"
-    version = "60c9d48b-1afc2"
+    version = "60e4b837-1afc2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/DefaultSettings-1.16.x-3.0.2.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.discerning-furnace]
     name = "discerning-furnace"
     version = "1.0.1-0.mpkg.1"
@@ -351,6 +389,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/discerning-furnace@1.0.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.ducts]
     name = "ducts"
     version = "60781427-b8b4a"
@@ -360,6 +399,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/ducts-1.0.4.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.earth2java]
     name = "earth2java"
     version = "1.7.0-0.mpkg.1"
@@ -369,6 +409,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/earth2java@1.7.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.emotecraft]
     name = "emotecraft"
     version = "60a1b315-1c6fa0"
@@ -378,6 +419,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/emotecraft-for-MC1.16.5-2.0.4-fabric.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.expanded-concrete]
     name = "expanded-concrete"
     version = "60781427-3236b"
@@ -387,6 +429,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/expanded-concrete-0.0.2.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.expandedstorage]
     name = "expandedstorage"
     version = "5.6.33-0.mpkg.1"
@@ -396,6 +439,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/expandedstorage@5.6.33-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.extra-generators]
     name = "extra-generators"
     version = "1.0.1-0.mpkg.1.BETA"
@@ -405,6 +449,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/extra-generators@1.0.1-0.mpkg.1.BETA/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.fabric]
     name = "fabric"
     version = "0.34.1"
@@ -413,7 +458,8 @@ lockfileVersion = 1
     Sha256 = "85684c19837fc5028b47278e23fae7391e4e40f4d88cdbe927f8202ab6f3b63e"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.34.1/download"
     provider = "minepkg"
-    dependend = ""
+    dependend = "betternether"
+
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "1.6.0-0.mpkg.1.kotlin.1.5.0"
@@ -423,6 +469,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.0-0.mpkg.1.kotlin.1.5.0/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.fallingleaves]
     name = "fallingleaves"
     version = "1.6.0"
@@ -432,6 +479,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.6.0/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.fallingtree]
     name = "fallingtree"
     version = "1.16.5-0.mpkg.1.2.11.3"
@@ -441,6 +489,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingtree@1.16.5-0.mpkg.1.2.11.3/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
     version = "1.0.17"
@@ -450,6 +499,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.0.17/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.flonters]
     name = "flonters"
     version = "1.1.1-0.mpkg.1"
@@ -459,6 +509,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/flonters@1.1.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.flora-doubling]
     name = "flora-doubling"
     version = "1.3.0-0.mpkg.1"
@@ -468,6 +519,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/flora-doubling@1.3.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.geckolib]
     name = "geckolib"
     version = "3.0.36-0.mpkg.1"
@@ -477,6 +529,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.36-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.gentlefawn]
     name = "gentlefawn"
     version = "60781427-1cdc0"
@@ -486,6 +539,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/GentleFawn-1.1.4-MC1.16.5-fabric.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.gilded-netherite]
     name = "gilded-netherite"
     version = "608f7186-7033c"
@@ -495,6 +549,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/gilded-netherite-fabric-1.6.0.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.go-fish]
     name = "go-fish"
     version = "60b7c8bb-7c74a"
@@ -504,6 +559,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/go-fish-1.2.3-beta-1.16.5.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.horseinfo]
     name = "horseinfo"
     version = "0.2.2-0.mpkg.1"
@@ -513,6 +569,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/horseinfo@0.2.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.horsestatsvanilla]
     name = "horsestatsvanilla"
     version = "4.1.7-0.mpkg.1"
@@ -522,6 +579,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/horsestatsvanilla@4.1.7-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.illuminations]
     name = "illuminations"
     version = "6086a821-902a3"
@@ -531,6 +589,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/illuminations-1.5.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.infinitywaterbucket]
     name = "infinitywaterbucket"
     version = "1.3.0-0.mpkg.1"
@@ -540,6 +599,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/infinitywaterbucket@1.3.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
     version = "0.4.2-0.mpkg.1"
@@ -549,15 +609,17 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/inventory-profiles@0.4.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.iris]
     name = "iris"
-    version = "1.0.0-0.rc1.mpkg.1"
+    version = "1.0.1-0.rc1.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "5767a07922d45a793c2b3ea8b41c68232c159cc0ce231a97e41ea15c73b1954a"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/iris@1.0.0-0.rc1.mpkg.1/download"
+    Sha256 = "30aade3aa6e56620956a37333efb209de98827db6695a7d4bbe679d6eba1da94"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/iris@1.0.1-0.rc1.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.keepheadnames]
     name = "keepheadnames"
     version = "1.2.2"
@@ -567,6 +629,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.2.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.lambdynamiclights]
     name = "lambdynamiclights"
     version = "1.3.4"
@@ -576,6 +639,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/lambdynamiclights@1.3.4/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.lifts]
     name = "lifts"
     version = "1.1.1-0.mpkg.2.BETA"
@@ -585,6 +649,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/lifts@1.1.1-0.mpkg.2.BETA/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.lightoverlay]
     name = "lightoverlay"
     version = "5.8.0-0.mpkg.1"
@@ -594,6 +659,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/lightoverlay@5.8.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.lithium]
     name = "lithium"
     version = "0.6.4-next"
@@ -603,6 +669,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/lithium@0.6.4-next/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.lonsdaleite]
     name = "lonsdaleite"
     version = "1.0.15-0.mpkg.1"
@@ -612,6 +679,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/lonsdaleite@1.0.15-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
     version = "60bbd204-14b20a"
@@ -621,6 +689,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/mcdw-3.2.0.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
     version = "60bbd1f8-f00cf"
@@ -630,6 +699,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/mcda-1.5.0.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.midas-hunger]
     name = "midas-hunger"
     version = "60781428-41203"
@@ -639,6 +709,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/midas-hunger-1.3.2.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.minepkg-companion]
     name = "minepkg-companion"
     version = "0.3.4"
@@ -648,6 +719,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/minepkg-companion@0.3.4/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.miskatonicmysteries]
     name = "miskatonicmysteries"
     version = "0.0.5-0.mpkg.1+fix22"
@@ -657,6 +729,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/miskatonicmysteries@0.0.5-0.mpkg.1+fix22/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.mixintrace]
     name = "mixintrace"
     version = "1.0.0-0.mpkg.1"
@@ -666,6 +739,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/mixintrace@1.0.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.mob-farm-helpers]
     name = "mob-farm-helpers"
     version = "1.4.2-0.mpkg.1"
@@ -675,6 +749,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/mob-farm-helpers@1.4.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.modmenu]
     name = "modmenu"
     version = "1.16.9-0.mpkg.2"
@@ -684,6 +759,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@1.16.9-0.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.moreberries]
     name = "moreberries"
     version = "60a553bd-28b5c"
@@ -693,6 +769,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/moreberries-1.3.6.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.morediscs]
     name = "morediscs"
     version = "6094254f-c494c6d"
@@ -702,6 +779,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/more-discs-1.0.4.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.morepaths]
     name = "morepaths"
     version = "60781428-250d5"
@@ -711,6 +789,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/more-paths-0.0.3.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.mostructures]
     name = "mostructures"
     version = "1.2.0-0.mpkg.2+0426"
@@ -720,6 +799,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/mostructures@1.2.0-0.mpkg.2+0426/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.netherite-horse-armor]
     name = "netherite-horse-armor"
     version = "1.1.0-0.mpkg.1"
@@ -729,6 +809,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/netherite-horse-armor@1.1.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
     version = "608f5fb1-4b47c"
@@ -738,6 +819,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/notenoughanimations-1.2.4.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
     version = "3.2.0-0.mpkg.1"
@@ -747,6 +829,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/notenoughcrashes@3.2.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.npcvariety]
     name = "npcvariety"
     version = "1.2.5"
@@ -756,6 +839,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/npcvariety@1.2.5/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.okzoomer]
     name = "okzoomer"
     version = "4.0.1-0.mpkg.1"
@@ -765,6 +849,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/okzoomer@4.0.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.patchouli]
     name = "patchouli"
     version = "1.16.4-0.mpkg.3.51"
@@ -774,6 +859,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/patchouli@1.16.4-0.mpkg.3.51/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.perfectaccuracy]
     name = "perfectaccuracy"
     version = "1.0.2"
@@ -783,6 +869,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.0.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.polymorph]
     name = "polymorph"
     version = "0.0.10-0.mpkg.1+0131"
@@ -792,6 +879,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/polymorph@0.0.10-0.mpkg.1+0131/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.presence-footsteps]
     name = "presence-footsteps"
     version = "0.0.29-0.mpkg.1"
@@ -801,6 +889,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/presence-footsteps@0.0.29-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.quick-shulker]
     name = "quick-shulker"
     version = "60781428-7f145"
@@ -810,6 +899,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/quickshulker-1.1.12-1.16.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.randompatches]
     name = "randompatches"
     version = "2.4.5-0.mpkg.1+fixes220"
@@ -819,6 +909,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/randompatches@2.4.5-0.mpkg.1+fixes220/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
     version = "60bbd19f-534e0b"
@@ -828,6 +919,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/repurposed_structures-1.16.5-1.11.0-fabric.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.reroll]
     name = "reroll"
     version = "1.2.1"
@@ -837,6 +929,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/reroll@1.2.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.ringofattraction]
     name = "ringofattraction"
     version = "60781428-31696"
@@ -846,6 +939,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/RingOfAttraction-Fabric_1.16.5-1.0.29.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
     version = "5.11.218-0.mpkg.1"
@@ -855,6 +949,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@5.11.218-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.seasons]
     name = "seasons"
     version = "1.2.0-0.mpkg.BETA"
@@ -864,6 +959,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/seasons@1.2.0-0.mpkg.BETA/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.show-off]
     name = "show-off"
     version = "1.0.0"
@@ -873,6 +969,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/show-off@1.0.0/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.simplyimprovedterrain]
     name = "simplyimprovedterrain"
     version = "60a5540c-f7e98"
@@ -882,6 +979,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/SimplyImprovedTerrain-0.3.2.1-Fabric.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.slapmap]
     name = "slapmap"
     version = "1.0.1-0.mpkg.1"
@@ -891,6 +989,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/slapmap@1.0.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.slimyfloor]
     name = "slimyfloor"
     version = "60781428-20328"
@@ -900,6 +999,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/slimyfloor-1.0.0%2B1.16.x.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.sodium-iris]
     name = "sodium-iris"
     version = "0.2.0-0.iris.mpkg.1"
@@ -908,7 +1008,8 @@ lockfileVersion = 1
     Sha256 = "f9ef5a8abc0b33fd9cac840cf537af85abb520cf293601397cfdb6a016fd1391"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium-iris@0.2.0-0.iris.mpkg.1/download"
     provider = "minepkg"
-    dependend = ""
+    dependend = "iris"
+
   [dependencies.spark]
     name = "spark"
     version = "1.5.2-0.mpkg.2"
@@ -918,6 +1019,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/spark@1.5.2-0.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.starlight]
     name = "starlight"
     version = "1.0.0-0.mpkg.1.RC2"
@@ -927,6 +1029,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/starlight@1.0.0-0.mpkg.1.RC2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.stoneholm]
     name = "stoneholm"
     version = "60bbd1b7-39b12"
@@ -936,6 +1039,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/stoneholm-1.2.2.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.taxfreelevels]
     name = "taxfreelevels"
     version = "1.1.2"
@@ -945,15 +1049,17 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.1.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.techreborn]
     name = "techreborn"
-    version = "3.8.3-0.mpkg.1"
+    version = "3.8.2"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "95f643df42e277213e21bc1c63ccff2a0dce29c575d3834a2e13a96ddacc885d"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@3.8.3-0.mpkg.1/download"
+    ipfsHash = "QmV5bAnoVZ7bnGHYTJsDTNVYX8oRqaWSjtN9bZwY2F26i8"
+    Sha256 = "c26244ea1f1ac4da1abbea627701556601fc6ded7e9fae7bf36d7ad4de89e98b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@3.8.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.techreborn-energy]
     name = "techreborn-energy"
     version = "0.1.1-0.mpkg.1"
@@ -962,7 +1068,8 @@ lockfileVersion = 1
     Sha256 = "a5202cf60156641dd615c7f4c5a65152665e10e9c45909cf48ca04b84fe63b9f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn-energy@0.1.1-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = ""
+    dependend = "lifts"
+
   [dependencies.terrestria]
     name = "terrestria"
     version = "2.2.0-0.mpkg.1"
@@ -972,6 +1079,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/terrestria@2.2.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.tinytweaks]
     name = "tinytweaks"
     version = "60781428-bbc3d"
@@ -981,6 +1089,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/tinytweaks-1.2.3.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.transliterationlib]
     name = "transliterationlib"
     version = "1.0.4-0.mpkg.1"
@@ -990,6 +1099,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/transliterationlib@1.0.4-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.traverse]
     name = "traverse"
     version = "3.3.2"
@@ -999,6 +1109,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/traverse@3.3.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.trinkets]
     name = "trinkets"
     version = "2.6.7-0.mpkg.2"
@@ -1008,6 +1119,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/trinkets@2.6.7-0.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.truedarkness]
     name = "truedarkness"
     version = "1.6.0-0.mpkg.1"
@@ -1017,6 +1129,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/truedarkness@1.6.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.untitledduckmod]
     name = "untitledduckmod"
     version = "0.2.2-0.mpkg.1"
@@ -1026,6 +1139,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/untitledduckmod@0.2.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.villagerhats]
     name = "villagerhats"
     version = "1.0.1-0.mpkg.1"
@@ -1035,6 +1149,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/villagerhats@1.0.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.villagernames]
     name = "villagernames"
     version = "60781428-1029ed"
@@ -1044,6 +1159,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/villagernames-1.16.4-1.6.0.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.vistas]
     name = "vistas"
     version = "1.3.1-0.mpkg.1"
@@ -1053,6 +1169,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/vistas@1.3.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.waystones]
     name = "waystones"
     version = "1.1.1-0.mpkg.2.1"
@@ -1062,6 +1179,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@1.1.1-0.mpkg.2.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.wild-world]
     name = "wild-world"
     version = "2.0.0-0.mpkg.1"
@@ -1071,6 +1189,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/wild-world@2.0.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.winged]
     name = "winged"
     version = "60781428-1768bb"
@@ -1080,6 +1199,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/winged-1.16.2-1.4.1.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.wolveswitharmor]
     name = "wolveswitharmor"
     version = "1.5.4"
@@ -1089,6 +1209,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/wolveswitharmor@1.5.4/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.wthit]
     name = "wthit"
     version = "2.10.1-0.mpkg.1"
@@ -1098,6 +1219,7 @@ lockfileVersion = 1
     url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@2.10.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
+
   [dependencies.xaeros-minimap]
     name = "xaeros-minimap"
     version = "60acea5d-c5d60"
@@ -1107,6 +1229,7 @@ lockfileVersion = 1
     url = "https://www.brekitomasson.com/fettlol/mods/Xaeros_Minimap_21.8.2_Fabric_1.16.5.jar"
     provider = "https"
     dependend = ""
+
   [dependencies.xaeros-worldmap]
     name = "xaeros-worldmap"
     version = "60acea4e-79814"
