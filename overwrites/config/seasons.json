@@ -12,7 +12,7 @@
   "minecraftDefaultFoliage": {
     "springColor": 4764952,
     "summerColor": 5038091,
-    "fallColor": 14719243,
+    "fallColor": 7689492,
     "winterColor": 7689492
   },
   "minecraftSpruceFoliage": {
@@ -34,10 +34,10 @@
     "winterColor": 5011004
   },
   "minecraftSwampGrass2": {
-    "springColor": 6975545,
-    "summerColor": 6975545,
-    "fallColor": 6975545,
-    "winterColor": 6975545
+    "springColor": 8501316,
+    "summerColor": 8501316,
+    "fallColor": 8501316,
+    "winterColor": 8501316
   },
   "isDefaultHSBShiftEnabled": true,
   "defaultHSBShift": {
@@ -48,18 +48,18 @@
     },
     "summerHSBShift": {
       "hue": 0.0,
-      "saturation": 150.0,
-      "brightness": -10.0
+      "saturation": 120.0,
+      "brightness": 10.0
     },
     "fallHSBShift": {
-      "hue": -65.0,
-      "saturation": 125.0,
-      "brightness": -15.0
+      "hue": -25.0,
+      "saturation": 95.0,
+      "brightness": -10.0
     },
     "winterHSBShift": {
-      "hue": -65.0,
+      "hue": -25.0,
       "saturation": 80.0,
-      "brightness": -40.0
+      "brightness": -30.0
     }
   },
   "foliageColorList": [],

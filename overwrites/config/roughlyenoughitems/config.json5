@@ -1,643 +1,21 @@
 {
 	"basics": {
-		"favorites": [
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:dropper",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:red_sand",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:bedrock",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:orange_wool",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:gold_block",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:dark_oak_sapling",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "appliedenergistics2:speed_card",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:magenta_wool",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:infested_stone",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:warped_fence_gate",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:prismarine_brick_slab",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:wooden_hoe",
-					"Count": 127,
-					"tag": {
-						"Damage": 0
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:warped_nylium",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "techreborn:recycler",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:gravel",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:red_mushroom_block",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:light_blue_concrete",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:smooth_red_sandstone_stairs",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "betterend:thallasium_bulb_lantern_cyan",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:purple_terracotta",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "lifts:screen",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:smooth_quartz",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:coal_ore",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "charm:atlas",
-					"Count": 127,
-					"tag": {
-						"id": [
-							1953829072,
-							-822722554,
-							-1254146526,
-							46998425
-						]
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:dark_oak_trapdoor",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:lime_stained_glass",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:warped_fence",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "adorn:magmatic_prismarine_chimney",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:birch_log",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:iron_shovel",
-					"Count": 127,
-					"tag": {
-						"Damage": 0
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:wooden_axe",
-					"Count": 127,
-					"tag": {
-						"Damage": 0
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "byg:palo_verde_log",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_spruce_log",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "appliedenergistics2:drive",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:potion",
-					"Count": 127,
-					"tag": {
-						"Potion": "biomemakeover:light_footed"
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:phantom_membrane",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:enchanted_book",
-					"Count": 127,
-					"tag": {
-						"StoredEnchantments": [
-							{
-								"lvl": 1,
-								"id": "minecraft:projectile_protection"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:potion",
-					"Count": 127,
-					"tag": {
-						"Potion": "minecraft:strong_leaping"
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:diamond_shovel",
-					"Count": 127,
-					"tag": {
-						"Damage": 0
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:birch_fence_gate",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:cobblestone",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:melon_seeds",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:crimson_pressure_plate",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:jungle_planks",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "winged:wing_minecon_2016_cape",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_birch_wood",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_jungle_log",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:yellow_concrete",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "betternether:quartz_glass_framed_gray",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:diamond_leggings",
-					"Count": 127,
-					"tag": {
-						"Damage": 0
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:oak_sapling",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "us:blackironshulker",
-					"Count": 127,
-					"tag": {
-						"upgradedshulker": {
-							"auto": 1
-						}
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:crimson_nylium",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:pumpkin",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:smooth_red_sandstone",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:dark_oak_pressure_plate",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:jungle_trapdoor",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:dark_oak_planks",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:magma_cream",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "techreborn:rubber_log",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "appliedenergistics2:quartz_ore",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "adorn:spruce_kitchen_sink",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:enchanted_book",
-					"Count": 127,
-					"tag": {
-						"StoredEnchantments": [
-							{
-								"lvl": 4,
-								"id": "minecraft:projectile_protection"
-							}
-						]
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "adorn:polished_blackstone_platform",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "mcdw:sword_heartstealer",
-					"Count": 127,
-					"tag": {
-						"Damage": 0
-					},
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:polished_diorite_slab",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:polished_diorite",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:stripped_crimson_stem",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:infested_chiseled_stone_bricks",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "wolveswitharmor:golden_wolf_armor",
-					"Count": 127,
-					"type": "item"
-				}
-			},
-			{
-				"type": "roughlyenoughitems:entry_stack",
-				"data": {
-					"id": "minecraft:golden_apple",
-					"Count": 127,
-					"type": "item"
-				}
-			}
-		],
+		"favorites": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
-		"favoritesEnabled": false,
+		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.r",
-				"modifier": 4
+				"modifier": 2
 			},
 			"usageKeybind": {
 				"keyCode": "key.keyboard.u",
-				"modifier": 4
+				"modifier": 2
 			},
 			"hideKeybind": {
 				"keyCode": "key.keyboard.o",
-				"modifier": 4
+				"modifier": 2
 			},
 			"previousPageKeybind": {
 				"keyCode": "key.keyboard.unknown",
@@ -656,8 +34,8 @@
 				"modifier": 0
 			},
 			"favoriteKeybind": {
-				"keyCode": "key.keyboard.a",
-				"modifier": 0
+				"keyCode": "key.keyboard.f",
+				"modifier": 2
 			},
 			"exportImageKeybind": {
 				"keyCode": "key.keyboard.unknown",
@@ -667,15 +45,18 @@
 		// Declares whether REI is visible.
 		"overlayVisible": false,
 		"cheatingStyle": "GRAB",
-		"reducedMotion": false
+		"motion": {
+			"favoritesAnimation": true
+		}
 	},
 	"advanced": {
 		"filtering": {
 			"filteringRules": [
-				"{rule:{},id:\"roughlyenoughitems:manual\"}"
+				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
 			"filteredStacks": []
 		},
+		"enableJeiCompatibilityLayer": true,
 		"tooltips": {
 			// Declares whether REI should append mod names to entries.
 			"appendModNames": true,
@@ -696,8 +77,8 @@
 			"displayPanelLocation": "RIGHT",
 			// Declares whether scrolled entry panel should snap to rows.
 			"snapToRows": false,
-			// Declares how the scrollbar in villager screen should act.
-			"villagerScreenPermanentScrollBar": false,
+			// Declares how the scrollbar in composite screen should act.
+			"compositeScrollBarPermanent": false,
 			"toastDisplayedOnCopyIdentifier": true,
 			// Declares whether REI should use compact tabs for categories.
 			"useCompactTabs": true
@@ -711,6 +92,7 @@
 			"asyncSearchPartitionSize": 100,
 			"tooltipSearch": "ALWAYS",
 			"tagSearch": "PREFIX",
+			"identifierSearch": "ALWAYS",
 			"modSearch": "PREFIX"
 		},
 		"commands": {
@@ -738,9 +120,7 @@
 			// Declares the position of the config button.
 			"configButtonLocation": "LOWER",
 			// Declares whether the craftable filter button is enabled.
-			"enableCraftableOnlyButton": false,
-			// Declares whether the utils buttons are shown.
-			"showUtilsButtons": false
+			"enableCraftableOnlyButton": false
 		},
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",

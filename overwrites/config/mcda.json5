@@ -1,5 +1,5 @@
-{ 
-	"enableEnchantment": { 
+{
+	"enableEnchantment": {
 		"BAG_OF_SOULS": true,
 		"BURNING": true,
 		"CHILLING": true,
@@ -16,7 +16,7 @@
 		"SURPRISE_GIFT": true,
 		"SWIFTFOOTED": true
 	},
-	"enableArmorEffect": { 
+	"enableArmorEffect": {
 		"FIRE_RESISTANCE": true,
 		"FLUID_FREEZING": true,
 		"HASTE": true,
@@ -24,15 +24,17 @@
 		"HUNGER": true,
 		"INVISIBILITY": true,
 		"LUCK": true,
+		"NIMBLE_TURTLE_EFFECTS": true,
 		"NO_FALL_DAMAGE": true,
 		"PIGLIN_FOOLING": true,
 		"SPIDER_CLIMBING": true,
 		"SPRINTING": true,
+		"WATER_BREATHING": true,
 		"WITHERED": true
 	},
-	"armorStats": { 
-		"ARCHER": { 
-			"protection": { 
+	"armorStats": {
+		"ARCHER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -45,8 +47,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"HUNTER": { 
-			"protection": { 
+		"HUNTER": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 2,
 				"CHEST": 3,
@@ -59,8 +61,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"OCELOT": { 
-			"protection": { 
+		"OCELOT": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 3,
 				"CHEST": 5,
@@ -73,8 +75,8 @@
 			"movementSpeedBoost": 0.05,
 			"durabilityMultiplier": 15
 		},
-		"SHADOW_WALKER": { 
-			"protection": { 
+		"SHADOW_WALKER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -87,8 +89,8 @@
 			"movementSpeedBoost": 0.08,
 			"durabilityMultiplier": 15
 		},
-		"SPELUNKER": { 
-			"protection": { 
+		"SPELUNKER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -101,8 +103,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"CAVE_CRAWLER": { 
-			"protection": { 
+		"CAVE_CRAWLER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -115,8 +117,8 @@
 			"movementSpeedBoost": 0.025,
 			"durabilityMultiplier": 15
 		},
-		"WOLF": { 
-			"protection": { 
+		"WOLF": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -129,8 +131,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"BLACK_WOLF": { 
-			"protection": { 
+		"BLACK_WOLF": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -143,8 +145,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"FOX": { 
-			"protection": { 
+		"FOX": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -157,8 +159,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"ARCTIC_FOX": { 
-			"protection": { 
+		"ARCTIC_FOX": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -171,8 +173,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"CLIMBING_GEAR": { 
-			"protection": { 
+		"CLIMBING_GEAR": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -185,8 +187,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"RUGGED_CLIMBING_GEAR": { 
-			"protection": { 
+		"RUGGED_CLIMBING_GEAR": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -199,8 +201,50 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 15
 		},
-		"BATTLE": { 
-			"protection": { 
+		"SQUID": {
+			"protection": {
+				"FEET": 1,
+				"LEGS": 3,
+				"CHEST": 5,
+				"HEAD": 1
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0,
+			"attackDamageBoost": 0.0,
+			"attackSpeedBoost": 0.0,
+			"movementSpeedBoost": 0.0,
+			"durabilityMultiplier": 15
+		},
+		"GLOW_SQUID": {
+			"protection": {
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0,
+			"attackDamageBoost": 0.0,
+			"attackSpeedBoost": 0.0,
+			"movementSpeedBoost": 0.0,
+			"durabilityMultiplier": 15
+		},
+		"GOAT": {
+			"protection": {
+				"FEET": 2,
+				"LEGS": 5,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.20000000298023224,
+			"attackDamageBoost": 0.0,
+			"attackSpeedBoost": 0.0,
+			"movementSpeedBoost": 0.0,
+			"durabilityMultiplier": 15
+		},
+		"BATTLE": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 2,
 				"CHEST": 3,
@@ -213,8 +257,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"SPLENDID": { 
-			"protection": { 
+		"SPLENDID": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 2,
 				"CHEST": 3,
@@ -227,8 +271,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"EVOCATION": { 
-			"protection": { 
+		"EVOCATION": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 3,
 				"CHEST": 3,
@@ -241,8 +285,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"EMBER": { 
-			"protection": { 
+		"EMBER": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 3,
 				"CHEST": 3,
@@ -255,8 +299,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"VERDANT": { 
-			"protection": { 
+		"VERDANT": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 3,
 				"CHEST": 3,
@@ -269,8 +313,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"THIEF": { 
-			"protection": { 
+		"THIEF": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 5,
@@ -283,8 +327,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"SPIDER": { 
-			"protection": { 
+		"SPIDER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 5,
@@ -297,8 +341,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"SOUL_ROBE": { 
-			"protection": { 
+		"SOUL_ROBE": {
+			"protection": {
 				"FEET": 1,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -311,8 +355,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"SOULDANCER": { 
-			"protection": { 
+		"SOULDANCER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -325,8 +369,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"SPROUT": { 
-			"protection": { 
+		"SPROUT": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 2,
 				"CHEST": 3,
@@ -339,8 +383,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"LIVING_VINES": { 
-			"protection": { 
+		"LIVING_VINES": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 2,
 				"CHEST": 3,
@@ -353,8 +397,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"PIGLIN": { 
-			"protection": { 
+		"PIGLIN": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 2,
 				"CHEST": 4,
@@ -367,8 +411,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 5
 		},
-		"PHANTOM": { 
-			"protection": { 
+		"PHANTOM": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -381,8 +425,8 @@
 			"movementSpeedBoost": 0.075,
 			"durabilityMultiplier": 25
 		},
-		"FROST_BITE": { 
-			"protection": { 
+		"FROST_BITE": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -395,8 +439,8 @@
 			"movementSpeedBoost": 0.075,
 			"durabilityMultiplier": 25
 		},
-		"GRIM": { 
-			"protection": { 
+		"GRIM": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -409,8 +453,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 25
 		},
-		"WITHER": { 
-			"protection": { 
+		"WITHER": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -423,8 +467,36 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 25
 		},
-		"SCALE_MAIL": { 
-			"protection": { 
+		"TURTLE": {
+			"protection": {
+				"FEET": 2,
+				"LEGS": 4,
+				"CHEST": 6,
+				"HEAD": 2
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0,
+			"attackDamageBoost": 0.0,
+			"attackSpeedBoost": 0.0,
+			"movementSpeedBoost": 0.0,
+			"durabilityMultiplier": 25
+		},
+		"NIMBLE_TURTLE": {
+			"protection": {
+				"FEET": 3,
+				"LEGS": 5,
+				"CHEST": 7,
+				"HEAD": 3
+			},
+			"toughness": 0.0,
+			"knockbackRes": 0.0,
+			"attackDamageBoost": 0.0,
+			"attackSpeedBoost": 0.0,
+			"movementSpeedBoost": 0.0,
+			"durabilityMultiplier": 25
+		},
+		"SCALE_MAIL": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 5,
@@ -437,8 +509,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"HIGHLAND": { 
-			"protection": { 
+		"HIGHLAND": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -451,8 +523,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"BEEHIVE": { 
-			"protection": { 
+		"BEEHIVE": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -465,8 +537,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"BEENEST": { 
-			"protection": { 
+		"BEENEST": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 5,
@@ -479,8 +551,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"GHOSTLY": { 
-			"protection": { 
+		"GHOSTLY": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 4,
 				"CHEST": 5,
@@ -493,8 +565,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"GHOST_KINDLER": { 
-			"protection": { 
+		"GHOST_KINDLER": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -507,8 +579,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"GOLDEN_PIGLIN": { 
-			"protection": { 
+		"GOLDEN_PIGLIN": {
+			"protection": {
 				"FEET": 2,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -521,8 +593,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 14
 		},
-		"REINFORCED_MAIL": { 
-			"protection": { 
+		"REINFORCED_MAIL": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 4,
 				"CHEST": 6,
@@ -535,8 +607,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"STALWART_MAIL": { 
-			"protection": { 
+		"STALWART_MAIL": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -549,8 +621,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"GUARDS": { 
-			"protection": { 
+		"GUARDS": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -563,8 +635,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"CURIOUS": { 
-			"protection": { 
+		"CURIOUS": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -577,8 +649,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"SNOW": { 
-			"protection": { 
+		"SNOW": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -591,8 +663,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"FROST": { 
-			"protection": { 
+		"FROST": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -605,8 +677,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"MERCENARY": { 
-			"protection": { 
+		"MERCENARY": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 4,
 				"CHEST": 5,
@@ -619,8 +691,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"RENEGADE": { 
-			"protection": { 
+		"RENEGADE": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 6,
@@ -633,8 +705,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"HUNGRY_HORROR": { 
-			"protection": { 
+		"HUNGRY_HORROR": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -647,8 +719,8 @@
 			"movementSpeedBoost": 0.0625,
 			"durabilityMultiplier": 30
 		},
-		"EMERALD": { 
-			"protection": { 
+		"EMERALD": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -661,8 +733,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"OPULENT": { 
-			"protection": { 
+		"OPULENT": {
+			"protection": {
 				"FEET": 4,
 				"LEGS": 5,
 				"CHEST": 7,
@@ -675,8 +747,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 30
 		},
-		"DARK": { 
-			"protection": { 
+		"DARK": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -689,8 +761,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"TITAN": { 
-			"protection": { 
+		"TITAN": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -703,8 +775,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"ROYAL": { 
-			"protection": { 
+		"ROYAL": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -717,8 +789,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"PLATE": { 
-			"protection": { 
+		"PLATE": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -731,8 +803,8 @@
 			"movementSpeedBoost": -0.0375,
 			"durabilityMultiplier": 36
 		},
-		"FULL_METAL": { 
-			"protection": { 
+		"FULL_METAL": {
+			"protection": {
 				"FEET": 4,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -745,8 +817,8 @@
 			"movementSpeedBoost": -0.0375,
 			"durabilityMultiplier": 36
 		},
-		"MYSTERY": { 
-			"protection": { 
+		"MYSTERY": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -759,8 +831,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"BLUE_MYSTERY": { 
-			"protection": { 
+		"BLUE_MYSTERY": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -773,8 +845,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"GREEN_MYSTERY": { 
-			"protection": { 
+		"GREEN_MYSTERY": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -787,8 +859,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"PURPLE_MYSTERY": { 
-			"protection": { 
+		"PURPLE_MYSTERY": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -801,8 +873,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"RED_MYSTERY": { 
-			"protection": { 
+		"RED_MYSTERY": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -815,8 +887,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"CHAMPION": { 
-			"protection": { 
+		"CHAMPION": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,
@@ -829,8 +901,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"HERO": { 
-			"protection": { 
+		"HERO": {
+			"protection": {
 				"FEET": 4,
 				"LEGS": 7,
 				"CHEST": 9,
@@ -843,8 +915,8 @@
 			"movementSpeedBoost": 0.0,
 			"durabilityMultiplier": 36
 		},
-		"GILDED": { 
-			"protection": { 
+		"GILDED": {
+			"protection": {
 				"FEET": 3,
 				"LEGS": 6,
 				"CHEST": 8,

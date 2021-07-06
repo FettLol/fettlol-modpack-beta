@@ -83,7 +83,7 @@
     },
     "byg:aspen_forest": {
       "climate": "TEMPERATE",
-      "weight": 6,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -138,7 +138,7 @@
     },
     "byg:blue_taiga": {
       "climate": "COOL",
-      "weight": 0,
+      "weight": 2,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -159,7 +159,7 @@
     },
     "byg:bluff_steeps": {
       "climate": "COOL",
-      "weight": 6,
+      "weight": 5,
       "river": "byg:bluff_steeps",
       "beach": "byg:rocky_beach",
       "edge": "",
@@ -193,7 +193,7 @@
     },
     "byg:canyons": {
       "climate": "TEMPERATE",
-      "weight": 0,
+      "weight": 2,
       "river": "byg:canyons",
       "beach": "byg:canyon_edge",
       "edge": "byg:canyon_edge",
@@ -201,7 +201,7 @@
     },
     "byg:cherry_blossom_forest": {
       "climate": "TEMPERATE",
-      "weight": 6,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -222,7 +222,7 @@
     },
     "byg:cika_woods": {
       "climate": "COOL",
-      "weight": 6,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "byg:rocky_beach",
       "edge": "",
@@ -252,7 +252,7 @@
     },
     "byg:coniferous_forest": {
       "climate": "COOL",
-      "weight": 5,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -273,7 +273,7 @@
     },
     "byg:crag_gardens": {
       "climate": "TEMPERATE",
-      "weight": 0,
+      "weight": 1,
       "river": "byg:crag_gardens",
       "beach": "minecraft:beach",
       "edge": "minecraft:river",
@@ -297,7 +297,7 @@
     },
     "byg:deciduous_forest": {
       "climate": "TEMPERATE",
-      "weight": 6,
+      "weight": 5,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -318,7 +318,7 @@
     },
     "byg:dover_mountains": {
       "climate": "COOL",
-      "weight": 0,
+      "weight": 2,
       "river": "byg:dover_mountains",
       "beach": "byg:white_beach",
       "edge": "",
@@ -339,7 +339,7 @@
     },
     "byg:ebony_woods": {
       "climate": "TEMPERATE",
-      "weight": 4,
+      "weight": 3,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -373,7 +373,7 @@
     },
     "byg:enchanted_grove": {
       "climate": "TEMPERATE",
-      "weight": 0,
+      "weight": 1,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -390,7 +390,7 @@
     },
     "byg:evergreen_taiga": {
       "climate": "SNOWY",
-      "weight": 6,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -411,7 +411,7 @@
     },
     "byg:glowshroom_bayou": {
       "climate": "TEMPERATE",
-      "weight": 0,
+      "weight": 1,
       "river": "byg:glowshroom_bayou",
       "beach": "byg:glowshroom_bayou",
       "edge": "",
@@ -479,7 +479,7 @@
     },
     "byg:jacaranda_forest": {
       "climate": "TEMPERATE",
-      "weight": 0,
+      "weight": 1,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -500,7 +500,7 @@
     },
     "byg:lush_tundra": {
       "climate": "SNOWY",
-      "weight": 6,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "byg:basalt_barrera",
       "edge": "",
@@ -572,7 +572,7 @@
     },
     "byg:orchard": {
       "climate": "TEMPERATE",
-      "weight": 3,
+      "weight": 2,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -589,7 +589,7 @@
     },
     "byg:prairie": {
       "climate": "TEMPERATE",
-      "weight": 5,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -606,7 +606,7 @@
     },
     "byg:red_desert": {
       "climate": "DRY",
-      "weight": 2,
+      "weight": 1,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -623,7 +623,7 @@
     },
     "byg:red_oak_forest": {
       "climate": "TEMPERATE",
-      "weight": 7,
+      "weight": 5,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -640,7 +640,7 @@
     },
     "byg:red_rock_mountains": {
       "climate": "DRY",
-      "weight": 4,
+      "weight": 3,
       "river": "byg:red_rock_mountains",
       "beach": "minecraft:beach",
       "edge": "byg:red_rock_lowlands",
@@ -682,7 +682,7 @@
     },
     "byg:rose_fields": {
       "climate": "TEMPERATE",
-      "weight": 2,
+      "weight": 1,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -699,7 +699,7 @@
     },
     "byg:seasonal_birch_forest": {
       "climate": "COOL",
-      "weight": 7,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -716,7 +716,7 @@
     },
     "byg:seasonal_deciduous_forest": {
       "climate": "COOL",
-      "weight": 6,
+      "weight": 5,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -737,7 +737,7 @@
     },
     "byg:seasonal_forest": {
       "climate": "COOL",
-      "weight": 7,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -754,7 +754,7 @@
     },
     "byg:seasonal_taiga": {
       "climate": "COOL",
-      "weight": 5,
+      "weight": 4,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -779,7 +779,7 @@
     },
     "byg:shrublands": {
       "climate": "DRY",
-      "weight": 6,
+      "weight": 4,
       "river": "byg:shrublands",
       "beach": "minecraft:beach",
       "edge": "",
@@ -821,7 +821,7 @@
     },
     "byg:snowy_blue_taiga": {
       "climate": "SNOWY",
-      "weight": 5,
+      "weight": 3,
       "river": "minecraft:frozen_river",
       "beach": "byg:snowy_rocky_black_beach",
       "edge": "",
@@ -964,7 +964,7 @@
     },
     "byg:tropical_rainforest": {
       "climate": "TEMPERATE",
-      "weight": 6,
+      "weight": 5,
       "river": "minecraft:river",
       "beach": "minecraft:beach",
       "edge": "",
@@ -998,7 +998,7 @@
     },
     "byg:vibrant_swamplands": {
       "climate": "COOL",
-      "weight": 3,
+      "weight": 2,
       "river": "byg:vibrant_swamplands",
       "beach": "byg:vibrant_swamplands",
       "edge": "",
