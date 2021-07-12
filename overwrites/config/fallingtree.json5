@@ -3,6 +3,11 @@
 	"reverseSneaking": false,
 	// When set to true, the mod will cut down trees in creative too.
 	"breakInCreative": true,
+	/* How messages are sent to the player. 
+	   CHAT: Messages are sent in the chat. 
+	   ACTION_BAR: Messages are displayed in the player's action bar.
+	*/
+	"notificationMode": "ACTION_BAR",
 	"trees": {
 		/* Additional list of blocks considered as logs and that will be destroyed by the mod. 
 		   INFO: Blocks marked with the log tag will already be whitelisted.

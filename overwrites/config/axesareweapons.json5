@@ -1,5 +1,7 @@
 {
 	"enableLooting": true,
 	"enableKnockback": true,
-	"enableFireAspect": true
+	"enableFireAspect": true,
+	"enableForEnchantingTable": true,
+	"enableDamageInEnchantingTable": true
 }

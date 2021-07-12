@@ -1,10 +1,10 @@
 {
-	// How many iterations of jigsaw generation we do when generating the village. (Default: 12)
-	"VILLAGE_SIZE": 18,
+	// How many iterations of jigsaw generation we do when generating the village. (Default: 10)
+	"VILLAGE_SIZE": 14,
 	// Max distance in chunks between villages. (Default: 32)
-	"VILLAGE_SPACING": 128,
+	"VILLAGE_SPACING": 96,
 	// Minimum distance in chunks between villages. (Default: 8)
-	"VILLAGE_SEPARATION": 64,
+	"VILLAGE_SEPARATION": 32,
 	// How far above sea level a village may be. This is used to prevent pieces from generating in the air in less even terrains. (Default: 8)
 	"VILLAGE_MAX_DISTANCE_ABOVE_SEALEVEL": 8,
 	// Whether to disable generating vanilla villages. (Default: false)

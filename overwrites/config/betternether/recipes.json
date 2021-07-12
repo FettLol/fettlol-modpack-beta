@@ -360,6 +360,12 @@
     "wall_mushroom_brown_1[def: true]": true,
     "wall_mushroom_brown_2[def: true]": true,
     "wall_mushroom_red_1[def: true]": true,
-    "wall_mushroom_red_2[def: true]": true
+    "wall_mushroom_red_2[def: true]": true,
+    "striped_log_anchor_tree_striped_bark_anchor_tree[def: true]": true,
+    "striped_log_nether_sakura_striped_bark_nether_sakura[def: true]": true,
+    "striped_log_rubeus_striped_bark_rubeus[def: true]": true,
+    "striped_log_stalagnate_striped_bark_stalagnate[def: true]": true,
+    "striped_log_wart_striped_bark_wart[def: true]": true,
+    "striped_log_willow_striped_bark_willow[def: true]": true
   }
 }

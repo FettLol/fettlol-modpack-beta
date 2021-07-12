@@ -408,6 +408,18 @@
     "betterend:lucernia_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "minecraft:flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "charm:ebony_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "minecraft:azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

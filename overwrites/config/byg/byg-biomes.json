@@ -289,7 +289,7 @@
     },
     "byg:dead_sea": {
       "climate": "DRY",
-      "weight": 2,
+      "weight": 1,
       "river": "byg:dead_sea",
       "beach": "minecraft:beach",
       "edge": "",
@@ -640,7 +640,7 @@
     },
     "byg:red_rock_mountains": {
       "climate": "DRY",
-      "weight": 3,
+      "weight": 0,
       "river": "byg:red_rock_mountains",
       "beach": "minecraft:beach",
       "edge": "byg:red_rock_lowlands",

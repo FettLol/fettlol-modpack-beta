@@ -17,7 +17,7 @@
       "value": 10000
     },
     "clockingDeviceEnergyUsage": {
-      "comment": "Cloacking device energy usesage (FE)",
+      "comment": "Cloacking device energy usage",
       "value": 10
     },
     "quantumSuitSprintingCost": {
@@ -25,7 +25,7 @@
       "value": 20.0
     },
     "cloakingDeviceCharge": {
-      "comment": "Energy Capacity for Clocking Device (FE)",
+      "comment": "Energy Capacity for Cloacking Device",
       "value": 40000000
     },
     "LithiumBatpackCharge": {
@@ -89,7 +89,7 @@
       "value": 100000
     },
     "rockCutterCost": {
-      "comment": "Energy Cost for Rock Cutter (FE)",
+      "comment": "Energy Cost for Rock Cutter",
       "value": 500
     },
     "advancedJackhammerCost": {
@@ -165,7 +165,7 @@
       "value": 20.0
     },
     "rockCutterCharge": {
-      "comment": "Energy Capacity for Rock Cutter (FE)",
+      "comment": "Energy Capacity for Rock Cutter",
       "value": 400000
     },
     "energyCrystalMaxCharge": {

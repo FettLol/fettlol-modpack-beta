@@ -1,11 +1,11 @@
 #Aerial Affinity is a boots enchantment that increases mining rate when not on the ground.
 "AerialAffinityEnchantment Enabled" = false
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
-"AnvilImprovements Enabled" = true
+"AnvilImprovements Enabled" = false
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 "ArmorInvisibility Enabled" = false
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlases Enabled" = true
+"Atlases Enabled" = false
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = false
 #Unlocks all vanilla recipes.
@@ -23,13 +23,15 @@
 #Ender pearl storage. Eating a chorus fruit will teleport you to the nearest ender pearl block.
 "BlockOfEnderPearls Enabled" = false
 #A storage block for gunpowder. It obeys gravity and dissolves in lava.
-"BlockOfGunpowder Enabled" = true
+"BlockOfGunpowder Enabled" = false
 #A storage block for sugar. It obeys gravity and dissolves in water.
-"BlockOfSugar Enabled" = true
+"BlockOfSugar Enabled" = false
 #Bookshelves that can hold up to 9 stacks of books and maps.
 "Bookcases Enabled" = false
 #Bumblezone integration.
 "Bumblezone Enabled" = false
+#Scroll the mouse while hovering over a bundle to change the order of its contents.
+"BundleSorting Enabled" = false
 #Campfires no longer damage mobs.
 "CampfiresNoDamage Enabled" = false
 #Casks let you combine up to 64 potions, keeping an average of duration. Use glass bottles to extract home brew from the cask.
@@ -49,7 +51,7 @@
 #Cooking pots let you combine up to 64 food items, keeping an average of all hunger and saturation. Use wooden bowls to extract stew from the pot.
 "CookingPots Enabled" = true
 #Copper ingots can be used to craft rails.
-"CopperRails Enabled" = true
+"CopperRails Enabled" = false
 #Coral can be combined with sea lanterns to make colored variants.
 "CoralSeaLanterns Enabled" = true
 #Coral Squids spawn near coral in warm oceans.
@@ -61,7 +63,7 @@
 #Right-click on a sign with an empty hand to edit its text.
 "EditableSigns Enabled" = true
 #Ender bundles allow transfer of items to and from your ender chest.
-"EnderBundles Enabled" = true
+"EnderBundles Enabled" = false
 #Endermites drop endermite powder that can be used to locate an End City.
 "EndermitePowder Enabled" = false
 #Adds crimson and warped wood boats.
@@ -71,7 +73,7 @@
 #Adds custom recipes.
 "ExtraRecipes Enabled" = true
 #Extract enchantments from any enchanted item into an empty book using the grindstone.
-"ExtractEnchantments Enabled" = true
+"ExtractEnchantments Enabled" = false
 #A player wearing feather falling enchanted boots will not trample crops.
 "FeatherFallingCrops Enabled" = true
 #Potion effect particles are much less obtrusive by default and can optionally be entirely hidden.
@@ -120,15 +122,15 @@
 #Drink to give yourself the glowing effect or use as a splash potion to light up other entities.
 "PotionOfPiercingVision Enabled" = true
 #Shows particles at ground level to help locate ores below you.
-"PotionOfSpelunking Enabled" = true
+"PotionOfSpelunking Enabled" = false
 #A tool that rotates blocks. When held in offhand it locks block orientation when placing.
-"Quadrants Enabled" = true
+"Quadrants Enabled" = false
 #Raid horns are sometimes dropped from raid leaders and can be used to call off or start raids.
 "RaidHorns Enabled" = true
 #A lantern that emits light when a redstone signal is received.
 "RedstoneLanterns Enabled" = false
 #A block that acts like sand but is powered like a block of redstone.
-"RedstoneSand Enabled" = true
+"RedstoneSand Enabled" = false
 #When any action would cause a villager to become a nitwit, it becomes an unemployed villager instead.
 "RemoveNitwits Enabled" = true
 #Removes the potion enchantment glint so you can see what the potion color is.
@@ -138,15 +140,15 @@
 #Shows the contents of a Shulker Box on hover-over.
 "ShulkerBoxTooltips Enabled" = true
 #Increases snow layers in cold biomes during thunderstorms.
-"SnowStorms Enabled" = false
+"SnowStorms Enabled" = true
 #Allows enchanted books to stack.
 "StackableEnchantedBooks Enabled" = true
 #Allows potions to stack.
 "StackablePotions Enabled" = true
 #Allows stews to stack.
 "StackableStews Enabled" = true
-#A **Storage crate** has the equivalent capacity of a double-chest for a single item or block type.
-"StorageCrates Enabled" = true
+#A Storage crate has the equivalent capacity of a double-chest for a single item or block type.
+"StorageCrates Enabled" = false
 #Shows the custom name of a storage block as a floating label when the player is sneaking.
 "StorageLabels Enabled" = true
 #Strays spawn anywhere within their biome and have a chance to drop blue ice.
@@ -162,7 +164,7 @@
 #Variant bars crafted from vanilla metal ingots.
 "VariantBars Enabled" = true
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves Enabled" = false
+"VariantBookshelves Enabled" = true
 #Variant chains crafted from vanilla metal ingots and nuggets.
 "VariantChains Enabled" = true
 #Chests available in all types of vanilla wood.
@@ -176,7 +178,7 @@
 #Villagers are attracted when the player holds a block of emeralds.
 "VillagersFollowEmeraldBlocks Enabled" = false
 #Wandering traders only appear near signal campfires and sell maps to biomes and structures.
-"WanderingTraderImprovements Enabled" = true
+"WanderingTraderImprovements Enabled" = false
 #A witch has a chance to drop a Potion of Luck when killed by a player.
 "WitchesDropLuck Enabled" = true
 #A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
@@ -259,7 +261,7 @@
 [Core]
 	#If true, routes additional debug messages into the standard game log.
 	"Debug mode" = false
-	#If true, uses Charm's biome hacks to add world features instead of Fabric's biome API.
+	#If true, use Charm's biome hacks to add world features instead of Fabric's biome API.
 	#It's very unlikely you want to enable this.
 	"Use built-in biome hacks" = false
 	#If true, Charm will add its own advancement tree.
@@ -294,6 +296,8 @@
 	"Cyan Dye from warped roots" = true
 	#If true, adds a recipe for Green Dye using yellow and blue dyes.
 	"Green Dye from yellow and blue" = true
+	#If true, adds a recipe for turning snow blocks back into snowballs.
+	"Snowballs from snow blocks" = true
 	#If true, adds a recipe for Soul Torches using soul sand/soul soil and sticks.
 	"Simpler Soul Torch" = true
 	#If true, adds a shapeless recipe for bread.
@@ -350,11 +354,11 @@
 	Override = false
 
 [PlayerState]
-	#Interval (in ticks) on which additional world state will be synchronised to the client.
+	#Interval (in ticks) on which additional player state will be synchronised to the client.
 	"Server state update interval" = 120
 
 [PortableCrafting]
-	#If true, sets a keybind for opening the portable crafting table (defaults to 'c').
+	#If true, sets a keybind for opening the portable crafting table (defaults to 'v').
 	"Enable keybind" = true
 
 [PotionOfSpelunking]

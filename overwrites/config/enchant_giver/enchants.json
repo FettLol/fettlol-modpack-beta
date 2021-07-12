@@ -1,4 +1,7 @@
 {
+  "mcdw:sword_sponge_striker": {
+    "mcdw:enigma_resonator": 1
+  },
   "mcdw:gauntlet_soul_fists": {
     "mcdw:enigma_resonator": 1
   },
@@ -35,6 +38,9 @@
   "mcdw:crossbow_lightning_harp_crossbow": {
     "mcdw:ricochet": 1
   },
+  "mcdw:crossbow_nautical_crossbow": {
+    "minecraft:piercing": 1
+  },
   "mcdw:sword_heartstealer": {
     "mcdw:leeching": 1
   },
@@ -52,6 +58,10 @@
   },
   "mcdw:bow_love_spell_bow": {
     "mcdw:radiance_shot": 1
+  },
+  "mcdw:axe_encrusted_anchor": {
+    "mcdw:jungle_poison": 1,
+    "mcdw:gravity": 1
   },
   "mcdw:bow_nocturnal_bow": {
     "mcdw:tempo_theft": 1
@@ -161,11 +171,17 @@
   "mcdw:sickle_nightmares_bite": {
     "mcdw:poison_cloud": 1
   },
+  "mcdw:crossbow_feral_soul_crossbow": {
+    "mcdw:enigma_resonator": 1
+  },
   "mcdw:bow_green_menace": {
     "mcdw:poison_cloud": 1
   },
   "mcdw:sword_freezing_foil": {
     "mcdw:freezing": 1
+  },
+  "minecraft:air": {
+    "mcdw:ricochet": 1
   },
   "mcdw:sword_truthseeker": {
     "mcdw:committed": 1
