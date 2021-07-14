@@ -552,11 +552,11 @@ lockfileVersion = 1
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "60ed0484-c191d"
+    version = "60ee220b-c1923"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17/mcda-1.7.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17/mcda-1.7.2.jar"
     provider = "https"
     dependend = ""
 
@@ -767,6 +767,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17/fabric-seasons-1.2.2-BETA+1.17.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.simply-improved-terrain]
+    name = "simply-improved-terrain"
+    version = "60ee2371-f9513"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17/SimplyImprovedTerrain-0.4.0.1-Fabric-1.17.jar"
     provider = "https"
     dependend = ""
 
