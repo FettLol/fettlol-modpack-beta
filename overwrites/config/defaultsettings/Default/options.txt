@@ -36,7 +36,7 @@ biomeBlendRadius:2
 renderClouds:false
 resourcePacks:["vanilla","file/MickeyJoes.zip","Fabric Mods","file/VanillaTweaks-Variation.zip","file/VanillaTweaks-Utility.zip","file/VanillaTweaks-LowerSides.zip","file/VanillaTweaks-Aesthetic.zip","file/VanillaTweaks-3D.zip"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:twatbucket.com
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0

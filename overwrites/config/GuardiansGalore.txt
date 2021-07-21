@@ -1,0 +1,13 @@
+Config MOB properties here.
+
+
+
+Guardian Max Health: 30
+
+Guardian Attack Damage: 8
+
+Guardian Speed: 0.35
+
+Guardian Particles: off
+
+Guardian Glow: 200
