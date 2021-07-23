@@ -522,11 +522,11 @@ lockfileVersion = 1
 
   [dependencies.illuminations]
     name = "illuminations"
-    version = "60f09f92-10bf93"
+    version = "60fa33ea-10e2ed"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.6.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.6.2.jar"
     provider = "https"
     dependend = ""
 
@@ -542,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "60f4d89c-13017b"
+    version = "60fa33b6-12956d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.8.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.8.4.jar"
     provider = "https"
     dependend = ""
 
@@ -592,12 +592,12 @@ lockfileVersion = 1
 
   [dependencies.lightoverlay]
     name = "lightoverlay"
-    version = "60ef0b90-f300"
+    version = "6.0.0-0.mpkg.pre.5"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/light-overlay-6.1.0-fabric.jar"
-    provider = "https"
+    Sha256 = "b50407265938d6c737cf217091e090c6964c00b05cd43e5a86c49d6ed38b16bf"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lightoverlay@6.0.0-0.mpkg.pre.5/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.lithium]
@@ -822,11 +822,11 @@ lockfileVersion = 1
 
   [dependencies.ringofattraction]
     name = "ringofattraction"
-    version = "60ef0b8e-3a41"
+    version = "60fa33f7-3a41"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RingOfAttraction-Fabric-1.17.1-1.1.12.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RingOfAttraction-Fabric-1.17.1-1.1.13.jar"
     provider = "https"
     dependend = ""
 
@@ -892,7 +892,7 @@ lockfileVersion = 1
 
   [dependencies.spark]
     name = "spark"
-    version = "60ef0b90-26fabf"
+    version = "60faaf80-271655"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -942,11 +942,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "60ef0b8e-3af91a"
+    version = "60faaf93-3bb70d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.3-beta+build.55.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.5-beta+build.85.jar"
     provider = "https"
     dependend = ""
 
@@ -957,6 +957,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TRansliterationLib-1.1.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.traverse]
+    name = "traverse"
+    version = "60fa3407-198d53"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/traverse-4.0.0-beta.1.jar"
     provider = "https"
     dependend = ""
 
@@ -978,6 +988,16 @@ lockfileVersion = 1
     Sha256 = "019922887357bda746c1bdacc6feff91f6644b94955f861f24ba83e8931852de"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/untitledduckmod@0.3.0-0.mpkg.3/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.vectorientation]
+    name = "vectorientation"
+    version = "60faaf44-7c7c"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/vectorientation-1.0.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.villagernames]
@@ -1002,11 +1022,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "60f87c17-2c41b2"
+    version = "60fa33d7-2fcf0b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.2.jar"
     provider = "https"
     dependend = ""
 
