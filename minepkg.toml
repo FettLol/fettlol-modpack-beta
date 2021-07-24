@@ -19,7 +19,7 @@ manifestVersion = 0
 [dependencies]
   adorn = "^2.1.1-0.mpkg.6"
   advancements-debug = "https://www.brekitomasson.com/fettlol/mods/1.17.1/advdebug-2.3.0.jar"
-  amecs = "https://www.brekitomasson.com/fettlol/mods/1.17.1/amecs-1.3.4+mc.1.17.jar"
+  amecs = "^1.3.4-0.mpkg.1"
   appleskin = "^2.1.0-1.17.mpkg.2"
   architectury = "https://www.brekitomasson.com/fettlol/mods/1.17.1/architectury-2.2.21-fabric.jar"
   autopath = "https://www.brekitomasson.com/fettlol/mods/1.17.1/autopath-mc1.17-1.4.3.jar"
@@ -50,7 +50,7 @@ manifestVersion = 0
   croptopia = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17-FABRIC-1.5.0.jar"
   damagetilt = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DamageTilt-1.17-fabric-0.1.2.jar"
   dankstorage = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dankstorage-2.0a-1.17.jar"
-  dark-loading-screen = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dark-loading-screen-1.6.5.jar"
+  dark-loading-screen = "^1.6.5-0.mpkg.1"
   defaultsettings = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DefaultSettings-1.17.x-3.0.3.jar"
   dirtnt = "^1.0.0-1.17"
   discerning-furnace = "^1.0.3-0.mpkg.1"

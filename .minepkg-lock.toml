@@ -32,12 +32,12 @@ lockfileVersion = 1
 
   [dependencies.amecs]
     name = "amecs"
-    version = "60ef0b8e-2795f"
+    version = "1.3.4-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/amecs-1.3.4+mc.1.17.jar"
-    provider = "https"
+    Sha256 = "89d6092d3c1ade018a30ec358762fd843d56846f48e82541b6588ca4a1dcadb7"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/amecs@1.3.4-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.appleskin]
@@ -342,12 +342,12 @@ lockfileVersion = 1
 
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "60ef0b8f-939f"
+    version = "1.6.5-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dark-loading-screen-1.6.5.jar"
-    provider = "https"
+    Sha256 = "00424308da15c5bf6b1f7a916a93256107b10501bf5b2b8a62c6f92989972cf4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.5-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.defaultsettings]
@@ -797,6 +797,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/WilliamWythersOverhauledOverworld-1.5.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.overhauled-overworld-cavescliffs]
+    name = "overhauled-overworld-cavescliffs"
+    version = "60fbfa44-665f0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CavesAndCliffsAddOnForWilliamWythersOverhauledOverworld-1.1.jar"
     provider = "https"
     dependend = ""
 
