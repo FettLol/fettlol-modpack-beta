@@ -36,7 +36,8 @@
     "mcdw:thundering": 1
   },
   "mcdw:crossbow_lightning_harp_crossbow": {
-    "mcdw:ricochet": 1
+    "mcdw:ricochet": 1,
+    "minecraft:multishot": 1
   },
   "mcdw:crossbow_nautical_crossbow": {
     "minecraft:piercing": 1
@@ -65,6 +66,9 @@
   },
   "mcdw:bow_nocturnal_bow": {
     "mcdw:tempo_theft": 1
+  },
+  "mcdw:crossbow_harp_crossbow": {
+    "minecraft:multishot": 1
   },
   "mcdw:crossbow_voidcaller_crossbow": {
     "mcdw:gravity": 1
@@ -114,7 +118,13 @@
   "mcdw:sword_nameless_blade": {
     "mcdw:weakening": 1
   },
+  "mcdw:crossbow_scatter_crossbow": {
+    "minecraft:multishot": 1
+  },
   "mcdw:dagger_moon": {
+    "mcdw:enigma_resonator": 1
+  },
+  "mcdw:crossbow_soul_hunter_crossbow": {
     "mcdw:enigma_resonator": 1
   },
   "mcdw:sword_dancers_sword": {
@@ -168,11 +178,11 @@
   "mcdw:hammer_gravity": {
     "mcdw:gravity": 1
   },
-  "mcdw:sickle_nightmares_bite": {
-    "mcdw:poison_cloud": 1
-  },
   "mcdw:crossbow_feral_soul_crossbow": {
     "mcdw:enigma_resonator": 1
+  },
+  "mcdw:sickle_nightmares_bite": {
+    "mcdw:poison_cloud": 1
   },
   "mcdw:bow_green_menace": {
     "mcdw:poison_cloud": 1

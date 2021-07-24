@@ -475,7 +475,20 @@
     "tag_bucket [default: true]": true,
     "tag_compass [default: true]": true,
     "tag_minecart [default: true]": true,
-    "tag_shield [default: true]": true
+    "tag_shield [default: true]": true,
+    "flavolite_flower_pot [default: true]": true,
+    "violecite_flower_pot [default: true]": true,
+    "sulphuric_rock_flower_pot [default: true]": true,
+    "virid_jadestone_flower_pot [default: true]": true,
+    "azure_jadestone_flower_pot [default: true]": true,
+    "sandy_jadestone_flower_pot [default: true]": true,
+    "thallasium_nuggets_from_ingot [default: true]": true,
+    "thallasium_pressure_plate [default: true]": true,
+    "terminite_nuggets_from_ingot [default: true]": true,
+    "terminite_pressure_plate [default: true]": true,
+    "charcoal_from_block [default: true]": true,
+    "sugar_from_root [default: true]": true,
+    "endstone_flower_pot [default: true]": true
   },
   "furnace": {
     "thallasium_ingot_furnace [default: true]": true,
@@ -504,7 +517,9 @@
     "slime_ball [default: true]": true,
     "menger_sponge [default: true]": true,
     "chorus_mushroom [default: true]": true,
-    "bolux_mushroom [default: true]": true
+    "bolux_mushroom [default: true]": true,
+    "thallasium_ingot_furnace_ore [default: true]": true,
+    "thallasium_ingot_furnace_raw [default: true]": true
   },
   "alloying": {
     "thallasium_ingot_alloy [default: true]": false,
@@ -513,7 +528,8 @@
     "additional_netherite [default: true]": false,
     "terminite_ingot [default: true]": false,
     "aeternium_ingot [default: true]": false,
-    "terminite_ingot_thallasium [default: true]": false
+    "terminite_ingot_thallasium [default: true]": false,
+    "additional_copper [default: true]": true
   },
   "anvil": {
     "thallasium_shovel_head [default: true]": false,
@@ -533,7 +549,10 @@
     "aeternium_shovel_head [default: true]": false,
     "aeternium_hoe_head [default: true]": false,
     "aeternium_hammer_head [default: true]": false,
-    "aeternium_sword_blade [default: true]": false
+    "aeternium_sword_blade [default: true]": false,
+    "thallasium_forged_plate [default: true]": true,
+    "terminite_forged_plate [default: true]": true,
+    "aeternium_forged_plate [default: true]": true
   },
   "smithing": {
     "thallasium_hammer [default: true]": false,
@@ -609,6 +628,8 @@
     "multishot_book [default: true]": true,
     "quick_charge_book [default: true]": true,
     "piercing_book [default: true]": true,
-    "mending_book [default: true]": true
+    "mending_book [default: true]": true,
+    "crystalite_elytra [default: true]": true,
+    "enchanted_membrane [default: true]": true
   }
 }

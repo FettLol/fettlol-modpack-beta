@@ -5,7 +5,7 @@
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 "ArmorInvisibility Enabled" = false
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlases Enabled" = false
+"Atlases Enabled" = true
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = false
 #Unlocks all vanilla recipes.
@@ -21,11 +21,11 @@
 #Dungeon variations with different themes according to the biome.
 "BiomeDungeons Enabled" = true
 #Ender pearl storage. Eating a chorus fruit will teleport you to the nearest ender pearl block.
-"BlockOfEnderPearls Enabled" = false
+"BlockOfEnderPearls Enabled" = true
 #A storage block for gunpowder. It obeys gravity and dissolves in lava.
-"BlockOfGunpowder Enabled" = false
+"BlockOfGunpowder Enabled" = true
 #A storage block for sugar. It obeys gravity and dissolves in water.
-"BlockOfSugar Enabled" = false
+"BlockOfSugar Enabled" = true
 #Bookshelves that can hold up to 9 stacks of books and maps.
 "Bookcases Enabled" = false
 #Bumblezone integration.
@@ -148,7 +148,7 @@
 #Allows stews to stack.
 "StackableStews Enabled" = true
 #A Storage crate has the equivalent capacity of a double-chest for a single item or block type.
-"StorageCrates Enabled" = false
+"StorageCrates Enabled" = true
 #Shows the custom name of a storage block as a floating label when the player is sneaking.
 "StorageLabels Enabled" = true
 #Strays spawn anywhere within their biome and have a chance to drop blue ice.

@@ -39,7 +39,7 @@
 		*/
 		"detectionMode": "WHOLE_TREE",
 		// The maximum number of blocks to scan when trying to detect a tree. If there's more than this value the tree won't be cut.
-		"maxScanSize": 512,
+		"maxScanSize": 1024,
 		// The maximum size of a tree. If there's more logs than this value the max size action will be applied.
 		"maxSize": 64,
 		/* What to do when the max size of a tree is reached. 
@@ -77,7 +77,7 @@
 		/* When set to true nether tree warts (leaves) will be broken with only one hit. 
 		   INFO: Only in SHIFT_DOWN mode.
 		*/
-		"instantlyBreakWarts": false,
+		"instantlyBreakWarts": true,
 		/* This defines the area in which the tree is searched. If any branch is going out of this area it won't be cut. 
 		   This value is the radius of the area. 
 		   i.e. Setting a value of 2 will result on an area of 3x3 centered on the log broken. 

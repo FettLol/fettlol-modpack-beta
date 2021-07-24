@@ -117,8 +117,7 @@
     "moreberries:orange_berry_bush",
     "moreberries:purple_berry_bush",
     "moreberries:yellow_berry_bush",
-    "terrestria:indian_paintbrush",
-    "woods_and_mires:tansy"
+    "terrestria:indian_paintbrush"
   ],
   "dispenser": true
 }

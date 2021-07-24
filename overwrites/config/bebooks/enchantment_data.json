@@ -27,12 +27,20 @@
     "orderIndex": 102,
     "color": 12915514
   },
+  "mcda:fire_focus": {
+    "orderIndex": 107,
+    "color": 12915514
+  },
   "mcda:frenzied": {
     "orderIndex": 78,
     "color": 12915514
   },
   "mcdw:tempo_theft": {
     "orderIndex": 72,
+    "color": 12915514
+  },
+  "mcda:poison_focus": {
+    "orderIndex": 108,
     "color": 12915514
   },
   "minecraft:frost_walker": {
@@ -291,12 +299,24 @@
     "orderIndex": 54,
     "color": 12915514
   },
+  "mcdw:guarding_strike": {
+    "orderIndex": 105,
+    "color": 12915514
+  },
+  "mcda:death_barter": {
+    "orderIndex": 106,
+    "color": 12915514
+  },
   "mcda:reckless": {
     "orderIndex": 92,
     "color": 12915514
   },
   "mcda:potion_barrier": {
     "orderIndex": 79,
+    "color": 12915514
+  },
+  "charm:collection": {
+    "orderIndex": 104,
     "color": 12915514
   },
   "minecraft:unbreaking": {

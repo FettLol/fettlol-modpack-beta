@@ -74,15 +74,15 @@
       "salt": 19296726
     },
     "village_bazaar": {
-      "activated": false,
+      "activated": true,
       "seperation": 16,
-      "spacing": 32,
+      "spacing": 64,
       "salt": 34842291
     },
     "moai": {
       "activated": true,
-      "seperation": 2,
-      "spacing": 4,
+      "seperation": 3,
+      "spacing": 9,
       "salt": 12994829
     },
     "the_castle_in_the_sky": {

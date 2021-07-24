@@ -80,6 +80,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.axolotl-bucket-fix]
+    name = "axolotl-bucket-fix"
+    version = "60fbe1a3-9a80"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/axolotl-item-fix-1.1.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.bclib]
     name = "bclib"
     version = "60f4da10-7f950"
@@ -107,6 +117,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/beenfo-1.17.1-fabric0.36.1-1.3.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.better-biome-blend]
+    name = "better-biome-blend"
+    version = "60fbe3f2-d5e8d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/betterbiomeblend-1.17.0-1.2.3-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -612,11 +632,11 @@ lockfileVersion = 1
 
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "60ef0b90-150803"
+    version = "60fbe3d6-152f65"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.2.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.3.4.jar"
     provider = "https"
     dependend = ""
 
@@ -810,6 +830,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.reroll]
+    name = "reroll"
+    version = "1.2.1"
+    type = "mod"
+    ipfsHash = "QmeMyPMDNUsTAwyYfmZbuWJztpQhsVhV3ZtVM1yRn59wsi"
+    Sha256 = "a024ba9d9dcf80a8a2848aec9e6e01b43664b1d864445f2c006434d871607765"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/reroll@1.2.1/download"
+    provider = "minepkg"
+    dependend = ""
+
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
     version = "1.3.0-0.mpkg.1"
@@ -990,16 +1020,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.vectorientation]
-    name = "vectorientation"
-    version = "60faaf44-7c7c"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/vectorientation-1.0.1.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.villagernames]
     name = "villagernames"
     version = "60ef0b90-14bb94"
@@ -1037,6 +1057,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wraith-waystones-2.0.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.winged]
+    name = "winged"
+    version = "60fbe3b6-1b6884"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/winged-1.17.1-3.0.0.jar"
     provider = "https"
     dependend = ""
 
