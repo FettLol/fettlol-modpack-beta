@@ -30,16 +30,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.alaska-nativecraft]
-    name = "alaska-nativecraft"
-    version = "2.2.1-0.mpkg.1.pre-0724"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "89f2bf8bc13b7c8e3638b6447100a79e22be7779458f06cccd5fd21d8f084157"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/alaska-nativecraft@2.2.1-0.mpkg.1.pre-0724/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.amecs]
     name = "amecs"
     version = "1.3.4-0.mpkg.1"
@@ -260,6 +250,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.chromatic-mosses]
+    name = "chromatic-mosses"
+    version = "60fdc1ef-19ddf4"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/ChromaticMossesAndAzaleas_1.1_(FABRIC)_1.17-1.17.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.clear-skies]
     name = "clear-skies"
     version = "60fd6fe6-580b"
@@ -342,11 +342,11 @@ lockfileVersion = 1
 
   [dependencies.dankstorage]
     name = "dankstorage"
-    version = "60ef0b8f-29110"
+    version = "60fdbe4a-293ef"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dankstorage-2.0a-1.17.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dankstorage-2.1-1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -862,11 +862,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "60f87c06-512180"
+    version = "60fd9f96-512722"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.1.2+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.1.5+1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1048,6 +1048,16 @@ lockfileVersion = 1
     Sha256 = "b3333dbec3b7b89a81d8d16b19ec38e74f0b82c2f5f8e19dd655bea3754ec98f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/truedarkness@1.6.74-0.mpkg.1/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.trumpet-skeleton]
+    name = "trumpet-skeleton"
+    version = "60fdbe68-12326"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/trumpet-skeleton-fabric-1.1.4.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.untitledduckmod]
