@@ -30,6 +30,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.alaska-nativecraft]
+    name = "alaska-nativecraft"
+    version = "2.2.1-0.mpkg.1.pre-0724"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "89f2bf8bc13b7c8e3638b6447100a79e22be7779458f06cccd5fd21d8f084157"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/alaska-nativecraft@2.2.1-0.mpkg.1.pre-0724/download"
+    provider = "minepkg"
+    dependend = ""
+
   [dependencies.amecs]
     name = "amecs"
     version = "1.3.4-0.mpkg.1"
@@ -82,12 +92,12 @@ lockfileVersion = 1
 
   [dependencies.axolotl-bucket-fix]
     name = "axolotl-bucket-fix"
-    version = "60fbe1a3-9a80"
+    version = "1.1.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/axolotl-item-fix-1.1.1.jar"
-    provider = "https"
+    Sha256 = "2cd061c081b58535daee9de8aa794a849c8f6730c63e521461f856bb6164c153"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/axolotl-bucket-fix@1.1.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.bclib]
@@ -252,11 +262,11 @@ lockfileVersion = 1
 
   [dependencies.clear-skies]
     name = "clear-skies"
-    version = "60ef0b8f-580d"
+    version = "60fd6fe6-580b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/clear-skies-mc117-1.5.69.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/clear-skies-mc117-1.5.70.jar"
     provider = "https"
     dependend = ""
 
@@ -312,12 +322,12 @@ lockfileVersion = 1
 
   [dependencies.croptopia]
     name = "croptopia"
-    version = "60ef0b8e-1ded78"
+    version = "1.5.0-0.mpkg.3"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17-FABRIC-1.5.0.jar"
-    provider = "https"
+    Sha256 = "c75010403aba57489344cd2f3bec5e51479a501e806c4227d8c867deb5a1f8e9"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/croptopia@1.5.0-0.mpkg.3/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.damagetilt]
@@ -442,11 +452,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.37.0"
+    version = "0.37.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "6ef31eda14ff020ce334c1c398b6276f8a9b5fbffedabdee7281c96c274ff764"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.37.0/download"
+    Sha256 = "22141ec207c5789493475c389cbc0bc6e23143c251ea9cb78cf0152e14f0ddba"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.37.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -682,11 +692,11 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "2.0.3-0.mpkg.1"
+    version = "2.0.4-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "1544c957f6f2671ecf0a55ff360920ea7f77987d0e85d1c39c9ac3735550410b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.3-0.mpkg.1/download"
+    Sha256 = "ab2a7dd10afa74ee69b6c3dfa2c2e2fcce2ae23f66f4ebe11f30372ba7548576"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.4-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -762,11 +772,11 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "60ef0b90-24e88"
+    version = "60fd6f51-2724b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.3.1+1.17-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.4.0+1.17-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -807,6 +817,26 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CavesAndCliffsAddOnForWilliamWythersOverhauledOverworld-1.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.overhauled-overworld-primordial]
+    name = "overhauled-overworld-primordial"
+    version = "60ef0b8e-427e7"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Primordial+Shores+add-on+for+William+Wythers+Overhauled+Overworld.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.overhauled-overworld-structures]
+    name = "overhauled-overworld-structures"
+    version = "60ef0b8e-6e978"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/MoreStructuresForWilliamWythersOverhauledOverworld-1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -870,16 +900,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.riverredux]
-    name = "riverredux"
-    version = "60ef0b90-f239"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/riverredux-0.2.0.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
     version = "6.0.264-0.mpkg.1-alpha"
@@ -928,6 +948,16 @@ lockfileVersion = 1
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/SimplyImprovedTerrain-0.4.0.2-Fabric-1.17.jar"
     provider = "https"
+    dependend = ""
+
+  [dependencies.sodium]
+    name = "sodium"
+    version = "0.3.0-0.mpkg.1.rev.9396ff1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "24bf8a44072e4781997a3ef265a521b7eaef92d6f3c067a4fcf29ec42c7bd981"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.3.0-0.mpkg.1.rev.9396ff1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.spark]
@@ -1092,11 +1122,11 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "60ef0b90-366dc"
+    version = "60fd71b8-35747"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.7.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.8.0.jar"
     provider = "https"
     dependend = ""
 
