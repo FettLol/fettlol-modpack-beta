@@ -110,7 +110,6 @@ manifestVersion = 0
   servertick = "^1.5.0-0.mpkg.1"
   simply-improved-terrain = "https://www.brekitomasson.com/fettlol/mods/1.17.1/SimplyImprovedTerrain-0.4.0.2-Fabric-1.17.jar"
   sodium = "^0.3.0-0.mpkg.1.rev.9396ff1"
-  sound-physics = "https://www.brekitomasson.com/fettlol/mods/1.17.1/soundphysics-2.0.0.jar"
   spark = "https://www.brekitomasson.com/fettlol/mods/1.17.1/spark-fabric.jar"
   spawnermod = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-branders-spawnermod-1.17-1.1.1.jar"
   stickyhopper = "https://www.brekitomasson.com/fettlol/mods/1.17.1/stickyhopper-2.3-1.17-1.jar"

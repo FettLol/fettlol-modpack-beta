@@ -35,6 +35,7 @@ key.hotbar.9:key.keyboard.9
 key.emotecraft.fastchoose:key.keyboard.v
 key.emotecraft.stop:key.keyboard.unknown
 key.expandedstorage.config:key.keyboard.unknown
+key.fallflyinglib.toggle:key.keyboard.h
 key.amecs.toggle_auto_jump:key.keyboard.unknown
 key.amecs.toggle_cape:key.keyboard.unknown
 key.amecs.toggle_jacket:key.keyboard.unknown
@@ -43,7 +44,7 @@ key.amecs.toggle_right_sleeve:key.keyboard.unknown
 key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key.amecs.toggle_hat:key.keyboard.unknown
-key.charm.openCraftingTable:key.keyboard.e
+key.charm.openCraftingTable:key.keyboard.v
 key.push_to_talk:key.keyboard.grave.accent
 key.mute_microphone:key.keyboard.m
 key.disable_voice_chat:key.keyboard.f10
@@ -60,7 +61,7 @@ gui.xaero_toggle_waypoints:key.keyboard.b
 gui.xaero_toggle_map_waypoints:key.keyboard.unknown
 gui.xaero_toggle_map:key.keyboard.unknown
 gui.xaero_enlarge_map:key.keyboard.z
-gui.xaero_waypoints_key:key.keyboard.u
+gui.xaero_waypoints_key:key.keyboard.unknown
 gui.xaero_zoom_in:key.keyboard.unknown
 gui.xaero_zoom_out:key.keyboard.unknown
 gui.xaero_new_waypoint:key.keyboard.n

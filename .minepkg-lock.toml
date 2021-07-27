@@ -882,11 +882,11 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "6.0.264-0.mpkg.1-alpha"
+    version = "6.0.264-0.mpkg.2-alpha"
     type = "mod"
     ipfsHash = ""
     Sha256 = "f0ec91920ea353c2d45e78792186bdffabec9bb25c74f412050382774158c2ff"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.264-0.mpkg.1-alpha/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.264-0.mpkg.2-alpha/download"
     provider = "minepkg"
     dependend = ""
 
@@ -948,16 +948,6 @@ lockfileVersion = 1
     Sha256 = "24bf8a44072e4781997a3ef265a521b7eaef92d6f3c067a4fcf29ec42c7bd981"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.3.0-0.mpkg.1.rev.9396ff1/download"
     provider = "minepkg"
-    dependend = ""
-
-  [dependencies.sound-physics]
-    name = "sound-physics"
-    version = "60feae3c-238b5"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/soundphysics-2.0.0.jar"
-    provider = "https"
     dependend = ""
 
   [dependencies.spark]
