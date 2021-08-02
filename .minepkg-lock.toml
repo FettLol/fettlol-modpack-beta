@@ -182,11 +182,11 @@ lockfileVersion = 1
 
   [dependencies.blame]
     name = "blame"
-    version = "60ef0b8f-153a4"
+    version = "6106d35a-14f3b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/blame-1.17-4.0.0-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/blame-1.17-4.0.1-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -322,12 +322,12 @@ lockfileVersion = 1
 
   [dependencies.croptopia]
     name = "croptopia"
-    version = "1.5.0-0.mpkg.3"
+    version = "6106d2ba-1da524"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "c75010403aba57489344cd2f3bec5e51479a501e806c4227d8c867deb5a1f8e9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/croptopia@1.5.0-0.mpkg.3/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17-FABRIC-1.6.0.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.damagetilt]
@@ -482,11 +482,11 @@ lockfileVersion = 1
 
   [dependencies.fallingtree]
     name = "fallingtree"
-    version = "60ef0b8e-10bd95"
+    version = "6106d2f3-120317"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/FallingTree-1.17.1-2.12.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/FallingTree-1.17.1-2.12.2.jar"
     provider = "https"
     dependend = ""
 
@@ -582,11 +582,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "60fa33b6-12956d"
+    version = "6106d29c-12814f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.8.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.8.5.jar"
     provider = "https"
     dependend = ""
 
@@ -672,11 +672,11 @@ lockfileVersion = 1
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "60f3eaea-c21d8"
+    version = "6106d308-c2416"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.5.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.6.jar"
     provider = "https"
     dependend = ""
 
@@ -872,11 +872,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.1.7-0.mpkg.1"
+    version = "2.1.8-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "95e57312d713d1dcfbea11f3bdc965807d2f9e501f39a3aefa109a63b8c5d75c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.1.7-0.mpkg.1/download"
+    Sha256 = "3f1f5c2171faa303a9b77f70de39d7a42e33fd1095ab5196ec7487105ce838fe"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.1.8-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1042,11 +1042,11 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "60fa3407-198d53"
+    version = "610542c5-1993a7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/traverse-4.0.0-beta.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/traverse-4.0.0-beta.2.jar"
     provider = "https"
     dependend = ""
 
