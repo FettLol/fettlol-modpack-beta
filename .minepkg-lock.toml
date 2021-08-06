@@ -30,6 +30,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.alaska-nativecraft]
+    name = "alaska-nativecraft"
+    version = "610be52a-958ed"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/alaskanativecraft-1.3.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.amecs]
     name = "amecs"
     version = "1.3.4-0.mpkg.1"
@@ -42,11 +52,11 @@ lockfileVersion = 1
 
   [dependencies.appleskin]
     name = "appleskin"
-    version = "2.1.1-1.17.mpkg.1"
+    version = "2.1.2-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b0c6db103bbcb55d56df01c2b3c16ff3845c277a1a9b18da45920ab512af0c51"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@2.1.1-1.17.mpkg.1/download"
+    Sha256 = "8851c6767c75fcec8f5de65f0f8383a157224d6725989c28c78e830fd8d2643e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@2.1.2-1.17.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -250,16 +260,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.chromatic-mosses]
-    name = "chromatic-mosses"
-    version = "60fdc1ef-19ddf4"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/ChromaticMossesAndAzaleas_1.1_(FABRIC)_1.17-1.17.1.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.clear-skies]
     name = "clear-skies"
     version = "60fd6fe6-580b"
@@ -288,6 +288,16 @@ lockfileVersion = 1
     Sha256 = "b20c331fb9cd36048db8c238512893d6b4f283e8ed3ae3d25feb3a3ff8873acb"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/coloredslime@1.2.6/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.colorful-azaleas]
+    name = "colorful-azaleas"
+    version = "610d100f-19ddee"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Colorful_Azaleas_1.2_for_1.17-1.171.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.compressed]
@@ -352,11 +362,11 @@ lockfileVersion = 1
 
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "1.6.5-0.mpkg.1"
+    version = "1.6.6-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "00424308da15c5bf6b1f7a916a93256107b10501bf5b2b8a62c6f92989972cf4"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.5-0.mpkg.1/download"
+    Sha256 = "573ec0e7fea95dc25044d6a780d8986713e6c9b87dc3546010a322aa07e12e93"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.6-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -372,11 +382,11 @@ lockfileVersion = 1
 
   [dependencies.dirtnt]
     name = "dirtnt"
-    version = "1.0.0-1.17"
+    version = "1.1.0-1.17"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "d2e09545eead1021e605ea765fdddfc015ad81a3dedd2f6c754f09f6760710ef"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dirtnt@1.0.0-1.17/download"
+    Sha256 = "42709c63c28c69ce2bf4d01e4f47a979e0d5d612d22f27bc19276b71dd9a37af"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dirtnt@1.1.0-1.17/download"
     provider = "minepkg"
     dependend = ""
 
@@ -567,6 +577,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.6.3.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.indium]
+    name = "indium"
+    version = "61093199-1a510"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/indium-1.0.0+mc1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -770,6 +790,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.music-discs-galore]
+    name = "music-discs-galore"
+    version = "610d0ce2-8609236"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/MDG-Fabric-2.0.3.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.nether-chest]
     name = "nether-chest"
     version = "60ef0b90-17b29"
@@ -872,12 +902,12 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.1.8-0.mpkg.1"
+    version = "610d0c8b-514aa6"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "3f1f5c2171faa303a9b77f70de39d7a42e33fd1095ab5196ec7487105ce838fe"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.1.8-0.mpkg.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.1.11+1.17.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.reroll]
@@ -982,11 +1012,11 @@ lockfileVersion = 1
 
   [dependencies.spawnermod]
     name = "spawnermod"
-    version = "60ef0b8f-1793f"
+    version = "610a64f8-17b99"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-branders-spawnermod-1.17-1.1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-branders-spawnermod-1.17.1-1.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1090,16 +1120,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.vistas]
-    name = "vistas"
-    version = "1.3.1-0.mpkg.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "c3fa745035a0252b7a0e878d590c17163d6e30f3635d7da112155f311087755a"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/vistas@1.3.1-0.mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.voicechat]
     name = "voicechat"
     version = "6101e999-2fcf6c"
@@ -1112,12 +1132,12 @@ lockfileVersion = 1
 
   [dependencies.waystones]
     name = "waystones"
-    version = "60ef0b90-2f9f8"
+    version = "2.0.3-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wraith-waystones-2.0.2.jar"
-    provider = "https"
+    Sha256 = "a9a40ca1a92041d14b325286649993c87fc34e723694e27725f4768fe3a26df5"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.0.3-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.winged]
