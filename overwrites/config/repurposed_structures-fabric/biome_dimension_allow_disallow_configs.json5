@@ -119,5 +119,14 @@
 // RS's dungeons and wells identifiers can be found here on GitHub:
 //  https://github.com/TelepathicGrunt/RepurposedStructures-Fabric/blob/7f8021cbc073c9919fa0b08dc3b746f9a0e854af/src/main/java/com/telepathicgrunt/repurposedstructures/modinit/RSConfiguredFeatures.java#L268-L290
 
-  "allowedBiomes": {}
+  "allowedBiomes": {},
+  //
+
+
+
+
+
+
+// for internal use only. Do not change this.
+  "configVersion": 2
 }

@@ -27,7 +27,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_crimson": [
@@ -35,7 +36,8 @@
         "type": "minecraft:piglin",
         "weight": 10,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_snowy": [
@@ -43,7 +45,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:city_nether": [
@@ -51,13 +54,15 @@
         "type": "minecraft:blaze",
         "weight": 120,
         "minGroupSize": 1,
-        "maxGroupSize": 4
+        "maxGroupSize": 4,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:wither_skeleton",
         "weight": 10,
         "minGroupSize": 2,
-        "maxGroupSize": 3
+        "maxGroupSize": 3,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_desert": [
@@ -65,7 +70,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_icy": [
@@ -73,7 +79,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:bastion_underground": [
@@ -81,7 +88,8 @@
         "type": "minecraft:skeleton",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 4
+        "maxGroupSize": 4,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_end": [
@@ -89,7 +97,8 @@
         "type": "minecraft:phantom",
         "weight": 10,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:witch_hut_dark_forest": [
@@ -97,13 +106,15 @@
         "type": "minecraft:witch",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:cat",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:witch_hut_birch": [
@@ -111,13 +122,15 @@
         "type": "minecraft:witch",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:cat",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_nether_brick": [
@@ -125,7 +138,8 @@
         "type": "minecraft:piglin",
         "weight": 10,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:witch_hut_taiga": [
@@ -133,13 +147,15 @@
         "type": "minecraft:witch",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:cat",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_giant_tree_taiga": [
@@ -147,7 +163,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_badlands": [
@@ -155,7 +172,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:stronghold_nether": [
@@ -163,31 +181,36 @@
         "type": "minecraft:blaze",
         "weight": 10,
         "minGroupSize": 2,
-        "maxGroupSize": 3
+        "maxGroupSize": 3,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:zombified_piglin",
         "weight": 3,
         "minGroupSize": 4,
-        "maxGroupSize": 4
+        "maxGroupSize": 4,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:wither_skeleton",
         "weight": 10,
         "minGroupSize": 5,
-        "maxGroupSize": 5
+        "maxGroupSize": 5,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:skeleton",
         "weight": 2,
         "minGroupSize": 5,
-        "maxGroupSize": 5
+        "maxGroupSize": 5,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:magma_cube",
         "weight": 3,
         "minGroupSize": 4,
-        "maxGroupSize": 4
+        "maxGroupSize": 4,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_oak": [
@@ -195,7 +218,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:witch_hut_giant_tree_taiga": [
@@ -203,13 +227,15 @@
         "type": "minecraft:witch",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:cat",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_warped": [
@@ -217,7 +243,8 @@
         "type": "minecraft:piglin",
         "weight": 10,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:witch_hut_oak": [
@@ -225,13 +252,15 @@
         "type": "minecraft:witch",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       },
       {
         "type": "minecraft:cat",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_jungle": [
@@ -239,7 +268,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:outpost_birch": [
@@ -247,7 +277,8 @@
         "type": "minecraft:pillager",
         "weight": 1,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ]
   },
@@ -272,7 +303,8 @@
         "type": "minecraft:wither_skeleton",
         "weight": 25,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:shipwreck_warped": [
@@ -280,7 +312,8 @@
         "type": "minecraft:wither_skeleton",
         "weight": 25,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:fortress_jungle": [
@@ -288,7 +321,8 @@
         "type": "minecraft:wither_skeleton",
         "weight": 27,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
       }
     ],
     "repurposed_structures:mineshaft_end": [
@@ -296,13 +330,15 @@
         "type": "minecraft:endermite",
         "weight": 10,
         "minGroupSize": 2,
-        "maxGroupSize": 5
+        "maxGroupSize": 5,
+        "logErrorIfNotFound": false
       },
       {
-        "type": "minecraft:endermen",
+        "type": "minecraft:enderman",
         "weight": 5,
         "minGroupSize": 1,
-        "maxGroupSize": 3
+        "maxGroupSize": 3,
+        "logErrorIfNotFound": true
       }
     ],
     "repurposed_structures:shipwreck_crimson": [
@@ -310,7 +346,17 @@
         "type": "minecraft:wither_skeleton",
         "weight": 25,
         "minGroupSize": 1,
-        "maxGroupSize": 1
+        "maxGroupSize": 1,
+        "logErrorIfNotFound": false
+      }
+    ],
+    "repurposed_structures:stronghold_end": [
+      {
+        "type": "minecraft:endermite",
+        "weight": 100,
+        "minGroupSize": 2,
+        "maxGroupSize": 4,
+        "logErrorIfNotFound": true
       }
     ]
   },
@@ -321,5 +367,5 @@
 
 // for internal use only. Do not change this.
 
-  "configVersion": 1
+  "configVersion": 3
 }

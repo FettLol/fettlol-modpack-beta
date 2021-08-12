@@ -218,6 +218,12 @@
       "has_caves [default: true]": true,
       "edge_size [default: 32]": 32,
       "enabled [default: true]": true
+    },
+    "umbra_valley": {
+      "fog_density [default: 1.0]": 1.0,
+      "generation_chance [default: 1.0]": 1.0,
+      "edge_size [default: 32]": 32,
+      "enabled [default: true]": true
     }
   },
   "byg": {

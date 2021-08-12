@@ -168,7 +168,7 @@
 #Variant chains crafted from vanilla metal ingots and nuggets.
 "VariantChains Enabled" = true
 #Chests available in all types of vanilla wood.
-"VariantChests Enabled" = true
+"VariantChests Enabled" = false
 #Ladders available in all types of vanilla wood.
 "VariantLadders Enabled" = false
 #Variants lanterns crafted from vanilla metal nuggets and torches.
@@ -182,7 +182,7 @@
 #A witch has a chance to drop a Potion of Luck when killed by a player.
 "WitchesDropLuck Enabled" = true
 #A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
-"Woodcutters Enabled" = true
+"Woodcutters Enabled" = false
 
 [AnvilImprovements]
 	#If true, removes the maximum cost of 40 XP when working items on the anvil.

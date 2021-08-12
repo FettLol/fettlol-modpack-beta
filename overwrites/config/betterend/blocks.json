@@ -600,7 +600,8 @@
       "amber_moss [default: 7]": 7,
       "jungle_moss [default: 8]": 8,
       "sangnum [default: 9]": 9,
-      "rutiscus [default: 10]": 10
+      "rutiscus [default: 10]": 10,
+      "pallidium_full [default: 11]": 11
     },
     "plants": {
       "mossy_glowshroom_sapling [default: 0]": 0,
@@ -645,7 +646,32 @@
       "amber_root_seed [default: 39]": 39,
       "chorus_mushroom_seed [default: 40]": 40,
       "murkweed [default: 41]": 41,
-      "needlegrass [default: 42]": 42
+      "needlegrass [default: 42]": 42,
+      "inflexia [default: 43]": 43,
+      "flammalix [default: 44]": 44
     }
-  }
+  },
+  "pallidium_full [default: true]": true,
+  "pallidium_heavy [default: true]": true,
+  "pallidium_thin [default: true]": true,
+  "pallidium_tiny [default: true]": true,
+  "umbralith [default: true]": true,
+  "umbralith_polished [default: true]": true,
+  "umbralith_tiles [default: true]": true,
+  "umbralith_pillar [default: true]": true,
+  "umbralith_stairs [default: true]": true,
+  "umbralith_slab [default: true]": true,
+  "umbralith_wall [default: true]": true,
+  "umbralith_button [default: true]": true,
+  "umbralith_plate [default: true]": true,
+  "umbralith_pedestal [default: true]": true,
+  "umbralith_lantern [default: true]": true,
+  "umbralith_bricks [default: true]": true,
+  "umbralith_bricks_stairs [default: true]": true,
+  "umbralith_bricks_slab [default: true]": true,
+  "umbralith_bricks_wall [default: true]": true,
+  "umbralith_furnace [default: true]": true,
+  "umbralith_flower_pot [default: true]": true,
+  "inflexia [default: true]": true,
+  "flammalix [default: true]": true
 }

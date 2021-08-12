@@ -11,7 +11,8 @@
     "use_particle_culling": true,
     "use_fog_occlusion": false,
     "use_block_face_culling": true,
-    "allow_direct_memory_access": true
+    "allow_direct_memory_access": true,
+    "enable_memory_tracing": false
   },
   "notifications": {
     "hide_donation_button": true

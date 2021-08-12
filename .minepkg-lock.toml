@@ -52,12 +52,12 @@ lockfileVersion = 1
 
   [dependencies.appleskin]
     name = "appleskin"
-    version = "2.1.2-1.17.mpkg.1"
+    version = "611249d6-e0250"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "8851c6767c75fcec8f5de65f0f8383a157224d6725989c28c78e830fd8d2643e"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@2.1.2-1.17.mpkg.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appleskin-fabric-mc1.17-2.1.3.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.architectury]
@@ -67,6 +67,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/architectury-2.3.23-fabric.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.atmosfera]
+    name = "atmosfera"
+    version = "61157b99-3d35334"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/atmosfera-2.0.0+mc1.17.jar"
     provider = "https"
     dependend = ""
 
@@ -102,11 +112,11 @@ lockfileVersion = 1
 
   [dependencies.bclib]
     name = "bclib"
-    version = "60f4da10-7f950"
+    version = "61124a38-966aa"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/bclib-0.2.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/bclib-0.3.0.jar"
     provider = "https"
     dependend = ""
 
@@ -172,11 +182,11 @@ lockfileVersion = 1
 
   [dependencies.betterend]
     name = "betterend"
-    version = "60f3eb3e-56ad1b0"
+    version = "6113a391-5712dd1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/better-end-0.10.5-pre.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/better-end-0.11.0-pre.jar"
     provider = "https"
     dependend = ""
 
@@ -242,11 +252,11 @@ lockfileVersion = 1
 
   [dependencies.caracal]
     name = "caracal"
-    version = "60f88584-a6091"
+    version = "6114432e-b29f7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/caracalmob-1.17-1.2.2.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/caracalmob-1.17-1.3.0.jar"
     provider = "https"
     dependend = ""
 
@@ -317,6 +327,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/concrete-plus-1.9.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.copper-beacons]
+    name = "copper-beacons"
+    version = "61157daa-9d70d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/copper-beacons-1.0.1.jar"
     provider = "https"
     dependend = ""
 
@@ -462,11 +482,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.37.1"
+    version = "0.37.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "22141ec207c5789493475c389cbc0bc6e23143c251ea9cb78cf0152e14f0ddba"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.37.1/download"
+    Sha256 = "0fb9dbf9db6e2f322e66479d844cae9a495d2a4bf7f9c9f7e963324f77762410"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.37.2/download"
     provider = "minepkg"
     dependend = ""
 
@@ -482,12 +502,12 @@ lockfileVersion = 1
 
   [dependencies.fallingleaves]
     name = "fallingleaves"
-    version = "60ef0b8f-40657"
+    version = "1.7.3"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fallingleaves-1.7.0+1.17.jar"
-    provider = "https"
+    Sha256 = "48121f10e61fed19915536244f3685ea33ba53a3cbf5bfe2874385cabc722189"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.7.3/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.fallingtree]
@@ -602,11 +622,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "6106d29c-12814f"
+    version = "611582c8-12814f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.8.5.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.8.6.jar"
     provider = "https"
     dependend = ""
 
@@ -680,13 +700,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.mcdunegeonsweapons]
-    name = "mcdunegeonsweapons"
-    version = "60fbe3d6-152f65"
+  [dependencies.lovely-snails]
+    name = "lovely-snails"
+    version = "6113dd48-1fa16"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.3.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lovely_snails-1.0.3+1.17.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.mcdunegeonsweapons]
+    name = "mcdunegeonsweapons"
+    version = "6115866f-161806"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.4.0.jar"
     provider = "https"
     dependend = ""
 
@@ -752,11 +782,11 @@ lockfileVersion = 1
 
   [dependencies.more-axolotl-variants]
     name = "more-axolotl-variants"
-    version = "60ef0b90-9282"
+    version = "6115826a-a369"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mavm-1.0.2b.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mavm-1.0.3a.jar"
     provider = "https"
     dependend = ""
 
@@ -777,16 +807,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreberries-1.4.2.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.morevillagers]
-    name = "morevillagers"
-    version = "60f4d974-36ea0"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/morevillagers-FABRIC-1.17-2.0.4.jar"
     provider = "https"
     dependend = ""
 
@@ -922,11 +942,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "610d0c8b-514aa6"
+    version = "611581d4-52c4d4"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.1.11+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.2.2+1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1010,13 +1030,33 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.simply-improved-terrain]
-    name = "simply-improved-terrain"
-    version = "60ef0b8e-f9542"
+  [dependencies.simple-transport]
+    name = "simple-transport"
+    version = "61158342-de402"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/SimplyImprovedTerrain-0.4.0.2-Fabric-1.17.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/simpletransport-0.0.9.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.simply-improved-terrain]
+    name = "simply-improved-terrain"
+    version = "6113a3b8-3b397"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/SimplyImprovedTerrain-0.4.0.3-Fabric-1.17.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.slimy-floor]
+    name = "slimy-floor"
+    version = "611249f0-1ff60"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/slimyfloor-1.17.1-1.2.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1032,11 +1072,11 @@ lockfileVersion = 1
 
   [dependencies.spawnermod]
     name = "spawnermod"
-    version = "610a64f8-17b99"
+    version = "61124a67-17c1f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-branders-spawnermod-1.17.1-1.1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-branders-spawnermod-1.17.1-1.1.2.jar"
     provider = "https"
     dependend = ""
 
@@ -1152,11 +1192,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "6101e999-2fcf6c"
+    version = "61124a1f-2fcd69"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.6.jar"
     provider = "https"
     dependend = ""
 
