@@ -112,11 +112,11 @@ lockfileVersion = 1
 
   [dependencies.bclib]
     name = "bclib"
-    version = "61124a38-966aa"
+    version = "6118402b-970f5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/bclib-0.3.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/bclib-0.3.1.jar"
     provider = "https"
     dependend = ""
 
@@ -542,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.11-1.17.mpkg.1"
+    version = "3.0.12-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "cb9488fa47fda467c43dac5a2b03e22e5c06cab23aeb0a68a22c55680f8472b9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.11-1.17.mpkg.1/download"
+    Sha256 = "6c381bc35963c60c95d23694cf6e1e706f87667519af27438bf868e3c4c7978b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.12-1.17.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -712,11 +712,11 @@ lockfileVersion = 1
 
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "6115866f-161806"
+    version = "61184056-1619b8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.4.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.4.1.jar"
     provider = "https"
     dependend = ""
 
@@ -982,11 +982,11 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "6.0.266-0.mpkg.1-alpha"
+    version = "6.0.268-0.mpkg.1-alpha"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "a916efa99d1a0440e25eb884d1dd8f7966d990d71c3c0a2be126c3bdfbedf231"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.266-0.mpkg.1-alpha/download"
+    Sha256 = "db979b4d0d4bdad0a75bddb10cea7cb3340959e8c531582320a20c929696dab2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.268-0.mpkg.1-alpha/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1032,11 +1032,11 @@ lockfileVersion = 1
 
   [dependencies.simple-transport]
     name = "simple-transport"
-    version = "61158342-de402"
+    version = "61183f51-e0ccf"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/simpletransport-0.0.9.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/simpletransport-0.0.10.jar"
     provider = "https"
     dependend = ""
 
@@ -1112,11 +1112,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "60faaf93-3bb70d"
+    version = "61183f8a-3be2da"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.5-beta+build.85.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.6-beta+build.94.jar"
     provider = "https"
     dependend = ""
 
@@ -1192,11 +1192,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "61124a1f-2fcd69"
+    version = "61183fee-2fcfe3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.6.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.7.jar"
     provider = "https"
     dependend = ""
 
