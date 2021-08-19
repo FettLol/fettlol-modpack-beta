@@ -1,4 +1,34 @@
 {
+  "spawning": {
+    "sealOceanSettings": {
+      "weight": 5,
+      "minGroupSize": 1,
+      "maxGroupSize": 4
+    },
+    "sealRiverSettings": {
+      "weight": 5,
+      "minGroupSize": 1,
+      "maxGroupSize": 2
+    },
+    "mooseSettings": {
+      "weight": 2,
+      "minGroupSize": 1,
+      "maxGroupSize": 3
+    },
+    "ptarmiganSettings": {
+      "weight": 4,
+      "minGroupSize": 1,
+      "maxGroupSize": 4
+    }
+  },
+  "generation": {
+    "genDriftwood": true,
+    "genBlueberry": true,
+    "genCloudberry": true,
+    "genRaspberry": true,
+    "genSalmonberry": true,
+    "snowyGen": false
+  },
   "snowballConversion": true,
   "mooseEatBark": true,
   "sealFishing": {

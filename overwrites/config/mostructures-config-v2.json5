@@ -16,13 +16,13 @@
     "villager_tower": {
       "activated": true,
       "seperation": 16,
-      "spacing": 34,
+      "spacing": 48,
       "salt": 550292492
     },
     "lighthouse": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 32,
+      "seperation": 24,
+      "spacing": 48,
       "salt": 29502322
     },
     "air_balloon": {
@@ -33,20 +33,20 @@
     },
     "killer_bunny_castle": {
       "activated": true,
-      "seperation": 25,
-      "spacing": 45,
+      "seperation": 48,
+      "spacing": 96,
       "salt": 48123900
     },
     "jungle_pyramid": {
       "activated": true,
-      "seperation": 5,
-      "spacing": 25,
+      "seperation": 32,
+      "spacing": 48,
       "salt": 312178642
     },
     "abandoned_church": {
       "activated": true,
-      "seperation": 14,
-      "spacing": 38,
+      "seperation": 32,
+      "spacing": 64,
       "salt": 66996840
     },
     "volcanic_vent": {
@@ -57,25 +57,25 @@
     },
     "barn_house": {
       "activated": true,
-      "seperation": 8,
-      "spacing": 38,
+      "seperation": 16,
+      "spacing": 32,
       "salt": 165757306
     },
     "pirate_ship": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 40,
+      "seperation": 24,
+      "spacing": 48,
       "salt": 583957395
     },
     "tavern": {
       "activated": true,
-      "seperation": 12,
-      "spacing": 32,
+      "seperation": 32,
+      "spacing": 48,
       "salt": 19296726
     },
     "village_bazaar": {
       "activated": true,
-      "seperation": 16,
+      "seperation": 32,
       "spacing": 64,
       "salt": 34842291
     },
@@ -93,26 +93,26 @@
     },
     "ice_tower": {
       "activated": true,
-      "seperation": 8,
-      "spacing": 28,
+      "seperation": 16,
+      "spacing": 32,
       "salt": 964058305
     },
     "villager_market": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 36,
+      "seperation": 32,
+      "spacing": 64,
       "salt": 784939542
     },
     "big_pyramid": {
       "activated": true,
-      "seperation": 5,
-      "spacing": 25,
+      "seperation": 8,
+      "spacing": 32,
       "salt": 239284294
     },
     "pillager_factory": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 36,
+      "seperation": 32,
+      "spacing": 64,
       "salt": 839204924
     }
   }
