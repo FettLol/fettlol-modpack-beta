@@ -890,16 +890,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.physics-mod]
-    name = "physics-mod"
-    version = "611f9d4e-c84a4c"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/physics-mod-2.5.3-mc-1.17.1.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.presence-footsteps]
     name = "presence-footsteps"
     version = "60ef0b8e-6e2ff3"
