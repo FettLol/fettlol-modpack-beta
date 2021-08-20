@@ -452,11 +452,11 @@ lockfileVersion = 1
 
   [dependencies.expandedstorage]
     name = "expandedstorage"
-    version = "610810eb-5d4fe"
+    version = "611f9d28-62b53"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/expandedstorage-7.0.0+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/expandedstorage-7.0.1+1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -742,11 +742,11 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "2.0.4-0.mpkg.1"
+    version = "2.0.5-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "ab2a7dd10afa74ee69b6c3dfa2c2e2fcce2ae23f66f4ebe11f30372ba7548576"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.4-0.mpkg.1/download"
+    Sha256 = "b8b6d95a4c08613a2f7a6131a7f210f427e51328ab0d93950247e3788012beb6"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.5-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -822,11 +822,11 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "60fd6f51-2724b"
+    version = "611f9cca-273f9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.4.0+1.17-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.4.2+1.17-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -852,21 +852,21 @@ lockfileVersion = 1
 
   [dependencies.overhauled-overworld]
     name = "overhauled-overworld"
-    version = "60ef886a-e97c6"
+    version = "611f9ced-f5762"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/WilliamWythersOverhauledOverworld-1.5.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/WilliamWythersOverhauledOverworld-1.6(1.17.x).jar"
     provider = "https"
     dependend = ""
 
   [dependencies.overhauled-overworld-cavescliffs]
     name = "overhauled-overworld-cavescliffs"
-    version = "60fbfa44-665f0"
+    version = "611f9d09-6674f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CavesAndCliffsAddOnForWilliamWythersOverhauledOverworld-1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CavesAndCliffsAddOnForWilliamWythersOverhauledOverworld-1.3.jar"
     provider = "https"
     dependend = ""
 
@@ -888,6 +888,16 @@ lockfileVersion = 1
     Sha256 = "5377b0b141f91009e2f8624e6cffabd80ed51dc16185a97383a50c32b11ead72"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.1.0/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.physics-mod]
+    name = "physics-mod"
+    version = "611f9d4e-c84a4c"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/physics-mod-2.5.3-mc-1.17.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.presence-footsteps]
