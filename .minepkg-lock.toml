@@ -442,11 +442,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "611b876d-11c738"
+    version = "6123459e-113159"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-b692f79-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-6385565-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -472,11 +472,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.38.0"
+    version = "0.38.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "3130924629d0edcc6f0e0def2bdfddef90074873a058a4ac8c33ed1a088d5df9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.38.0/download"
+    Sha256 = "b0d3fb00e4f86223ee6900ce010687cdc925efdd22e98c6adeb3633613aa7121"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.38.2/download"
     provider = "minepkg"
     dependend = ""
 
@@ -602,11 +602,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "61204bfa-1399a8"
+    version = "612345c6-13a161"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-0.9.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.0.jar"
     provider = "https"
     dependend = ""
 
@@ -692,11 +692,11 @@ lockfileVersion = 1
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "6106d308-c2416"
+    version = "61234365-d1445"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.6.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.9.jar"
     provider = "https"
     dependend = ""
 
@@ -712,11 +712,11 @@ lockfileVersion = 1
 
   [dependencies.midas-hunger]
     name = "midas-hunger"
-    version = "60ef0b90-103b4"
+    version = "612341a9-13169"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/midas-hunger-1.4.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/midas-hunger-1.4.1.jar"
     provider = "https"
     dependend = ""
 
@@ -822,11 +822,11 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "61204ba0-27421"
+    version = "6123426e-26b18"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.4.3+1.17-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.4.4+1.17-fabric.jar"
     provider = "https"
     dependend = ""
 
