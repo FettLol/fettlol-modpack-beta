@@ -6,7 +6,7 @@ manifestVersion = 0
   type = "modpack"
   name = "fettlol-beta"
   description = "The beta branch of the Fettlol Modpack. Might not be stable."
-  version = "1.0.32"
+  version = "1.0.33"
   platform = "fabric"
   license = "MIT"
   author = "Breki Tomasson <breki.tomasson@gmail.com>"
@@ -17,8 +17,8 @@ manifestVersion = 0
   fabricLoader = "*"
 
 [dependencies]
-  adorn = "^2.1.3-0.mpkg.1"
   additional-additions = "https://www.brekitomasson.com/fettlol/mods/1.17.1/AdditionalAdditions-2.1.2.jar"
+  adorn = "^2.1.3-0.mpkg.1"
   advancements-debug = "https://www.brekitomasson.com/fettlol/mods/1.17.1/advdebug-2.3.0.jar"
   alaska-nativecraft = "https://www.brekitomasson.com/fettlol/mods/1.17.1/alaskanativecraft-1.3.0.jar"
   amecs = "^1.3.4-0.mpkg.1"
