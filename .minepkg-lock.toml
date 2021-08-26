@@ -82,12 +82,12 @@ lockfileVersion = 1
 
   [dependencies.autopath]
     name = "autopath"
-    version = "6125711e-e4df0"
+    version = "1.4.4-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/autopath-mc1.17.1-1.4.4.jar"
-    provider = "https"
+    Sha256 = "fcd3353317fe7d2dc9f8d59d842d733656e314177817b97f824ce38bfb28a9d2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/autopath@1.4.4-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.axesareweapons]
@@ -492,11 +492,11 @@ lockfileVersion = 1
 
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
-    version = "1.6.3-0.mpkg.1+kotlin.1.5.21"
+    version = "1.6.4-0.mpkg.1+kotlin.1.5.30"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "a6d5bdf683635c56dbbf5cdfeb9a2b34b427db9af348bd6b7717437d0ccdd76a"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.3-0.mpkg.1+kotlin.1.5.21/download"
+    Sha256 = "61df9f21fcd07b4e24aa921c4bab57a43548446b87bc452ce94d919956a9904a"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.4-0.mpkg.1+kotlin.1.5.30/download"
     provider = "minepkg"
     dependend = ""
 
@@ -672,11 +672,11 @@ lockfileVersion = 1
 
   [dependencies.lithium]
     name = "lithium"
-    version = "60ef0b90-64eae"
+    version = "612693ed-6b918"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lithium-fabric-mc1.17.1-0.7.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lithium-fabric-mc1.17.1-0.7.4.jar"
     provider = "https"
     dependend = ""
 
@@ -912,12 +912,12 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "611c6826-5344a8"
+    version = "2.3.1-0.mpkg.1+1.17.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.3.1+1.17.1.jar"
-    provider = "https"
+    Sha256 = "35f56ad81d40231c9eb98a56ab3dfd842b5d82d6f836bb604d4c2052556ba054"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.1-0.mpkg.1+1.17.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.reroll]
