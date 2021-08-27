@@ -352,11 +352,11 @@ lockfileVersion = 1
 
   [dependencies.croptopia]
     name = "croptopia"
-    version = "6106d2ba-1da524"
+    version = "61284864-1da49b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17-FABRIC-1.6.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17-FABRIC-1.6.1.jar"
     provider = "https"
     dependend = ""
 
@@ -562,11 +562,11 @@ lockfileVersion = 1
 
   [dependencies.guardians-galore]
     name = "guardians-galore"
-    version = "610ecb9b-118ae2"
+    version = "6127b38a-11a47b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/GuardiansGalore-1.17.1-2.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/GuardiansGalore-1.17.1-2.1.jar"
     provider = "https"
     dependend = ""
 
@@ -600,6 +600,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.indium]
+    name = "indium"
+    version = "61093199-1a510"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/indium-1.0.0+mc1.17.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.infinitywaterbucket]
     name = "infinitywaterbucket"
     version = "60ef0b90-2330"
@@ -617,6 +627,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.iris]
+    name = "iris"
+    version = "61020d3d-1d8344"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/iris-mc1.17-1.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -672,7 +692,7 @@ lockfileVersion = 1
 
   [dependencies.lithium]
     name = "lithium"
-    version = "612693ed-6b918"
+    version = "6126fab8-6b918"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -702,11 +722,11 @@ lockfileVersion = 1
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "61234365-d1445"
+    version = "6126fa9a-d12a3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.9.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.10.jar"
     provider = "https"
     dependend = ""
 
@@ -820,6 +840,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.mythic-mounts]
+    name = "mythic-mounts"
+    version = "61285fd5-1d91d9"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-1.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.nether-chest]
     name = "nether-chest"
     version = "60ef0b90-17b29"
@@ -888,6 +918,16 @@ lockfileVersion = 1
     Sha256 = "5377b0b141f91009e2f8624e6cffabd80ed51dc16185a97383a50c32b11ead72"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.1.0/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.polymorph]
+    name = "polymorph"
+    version = "61284825-2feec"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/polymorph-fabric-0.0.12-1.17.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.presence-footsteps]
