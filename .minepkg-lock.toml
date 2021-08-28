@@ -992,11 +992,11 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "6.0.272-0.mpkg.1-alpha"
+    version = "6.0.274-0.mpkg.1-alpha"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b41c67641232d1f4e8ab5bd0e6dd702d26b6eb958028c9da9cea63aab2f2bc5f"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.272-0.mpkg.1-alpha/download"
+    Sha256 = "1fce10918e70fc533fd3efe7737a7d4c331386a35872c33eca1d6b34a192b11b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.274-0.mpkg.1-alpha/download"
     provider = "minepkg"
     dependend = ""
 
