@@ -72,11 +72,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "2.4.26-0.mpkg.1"
+    version = "2.4.27-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "816d7986d24c10784056918e36c026b44e0af2ac9202953c2368732fd4b65325"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.4.26-0.mpkg.1/download"
+    Sha256 = "4440916af2bc7f80e4da4f839f77a2e3a65caa58c42517783096f0beeb6aaf97"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.4.27-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -452,11 +452,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "6123459e-113159"
+    version = "612c6f42-116b73"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-6385565-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.4-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -612,11 +612,11 @@ lockfileVersion = 1
 
   [dependencies.infinitywaterbucket]
     name = "infinitywaterbucket"
-    version = "60ef0b90-2330"
+    version = "612c6ff4-1f3e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/infinity-water-bucket-1.4-mc1.17-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/infinity-water-bucket-1.4.1-mc1.17-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -772,11 +772,11 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "2.0.5-0.mpkg.1"
+    version = "2.0.6-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b8b6d95a4c08613a2f7a6131a7f210f427e51328ab0d93950247e3788012beb6"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.5-0.mpkg.1/download"
+    Sha256 = "aca65209a5e8e7a8729aa02f4178dcacc257896c99d32b8c690a35ff7742b6a4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.6-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -792,11 +792,11 @@ lockfileVersion = 1
 
   [dependencies.more-banner-features]
     name = "more-banner-features"
-    version = "61257158-3d116"
+    version = "612c6fe2-40e5e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/morebannerfeatures-1.0.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/morebannerfeatures-1.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -842,11 +842,11 @@ lockfileVersion = 1
 
   [dependencies.mythic-mounts]
     name = "mythic-mounts"
-    version = "61285fd5-1d91d9"
+    version = "6129876b-1d94ab"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-1.2.jar"
     provider = "https"
     dependend = ""
 
@@ -972,12 +972,12 @@ lockfileVersion = 1
 
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
-    version = "1.3.0-0.mpkg.1"
+    version = "612c6f66-c34d"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "a484b81ee80f5b2db184647bc6dac71c77b3d0047cd7a3db6626c1ab7a7aad7d"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/rightclickharvest@1.3.0-0.mpkg.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/rightclickharvest-1.4.0.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.ringofattraction]
@@ -990,14 +990,14 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.roughlyenoughitems]
-    name = "roughlyenoughitems"
-    version = "6.0.274-0.mpkg.1-alpha"
+  [dependencies.roughly-enough-items]
+    name = "roughly-enough-items"
+    version = "612c70b7-12b0be"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "1fce10918e70fc533fd3efe7737a7d4c331386a35872c33eca1d6b34a192b11b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.274-0.mpkg.1-alpha/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RoughlyEnoughItems-6.0.279-alpha-fabric.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.satin-api]
@@ -1057,6 +1057,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/SimplyImprovedTerrain-0.4.0.3-Fabric-1.17.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.skin-layers]
+    name = "skin-layers"
+    version = "612c7056-5c316"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/3dSkinLayers-1.0.1.jar"
     provider = "https"
     dependend = ""
 
