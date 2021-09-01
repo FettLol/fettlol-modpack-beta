@@ -442,11 +442,11 @@ lockfileVersion = 1
 
   [dependencies.earth2java]
     name = "earth2java"
-    version = "1.7.1-0.mpkg.1+1.17-pre3"
+    version = "1.7.3-0.mpkg.1+1.17"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "c98c84974bcb62e8840840f75f645dd7c1e11d98ff09bdd5b432f7d9e0587991"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/earth2java@1.7.1-0.mpkg.1+1.17-pre3/download"
+    Sha256 = "d1c9894cb02161d2f7fe9e8ec917ea23142c4f3d1207892fc877a4c1a6febb05"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/earth2java@1.7.3-0.mpkg.1+1.17/download"
     provider = "minepkg"
     dependend = ""
 
@@ -522,12 +522,12 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "60ef0b8e-4dc7dc"
+    version = "1.1.3"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/FettLolUtilMod-1.1.2+1.17.jar"
-    provider = "https"
+    Sha256 = "b30161afada6fa93cfdf4084be965a2c56498693a6d548bb396f0b8e0dfb0f3c"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.3/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.flonters]
@@ -592,11 +592,11 @@ lockfileVersion = 1
 
   [dependencies.illuminations]
     name = "illuminations"
-    version = "61204bb9-10d1cc"
+    version = "612f0df1-113be5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.6.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.7.jar"
     provider = "https"
     dependend = ""
 
@@ -1010,6 +1010,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.scorch]
+    name = "scorch"
+    version = "612f429a-39ffe"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/scorch-1.1.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.seasons]
     name = "seasons"
     version = "60ef0b8f-3db14"
@@ -1208,6 +1218,16 @@ lockfileVersion = 1
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/villagernames-1.17-2.0.0.jar"
     provider = "https"
+    dependend = ""
+
+  [dependencies.vistas]
+    name = "vistas"
+    version = "1.4.4-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "0224a0ded6aa8ad399e25520bab6abdb1888200a237383c8207f349b5f31e1f8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/vistas@1.4.4-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.voicechat]
