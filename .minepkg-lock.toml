@@ -342,11 +342,11 @@ lockfileVersion = 1
 
   [dependencies.copper-equipment]
     name = "copper-equipment"
-    version = "60f3ecec-ba7d"
+    version = "61306538-14edd"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CopperEquipment-Fabric1.17.1-1.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CopperEquipment-Fabric1.17.1-1.6.jar"
     provider = "https"
     dependend = ""
 
@@ -1007,16 +1007,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/satin-1.6.1.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.scorch]
-    name = "scorch"
-    version = "612f429a-39ffe"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/scorch-1.1.0.jar"
     provider = "https"
     dependend = ""
 
