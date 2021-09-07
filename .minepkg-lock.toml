@@ -382,11 +382,11 @@ lockfileVersion = 1
 
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "1.6.7-0.mpkg.1"
+    version = "1.6.9-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "7e4608375416415e91fd1ea34eaba70f1f4f4847c9e309d77fd5879519033e3f"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.7-0.mpkg.1/download"
+    Sha256 = "d9302bbed72728f58faf880a527ae0b1022fd3957f4e668f1854bd0a96f84854"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.9-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -782,21 +782,21 @@ lockfileVersion = 1
 
   [dependencies.more-axolotl-variants]
     name = "more-axolotl-variants"
-    version = "6115826a-a369"
+    version = "6133b432-a767"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mavm-1.0.3a.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mavm-1.0.5.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.more-banner-features]
     name = "more-banner-features"
-    version = "612c6fe2-40e5e"
+    version = "6133b400-3e37d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/morebannerfeatures-1.0.5.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/morebannerfeatures-1.0.6.jar"
     provider = "https"
     dependend = ""
 
@@ -952,12 +952,12 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.3.1-0.mpkg.1+1.17.1"
+    version = "6133b455-534648"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "35f56ad81d40231c9eb98a56ab3dfd842b5d82d6f836bb604d4c2052556ba054"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.1-0.mpkg.1+1.17.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.3.3+1.17.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.reroll]
@@ -982,11 +982,11 @@ lockfileVersion = 1
 
   [dependencies.ringofattraction]
     name = "ringofattraction"
-    version = "60fa33f7-3a41"
+    version = "6133b412-3b37"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RingOfAttraction-Fabric-1.17.1-1.1.13.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RingOfAttraction-Fabric-1.17.1-1.1.14.jar"
     provider = "https"
     dependend = ""
 
@@ -1222,11 +1222,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "61183fee-2fcfe3"
+    version = "6134e001-2fd181"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.7.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.8.jar"
     provider = "https"
     dependend = ""
 
