@@ -482,11 +482,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.38.2"
+    version = "0.40.0"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b0d3fb00e4f86223ee6900ce010687cdc925efdd22e98c6adeb3633613aa7121"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.38.2/download"
+    Sha256 = "a243d7f4883032d5626ec645f2f9cf5ee5e862f61a7df427f630f031da44bc96"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.40.0/download"
     provider = "minepkg"
     dependend = ""
 
