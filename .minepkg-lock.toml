@@ -80,16 +80,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.autopath]
-    name = "autopath"
-    version = "1.4.4-0.mpkg.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "fcd3353317fe7d2dc9f8d59d842d733656e314177817b97f824ce38bfb28a9d2"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/autopath@1.4.4-0.mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.axesareweapons]
     name = "axesareweapons"
     version = "60ef0b8e-3e40"
@@ -820,6 +810,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.more-blocks-mod]
+    name = "more-blocks-mod"
+    version = "613f7114-220bdb"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreblocksmod-0.1.8-a.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.moreberries]
     name = "moreberries"
     version = "60ef0b90-5dcf0"
@@ -852,11 +852,11 @@ lockfileVersion = 1
 
   [dependencies.mythic-mounts]
     name = "mythic-mounts"
-    version = "6129876b-1d94ab"
+    version = "613f374b-1db551"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-1.2.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-1.3.jar"
     provider = "https"
     dependend = ""
 
@@ -1150,6 +1150,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.terraria-paintings]
+    name = "terraria-paintings"
+    version = "613f6fea-24f09"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/terraria_paintings-1.0.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.the-graveyard]
     name = "the-graveyard"
     version = "613e27d1-e0dad"
@@ -1242,7 +1252,7 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "613e2243-442f4a"
+    version = "613f377d-442f4a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
