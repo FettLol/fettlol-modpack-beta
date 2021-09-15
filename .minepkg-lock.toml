@@ -252,11 +252,11 @@ lockfileVersion = 1
 
   [dependencies.caracal-mob]
     name = "caracal-mob"
-    version = "1.3.1-1.17.mpkg.1"
+    version = "1.3.2-1.17.mpkg.2+e0fce5b"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "6fc1565684241077611d85e88e405946216afb7445b429e728b170aad25ef450"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/caracal-mob@1.3.1-1.17.mpkg.1/download"
+    Sha256 = "c915b75ab8387a86e1157d54ed165932c5abd920a21dbb946a6c20fabf0e8a5c"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/caracal-mob@1.3.2-1.17.mpkg.2+e0fce5b/download"
     provider = "minepkg"
     dependend = ""
 
@@ -522,11 +522,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.1.3"
+    version = "1.1.4"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b30161afada6fa93cfdf4084be965a2c56498693a6d548bb396f0b8e0dfb0f3c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.3/download"
+    Sha256 = "e481fce5e562398fe87dc72623a95def9b971a1ee82508583854a04f2be6b067"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.4/download"
     provider = "minepkg"
     dependend = ""
 
