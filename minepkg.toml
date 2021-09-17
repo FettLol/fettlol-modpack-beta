@@ -67,7 +67,6 @@ manifestVersion = 0
   fabric = "*"
   fabric-language-kotlin = "^1.6.2-0.mpkg.3+kotlin.1.5.20"
   fallingleaves = "^1.7.3"
-  fallingtree = "https://www.brekitomasson.com/fettlol/mods/1.17.1/FallingTree-1.17.1-2.12.2.jar"
   fettlol-utilmod = "^1.1.3"
   flonters = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Flonters-1.2.1+1.17.1.jar"
   geckolib = "^3.0.9-1.17.mpkg.3"
