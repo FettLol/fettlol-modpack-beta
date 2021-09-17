@@ -55,6 +55,7 @@ manifestVersion = 0
   dankstorage = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dankstorage-2.1-1.17.1.jar"
   dark-loading-screen = "^1.6.7-0.mpkg.1"
   defaultsettings = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DefaultSettings-1.17.x-3.0.3.jar"
+  dense-ores = "https://www.brekitomasson.com/fettlol/mods/1.17.1/denseores-1.1+1.17.jar"
   dirtnt = "^1.0.0-1.17"
   discerning-furnace = "^1.0.3-0.mpkg.1"
   drip-sounds = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DripSounds-1.17-0.2.2.jar"
