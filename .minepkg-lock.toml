@@ -22,11 +22,11 @@ lockfileVersion = 1
 
   [dependencies.adorn]
     name = "adorn"
-    version = "2.1.3-0.mpkg.1"
+    version = "2.1.5-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "0f1d9a4bd965844e39e26440b5b0443de89157b8aac4e059ee6ada36fa88e8ae"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@2.1.3-0.mpkg.1/download"
+    Sha256 = "5900afe157c98bd77af51fa415ca6a48bbe6f4cb25191eabd8abdb7d8ebe67d2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@2.1.5-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -622,11 +622,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "612345c6-13a161"
+    version = "61421d28-139a1c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.2.jar"
     provider = "https"
     dependend = ""
 
@@ -1252,11 +1252,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "613f377d-442f4a"
+    version = "61421d46-443cd6"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.1.11.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.2.0.jar"
     provider = "https"
     dependend = ""
 
