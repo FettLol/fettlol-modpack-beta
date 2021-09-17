@@ -47,7 +47,6 @@ manifestVersion = 0
   cloth-config = "https://www.brekitomasson.com/fettlol/mods/1.17.1/cloth-config-5.0.37-fabric.jar"
   coloredslime = "^1.2.6"
   colorful-azaleas = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Colorful_Azaleas_1.2_for_1.17-1.171.jar"
-  compressed = "https://www.brekitomasson.com/fettlol/mods/1.17.1/compressed-fabric-1.3.3.jar"
   concrete-plus = "https://www.brekitomasson.com/fettlol/mods/1.17.1/concrete-plus-1.9.jar"
   copper-beacons = "https://www.brekitomasson.com/fettlol/mods/1.17.1/copper-beacons-1.0.1.jar"
   copper-equipment = "https://www.brekitomasson.com/fettlol/mods/1.17.1/CopperEquipment-Fabric1.17.1-1.6.jar"

@@ -382,11 +382,11 @@ lockfileVersion = 1
 
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "1.6.9-0.mpkg.1"
+    version = "1.6.10-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "d9302bbed72728f58faf880a527ae0b1022fd3957f4e668f1854bd0a96f84854"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.9-0.mpkg.1/download"
+    Sha256 = "742a71eb0dab9236e3bc23bec1f655cf8077ae6c2b67f77172b43c8dd553aa6f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.10-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1142,11 +1142,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "61183f8a-3be2da"
+    version = "61448c63-3c9329"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.6-beta+build.94.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-project.5.0.7-beta+build.107.jar"
     provider = "https"
     dependend = ""
 
@@ -1162,11 +1162,11 @@ lockfileVersion = 1
 
   [dependencies.the-graveyard]
     name = "the-graveyard"
-    version = "613e27d1-e0dad"
+    version = "61448c39-e0dad"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/The_Graveyard_1.3_for_1.17-1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/The_Graveyard_1.4_for_1.17-1.17.1.jar"
     provider = "https"
     dependend = ""
 
