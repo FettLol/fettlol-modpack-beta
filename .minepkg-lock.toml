@@ -162,11 +162,11 @@ lockfileVersion = 1
 
   [dependencies.better-enchanted-books]
     name = "better-enchanted-books"
-    version = "60ef0b8e-c792"
+    version = "61464bef-e56d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/better-enchanted-books-1.17-1.2.9.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/better-enchanted-books-1.17-1.2.10.jar"
     provider = "https"
     dependend = ""
 
@@ -342,11 +342,11 @@ lockfileVersion = 1
 
   [dependencies.croptopia]
     name = "croptopia"
-    version = "61284864-1da49b"
+    version = "61464ba7-1d75a9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17-FABRIC-1.6.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17.1-FABRIC-1.6.3.jar"
     provider = "https"
     dependend = ""
 
@@ -382,11 +382,11 @@ lockfileVersion = 1
 
   [dependencies.defaultsettings]
     name = "defaultsettings"
-    version = "60ef0b8e-1af5e"
+    version = "61464b59-1a69a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DefaultSettings-1.17.x-3.0.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DefaultSettings-1.17.x-3.0.4.jar"
     provider = "https"
     dependend = ""
 
@@ -450,6 +450,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.eldrich-mobs]
+    name = "eldrich-mobs"
+    version = "61464af7-107845"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/eldritch-mobs-1.9.6.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.emotecraft]
     name = "emotecraft"
     version = "613e2484-118e1a"
@@ -462,11 +472,11 @@ lockfileVersion = 1
 
   [dependencies.expandedstorage]
     name = "expandedstorage"
-    version = "6124474c-617e9"
+    version = "61464bbc-626ec"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/expandedstorage-7.1.0+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/expandedstorage-7.1.2+1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -508,16 +518,6 @@ lockfileVersion = 1
     Sha256 = "48121f10e61fed19915536244f3685ea33ba53a3cbf5bfe2874385cabc722189"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.7.3/download"
     provider = "minepkg"
-    dependend = ""
-
-  [dependencies.fallingtree]
-    name = "fallingtree"
-    version = "6106d2f3-120317"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/FallingTree-1.17.1-2.12.2.jar"
-    provider = "https"
     dependend = ""
 
   [dependencies.fettlol-utilmod]
@@ -772,12 +772,12 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "2.0.10-0.mpkg.1"
+    version = "6146461d-3f0f1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "dbaae95412d3bb2faab23eaa2fe78879c345e4ff79c7719f4ff87fdec8308229"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@2.0.10-0.mpkg.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/modmenu-2.0.11.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.more-axolotl-variants]
@@ -1007,6 +1007,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RoughlyEnoughItems-6.0.279-alpha-fabric.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.rpgstats]
+    name = "rpgstats"
+    version = "6146493f-15a8a6"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/rpgstats-4.2.1+1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1292,11 +1302,11 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "60ff3188-35749"
+    version = "61464bdd-3cd7b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.8.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.9.0.jar"
     provider = "https"
     dependend = ""
 
