@@ -1,7 +1,7 @@
 Config MOB properties here
 
 Important! Do not modify the value of the config version in this file or the mod may overwrite custom settings.
-[Global] Config Version: 2
+[Global] Config Version: 3
 
 SpawnDebug:
     Helpful when trying out different spawn configs or for testing adjustments to spawn weights.
@@ -50,11 +50,12 @@ Loudness:
 
 -------------------------------------------------------------
 
+[Global] Print Biomes: false;
 [Global] Command Item: stick;
 
-CourierBird ShouldSpawn: true
+CourierBird ShouldSpawn: false
 CourierBird SpawnDebug: false
-CourierBird SpawnBiomes: Jungle; Jungle Hills; Jungle Edge;
+CourierBird SpawnBiomes: Jungle; Jungle Hills; Jungle Edge; byg:bamboo_forest; byg:ethereal_forest; byg:etherial_clearing;
 CourierBird SpawnYCeiling: 50000
 CourierBird SpawnYFloor: -50000
 CourierBird SpawnBlocks: All
@@ -79,7 +80,7 @@ CourierBird Loudness: 100
 
 DireWolf ShouldSpawn: true
 DireWolf SpawnDebug: false
-DireWolf SpawnBiomes: Snowy Taiga Mountains; Giant Spruce Taiga; Giant Spruce Taiga Hills; Giant Tree Taiga; Giant Tree Taiga Hills;
+DireWolf SpawnBiomes: Snowy Taiga Mountains; Giant Spruce Taiga; Giant Spruce Taiga Hills; Giant Tree Taiga; Giant Tree Taiga Hills; byg:blue_giant_taiga; byg:blue_taiga; byg:blue_taiga_hills; byg:enchanted_forest;
 DireWolf SpawnYCeiling: 50000
 DireWolf SpawnYFloor: -50000
 DireWolf SpawnBlocks: All
@@ -129,13 +130,13 @@ Dragon Loudness: 100
 
 Griffon ShouldSpawn: false
 Griffon SpawnDebug: false
-Griffon SpawnBiomes: Gravelly Mountains+; Snowy Taiga Mountains; Taiga Mountains; Gravelly Mountains; Wooded Mountains; Snowy Mountains; Mountains;
+Griffon SpawnBiomes: Gravelly Mountains+; Snowy Taiga Mountains; Taiga Mountains; Gravelly Mountains; Wooded Mountains; Snowy Mountains; Mountains; byg:canyon_edge; byg:canyons; byg:dover_mountains;
 Griffon SpawnYCeiling: 50000
 Griffon SpawnYFloor: 100
 Griffon SpawnBlocks: All
 Griffon SpawnWeight: 10
 Griffon SpawnRandomChance: 70
-Griffon SpawnType: SpawnDebug: false
+Griffon SpawnType: overworld
 Griffon MinSpawnGroupSize: 1
 Griffon MaxSpawnGroupSize: 1
 Griffon InventorySize: 4
@@ -152,7 +153,7 @@ Griffon TamingChance:  10
 Griffon BreedingItems: rabbit; mutton;
 Griffon Loudness: 100
 
-GeckotoaLizard ShouldSpawn: false
+GeckotoaLizard ShouldSpawn: true
 GeckotoaLizard SpawnDebug: false
 GeckotoaLizard SpawnBiomes: All Overworld
 GeckotoaLizard SpawnYCeiling: 5000
@@ -177,15 +178,16 @@ GeckotoaLizard TamingChance:  10
 GeckotoaLizard BreedingItems: melon; pumpkin; hay_block;
 GeckotoaLizard Loudness: 100
 
-Moth ShouldSpawn: true
+Moth ShouldSpawn: false
 Moth SpawnDebug: false
 Moth SpawnBiomes: Dark Forest Hills; Dark Forest;
 Moth SpawnYCeiling: 50000
 Moth SpawnYFloor: -50000
 Moth SpawnBlocks: All
+Moth SeekBlocks: minecraft:torch; minecraft:redstone_torch; minecraft:soul_torch; 
 Moth SpawnWeight: 10
 Moth SpawnRandomChance: 70
-Moth SpawnType: SpawnDebug: false
+Moth SpawnType: overworld
 Moth MinSpawnGroupSize: 1
 Moth MaxSpawnGroupSize: 1
 Moth InventorySize: 2
@@ -204,7 +206,7 @@ Moth Loudness: 100
 
 NetherBat ShouldSpawn: true
 NetherBat SpawnDebug: false
-NetherBat SpawnBiomes: Crimson Forest; Warped Forest;
+NetherBat SpawnBiomes: Crimson Forest; Warped Forest; betternether:crimson_glowing_woods; betternether:nether_grasslands; betternether:nether_jungle; betternether:old_warped_woods
 NetherBat SpawnYCeiling: 50000
 NetherBat SpawnYFloor: -50000
 NetherBat SpawnBlocks: All
@@ -235,7 +237,7 @@ Nudibranch SpawnYFloor: -50000
 Nudibranch SpawnBlocks: minecraft:brain_coral_block; minecraft:bubble_coral_block; minecraft:fire_coral_block; minecraft:horn_coral_block; minecraft:tube_coral_block;
 Nudibranch SpawnWeight: 20
 Nudibranch SpawnRandomChance: 100
-Nudibranch SpawnType: SpawnDebug: false
+Nudibranch SpawnType: overworld
 Nudibranch MinSpawnGroupSize: 2
 Nudibranch MaxSpawnGroupSize: 4
 Nudibranch InventorySize: 3
@@ -254,13 +256,13 @@ Nudibranch Loudness: 100
 
 RidingLizard ShouldSpawn: true
 RidingLizard SpawnDebug: false
-RidingLizard SpawnBiomes: Desert; Desert Lakes; Desert Hills; Eroded Badlands; Modified Wooded Badlands Plateau; Modified Badlands Plateau;
+RidingLizard SpawnBiomes: Desert; Desert Lakes; Desert Hills; Eroded Badlands; Modified Wooded Badlands Plateau; Modified Badlands Plateau; byg:baobab_savanna; 
 RidingLizard SpawnYCeiling: 50000
 RidingLizard SpawnYFloor: -50000
 RidingLizard SpawnBlocks: All
 RidingLizard SpawnWeight: 1
 RidingLizard SpawnRandomChance: 10
-RidingLizard SpawnType: SpawnDebug: false
+RidingLizard SpawnType: overworld
 RidingLizard MinSpawnGroupSize: 2
 RidingLizard MaxSpawnGroupSize: 3
 RidingLizard InventorySize: 2
