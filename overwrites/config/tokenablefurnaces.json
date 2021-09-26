@@ -1,0 +1,26 @@
+{
+  "hopperMulti": 1,
+  "tokens": true,
+  "furnaceEfficiency": false,
+  "upgrades": {
+    "canUpgradeBarrels": true,
+    "canUpgradeChests": true,
+    "canUpgradeTrapped": true,
+    "canUpgradeFurnaces": true,
+    "canUpgradeBlast": true,
+    "canUpgradeSmoker": true,
+    "canUpgradeHoppers": true,
+    "canUpgradeShulkers": true
+  },
+  "blockToggles": {
+    "barrels": true,
+    "chests": true,
+    "trapped": true,
+    "furnaces": true,
+    "blasts": true,
+    "smokers": true,
+    "hoppers": true,
+    "shulkers": true,
+    "bundles": true
+  }
+}

@@ -14,15 +14,15 @@
   "overlay": {
     "position": {
       "x": 0,
-      "y": 20,
+      "y": 30,
       "alignX": "CENTER",
       "alignY": "TOP",
       "anchorX": "CENTER",
       "anchorY": "TOP"
     },
-    "scale": 0.9,
+    "scale": 0.95,
     "color": {
-      "alpha": 80,
+      "alpha": 75,
       "themes": [
         {
           "id": "waila:dark",

@@ -1,0 +1,6 @@
+key_modifiers_key.charm.openCraftingTable:4
+key_modifiers_key.disable_voice_chat:4
+key_modifiers_key.hide_icons:4
+key_modifiers_key.mute_microphone:4
+key_modifiers_key.voice_chat:4
+key_modifiers_key.voice_chat_group:4

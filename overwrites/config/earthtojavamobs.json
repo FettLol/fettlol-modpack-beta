@@ -80,7 +80,7 @@
     ]
   },
   "cookieCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -251,7 +251,7 @@
     ]
   },
   "moobloom": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -260,7 +260,7 @@
     ]
   },
   "moolip": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -375,7 +375,7 @@
   "skeletonWolf": {
     "spawn": true,
     "weight": 8,
-    "groupMin": 2,
+    "groupMin": 1,
     "groupMax": 4,
     "spawnBiomes": [
       "forest",

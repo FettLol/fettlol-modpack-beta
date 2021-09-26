@@ -27,9 +27,9 @@
     "genCloudberry": true,
     "genRaspberry": true,
     "genSalmonberry": true,
-    "snowyGen": false
+    "snowyGen": true
   },
-  "snowballConversion": true,
+  "snowballConversion": false,
   "mooseEatBark": true,
   "sealFishing": {
     "sealsHuntFish": true,

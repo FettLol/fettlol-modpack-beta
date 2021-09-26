@@ -6,7 +6,7 @@ Any questions or problems can be raised as an issue on this repository or by get
 
 # Installation
 
-The preferred way of using this modpack is through the `minepkg` service. Install `minepkg` by following the instructions provided here: [https://preview.minepkg.io/docs/install](`https://preview.minepkg.io/docs/install`). Once you have done so, simply running `minepkg launch fettlol` should be enough to launch a Minecraft client with the Fettlol modpack configured for you.
+The only supported way of using this modpack is through the `minepkg` service. Install `minepkg` by following the instructions provided here: [https://preview.minepkg.io/docs/install](`https://preview.minepkg.io/docs/install`). Once you have done so, simply running `minepkg launch fettlol` should be enough to launch a Minecraft client with the Fettlol modpack configured for you.
 
 # Inspiration and Philosophy
 
@@ -41,7 +41,6 @@ Most of the remaining changes that this modpack performs fall into the "greater 
 - There are several new crops, along with several new food items that can be crafted using them.
 - The world contains several new "ambient" mobs like parakeet, deer, duck, seal, flamingo, etc., as well as additional variations on the traditional sheep, cows, etc.
 - "Wings" can be crafted and attached to the player. They are a permanent upgrade, persisting through death, and work just like Elytras. This allows players to fly while wearing chest armor. Getting them is not going to be easy, however.
-- Trees can be cut down in a single blow, saving us from the eternal problem of floating trees.
 - Leaves decay faster.
 - Saplings dropped onto grass automatically plant themselves after a while. Seeds dropped onto farmland do the same.
 

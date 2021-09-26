@@ -22,7 +22,7 @@
   //Whether Dense Iron Ore (and its deepslate variant) is generated.
   "canGenerateDenseIron": true,
   //Vein size of generated Dense Iron (and its deepslate variant).
-  "ironVeinSize": 4,
+  "ironVeinSize": 5,
   //Min height of generated Dense Iron.
   "ironMinHeight": 0,
   //Max height of generated Dense Iron.
@@ -32,7 +32,7 @@
   //Whether Dense Gold Ore (and its deepslate variant) is generated.
   "canGenerateDenseGold": true,
   //Vein size of generated Dense Gold (and its deepslate variant).
-  "goldVeinSize": 3,
+  "goldVeinSize": 4,
   //Min height of generated Dense Gold.
   "goldMinHeight": 0,
   //Max height of generated Dense Gold.
@@ -42,7 +42,7 @@
   //Whether Dense Redstone Ore (and its deepslate variant) is generated.
   "canGenerateDenseRedstone": true,
   //Vein size of generated Dense Redstone (and its deepslate variant).
-  "redstoneVeinSize": 6,
+  "redstoneVeinSize": 7,
   //Min height of generated Dense Redstone.
   "redstoneMinHeight": 0,
   //Max height of generated Dense Redstone.
@@ -62,7 +62,7 @@
   //Whether Dense Diamond Ore (and its deepslate variant) is generated.
   "canGenerateDenseDiamond": true,
   //Vein size of generated Dense Diamond (and its deepslate variant).
-  "diamondVeinSize": 1,
+  "diamondVeinSize": 2,
   //Min height of generated Dense Diamond.
   "diamondMinHeight": 0,
   //Max height of generated Dense Diamond.
@@ -72,7 +72,7 @@
   //Whether Dense Emerald Ore is generated.
   "canGenerateDenseEmerald": true,
   //Vein size of generated Dense Emerald.
-  "emeraldVeinSize": 3,
+  "emeraldVeinSize": 4,
   //Min height of generated Dense Emerald.
   "emeraldMinHeight": 4,
   //Max height of generated Dense Emerald.
@@ -90,7 +90,7 @@
   //Whether Dense Nether Gold is generated.
   "canGenerateDenseNetherGold": true,
   //Vein size of generated Dense Nether Gold.
-  "netherGoldVeinSize": 7,
+  "netherGoldVeinSize": 8,
   //Odds of generating more Dense Nether Gold veins on each chunk.
   "netherGoldChunkOdds": 12,
   //Whether Dense Ancient Debris is generated.

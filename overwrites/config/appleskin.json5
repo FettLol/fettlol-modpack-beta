@@ -16,5 +16,5 @@
 	// If true, health/hunger overlay will shake to match Minecraft's icon animations
 	"showVanillaAnimationsOverlay": true,
 	// Alpha value of the flashing icons at their most visible point (1.0 = fully opaque, 0.0 = fully transparent)
-	"maxHudOverlayFlashAlpha": 0.6499999761581421
+	"maxHudOverlayFlashAlpha": 0.75
 }

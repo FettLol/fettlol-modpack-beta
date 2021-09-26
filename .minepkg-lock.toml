@@ -210,13 +210,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.blur]
-    name = "blur"
-    version = "60ef0b8e-1defc"
+  [dependencies.blast]
+    name = "blast"
+    version = "6150b0be-1e6c4"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Blur-2.2.0-1.17+fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/blast-1.8.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.blur]
+    name = "blur"
+    version = "614f7ee0-3144d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Blur-2.3.0-1.17+fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -372,12 +382,22 @@ lockfileVersion = 1
 
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "1.6.10-0.mpkg.1"
+    version = "1.6.11-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "742a71eb0dab9236e3bc23bec1f655cf8077ae6c2b67f77172b43c8dd553aa6f"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.10-0.mpkg.1/download"
+    Sha256 = "4d696cbbe489c0f57ca6cba308d178a41a08a976da0fd51d5ba16fd6f2df44a6"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.11-0.mpkg.1/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.deepslate-cutting]
+    name = "deepslate-cutting"
+    version = "6150ab16-273b4"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/deepslatecutting-1.2.2.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.dense-ores]
@@ -522,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.1.6"
+    version = "1.1.7"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "2cad962ca745b90b89061dd18993c2d94e2ed1a1ffe4bb719c8bf6a6f392df51"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.6/download"
+    Sha256 = "4e12babfda2ee979bd23a64ed32ed197caaefac3adc79c6b83f3a68929c5ccd3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.7/download"
     provider = "minepkg"
     dependend = ""
 
@@ -722,11 +742,11 @@ lockfileVersion = 1
 
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "61184056-1619b8"
+    version = "614f7ec1-16626d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.4.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.5.0.jar"
     provider = "https"
     dependend = ""
 
@@ -962,11 +982,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "6133b455-534648"
+    version = "614cc524-534622"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.3.3+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/repurposed_structures_fabric-2.3.4+1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1152,11 +1172,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "61448c63-3c9329"
+    version = "6150e29e-3c92f0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-project.5.0.7-beta+build.107.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.8-beta+build.111.jar"
     provider = "https"
     dependend = ""
 

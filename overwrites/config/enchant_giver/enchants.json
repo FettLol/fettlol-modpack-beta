@@ -48,6 +48,9 @@
   "mcdw:sword_broadsword": {
     "mcdw:swirling": 1
   },
+  "mcdw:dagger_backstabber": {
+    "mcdw:ambush": 1
+  },
   "mcdw:bow_echo_of_the_valley": {
     "mcdw:ricochet": 1
   },
@@ -82,8 +85,22 @@
   "mcdw:staff_growing_staff": {
     "mcdw:committed": 1
   },
+  "mcdw:sword_sinister": {
+    "mcdw:critical_hit": 1
+  },
+  "mcdw:dagger_swift_striker": {
+    "mcdw:echo": 1,
+    "mcdw:ambush": 1
+  },
   "mcdw:spear_fortune": {
     "minecraft:looting": 1
+  },
+  "mcdw:bow_call_of_the_void": {
+    "mcdw:void_shot": 1,
+    "mcdw:fuse_shot": 1
+  },
+  "mcdw:bow_void_bow": {
+    "mcdw:void_shot": 1
   },
   "mcdw:sickle_last_laugh_gold": {
     "mcdw:prospector": 1
@@ -91,8 +108,14 @@
   "mcdw:crossbow_imploding_crossbow": {
     "mcdw:gravity": 1
   },
+  "mcdw:dagger_the_end": {
+    "mcdw:void_strike": 1
+  },
   "mcdw:bow_bonebow": {
     "mcdw:growing": 1
+  },
+  "mcdw:bow_bubble_burster": {
+    "mcdw:ricochet": 1
   },
   "mcdw:axe_firebrand": {
     "minecraft:fire_aspect": 1
@@ -112,11 +135,17 @@
   "mcdw:spear_venom_glaive": {
     "mcdw:poison_cloud": 1
   },
+  "mcdw:dagger_the_beginning": {
+    "mcdw:leeching": 1
+  },
   "mcdw:spear_grave_bane": {
     "mcdw:smiting": 1
   },
   "mcdw:sword_nameless_blade": {
     "mcdw:weakening": 1
+  },
+  "mcdw:bow_haunted_bow": {
+    "minecraft:bonus_shot": 1
   },
   "mcdw:crossbow_scatter_crossbow": {
     "minecraft:multishot": 1
@@ -184,14 +213,14 @@
   "mcdw:sickle_nightmares_bite": {
     "mcdw:poison_cloud": 1
   },
+  "mcdw:bow_twin_bow": {
+    "minecraft:bonus_shot": 1
+  },
   "mcdw:bow_green_menace": {
     "mcdw:poison_cloud": 1
   },
   "mcdw:sword_freezing_foil": {
     "mcdw:freezing": 1
-  },
-  "minecraft:air": {
-    "mcdw:ricochet": 1
   },
   "mcdw:sword_truthseeker": {
     "mcdw:committed": 1
@@ -205,6 +234,9 @@
   "mcdw:sickle_last_laugh_silver": {
     "mcdw:prospector": 1
   },
+  "mcdw:dagger_void_touched_blade": {
+    "mcdw:void_strike": 1
+  },
   "mcdw:sickle_frost_scythe": {
     "mcdw:freezing": 1
   },
@@ -212,7 +244,8 @@
     "mcdw:freezing": 1
   },
   "mcdw:dagger_resolute_tempest_knife": {
-    "mcdw:rushdown": 1
+    "mcdw:rushdown": 1,
+    "mcdw:committed": 1
   },
   "mcdw:axe_whirlwind": {
     "mcdw:shockwave": 1

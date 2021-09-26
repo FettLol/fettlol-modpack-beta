@@ -58,7 +58,7 @@
           "item": "minecraft:stone_bricks"
         },
         "G": {
-          "item": "fettlol:jade_gem"
+          "item": "fettlol:amethyst_gem"
         },
         "O": {
           "item": "minecraft:obsidian"
@@ -84,7 +84,7 @@
           "item": "waystones:abyss_watcher"
         },
         "S": {
-          "item": "minecraft:nether_star"
+          "item": "fettlol:jade_gem"
         }
       },
       "result": {

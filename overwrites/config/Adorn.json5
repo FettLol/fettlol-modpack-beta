@@ -15,10 +15,10 @@
 	"compat": {
 		"traverse": true,
 		"byg": true,
-		"terrestria": true,
-		"cinderscapes": true,
+		"terrestria": false,
+		"cinderscapes": false,
 		"woods_and_mires": false,
 		"towelette": false,
-		"biomemakeover": true
+		"biomemakeover": false
 	}
 }

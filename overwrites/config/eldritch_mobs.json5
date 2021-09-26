@@ -8,13 +8,13 @@
 	// Ignore named creatures and monsters
 	"ignoreNamed": true,
 	// Enable Glowing Elite/Ultra/Eldritch Mobs upon discovery
-	"turnOnGlowingMobs": false,
+	"turnOnGlowingMobs": true,
 	// Out of 100 Mobs
 	"EliteSpawnRates": 0.5,
 	// Out of 100 Elites
-	"UltraSpawnRates": 0.5,
+	"UltraSpawnRates": 1,
 	// Out of 100 Ultras
-	"EldritchSpawnRates": 0.5,
+	"EldritchSpawnRates": 1,
 	"healthIncrease": true,
 	"healthMult": false,
 	// Number of extra hearts for Elite Mobs
@@ -69,11 +69,11 @@
 		"disableStarving": false,
 		"disableStormy": false,
 		"disableThorny": false,
-		"disableToxic": false,
+		"disableToxic": true,
 		"disableWeakness": false,
-		"disableWebslinging": false,
+		"disableWebslinging": true,
 		"disableWithering": true,
 		"disableSniper": false,
-		"disableDuplicator": false
+		"disableDuplicator": true
 	}
 }

@@ -44,7 +44,7 @@
 	// Base distance between Illager Galley (in chunks). Must be higher than separation.
 	"illagerGalleySpacing": 128,
 	// Base distance between Illager Galley (in chunks)
-	"illagerGalleySeparation": 92,
+	"illagerGalleySeparation": 90,
 	// Number of Jigsaw iterations when generating a structure
 	"illagerGalleySize": 10,
 	/* 
@@ -80,7 +80,7 @@
 	// Base distance between Illager Campsite (in chunks). Must be higher than separation.
 	"illagerCampsiteSpacing": 128,
 	// Base distance between Illager Campsite (in chunks)
-	"illagerCampsiteSeparation": 64,
+	"illagerCampsiteSeparation": 68,
 	// Number of Jigsaw iterations when generating a structure
 	"illagerCampsiteSize": 10,
 	/* 
