@@ -4,7 +4,7 @@
   "Wrench": false,
   "AmethystLamp": false,
   "EnchantmentPrecision": false,
-  "EnchantmentSpeed": true,
+  "EnchantmentSpeed": false,
   "CompostableRottenFlesh": true,
   "GlowStick": false,
   "MysteriousBundle": true,

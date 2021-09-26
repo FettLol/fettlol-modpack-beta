@@ -72,11 +72,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "2.4.27-0.mpkg.1"
+    version = "2.5.28-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "4440916af2bc7f80e4da4f839f77a2e3a65caa58c42517783096f0beeb6aaf97"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.4.27-0.mpkg.1/download"
+    Sha256 = "dc28472ec278d776f03148dc73a1a00d8d3b16ca4a85b06eed221d2b19d882ad"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.28-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -242,11 +242,11 @@ lockfileVersion = 1
 
   [dependencies.capes]
     name = "capes"
-    version = "60ef0b8f-38a0d"
+    version = "614c6f5e-38a1e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/capes-1.2.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/capes-1.2.1.jar"
     provider = "https"
     dependend = ""
 
@@ -380,16 +380,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.defaultsettings]
-    name = "defaultsettings"
-    version = "61464b59-1a69a"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DefaultSettings-1.17.x-3.0.4.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.dense-ores]
     name = "dense-ores"
     version = "6144af58-24cf7"
@@ -440,6 +430,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.dungeons-arise]
+    name = "dungeons-arise"
+    version = "614c7274-4842e8"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DungeonsArise-1.17.1-2.1.48-fabric-beta.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.earth2java]
     name = "earth2java"
     version = "1.7.3-0.mpkg.1+1.17"
@@ -470,23 +470,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.expandedstorage]
-    name = "expandedstorage"
-    version = "61464bbc-626ec"
+  [dependencies.enhanced-block-entities]
+    name = "enhanced-block-entities"
+    version = "614c6fc5-4056f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/expandedstorage-7.1.2+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/enhancedblockentities-0.5+1.17.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.extra-generators]
     name = "extra-generators"
-    version = "60ef0b8f-101f62"
+    version = "614c70c8-7f7fc"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/extra-generators-1.0.6-BETA+1.17.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/extra-generators-1.1-BETA+1.17.jar"
     provider = "https"
     dependend = ""
 
@@ -522,11 +522,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.1.4"
+    version = "1.1.6"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "e481fce5e562398fe87dc72623a95def9b971a1ee82508583854a04f2be6b067"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.4/download"
+    Sha256 = "2cad962ca745b90b89061dd18993c2d94e2ed1a1ffe4bb719c8bf6a6f392df51"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.6/download"
     provider = "minepkg"
     dependend = ""
 
@@ -660,6 +660,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.lambda-better-grass]
+    name = "lambda-better-grass"
+    version = "614c72a1-120b39"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lambdabettergrass-1.2.1+1.17.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.lambdynamiclights]
     name = "lambdynamiclights"
     version = "610811dd-84f81"
@@ -672,11 +682,11 @@ lockfileVersion = 1
 
   [dependencies.lifts]
     name = "lifts"
-    version = "60ef0b90-50369"
+    version = "614c7140-54948"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lifts-1.2-BETA+1.17.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lifts-1.3-BETA+1.17.jar"
     provider = "https"
     dependend = ""
 
@@ -772,11 +782,11 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "6146461d-3f0f1"
+    version = "614c57c3-3f505"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/modmenu-2.0.11.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/modmenu-2.0.12.jar"
     provider = "https"
     dependend = ""
 
@@ -840,16 +850,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.music-discs-galore]
-    name = "music-discs-galore"
-    version = "610d0ce2-8609236"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/MDG-Fabric-2.0.3.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.mythic-mounts]
     name = "mythic-mounts"
     version = "613f374b-1db551"
@@ -882,11 +882,11 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "6123426e-26b18"
+    version = "614c57de-276c1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.4.4+1.17-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.6.2+1.17.1-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -1060,16 +1060,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.simple-transport]
-    name = "simple-transport"
-    version = "61204b7a-12e73b"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/simpletransport-1.0.0-1.17.1.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.simply-improved-terrain]
     name = "simply-improved-terrain"
     version = "6113a3b8-3b397"
@@ -1087,6 +1077,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/3dSkinLayers-Fabric-1.1.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.skylib]
+    name = "skylib"
+    version = "614c986a-23059"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/skylorlib-1.0.4.jar"
     provider = "https"
     dependend = ""
 
@@ -1177,6 +1177,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/The_Graveyard_1.4_for_1.17-1.17.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.tokenable-furnaces]
+    name = "tokenable-furnaces"
+    version = "614c5bf8-89ac5"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/tokenablefurnaces-1.1.4.jar"
     provider = "https"
     dependend = ""
 
@@ -1302,11 +1312,11 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "61464bdd-3cd7b"
+    version = "614c5781-3cc8a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.9.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.9.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1327,5 +1337,15 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.16.0_Fabric_1.17.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.your-options-shall-be-respected]
+    name = "your-options-shall-be-respected"
+    version = "614c7025-4b06"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/yosbr-0.1.1.jar"
     provider = "https"
     dependend = ""
