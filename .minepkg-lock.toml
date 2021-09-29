@@ -562,11 +562,11 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.14-1.17.mpkg.1"
+    version = "3.0.15-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "002916abd18bff77d335f6c1ef0da597a0847b82db0de3d736749f55e9ff6827"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.14-1.17.mpkg.1/download"
+    Sha256 = "002a9694523a1f8ecc14e815d7fdc3a88552ab609fa8c645ea1723f926430e67"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.15-1.17.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -742,21 +742,21 @@ lockfileVersion = 1
 
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "614f7ec1-16626d"
+    version = "6154bb4a-166558"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.5.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.5.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "6126fa9a-d12a3"
+    version = "6154bac4-d241a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.10.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.11.jar"
     provider = "https"
     dependend = ""
 
@@ -952,11 +952,11 @@ lockfileVersion = 1
 
   [dependencies.polymorph]
     name = "polymorph"
-    version = "613e260c-2fe1c"
+    version = "6154bbbe-30fe1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/polymorph-fabric-0.0.13-1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/polymorph-fabric-0.0.14-1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1078,6 +1078,16 @@ lockfileVersion = 1
     Sha256 = "291509000cae17bfcbc09289d279507ef3dafc16efc27322811e66cf4986a347"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/servertick@1.5.0-0.mpkg.1/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.simpletransport]
+    name = "simpletransport"
+    version = "6154bafc-12d424"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/simpletransport-1.0.1-1.17.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.simply-improved-terrain]
@@ -1222,11 +1232,11 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "610542c5-1993a7"
+    version = "6154baa5-199758"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/traverse-4.0.0-beta.2.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/traverse-4.0.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1302,11 +1312,11 @@ lockfileVersion = 1
 
   [dependencies.waystones]
     name = "waystones"
-    version = "2.0.4-0.mpkg.1"
+    version = "2.1.1-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "eb85ca94f3d4f5bb87d68a2e18086a5ce63a88d6fb9ea5a8411939a57f7e6e67"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.0.4-0.mpkg.1/download"
+    Sha256 = "5cfa5c1d3294dc72243fbf65aa785b037a4df1765a5942c9a33ea46061e2f39c"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.1.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1342,21 +1352,21 @@ lockfileVersion = 1
 
   [dependencies.xaeros-minimap]
     name = "xaeros-minimap"
-    version = "61033faf-d475b"
+    version = "6154bb97-112d28"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Xaeros_Minimap_21.14.1_Fabric_1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Xaeros_Minimap_21.17.1_Fabric_1.17.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.xaeros-worldmap]
     name = "xaeros-worldmap"
-    version = "61033f95-85bf2"
+    version = "6154bae4-874bb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.16.0_Fabric_1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.17.1_Fabric_1.17.1.jar"
     provider = "https"
     dependend = ""
 
