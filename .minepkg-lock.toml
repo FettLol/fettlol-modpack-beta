@@ -850,16 +850,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.more-blocks-mod]
-    name = "more-blocks-mod"
-    version = "6159d412-2503e1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreblocksmod-0.1.8-b.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.moreberries]
     name = "moreberries"
     version = "60ef0b90-5dcf0"
