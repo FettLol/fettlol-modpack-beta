@@ -72,11 +72,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "2.5.28-0.mpkg.1"
+    version = "2.5.30-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "dc28472ec278d776f03148dc73a1a00d8d3b16ca4a85b06eed221d2b19d882ad"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.28-0.mpkg.1/download"
+    Sha256 = "4777dfca854e47e1bea1d56e7964c81528f7336270459e2ddd21d046fa0f43a9"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.30-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -162,12 +162,12 @@ lockfileVersion = 1
 
   [dependencies.better-enchanted-books]
     name = "better-enchanted-books"
-    version = "61464bef-e56d"
+    version = "1.2.11-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/better-enchanted-books-1.17-1.2.10.jar"
-    provider = "https"
+    Sha256 = "66cfc9f89f9724eadf2125338ee896f2b026c6a953c7fcda4a375b899c047359"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/better-enchanted-books@1.2.11-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.better-ping-display]
@@ -212,11 +212,11 @@ lockfileVersion = 1
 
   [dependencies.blast]
     name = "blast"
-    version = "6150b0be-1e6c4"
+    version = "61574f97-270ac"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/blast-1.8.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/blast-1.8.jar"
     provider = "https"
     dependend = ""
 
@@ -352,12 +352,12 @@ lockfileVersion = 1
 
   [dependencies.croptopia]
     name = "croptopia"
-    version = "61464ba7-1d75a9"
+    version = "1.6.3-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Croptopia-1.17.1-FABRIC-1.6.3.jar"
-    provider = "https"
+    Sha256 = "3663367a67ac7191c762a8af1be2cac3d1926cc57363c597f80ae647f16490ee"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/croptopia@1.6.3-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.damagetilt]
@@ -542,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.1.7"
+    version = "1.1.9"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "4e12babfda2ee979bd23a64ed32ed197caaefac3adc79c6b83f3a68929c5ccd3"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.7/download"
+    Sha256 = "f547fa542478bbdca908b4e62e8b42485b20d8422c09281f6fcc9a36b0394518"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.9/download"
     provider = "minepkg"
     dependend = ""
 
@@ -587,6 +587,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/GuardiansGalore-1.17.1-2.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.guild-fabric]
+    name = "guild-fabric"
+    version = "615a26a6-5548e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/guild-fabric-0.1.2.jar"
     provider = "https"
     dependend = ""
 
@@ -642,11 +652,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "61421d28-139a1c"
+    version = "61574ff5-13a2a2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.2.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.3.jar"
     provider = "https"
     dependend = ""
 
@@ -742,11 +752,11 @@ lockfileVersion = 1
 
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
-    version = "6154bb4a-166558"
+    version = "61574fe2-166561"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.5.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcdw-3.5.3.jar"
     provider = "https"
     dependend = ""
 
@@ -842,11 +852,11 @@ lockfileVersion = 1
 
   [dependencies.more-blocks-mod]
     name = "more-blocks-mod"
-    version = "613f7114-220bdb"
+    version = "6159d412-2503e1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreblocksmod-0.1.8-a.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreblocksmod-0.1.8-b.jar"
     provider = "https"
     dependend = ""
 
@@ -892,21 +902,21 @@ lockfileVersion = 1
 
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
-    version = "60ef0b90-4b523"
+    version = "6157501e-4b336"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughanimations-1.3.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughanimations-1.3.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "614c57de-276c1"
+    version = "61575046-27cdd"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.6.2+1.17.1-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.6.5+1.17.1-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -952,12 +962,12 @@ lockfileVersion = 1
 
   [dependencies.polymorph]
     name = "polymorph"
-    version = "6154bbbe-30fe1"
+    version = "0.0.14-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/polymorph-fabric-0.0.14-1.17.1.jar"
-    provider = "https"
+    Sha256 = "297637e85e8771fa8bab7d5f9b28a5a4827277595e55fdf34f85d5cfcee26363"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/polymorph@0.0.14-1.17.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.presence-footsteps]
@@ -1052,11 +1062,11 @@ lockfileVersion = 1
 
   [dependencies.seasons]
     name = "seasons"
-    version = "60ef0b8f-3db14"
+    version = "61574fd3-3e638"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-seasons-1.2.2-BETA+1.17.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-seasons-1.3-BETA+1.17.jar"
     provider = "https"
     dependend = ""
 
@@ -1112,11 +1122,11 @@ lockfileVersion = 1
 
   [dependencies.skylib]
     name = "skylib"
-    version = "614c986a-23059"
+    version = "6159d494-23161"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/skylorlib-1.0.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/skylorlib-1.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -1222,11 +1232,11 @@ lockfileVersion = 1
 
   [dependencies.transliterationlib]
     name = "transliterationlib"
-    version = "60ef0b8e-f0475"
+    version = "61574f78-f2b22"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TRansliterationLib-1.1.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TRansliterationLib-fabric-1.2.2-1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1280,6 +1290,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.vanilla-degus]
+    name = "vanilla-degus"
+    version = "615a2679-97b00"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/vanilla_degus-1.17.1-v1.2.2-fabric.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.villagernames]
     name = "villagernames"
     version = "613789b6-14bb74"
@@ -1312,11 +1332,11 @@ lockfileVersion = 1
 
   [dependencies.waystones]
     name = "waystones"
-    version = "2.1.1-0.mpkg.1"
+    version = "2.1.2-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "5cfa5c1d3294dc72243fbf65aa785b037a4df1765a5942c9a33ea46061e2f39c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.1.1-0.mpkg.1/download"
+    Sha256 = "22e61fb34d2d67cd4c7e0e1be31a41197f159c03748c5ba20932b501178201cb"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.1.2-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1342,12 +1362,12 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "614c5781-3cc8a"
+    version = "3.9.2-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/wthit-fabric-3.9.1.jar"
-    provider = "https"
+    Sha256 = "1c78fc423b373205538e88788043f33237c4fd357dee72600b8b55fe17b02bed"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@3.9.2-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.xaeros-minimap]

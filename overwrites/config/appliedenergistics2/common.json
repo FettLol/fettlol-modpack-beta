@@ -1,75 +1,44 @@
 {
-  "features": {
-    "__comment": "Warning: Disabling a feature may disable other features depending on it.",
-    "BlockFeatures": {},
-    "Upgrades": {},
-    "Facades": {
-      "__comment": "Unsupported: Allows whitelisting TileEntity as facades. Could work, have render issues, or corrupt your world. USE AT YOUR OWN RISK.",
-      "TileEntityFacades": false
-    },
-    "NetworkFeatures": {},
-    "Materials": {},
-    "Misc": {
-      "UnsupportedDeveloperTools": false,
-      "IntegrationLogging": false,
-      "WebsiteRecipes": false,
-      "LogSecurityAudits": false,
-      "UpdateLogging": false,
-      "PacketLogging": false,
-      "CraftingLog": false,
-      "DebugLogging": false
-    },
-    "Tools": {},
-    "ToolsClassifications": {},
-    "NetworkBuses": {},
-    "Crafting": {
-      "EnableFacadeCrafting": false,
-      "InWorldSingularity": true,
-      "InWorldFluix": true,
-      "InWorldPurification": true,
-      "EnableDisassemblyCrafting": true
-    },
-    "World": {
-      "CertusQuartzWorldGen": true,
-      "MeteoriteWorldGen": true,
-      "SpawnPressesInMeteorites": true,
-      "VillagerTrading": true
-    },
-    "PortableCell": {},
-    "Cables": {},
-    "Storage": {},
-    "CraftingFeatures": {},
-    "Energy": {},
-    "Rendering": {
-      "AlphaPass": true
-    },
-    "Commands": {
-      "ChunkLoggerTrace": false
-    },
-    "CraftingComponents": {},
-    "NetworkTool": {},
-    "Machines": {},
-    "P2PTunnels": {}
-  },
   "general": {
-    "__comment": "Will auto-remove items that crash when being loaded from storage. This will destroy those items instead of crashing the game!",
-    "removeCrashingItemsOnLoad": false
+    "__comment": "Enables the ability of Tiny TNT to break blocks.",
+    "removeCrashingItemsOnLoad": false,
+    "unsupportedDeveloperTools": false,
+    "matterCannonBlockDamage": true,
+    "tinyTntBlockDamage": true
   },
   "automation": {
     "formationPlaneEntityLimit": 128
   },
+  "facades": {
+    "__comment": "Unsupported: Allows whitelisting block entities as facades. Could work, have render issues, or corrupt your world. USE AT YOUR OWN RISK.",
+    "allowBlockEntities": false
+  },
   "craftingCPU": {
     "craftingCalculationTimePerTick": 5
   },
+  "crafting": {
+    "__comment": "Enable the recipes for disassembling storage cells and crafting units.",
+    "inWorldSingularity": true,
+    "inWorldFluix": true,
+    "inWorldPurification": true,
+    "disassemblyCrafting": true
+  },
   "spatialio": {
     "spatialPowerMultiplier": 1250.0,
-    "spatialPowerExponent": 1.35,
-    "__comment": "BE CAREFUL, CAN CORRUPT YOUR WORLD! Will use #spatial/whitelist as whitelist.",
-    "spatialBlockTags": false
+    "spatialPowerExponent": 1.35
   },
   "GrindStone": {
     "__comment": "Chance to actually get an output with stacksize \u003e 1.",
     "oreDoublePercentage": 90.0
+  },
+  "logging": {
+    "securityAuditLog": false,
+    "blockUpdateLog": false,
+    "packetLog": false,
+    "craftingLog": false,
+    "debugLog": false,
+    "__comment": "Enable stack trace logging for the chunk loading debug command",
+    "chunkLoggerTrace": false
   },
   "battery": {
     "wirelessTerminal": 1600000,
@@ -81,11 +50,14 @@
   },
   "worldGen": {
     "spawnChargedChance": 0.08,
+    "generateMeteorites": true,
     "__comment": "Biome IDs in which quartz ores should NOT be generated (i.e. minecraft:plains).",
     "meteoriteBiomeBlacklist": [],
+    "spawnPressesInMeteorites": true,
+    "generateQuartzOre": true,
     "quartzOresPerCluster": 4,
     "quartzOresClusterAmount": 20,
-    "quartzOreBiomeBlacklist": []
+    "quartzOresBiomeBlacklist": []
   },
   "wireless": {
     "wirelessBaseCost": 8.0,
@@ -97,7 +69,6 @@
     "wirelessTerminalDrainMultiplier": 1.0
   },
   "PowerRatios": {
-    "IC2": 2.0,
     "TechReborn": 2.0,
     "UsageMultiplier": 1.0
   },
@@ -133,8 +104,8 @@
     "IOPortMax": 5,
     "VibrationChamberMin": 10,
     "VibrationChamberMax": 40,
-    "StorageBusMin": 5,
-    "StorageBusMax": 60,
+    "ItemStorageBusMin": 5,
+    "ItemStorageBusMax": 60,
     "FluidStorageBusMin": 5,
     "FluidStorageBusMax": 60,
     "ItemTunnelMin": 5,
