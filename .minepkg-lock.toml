@@ -232,11 +232,11 @@ lockfileVersion = 1
 
   [dependencies.byg]
     name = "byg"
-    version = "60ef0b8f-aab259"
+    version = "615a9559-993f66"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/byg-1.1.8-BETA.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/byg-1.3.3.jar"
     provider = "https"
     dependend = ""
 
@@ -542,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.1.9"
+    version = "1.1.10"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "f547fa542478bbdca908b4e62e8b42485b20d8422c09281f6fcc9a36b0394518"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.9/download"
+    Sha256 = "1c71e75b05e75e0555c0a3bd67bb02c2520c9297f0d3eb74e1fcd343c5ef6a8a"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.1.10/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1148,6 +1148,16 @@ lockfileVersion = 1
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-branders-spawnermod-1.17.1-1.1.2.jar"
     provider = "https"
+    dependend = ""
+
+  [dependencies.starlight]
+    name = "starlight"
+    version = "1.0.0-0.mpkg.2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "327dfe2827c1e7436618bb9511ae1c76e0ed39843f1dc3de8a38dff24ea8a02e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/starlight@1.0.0-0.mpkg.2/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.stickyhopper]
