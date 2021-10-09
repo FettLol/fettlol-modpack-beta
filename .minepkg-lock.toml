@@ -750,16 +750,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.lovely-snails]
-    name = "lovely-snails"
-    version = "6113dd48-1fa16"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lovely_snails-1.0.3+1.17.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.mcdunegeonsweapons]
     name = "mcdunegeonsweapons"
     version = "61574fe2-166561"
@@ -992,11 +982,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.3.5-0.mpkg.1+1.17.1"
+    version = "2.3.7-0.mpkg.1+1.17.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "46edf7cd8b4fa169b20bbca3ae1dbfe9b927bc988a99ddc99e5a29cad820db79"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.5-0.mpkg.1+1.17.1/download"
+    Sha256 = "ed45587850d95b0534724b3b995b105828f16e2f2c6b6e1c74fcfa3abd30d684"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.7-0.mpkg.1+1.17.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1207,16 +1197,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.8-beta+build.111.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.terraria-paintings]
-    name = "terraria-paintings"
-    version = "613f6fea-24f09"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/terraria_paintings-1.0.0.jar"
     provider = "https"
     dependend = ""
 
