@@ -5,7 +5,7 @@ lockfileVersion = 1
 
 [fabric]
   minecraft = "1.17.1"
-  fabricLoader = "0.12.1"
+  fabricLoader = "0.11.7"
   mapping = "1.17.1+build.61"
 
 [dependencies]
@@ -568,16 +568,6 @@ lockfileVersion = 1
     Sha256 = "002a9694523a1f8ecc14e815d7fdc3a88552ab609fa8c645ea1723f926430e67"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.15-1.17.mpkg.1/download"
     provider = "minepkg"
-    dependend = ""
-
-  [dependencies.goblin-traders]
-    name = "goblin-traders"
-    version = "61606af4-f422f"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.2.jar"
-    provider = "https"
     dependend = ""
 
   [dependencies.grizzly-bear-mob]
