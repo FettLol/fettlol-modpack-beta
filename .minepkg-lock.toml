@@ -102,11 +102,11 @@ lockfileVersion = 1
 
   [dependencies.battle-towers]
     name = "battle-towers"
-    version = "613e2295-806ed"
+    version = "61634238-806fc"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/battletowers-3.4.0-1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/battletowers-3.4.1-1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -372,11 +372,11 @@ lockfileVersion = 1
 
   [dependencies.dankstorage]
     name = "dankstorage"
-    version = "60fdbe4a-293ef"
+    version = "616341a0-2950c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dankstorage-2.1-1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/dankstorage-2.2.1-1.17.1.jar"
     provider = "https"
     dependend = ""
 
@@ -512,11 +512,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.40.1"
+    version = "0.40.8"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "a81625d8344c8dbca998adef55be1c02bf2f8c69de3c38dc07dfa24a0becf9f2"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.40.1/download"
+    Sha256 = "2301974e60a82aa1a39751d7cddfb2205f8be9a8a40f9aefc606d7ef74c60240"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.40.8/download"
     provider = "minepkg"
     dependend = ""
 
@@ -570,6 +570,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.goblin-traders]
+    name = "goblin-traders"
+    version = "6163421a-f4242"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.3.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.grizzly-bear-mob]
     name = "grizzly-bear-mob"
     version = "1.2.0-1.17.mpkg.1"
@@ -592,11 +602,11 @@ lockfileVersion = 1
 
   [dependencies.guild-fabric]
     name = "guild-fabric"
-    version = "615a26a6-5548e"
+    version = "61634248-56bbe"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/guild-fabric-0.1.2.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/guild-fabric-0.3.1.jar"
     provider = "https"
     dependend = ""
 
@@ -752,11 +762,11 @@ lockfileVersion = 1
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "6160659f-d2bfe"
+    version = "616341c1-d3099"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.12.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.13.jar"
     provider = "https"
     dependend = ""
 
@@ -972,11 +982,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.3.7-0.mpkg.1+1.17.1"
+    version = "2.3.9-0.mpkg.1+1.17.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "ed45587850d95b0534724b3b995b105828f16e2f2c6b6e1c74fcfa3abd30d684"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.7-0.mpkg.1+1.17.1/download"
+    Sha256 = "5fe096a4cd6eda384fc5f74701ce13fffba195b0da6e988b6123a818e9f16a30"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.9-0.mpkg.1+1.17.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1122,7 +1132,7 @@ lockfileVersion = 1
 
   [dependencies.spark]
     name = "spark"
-    version = "60faaf80-271655"
+    version = "616341f3-2844e2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -1182,11 +1192,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "6150e29e-3c92f0"
+    version = "616341d5-3c9fa0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.8-beta+build.111.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/TechReborn-5.0.9-beta+build.131.jar"
     provider = "https"
     dependend = ""
 
@@ -1272,11 +1282,11 @@ lockfileVersion = 1
 
   [dependencies.vanilla-degus]
     name = "vanilla-degus"
-    version = "615a2679-97b00"
+    version = "61634200-97c34"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/vanilla_degus-1.17.1-v1.2.2-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/vanilla_degus-1.17.1-v1.2.3-fabric.jar"
     provider = "https"
     dependend = ""
 
