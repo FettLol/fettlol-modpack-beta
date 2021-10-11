@@ -70,13 +70,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.architectury]
-    name = "architectury"
-    version = "2.5.30-0.mpkg.1"
+  [dependencies.applied-energistics]
+    name = "applied-energistics"
+    version = "61649808-4951ba"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "4777dfca854e47e1bea1d56e7964c81528f7336270459e2ddd21d046fa0f43a9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.30-0.mpkg.1/download"
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-0.0.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.architectury]
+    name = "architectury"
+    version = "2.5.31-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "ee25d45fd43db31926826869e350e2c25c2178ae17133cac93c337bca96a208e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.31-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -572,11 +582,11 @@ lockfileVersion = 1
 
   [dependencies.goblin-traders]
     name = "goblin-traders"
-    version = "6163421a-f4242"
+    version = "616497b2-f4285"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.4.jar"
     provider = "https"
     dependend = ""
 
@@ -840,6 +850,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.more-berries]
+    name = "more-berries"
+    version = "616497e9-5dd7d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreberries-1.4.3.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.more-block-bricks]
     name = "more-block-bricks"
     version = "610ecbc0-3af28"
@@ -847,16 +867,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreblockbricks-1.3.1-mc-1.17.x.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.moreberries]
-    name = "moreberries"
-    version = "60ef0b90-5dcf0"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreberries-1.4.2.jar"
     provider = "https"
     dependend = ""
 
