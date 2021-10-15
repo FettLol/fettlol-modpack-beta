@@ -70,23 +70,13 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.applied-energistics]
-    name = "applied-energistics"
-    version = "61649808-4951ba"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-0.0.0.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.architectury]
     name = "architectury"
-    version = "2.5.31-0.mpkg.1"
+    version = "2.5.32-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "ee25d45fd43db31926826869e350e2c25c2178ae17133cac93c337bca96a208e"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.31-0.mpkg.1/download"
+    Sha256 = "8db112c2ed9a029773680b2ac982b8cf502dcf93fa2778ed5e4f77fc145db4dc"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.32-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -290,6 +280,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.chat-heads]
+    name = "chat-heads"
+    version = "0.3.1-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "7eb263c84068fe3da2c85cefc8a1b5aa3af84ed2434ca02a2e944b8110dd735b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/chat-heads@0.3.1-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
   [dependencies.clear-skies]
     name = "clear-skies"
     version = "60fd6fe6-580b"
@@ -302,11 +302,11 @@ lockfileVersion = 1
 
   [dependencies.cloth-config]
     name = "cloth-config"
-    version = "6108115d-f10d7"
+    version = "6169afec-f10d6"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/cloth-config-5.0.37-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/cloth-config-5.0.38-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -572,21 +572,21 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.15-1.17.mpkg.1"
+    version = "3.0.16-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "002a9694523a1f8ecc14e815d7fdc3a88552ab609fa8c645ea1723f926430e67"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.15-1.17.mpkg.1/download"
+    Sha256 = "3ef4c49a665b704526bcbfadd45921bf1603a4ff2f4e296b1c9ce597905a2bba"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.16-1.17.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.goblin-traders]
     name = "goblin-traders"
-    version = "616497b2-f4285"
+    version = "6169af4d-f4e9c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -612,11 +612,11 @@ lockfileVersion = 1
 
   [dependencies.guild-fabric]
     name = "guild-fabric"
-    version = "61634248-56bbe"
+    version = "6169ae9f-11bd96"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/guild-fabric-0.3.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/guild-fabric-0.3.3.jar"
     provider = "https"
     dependend = ""
 
@@ -642,11 +642,11 @@ lockfileVersion = 1
 
   [dependencies.illuminations]
     name = "illuminations"
-    version = "615f6896-11a175"
+    version = "6169af35-11e2b7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.8.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/illuminations-1.9.jar"
     provider = "https"
     dependend = ""
 
@@ -882,11 +882,11 @@ lockfileVersion = 1
 
   [dependencies.mythic-mounts]
     name = "mythic-mounts"
-    version = "613f374b-1db551"
+    version = "6169ac06-22fb34"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-1.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mythic-mounts-1.17.1-2.0.jar"
     provider = "https"
     dependend = ""
 
@@ -912,11 +912,11 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "61575046-27cdd"
+    version = "6169ac1f-2999d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.6.5+1.17.1-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.7.0+1.17.1-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -1032,11 +1032,11 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "612c70b7-12b0be"
+    version = "6169af14-1322ec"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RoughlyEnoughItems-6.0.279-alpha-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RoughlyEnoughItems-6.0.287-alpha.jar"
     provider = "https"
     dependend = ""
 
@@ -1062,21 +1062,11 @@ lockfileVersion = 1
 
   [dependencies.seasons]
     name = "seasons"
-    version = "61574fd3-3e638"
+    version = "6169af6f-3e6aa"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-seasons-1.3-BETA+1.17.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.server-holograms]
-    name = "server-holograms"
-    version = "60ff32e9-2fbec"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/holograms-1.3.0+1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/fabric-seasons-1.3.1-BETA+1.17.jar"
     provider = "https"
     dependend = ""
 
@@ -1172,11 +1162,11 @@ lockfileVersion = 1
 
   [dependencies.stickyhopper]
     name = "stickyhopper"
-    version = "60ef0b90-8c3b"
+    version = "6169aec2-8d6c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/stickyhopper-2.3-1.17-1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/stickyhopper-2.3-1.17.1-1.jar"
     provider = "https"
     dependend = ""
 
@@ -1322,11 +1312,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "61421d46-443cd6"
+    version = "6169aee9-464fef"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-1.2.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.0.2.jar"
     provider = "https"
     dependend = ""
 
@@ -1372,21 +1362,21 @@ lockfileVersion = 1
 
   [dependencies.xaeros-minimap]
     name = "xaeros-minimap"
-    version = "61606511-11421c"
+    version = "6169abc0-11477d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Xaeros_Minimap_21.18.0_Fabric_1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Xaeros_Minimap_21.19.0_Fabric_1.17.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.xaeros-worldmap]
     name = "xaeros-worldmap"
-    version = "616064e7-877a1"
+    version = "6169abe3-87964"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.17.2_Fabric_1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.17.3_Fabric_1.17.1.jar"
     provider = "https"
     dependend = ""
 
