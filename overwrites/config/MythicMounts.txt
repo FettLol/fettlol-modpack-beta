@@ -1,7 +1,7 @@
 Config MOB properties here
 
 Important! Do not modify the value of the config version in this file or the mod may overwrite custom settings.
-[Global] Config Version: 3
+[Global] Config Version: 4
 
 SpawnDebug:
     Helpful when trying out different spawn configs or for testing adjustments to spawn weights.
@@ -52,10 +52,12 @@ Loudness:
 
 [Global] Print Biomes: false;
 [Global] Command Item: stick;
+[Global] Mounted Flight Enabled: true;
+[Global] Creative Flight: false;
 
-CourierBird ShouldSpawn: false
+CourierBird ShouldSpawn: true
 CourierBird SpawnDebug: false
-CourierBird SpawnBiomes: Jungle; Jungle Hills; Jungle Edge; byg:bamboo_forest; byg:ethereal_forest; byg:etherial_clearing;
+CourierBird SpawnBiomes: Jungle; Jungle Hills; Jungle Edge;
 CourierBird SpawnYCeiling: 50000
 CourierBird SpawnYFloor: -50000
 CourierBird SpawnBlocks: All
@@ -72,6 +74,7 @@ CourierBird FleeFromPlayer: true
 CourierBird PlayerHostile: false
 CourierBird HostileToMobs: none
 CourierBird BattleWithOwner: true
+CourierBird FollowOwner: false
 CourierBird Diet: herbivore
 CourierBird TamingItems:  sweet_berries;
 CourierBird TamingChance:  10
@@ -80,7 +83,7 @@ CourierBird Loudness: 100
 
 DireWolf ShouldSpawn: true
 DireWolf SpawnDebug: false
-DireWolf SpawnBiomes: Snowy Taiga Mountains; Giant Spruce Taiga; Giant Spruce Taiga Hills; Giant Tree Taiga; Giant Tree Taiga Hills; byg:blue_giant_taiga; byg:blue_taiga; byg:blue_taiga_hills; byg:enchanted_forest;
+DireWolf SpawnBiomes: Snowy Taiga Mountains; Giant Spruce Taiga; Giant Spruce Taiga Hills; Giant Tree Taiga; Giant Tree Taiga Hills;
 DireWolf SpawnYCeiling: 50000
 DireWolf SpawnYFloor: -50000
 DireWolf SpawnBlocks: All
@@ -97,13 +100,14 @@ DireWolf FleeFromPlayer: false
 DireWolf PlayerHostile: false
 DireWolf HostileToMobs: minecraft:sheep; minecraft:skeleton;
 DireWolf BattleWithOwner: true
+DireWolf FollowOwner: false
 DireWolf Diet: carnivore
 DireWolf TamingItems:  bone;
 DireWolf TamingChance:  10
 DireWolf BreedingItems:  rabbit; chicken; mutton; beef; porkchop;
 DireWolf Loudness: 100
 
-Dragon ShouldSpawn: false
+Dragon ShouldSpawn: true
 Dragon SpawnDebug: false
 Dragon SpawnBiomes: All Overworld
 Dragon SpawnYCeiling: 40
@@ -114,6 +118,7 @@ Dragon SpawnRandomChance: 50
 Dragon SpawnType: subterranean
 Dragon MinSpawnGroupSize: 1
 Dragon MaxSpawnGroupSize: 1
+Dragon MaxIn256Region: 1
 Dragon InventorySize: 9
 Dragon Attack: 10
 Dragon Speed: 0.44999998807907104
@@ -128,9 +133,9 @@ Dragon TamingChance:  5
 Dragon BreedingItems: golden_carrot; golden_apple; glistering_melon_slice;
 Dragon Loudness: 100
 
-Griffon ShouldSpawn: false
+Griffon ShouldSpawn: true
 Griffon SpawnDebug: false
-Griffon SpawnBiomes: Gravelly Mountains+; Snowy Taiga Mountains; Taiga Mountains; Gravelly Mountains; Wooded Mountains; Snowy Mountains; Mountains; byg:canyon_edge; byg:canyons; byg:dover_mountains;
+Griffon SpawnBiomes: Gravelly Mountains+; Snowy Taiga Mountains; Taiga Mountains; Gravelly Mountains; Wooded Mountains; Snowy Mountains; Mountains;
 Griffon SpawnYCeiling: 50000
 Griffon SpawnYFloor: 100
 Griffon SpawnBlocks: All
@@ -178,7 +183,7 @@ GeckotoaLizard TamingChance:  10
 GeckotoaLizard BreedingItems: melon; pumpkin; hay_block;
 GeckotoaLizard Loudness: 100
 
-Moth ShouldSpawn: false
+Moth ShouldSpawn: true
 Moth SpawnDebug: false
 Moth SpawnBiomes: Dark Forest Hills; Dark Forest;
 Moth SpawnYCeiling: 50000
@@ -206,7 +211,7 @@ Moth Loudness: 100
 
 NetherBat ShouldSpawn: true
 NetherBat SpawnDebug: false
-NetherBat SpawnBiomes: Crimson Forest; Warped Forest; betternether:crimson_glowing_woods; betternether:nether_grasslands; betternether:nether_jungle; betternether:old_warped_woods
+NetherBat SpawnBiomes: Crimson Forest; Warped Forest;
 NetherBat SpawnYCeiling: 50000
 NetherBat SpawnYFloor: -50000
 NetherBat SpawnBlocks: All
@@ -214,7 +219,8 @@ NetherBat SpawnWeight: 50
 NetherBat SpawnRandomChance: 100
 NetherBat SpawnType: nether
 NetherBat MinSpawnGroupSize: 1
-NetherBat MaxSpawnGroupSize: 3
+NetherBat MaxSpawnGroupSize: 1
+NetherBat MaxIn256Region: 5
 NetherBat InventorySize: 3
 NetherBat Attack: 4
 NetherBat Speed: 0.44999998807907104
@@ -229,7 +235,7 @@ NetherBat TamingChance:  10
 NetherBat BreedingItems: porkchop; apple; rotten_flesh;
 NetherBat Loudness: 100
 
-Nudibranch ShouldSpawn: false
+Nudibranch ShouldSpawn: true
 Nudibranch SpawnDebug: false
 Nudibranch SpawnBiomes: Warm Ocean;
 Nudibranch SpawnYCeiling: 50000
@@ -256,7 +262,7 @@ Nudibranch Loudness: 100
 
 RidingLizard ShouldSpawn: true
 RidingLizard SpawnDebug: false
-RidingLizard SpawnBiomes: Desert; Desert Lakes; Desert Hills; Eroded Badlands; Modified Wooded Badlands Plateau; Modified Badlands Plateau; byg:baobab_savanna; 
+RidingLizard SpawnBiomes: Desert; Desert Lakes; Desert Hills; Eroded Badlands; Modified Wooded Badlands Plateau; Modified Badlands Plateau;
 RidingLizard SpawnYCeiling: 50000
 RidingLizard SpawnYFloor: -50000
 RidingLizard SpawnBlocks: All
@@ -278,3 +284,29 @@ RidingLizard TamingItems:  rabbit; chicken;
 RidingLizard TamingChance:  10
 RidingLizard BreedingItems: rabbit; chicken; pumpkin; rotten_flesh;
 RidingLizard Loudness: 100
+
+Nightmare ShouldSpawn: true
+Nightmare SpawnDebug: false
+Nightmare SpawnBiomes: minecraft:basalt_deltas; minecraft:soul_sand_valley;
+Nightmare SpawnYCeiling: 50000
+Nightmare SpawnYFloor: -50000
+Nightmare SpawnBlocks: All
+Nightmare SpawnWeight: 100
+Nightmare SpawnRandomChance: 25
+Nightmare SpawnType: nether
+Nightmare MinSpawnGroupSize: 1
+Nightmare MaxSpawnGroupSize: 2
+Nightmare MaxIn256Region: 5
+Nightmare InventorySize: 4
+Nightmare Attack: 5
+Nightmare Speed: 0.44999998807907104
+Nightmare Health: 35
+Nightmare FleeFromPlayer: false
+Nightmare PlayerHostile: false
+Nightmare HostileToMobs: minecraft:skeleton; minecraft:wither_skeleton;
+Nightmare BattleWithOwner: true
+Nightmare Diet: omnivore
+Nightmare TamingItems:  bone; coal; charcoal;
+Nightmare TamingChance:  3
+Nightmare BreedingItems: blaze_rod; fire_charge;
+Nightmare Loudness: 100
