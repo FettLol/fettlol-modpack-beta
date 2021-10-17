@@ -55,7 +55,7 @@ Loudness:
 [Global] Mounted Flight Enabled: true;
 [Global] Creative Flight: false;
 
-CourierBird ShouldSpawn: true
+CourierBird ShouldSpawn: false
 CourierBird SpawnDebug: false
 CourierBird SpawnBiomes: Jungle; Jungle Hills; Jungle Edge;
 CourierBird SpawnYCeiling: 50000
@@ -83,7 +83,7 @@ CourierBird Loudness: 100
 
 DireWolf ShouldSpawn: true
 DireWolf SpawnDebug: false
-DireWolf SpawnBiomes: Snowy Taiga Mountains; Giant Spruce Taiga; Giant Spruce Taiga Hills; Giant Tree Taiga; Giant Tree Taiga Hills;
+DireWolf SpawnBiomes: Snowy Taiga Mountains; Giant Spruce Taiga; Giant Spruce Taiga Hills; Giant Tree Taiga; Giant Tree Taiga Hills; byg:blue_giant_taiga; byg:blue_taiga; byg:blue_taiga_hills; byg:enchanted_forest;
 DireWolf SpawnYCeiling: 50000
 DireWolf SpawnYFloor: -50000
 DireWolf SpawnBlocks: All
@@ -107,7 +107,7 @@ DireWolf TamingChance:  10
 DireWolf BreedingItems:  rabbit; chicken; mutton; beef; porkchop;
 DireWolf Loudness: 100
 
-Dragon ShouldSpawn: true
+Dragon ShouldSpawn: false
 Dragon SpawnDebug: false
 Dragon SpawnBiomes: All Overworld
 Dragon SpawnYCeiling: 40
@@ -133,7 +133,7 @@ Dragon TamingChance:  5
 Dragon BreedingItems: golden_carrot; golden_apple; glistering_melon_slice;
 Dragon Loudness: 100
 
-Griffon ShouldSpawn: true
+Griffon ShouldSpawn: false
 Griffon SpawnDebug: false
 Griffon SpawnBiomes: Gravelly Mountains+; Snowy Taiga Mountains; Taiga Mountains; Gravelly Mountains; Wooded Mountains; Snowy Mountains; Mountains;
 Griffon SpawnYCeiling: 50000
@@ -183,7 +183,7 @@ GeckotoaLizard TamingChance:  10
 GeckotoaLizard BreedingItems: melon; pumpkin; hay_block;
 GeckotoaLizard Loudness: 100
 
-Moth ShouldSpawn: true
+Moth ShouldSpawn: false
 Moth SpawnDebug: false
 Moth SpawnBiomes: Dark Forest Hills; Dark Forest;
 Moth SpawnYCeiling: 50000
@@ -211,7 +211,7 @@ Moth Loudness: 100
 
 NetherBat ShouldSpawn: true
 NetherBat SpawnDebug: false
-NetherBat SpawnBiomes: Crimson Forest; Warped Forest;
+NetherBat SpawnBiomes: Crimson Forest; Warped Forest; betternether:crimson_glowing_woods; betternether:nether_grasslands; betternether:nether_jungle; betternether:old_warped_woods;
 NetherBat SpawnYCeiling: 50000
 NetherBat SpawnYFloor: -50000
 NetherBat SpawnBlocks: All
@@ -235,7 +235,7 @@ NetherBat TamingChance:  10
 NetherBat BreedingItems: porkchop; apple; rotten_flesh;
 NetherBat Loudness: 100
 
-Nudibranch ShouldSpawn: true
+Nudibranch ShouldSpawn: false
 Nudibranch SpawnDebug: false
 Nudibranch SpawnBiomes: Warm Ocean;
 Nudibranch SpawnYCeiling: 50000
@@ -287,7 +287,7 @@ RidingLizard Loudness: 100
 
 Nightmare ShouldSpawn: true
 Nightmare SpawnDebug: false
-Nightmare SpawnBiomes: minecraft:basalt_deltas; minecraft:soul_sand_valley;
+Nightmare SpawnBiomes: minecraft:basalt_deltas; minecraft:soul_sand_valley; betternether:crimson_glowing_woods; betternether:nether_grasslands; betternether:nether_jungle; betternether:old_warped_woods;
 Nightmare SpawnYCeiling: 50000
 Nightmare SpawnYFloor: -50000
 Nightmare SpawnBlocks: All

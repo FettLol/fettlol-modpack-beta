@@ -542,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.fallingleaves]
     name = "fallingleaves"
-    version = "1.7.3"
+    version = "1.7.4"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "48121f10e61fed19915536244f3685ea33ba53a3cbf5bfe2874385cabc722189"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.7.3/download"
+    Sha256 = "e93ea8410314937ef61a15766440e12e387885989f19149138106f75c886bf94"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.7.4/download"
     provider = "minepkg"
     dependend = ""
 
@@ -582,11 +582,11 @@ lockfileVersion = 1
 
   [dependencies.goblin-traders]
     name = "goblin-traders"
-    version = "6169af4d-f4e9c"
+    version = "616c21e7-f6a1b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.0.5.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -650,6 +650,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.immersive-portals]
+    name = "immersive-portals"
+    version = "0.29.0-1.17.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "8f24b6543bfd4aac5b034cd9242f4bb3c843522730a4bf0e40a25b23b6f44826"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/immersive-portals@0.29.0-1.17.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
   [dependencies.indium]
     name = "indium"
     version = "61606bfc-1a510"
@@ -672,11 +682,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "61574ff5-13a2a2"
+    version = "616c21c2-16a4d8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.0.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/InventoryProfilesNext-fabric-1.17-1.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -912,12 +922,12 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "6169ac1f-2999d"
+    version = "3.7.0-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/notenoughcrashes-3.7.0+1.17.1-fabric.jar"
-    provider = "https"
+    Sha256 = "186cb055a4f98a353cf54e2e103b0e3f26b52e71502a20631d757f70ad9411d3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/notenoughcrashes@3.7.0-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.npcvariety]
@@ -1030,14 +1040,14 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.roughly-enough-items]
-    name = "roughly-enough-items"
-    version = "6169af14-1322ec"
+  [dependencies.roughlyenoughitems]
+    name = "roughlyenoughitems"
+    version = "6.0.298-0.mpkg.1-alpha"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/RoughlyEnoughItems-6.0.287-alpha.jar"
-    provider = "https"
+    Sha256 = "f79d9749b7e6104eba847388af80c75e022762c3288cd42bb67f77b5afbc0b5c"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.298-0.mpkg.1-alpha/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.rpgstats]
@@ -1102,11 +1112,11 @@ lockfileVersion = 1
 
   [dependencies.skin-layers]
     name = "skin-layers"
-    version = "613e2718-5c9a6"
+    version = "616aa504-5ca21"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/3dSkinLayers-Fabric-1.1.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/3dSkinLayers-Fabric-1.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -1312,11 +1322,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "6169aee9-464fef"
+    version = "616c219a-45eab9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.0.2.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.1.jar"
     provider = "https"
     dependend = ""
 
