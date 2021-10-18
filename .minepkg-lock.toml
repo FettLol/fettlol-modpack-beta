@@ -522,11 +522,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.40.8"
+    version = "0.41.0"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "2301974e60a82aa1a39751d7cddfb2205f8be9a8a40f9aefc606d7ef74c60240"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.40.8/download"
+    Sha256 = "7a9a8f3cdce1a038b0eacdfddf177b2b4bc0b0110b9479f284a3caa6897173f2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.41.0/download"
     provider = "minepkg"
     dependend = ""
 
@@ -650,16 +650,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.immersive-portals]
-    name = "immersive-portals"
-    version = "0.29.0-1.17.mpkg.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "8f24b6543bfd4aac5b034cd9242f4bb3c843522730a4bf0e40a25b23b6f44826"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/immersive-portals@0.29.0-1.17.mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.indium]
     name = "indium"
     version = "61606bfc-1a510"
@@ -752,11 +742,11 @@ lockfileVersion = 1
 
   [dependencies.lightoverlay]
     name = "lightoverlay"
-    version = "6.0.0-0.mpkg.pre.5"
+    version = "6.0.1-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "b50407265938d6c737cf217091e090c6964c00b05cd43e5a86c49d6ed38b16bf"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/lightoverlay@6.0.0-0.mpkg.pre.5/download"
+    Sha256 = "57cf4d99933fc137a9cd1376a20ab9b950af905d01cb0f83b1ef5fba81095c15"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lightoverlay@6.0.1-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
