@@ -5,7 +5,7 @@ lockfileVersion = 1
 
 [fabric]
   minecraft = "1.17.1"
-  fabricLoader = "0.11.7"
+  fabricLoader = "0.12.2"
   mapping = "1.17.1+build.61"
 
 [dependencies]
@@ -22,11 +22,11 @@ lockfileVersion = 1
 
   [dependencies.adorn]
     name = "adorn"
-    version = "2.1.5-0.mpkg.1"
+    version = "2.2.0-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "5900afe157c98bd77af51fa415ca6a48bbe6f4cb25191eabd8abdb7d8ebe67d2"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@2.1.5-0.mpkg.1/download"
+    Sha256 = "36b97d7cac9808b1668ee6d31270f673bbf6ce359fe7fc1a78e9fd49085bcac2"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@2.2.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -152,12 +152,12 @@ lockfileVersion = 1
 
   [dependencies.better-dropped-items]
     name = "better-dropped-items"
-    version = "60ef0b8f-c289"
+    version = "1.3.0-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/betterdroppeditems-1.3.0-1.17.jar"
-    provider = "https"
+    Sha256 = "c7896fb7283ed2203da9e5cb9f9e0f59a9db6000469883011145a40c4851bb2e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/better-dropped-items@1.3.0-0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.better-enchanted-books]
@@ -420,16 +420,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.dirtnt]
-    name = "dirtnt"
-    version = "1.1.0-1.17"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "42709c63c28c69ce2bf4d01e4f47a979e0d5d612d22f27bc19276b71dd9a37af"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dirtnt@1.1.0-1.17/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.discerning-furnace]
     name = "discerning-furnace"
     version = "1.0.3-0.mpkg.1"
@@ -470,6 +460,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.dynamic-surroundings]
+    name = "dynamic-surroundings"
+    version = "616e2d9a-d3083d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DynamicSurroundings-Fabric-1.17.1-0.0.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.earth2java]
     name = "earth2java"
     version = "1.7.3-0.mpkg.1+1.17"
@@ -492,11 +492,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "613e2484-118e1a"
+    version = "616e1a8f-dee93"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.5-fabric.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/emotecraft-for-MC1.17.1-2.1-SNAPSHOT-build.7-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -532,11 +532,11 @@ lockfileVersion = 1
 
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
-    version = "1.6.4-0.mpkg.1+kotlin.1.5.30"
+    version = "1.6.5-0.mpkg.1+kotlin.1.5.31"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "61df9f21fcd07b4e24aa921c4bab57a43548446b87bc452ce94d919956a9904a"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.4-0.mpkg.1+kotlin.1.5.30/download"
+    Sha256 = "32d95460c9317590a15a8a5d78e367dcfceccd3b8851683303055b55d1a3f8c5"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.5-0.mpkg.1+kotlin.1.5.31/download"
     provider = "minepkg"
     dependend = ""
 
@@ -572,11 +572,11 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.16-1.17.mpkg.1"
+    version = "3.0.18-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "3ef4c49a665b704526bcbfadd45921bf1603a4ff2f4e296b1c9ce597905a2bba"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.16-1.17.mpkg.1/download"
+    Sha256 = "8a6dd056e89ba000327588ee80776457addee2e044d5d6a4e8ca80e8b0928e82"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.18-1.17.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -890,16 +890,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.nether-chest]
-    name = "nether-chest"
-    version = "60ef0b90-17b29"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/netherchest-mc1.17.x-2.0.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
     version = "6157501e-4b336"
@@ -958,6 +948,16 @@ lockfileVersion = 1
     Sha256 = "5377b0b141f91009e2f8624e6cffabd80ed51dc16185a97383a50c32b11ead72"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.1.0/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.picturesign]
+    name = "picturesign"
+    version = "616d0947-16137"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/picturesign-1.1.0.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.polymorph]
@@ -1150,6 +1150,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.squirrels]
+    name = "squirrels"
+    version = "616d1060-301185"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/squirrels-1.0.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.starlight]
     name = "starlight"
     version = "1.0.0-0.mpkg.2"
@@ -1312,11 +1322,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "616c219a-45eab9"
+    version = "616ded2e-460008"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.3.jar"
     provider = "https"
     dependend = ""
 
