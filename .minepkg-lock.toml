@@ -460,6 +460,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.dye-all-the-things]
+    name = "dye-all-the-things"
+    version = "616f42f9-37ba"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/DyeAllTheThings-1.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.dynamic-surroundings]
     name = "dynamic-surroundings"
     version = "616e2d9a-d3083d"
@@ -950,16 +960,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.picturesign]
-    name = "picturesign"
-    version = "616d0947-16137"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/picturesign-1.1.0.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.polymorph]
     name = "polymorph"
     version = "0.0.14-1.17.mpkg.1"
@@ -992,11 +992,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.3.9-0.mpkg.1+1.17.1"
+    version = "2.4.1-0.mpkg.1+1.17.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "5fe096a4cd6eda384fc5f74701ce13fffba195b0da6e988b6123a818e9f16a30"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.3.9-0.mpkg.1+1.17.1/download"
+    Sha256 = "9fd48045f75c57400c7287903fcacfafe8f9537e758fd6857388fe7448556f16"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.4.1-0.mpkg.1+1.17.1/download"
     provider = "minepkg"
     dependend = ""
 

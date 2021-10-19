@@ -5,7 +5,7 @@
 #Lightweight armor is invisible and does not increase mob awareness when drinking Potion of Invisibility.
 "ArmorInvisibility Enabled" = false
 #Storage for maps that automatically updates the displayed map as you explore.
-"Atlases Enabled" = true
+"Atlases Enabled" = false
 #Refills your hotbar from your inventory.
 "AutoRestock Enabled" = false
 #Unlocks all vanilla recipes.
