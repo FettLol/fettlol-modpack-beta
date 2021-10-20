@@ -1239,7 +1239,7 @@
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"badlandsVillageSize": 16,
+			"badlandsVillageSize": 22,
 			/* 
 			   
 			   
@@ -1251,49 +1251,49 @@
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"darkForestVillageSize": 12,
+			"darkForestVillageSize": 16,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"jungleVillageSize": 12,
+			"jungleVillageSize": 16,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"swampVillageSize": 12,
+			"swampVillageSize": 16,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"mountainsVillageSize": 4,
+			"mountainsVillageSize": 6,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"giantTaigaVillageSize": 12,
+			"giantTaigaVillageSize": 18,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"oakVillageSize": 12,
+			"oakVillageSize": 18,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"crimsonVillageSize": 12,
+			"crimsonVillageSize": 14,
 			/* 
 			   
 			   
 			   Size of the village. This is how many pieces long a path can be from the start piece.
 			*/
-			"warpedVillageSize": 12
+			"warpedVillageSize": 14
 		}
 	},
 	"RSWellsConfig": {
