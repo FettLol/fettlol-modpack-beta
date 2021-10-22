@@ -70,6 +70,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.applied-energistics]
+    name = "applied-energistics"
+    version = "617208fc-49c89b"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-9.0.0-alpha.6.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.architectury]
     name = "architectury"
     version = "2.5.32-0.mpkg.1"
@@ -742,11 +752,11 @@ lockfileVersion = 1
 
   [dependencies.mcdungeonsarmors]
     name = "mcdungeonsarmors"
-    version = "616341c1-d3099"
+    version = "61720920-d37af"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.13.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/mcda-1.7.15.jar"
     provider = "https"
     dependend = ""
 
@@ -758,16 +768,6 @@ lockfileVersion = 1
     Sha256 = "62a1c4993bf76987ac6e1a38c791ec77a3ef5f94063c307febaa93b2291fcede"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/mcf-easyfeed@1.3.0-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = ""
-
-  [dependencies.memory-usage-screen]
-    name = "memory-usage-screen"
-    version = "60fbe289-fb585"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/MemoryUsageScreen-1.17-1.1.jar"
-    provider = "https"
     dependend = ""
 
   [dependencies.midas-hunger]
@@ -847,6 +847,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreblockbricks-1.3.1-mc-1.17.x.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.more-geodes]
+    name = "more-geodes"
+    version = "61716ed7-9067"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/more-geodes-1.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -962,11 +972,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "2.4.1-0.mpkg.1+1.17.1"
+    version = "2.4.3-0.mpkg.1+1.17.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "9fd48045f75c57400c7287903fcacfafe8f9537e758fd6857388fe7448556f16"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.4.1-0.mpkg.1+1.17.1/download"
+    Sha256 = "db030bb0f4f0ea72e86fee648ae9a868d84facc8b039b675feb6563065f4e3b9"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@2.4.3-0.mpkg.1+1.17.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -992,11 +1002,11 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "6.0.298-0.mpkg.1-alpha"
+    version = "6.0.304-0.mpkg.1-alpha"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "f79d9749b7e6104eba847388af80c75e022762c3288cd42bb67f77b5afbc0b5c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.298-0.mpkg.1-alpha/download"
+    Sha256 = "05667144cb0b86af57d32874ae545bac184e1c36e00fa5464ba8f0466fe3e9c0"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.304-0.mpkg.1-alpha/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1097,6 +1107,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/slimyfloor-1.17.1-1.2.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.soun-physics]
+    name = "soun-physics"
+    version = "616fde65-24041"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/soundphysics-2.1.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1292,11 +1312,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "616ded2e-460008"
+    version = "617208e2-48d117"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.4.jar"
     provider = "https"
     dependend = ""
 
@@ -1332,11 +1352,11 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "3.9.2-0.mpkg.1"
+    version = "3.10.0-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "1c78fc423b373205538e88788043f33237c4fd357dee72600b8b55fe17b02bed"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@3.9.2-0.mpkg.1/download"
+    Sha256 = "d8fb00de7ec6c3ee4c060efd42adfe59e313f4502b421df7e004a64dab233b85"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@3.10.0-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
