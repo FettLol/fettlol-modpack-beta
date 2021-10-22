@@ -6,7 +6,7 @@ manifestVersion = 0
   type = "modpack"
   name = "fettlol-beta"
   description = "The beta branch of the Fettlol Modpack. Might not be stable."
-  version = "1.0.68"
+  version = "1.0.69"
   platform = "fabric"
   license = "MIT"
   author = "Breki Tomasson <breki.tomasson@gmail.com>"
@@ -17,13 +17,13 @@ manifestVersion = 0
   fabricLoader = "^0.12.2"
 
 [dependencies]
-  applied-energistics = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-9.0.0-alpha.6.jar"
   additional-additions = "https://www.brekitomasson.com/fettlol/mods/1.17.1/AdditionalAdditions-2.1.3.jar"
   adorn = "^2.1.3-0.mpkg.1"
   advancements-debug = "https://www.brekitomasson.com/fettlol/mods/1.17.1/advdebug-2.3.0.jar"
   alaska-nativecraft = "https://www.brekitomasson.com/fettlol/mods/1.17.1/alaskanativecraft-1.3.1.jar"
   amecs = "^1.3.4-0.mpkg.1"
   appleskin = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appleskin-fabric-mc1.17-2.1.3.jar"
+  applied-energistics = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-9.0.0-alpha.6.jar"
   architectury = "^2.4.25-0.mpkg.1"
   axesareweapons = "https://www.brekitomasson.com/fettlol/mods/1.17.1/AxesAreWeapons-1.3-1.17.jar"
   axolotl-bucket-fix = "^1.1.1"
