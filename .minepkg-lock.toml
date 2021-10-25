@@ -72,21 +72,21 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "617208fc-49c89b"
+    version = "617630d2-499f4c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-9.0.0-alpha.6.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/appliedenergistics2-9.0.0-alpha.7.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.architectury]
     name = "architectury"
-    version = "2.5.32-0.mpkg.1"
+    version = "2.6.35-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "8db112c2ed9a029773680b2ac982b8cf502dcf93fa2778ed5e4f77fc145db4dc"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.5.32-0.mpkg.1/download"
+    Sha256 = "2f194f61a3d0f0c917bc5d0a26fb0824f32228727ccf42b63f0077bbf4547457"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@2.6.35-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -832,11 +832,11 @@ lockfileVersion = 1
 
   [dependencies.more-berries]
     name = "more-berries"
-    version = "616497e9-5dd7d"
+    version = "6176344e-53422"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreberries-1.4.3.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/moreberries-1.4.4.jar"
     provider = "https"
     dependend = ""
 
@@ -1002,11 +1002,11 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "6.0.304-0.mpkg.1-alpha"
+    version = "6.0.306-0.mpkg.1-alpha"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "05667144cb0b86af57d32874ae545bac184e1c36e00fa5464ba8f0466fe3e9c0"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.304-0.mpkg.1-alpha/download"
+    Sha256 = "dedd011839cd681146191bc66c78d4ec26356c231a553673c4781c3622889fe8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@6.0.306-0.mpkg.1-alpha/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1110,8 +1110,8 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.soun-physics]
-    name = "soun-physics"
+  [dependencies.sound-physics]
+    name = "sound-physics"
     version = "616fde65-24041"
     type = "mod"
     ipfsHash = ""
@@ -1312,11 +1312,11 @@ lockfileVersion = 1
 
   [dependencies.voicechat]
     name = "voicechat"
-    version = "617208e2-48d117"
+    version = "617630b1-48d122"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.4.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/voicechat-fabric-1.17.1-2.1.5.jar"
     provider = "https"
     dependend = ""
 
@@ -1362,21 +1362,21 @@ lockfileVersion = 1
 
   [dependencies.xaeros-minimap]
     name = "xaeros-minimap"
-    version = "6169abc0-11477d"
+    version = "61763595-11541b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Xaeros_Minimap_21.19.0_Fabric_1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/Xaeros_Minimap_21.20.0_Fabric_1.17.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.xaeros-worldmap]
     name = "xaeros-worldmap"
-    version = "6169abe3-87964"
+    version = "617635bd-88c26"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.17.3_Fabric_1.17.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/XaerosWorldMap_1.18.0_Fabric_1.17.1.jar"
     provider = "https"
     dependend = ""
 
