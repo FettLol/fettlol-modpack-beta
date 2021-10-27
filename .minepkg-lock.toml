@@ -562,11 +562,11 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.18-1.17.mpkg.1"
+    version = "3.0.19-1.17.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "8a6dd056e89ba000327588ee80776457addee2e044d5d6a4e8ca80e8b0928e82"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.18-1.17.mpkg.1/download"
+    Sha256 = "af1653258d50a1b2e602b255f9185e43853364e4af0b8dae47c49a9b50b86f50"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.19-1.17.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1072,11 +1072,11 @@ lockfileVersion = 1
 
   [dependencies.skin-layers]
     name = "skin-layers"
-    version = "616aa504-5ca21"
+    version = "61775ea5-651fd"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/3dSkinLayers-Fabric-1.1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/3dSkinLayers-Fabric-1.2.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1142,11 +1142,11 @@ lockfileVersion = 1
 
   [dependencies.squirrels]
     name = "squirrels"
-    version = "616d1060-301185"
+    version = "6177628b-303633"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/squirrels-1.0.0.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/squirrels-1.1.0-1.17.jar"
     provider = "https"
     dependend = ""
 
