@@ -572,11 +572,11 @@ lockfileVersion = 1
 
   [dependencies.goblin-traders]
     name = "goblin-traders"
-    version = "616c21e7-f6a1b"
+    version = "61790de3-10d2a7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.1.1.jar"
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/goblin-traders-1.2.0.jar"
     provider = "https"
     dependend = ""
 
