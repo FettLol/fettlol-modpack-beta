@@ -256,7 +256,7 @@
 	   [Mushroom Mines Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"mushroomMinesGenerates": true,
+	"mushroomMinesGenerates": false,
 	// Base distance between Mushroom Mines (in chunks). Must be higher than separation.
 	"mushroomMinesSpacing": 200,
 	// Base distance between Mushroom Mines (in chunks)
@@ -268,7 +268,7 @@
 	   [Mushroom Villages Spawning Settings]
 	   Basic configuration options for this structure
 	*/
-	"mushroomVillageGenerates": true,
+	"mushroomVillageGenerates": false,
 	// Base distance between Mushroom Villages (in chunks). Must be higher than separation.
 	"mushroomVillageSpacing": 128,
 	// Base distance between Mushroom Villages (in chunks)
