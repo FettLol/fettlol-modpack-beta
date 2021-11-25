@@ -83,6 +83,7 @@ manifestVersion = 0
   krypton = "^0.1.4-0.mpkg.1"
   lambda-better-grass = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lambdabettergrass-1.2.1+1.17.jar"
   lambdynamiclights = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lambdynamiclights-2.0.2+1.17.jar"
+  leaf-decay = "https://www.brekitomasson.com/fettlol/mods/1.17.1/leaf-decay-1.3.0-1.17.1.jar"
   lifts = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lifts-1.3-BETA+1.17.jar"
   lightoverlay = "^6.0.0-1.mpkg.pre.1"
   lithium = "^0.7.5-0.mpkg.1"

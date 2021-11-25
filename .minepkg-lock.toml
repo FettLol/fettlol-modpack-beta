@@ -268,7 +268,7 @@ lockfileVersion = 1
     Sha256 = "c8c09c5e182548cdd57ce808b50f90e2f758ffb80f0042a10928e81681fbe45a"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@5.1.40-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = "lightoverlay"
+    dependend = "roughlyenoughitems"
 
   [dependencies.coloredslime]
     name = "coloredslime"
