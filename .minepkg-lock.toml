@@ -268,7 +268,7 @@ lockfileVersion = 1
     Sha256 = "c8c09c5e182548cdd57ce808b50f90e2f758ffb80f0042a10928e81681fbe45a"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@5.1.40-0.mpkg.1/download"
     provider = "minepkg"
-    dependend = "roughlyenoughitems"
+    dependend = "fallingleaves"
 
   [dependencies.coloredslime]
     name = "coloredslime"
@@ -687,6 +687,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/lambdynamiclights-2.0.2+1.17.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.leaf-decay]
+    name = "leaf-decay"
+    version = "619f8452-546e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://www.brekitomasson.com/fettlol/mods/1.17.1/leaf-decay-1.3.0-1.17.1.jar"
     provider = "https"
     dependend = ""
 
