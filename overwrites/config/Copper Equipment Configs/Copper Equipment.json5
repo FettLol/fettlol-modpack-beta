@@ -11,9 +11,11 @@
 	"CopperBootsProtection": 2,
 	// // //
 	"CopperSwordDamage": 6,
-	"CopperSwordAttackSpeed": -2.3,
+	"CopperSwordAttackSpeed": -2.299999952316284,
 	"CopperAxeDamage": 9,
-	"CopperAxeAttackSpeed": -3,
+	"CopperAxeAttackSpeed": -3.0,
 	// // //
-	"CopperToolsMiningLevel": 2
+	"CopperToolsMiningLevel": 2,
+	// // //
+	"EnableButtons": true
 }

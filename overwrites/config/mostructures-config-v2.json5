@@ -15,14 +15,14 @@
   "structureConfigEntries": {
     "villager_tower": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 48,
+      "seperation": 80,
+      "spacing": 240,
       "salt": 550292492
     },
     "lighthouse": {
       "activated": true,
-      "seperation": 24,
-      "spacing": 48,
+      "seperation": 120,
+      "spacing": 240,
       "salt": 29502322
     },
     "air_balloon": {
@@ -33,56 +33,56 @@
     },
     "killer_bunny_castle": {
       "activated": true,
-      "seperation": 48,
-      "spacing": 96,
+      "seperation": 240,
+      "spacing": 480,
       "salt": 48123900
     },
     "jungle_pyramid": {
       "activated": true,
-      "seperation": 32,
-      "spacing": 48,
+      "seperation": 160,
+      "spacing": 240,
       "salt": 312178642
     },
     "abandoned_church": {
       "activated": true,
-      "seperation": 32,
-      "spacing": 64,
+      "seperation": 160,
+      "spacing": 320,
       "salt": 66996840
     },
     "volcanic_vent": {
       "activated": true,
-      "seperation": 4,
-      "spacing": 8,
+      "seperation": 20,
+      "spacing": 40,
       "salt": 84981094
     },
     "barn_house": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 32,
+      "seperation": 80,
+      "spacing": 160,
       "salt": 165757306
     },
     "pirate_ship": {
       "activated": true,
-      "seperation": 24,
-      "spacing": 48,
+      "seperation": 120,
+      "spacing": 240,
       "salt": 583957395
     },
     "tavern": {
       "activated": true,
-      "seperation": 32,
-      "spacing": 48,
+      "seperation": 160,
+      "spacing": 240,
       "salt": 19296726
     },
     "village_bazaar": {
       "activated": true,
-      "seperation": 32,
-      "spacing": 64,
+      "seperation": 160,
+      "spacing": 320,
       "salt": 34842291
     },
     "moai": {
       "activated": true,
-      "seperation": 3,
-      "spacing": 9,
+      "seperation": 15,
+      "spacing": 45,
       "salt": 12994829
     },
     "the_castle_in_the_sky": {
@@ -93,26 +93,26 @@
     },
     "ice_tower": {
       "activated": true,
-      "seperation": 16,
-      "spacing": 32,
+      "seperation": 80,
+      "spacing": 160,
       "salt": 964058305
     },
     "villager_market": {
       "activated": true,
-      "seperation": 32,
-      "spacing": 64,
+      "seperation": 160,
+      "spacing": 320,
       "salt": 784939542
     },
     "big_pyramid": {
       "activated": true,
-      "seperation": 8,
-      "spacing": 32,
+      "seperation": 40,
+      "spacing": 160,
       "salt": 239284294
     },
     "pillager_factory": {
       "activated": true,
-      "seperation": 32,
-      "spacing": 64,
+      "seperation": 160,
+      "spacing": 320,
       "salt": 839204924
     }
   }
