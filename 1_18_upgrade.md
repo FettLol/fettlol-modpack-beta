@@ -2,14 +2,10 @@
 
 The following mods are in the 1.17.1 version of the modpack and a 1.18 version has not (yet) been found:
 
-- adorn
 - advancements-debug
-- alaska-nativecraft
 - amecs
-- architectury
 - axolotl-bucket-fix
 - battle-towers
-- bedspreads
 - beenfo
 - better-dropped-items
 - better-enchanted-books
@@ -24,41 +20,32 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - concrete-plus
 - copper-beacons
 - cyanide
-- dankstorage
-- dense-ores
 - discerning-furnace
 - dungeons-arise
 - dye-all-the-things
-- eldritch-mobs
 - emotecraft
-- enhanced-block-entities
 - fabric
 - flonters
 - goblin-traders
-- horseinfo
 - illuminations
 - infinitywaterbucket
 - lambda-better-grass
 - lambdynamiclights
 - leaf-decay
 - lightoverlay
-- lithium
 - midas-hunger
 - miskatonicmysteries
-- more-axolotl-variants
 - more-banner-features
 - more-berries
 - more-block-bricks
 - more-geodes
 - mostructures
 - no-null-processors
-- notenoughcrashes
 - patchouli
 - polymorph
 - presence-footsteps
 - quick-shulker
 - rightclickharvest
-- rpgstats
 - satin-api
 - scorch
 - seasons
@@ -66,11 +53,8 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - simpletransport
 - simply-improved-terrain
 - skylib
-- slimy-floor
 - spark
-- spawnermod
 - squirrels
-- starlight
 - stickyhopper
 - the-graveyard
 - tokenable-furnaces
@@ -83,15 +67,17 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - vanilla-degus
 - vistas
 - winged
-- wolveswitharmor
 - your-options-shall-be-respected
 
 The following mods have been updated to 1.18.
 
+
 - additional-additions
+- adorn
 - appleskin
 - applied-energistics
 - axesareweapons
+- bedspreads
 - blur
 - caracal-mob
 - chat-heads
@@ -99,10 +85,13 @@ The following mods have been updated to 1.18.
 - copper-equipment
 - croptopia
 - damagetilt
+- dank-storage
 - dark-loading-screen
 - deepslate-cutting
+- more-axolotl-variants
 - ducts
 - earth2java
+- eldritch-mobs
 - extra-generators
 - fabric-language-kotlin
 - fallingleaves
@@ -110,6 +99,7 @@ The following mods have been updated to 1.18.
 - geckolib
 - grizzly-bear-mob
 - guardians-galore
+- horseinfo
 - horsestatsvanilla
 - inventory-profiles
 - keepheadnames
@@ -128,13 +118,23 @@ The following mods have been updated to 1.18.
 - reroll
 - ringofattraction
 - roughlyenoughitems
+- rpgstats
+- dense-ores
 - skin-layers
+- slimy-floor
 - sodium
+- spawnermod
+- starlight
 - taxfreelevels
 - techreborn
 - villagernames
 - voicechat
 - waystones
+- wolveswitharmor
 - wthit
 - xaeros-minimap
 - xaeros-worldmap
+- architectury
+- lithium
+- notenoughcrashes
+- alaska-nativecraft
