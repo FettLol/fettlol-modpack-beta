@@ -7,3 +7,805 @@ lockfileVersion = 1
   minecraft = "1.18.1"
   fabricLoader = "0.12.12"
   mapping = "1.18.1+build.7"
+
+[dependencies]
+
+  [dependencies.additional-additions]
+    name = "additional-additions"
+    version = "61b52a23-416378"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/AdditionalAdditions-3.0.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.adorn]
+    name = "adorn"
+    version = "3.0.0-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "05ccb4dea7c8c11d77bfeb527ace424556c374de85cb8db3fad3db7094306baf"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@3.0.0-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.alaska-nativecraft]
+    name = "alaska-nativecraft"
+    version = "61d2420f-99895"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/alaskanativecraft-1.4.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.appleskin]
+    name = "appleskin"
+    version = "2.2.0-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "cad7c2c0df314e199af85b5a95e2bafd7291e1602967b1b15b7610a026b2cec8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@2.2.0-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.applied-energistics]
+    name = "applied-energistics"
+    version = "61d241e1-47b6f6"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/appliedenergistics2-10.0.0-beta.3.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.architectury]
+    name = "architectury"
+    version = "3.2.57-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "45d168bc43155cd0436618b9df4e204adff6c5f4ce8970163b19391d66488bdf"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@3.2.57-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.axesareweapons]
+    name = "axesareweapons"
+    version = "1.5.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "b6933e1a9120b77f1e02094291d384f40d69ec32e20c5f0018e722d6d15d3b91"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.5.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.bedspreads]
+    name = "bedspreads"
+    version = "61b529a9-11f33"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/bedspreads-fabric-1.5.0-1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.blur]
+    name = "blur"
+    version = "2.4.1-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "1f39d8a32b02c11e1f1d3213b5705130df79e664ac38b8d3c1ba74fc6d7ea8af"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/blur@2.4.1-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.branders-spawnermod]
+    name = "branders-spawnermod"
+    version = "61b528e0-17688"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/fabric-branders-spawnermod-1.18-1.1.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.caracal-mob]
+    name = "caracal-mob"
+    version = "1.3.3-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "9bb59672180726aaff745f255e9e9a7ead922f1a9bc1396379f943a811018398"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/caracal-mob@1.3.3-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.chat-heads]
+    name = "chat-heads"
+    version = "0.5.1-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "f49f577f179291daf4906823f9de5d0ecedfc3e826a47a5951684f2312b84d37"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/chat-heads@0.5.1-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.cloth-config]
+    name = "cloth-config"
+    version = "6.1.48-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "a5f73b43da2eca2ac305fa2945a0af356627c68b550bf868b0dc5273211a3bfe"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@6.1.48-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.coloredslime]
+    name = "coloredslime"
+    version = "1.3.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "449cd52ff9e9af4f0d3512cb5ff8ce06497bf6a315211ac269b842748eec4398"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/coloredslime@1.3.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.copper-equipment]
+    name = "copper-equipment"
+    version = "61b52838-2c285"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/CopperEquipment-Fabric1.18.1-1.8.1-ChristmasEdition.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.croptopia]
+    name = "croptopia"
+    version = "61d242c6-1fb341"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/Croptopia-1.18-FABRIC-1.8.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.damagetilt]
+    name = "damagetilt"
+    version = "0.1.2-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "02c3cadd0ae85a53ed7d304e726dc6661d5a78c6e316ee89295f8f568f487e79"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/damagetilt@0.1.2-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.dank-storage]
+    name = "dank-storage"
+    version = "61c13654-28f4b"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-3.1-1.18.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.dark-loading-screen]
+    name = "dark-loading-screen"
+    version = "1.6.5-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "00424308da15c5bf6b1f7a916a93256107b10501bf5b2b8a62c6f92989972cf4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.5-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.deepslate-cutting]
+    name = "deepslate-cutting"
+    version = "61aae036-27a04"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/deepslatecutting-1.18-1.3.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.dense-ores]
+    name = "dense-ores"
+    version = "61c1369d-2469f"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/denseores-1.2+1.18.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.ducts]
+    name = "ducts"
+    version = "61a943ba-caf7d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/ducts-1.1.5.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.dungeons-arise]
+    name = "dungeons-arise"
+    version = "61d4be88-53d32e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/DungeonsArise-1.18.1-2.1.49c-fabric-beta.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.earth2java]
+    name = "earth2java"
+    version = "1.7.4-0.mpkg.1+1.18"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "8f66ac4d6fdb5dc8446696ef2fb629bcbc52377d7ef98cca82df5646ec426d30"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/earth2java@1.7.4-0.mpkg.1+1.18/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.eating-animation]
+    name = "eating-animation"
+    version = "61d4bcd1-22b62"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/eating-animation-1.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.eldritch-mobs]
+    name = "eldritch-mobs"
+    version = "61d4bfab-100eb1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/eldritch-mobs-1.10.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.extra-generators]
+    name = "extra-generators"
+    version = "61a8d649-8037d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/extra-generators-1.1.1-BETA+1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.fabric]
+    name = "fabric"
+    version = "0.45.0-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "31268cc37058b0dcccda9138fcac60409a5ad8bfd797e64ac67c06d22b4696a7"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.45.0-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.fabric-language-kotlin]
+    name = "fabric-language-kotlin"
+    version = "61c13629-5c5923"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.fallingleaves]
+    name = "fallingleaves"
+    version = "1.8.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "456f9ab445ffb0c0d39bc4e1eadbc36a9081f9df3aa27ccd41648cf8d190b1d3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.8.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.fettlol-lib]
+    name = "fettlol-lib"
+    version = "1.1.2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "5c52448bed22b95a2f2bdd884f3a1c28958b2603b34db8c270e968e4a360dda6"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-lib@1.1.2/download"
+    provider = "minepkg"
+    dependend = "fettlol-utilmod"
+
+  [dependencies.fettlol-utilmod]
+    name = "fettlol-utilmod"
+    version = "1.3.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "1992f93092bc63df3218db432672bfb2f4b4a46db664e83d3eb24d172f241367"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.3.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.geckolib]
+    name = "geckolib"
+    version = "3.0.23-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "2aba8c78c620f5abb51424a26f887952ad3c0cfb2bb570737b3e520bba906414"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.23-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.go-fish]
+    name = "go-fish"
+    version = "1.4.1-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "db1b502c2576b4f0f4ef82eae71b9f4aae1be52184a8debb496162ae263c4db4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/go-fish@1.4.1-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.grizzlybear-mob]
+    name = "grizzlybear-mob"
+    version = "61d241bd-71136"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/grizzlybear-1.18-1.2.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.guardians-galore]
+    name = "guardians-galore"
+    version = "61ad3895-117fc0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/GuardiansGalore-1.18-3.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.horsestats-vanilla]
+    name = "horsestats-vanilla"
+    version = "61b52935-154e46"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/horse-stats-vanilla-4.1.10.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.hwyla-horseinfo]
+    name = "hwyla-horseinfo"
+    version = "61b52908-2311"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/hwyla-addon-horseinfo-0.4.0-1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.illuminations]
+    name = "illuminations"
+    version = "61d4bd18-13760c"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/illuminations-1.10.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.indium]
+    name = "indium"
+    version = "1.0.2-0.mpkg.1.alpha1+mc1.18"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "f2e477e2dc0a12078c855a1dcd9288807ac6d6d6515f482fc40e99eb07f78c5d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/indium@1.0.2-0.mpkg.1.alpha1+mc1.18/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.inventory-profiles]
+    name = "inventory-profiles"
+    version = "61d24229-1599c4"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/InventoryProfilesNext-fabric-1.18-1.2.3.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.keepheadnames]
+    name = "keepheadnames"
+    version = "1.5.1+1.18"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "af7e1d35113368792b0c9310c0134e1215aaee690398334a69418fef95d9595b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.5.1+1.18/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.krypton]
+    name = "krypton"
+    version = "0.1.6-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "01cea23c53a49389c140b355bd4a9f3c0928147f0b33e4fac4654f6ddc72bf83"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/krypton@0.1.6-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.lifts]
+    name = "lifts"
+    version = "1.4.0-1.18.mpkg.1.BETA"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "83c666bf4a911bc17a2d4ef7f80c93fb964bbbbcb66b0b0b067fb24f3f787755"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lifts@1.4.0-1.18.mpkg.1.BETA/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.lithium]
+    name = "lithium"
+    version = "0.7.7-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "9d35cebc253c69d2acb4b6ef7961087e23d3f199ff1a28b7c976d04e2320a60e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lithium@0.7.7-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.mcda]
+    name = "mcda"
+    version = "61d24204-d489d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/mcda-1.9.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.mcdw]
+    name = "mcdw"
+    version = "61d241a9-1764c3"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/mcdw-4.0.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.mcf-easyfeed]
+    name = "mcf-easyfeed"
+    version = "1.3.0-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "6c4708b147854c379678382c22df4a11d4c9079ba9df9a80dabeab48a083f66d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/mcf-easyfeed@1.3.0-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.minepkg-companion]
+    name = "minepkg-companion"
+    version = "0.5.0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "b7679213fc661c3acddd18759c1e243d8b70170c9f635d6d55c1ec6b1e23d00f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/minepkg-companion@0.5.0/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.modmenu]
+    name = "modmenu"
+    version = "3.0.0-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "a747d582c3185c3e781eaf53231c8dbcd7b76b63241e62088cddb505cecec42a"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@3.0.0-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.more-axolotl-variants]
+    name = "more-axolotl-variants"
+    version = "61d241f7-c655"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/mavm-fabric-1.18.1-1.0.7a.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.mythic-mounts]
+    name = "mythic-mounts"
+    version = "61a8d620-253f4b"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/mythic-mounts-3.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.not-enough-animations]
+    name = "not-enough-animations"
+    version = "61aae1ae-518b3"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/notenoughanimations-fabric-1.4.0-mc1.18-pre1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.notenoughcrashes]
+    name = "notenoughcrashes"
+    version = "4.1.3-1.18.mpkg.2+1.18.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "0869389eb33ac67f41dbf3ea9b83698c69b8cc483cfcc3550643dda06a6199e0"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/notenoughcrashes@4.1.3-1.18.mpkg.2+1.18.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.npc-variety]
+    name = "npc-variety"
+    version = "61ad3772-102725"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/npc-variety-1.18-2.2.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.okzoomer]
+    name = "okzoomer"
+    version = "5.0.0-0.mpkg.1.beta.3"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "15b22d694531b87b7e8ac432e2ad9d70158180b0da8087e16fe64860c9451d1b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/okzoomer@5.0.0-0.mpkg.1.beta.3/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.ottercraft]
+    name = "ottercraft"
+    version = "61d286bd-188c0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/Ottercraft-fabric-1.18-1.1.4.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.perfectaccuracy]
+    name = "perfectaccuracy"
+    version = "1.2.0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "53b0a0d09aadc2edf5e065626f321e8a61f1fd4a86a63dfa3912a417fcc31d7f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.2.0/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.repurposed-structures]
+    name = "repurposed-structures"
+    version = "3.1.12-0.mpkg.1+1.18.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "564265e33d2c6b0a15e3e825c3ea396e997657d08c3449870f8039f7a88e36f9"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@3.1.12-0.mpkg.1+1.18.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.reroll]
+    name = "reroll"
+    version = "1.3.0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "5ebfea5e8198e997f683c5959e0b078e80ec65804df79907b6bd8c184dcb802d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/reroll@1.3.0/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.ring-of-attraction]
+    name = "ring-of-attraction"
+    version = "61d4bab9-3c63"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/RingOfAttraction-Fabric-1.18.1-1.2.19.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.roughlyenoughitems]
+    name = "roughlyenoughitems"
+    version = "7.0.343-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "be907104c628ba73395d3dbeee795ada3b9fecae893b26169de08b1073570756"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@7.0.343-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.simple-voice-chat]
+    name = "simple-voice-chat"
+    version = "61c136b9-4d947b"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/voicechat-fabric-1.18.1-2.1.28.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.skin-layers]
+    name = "skin-layers"
+    version = "61aae1f1-66366"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/3dSkinLayers-Fabric-1.3.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.slimy-floor]
+    name = "slimy-floor"
+    version = "61b52a43-20097"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/slimyfloor-1.18-1.2.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.sodium]
+    name = "sodium"
+    version = "0.4.0-0.mpkg.1.alpha5+build.9"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "e68dc52ac91436597d474d548412790ff742819919008a799fa6bad1bdc3f807"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.4.0-0.mpkg.1.alpha5+build.9/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.sodium-extra]
+    name = "sodium-extra"
+    version = "61ae0e0c-1609e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/sodium-extra-mc1.18-0.3.7.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.spark]
+    name = "spark"
+    version = "61d2417f-2ea619"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/spark-fabric.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.starlight]
+    name = "starlight"
+    version = "1.0.0-1.18.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "8e4a90912207d3ce8f854595519c4d230f1cda4cf776280db4d2c383fb22fdea"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/starlight@1.0.0-1.18.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.taxfreelevels]
+    name = "taxfreelevels"
+    version = "1.3.0"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "88ef7e2b1d12c25757d6a4bf756f790c3e13e8c7b897808cca350d86df8be7c8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.3.0/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.techreborn]
+    name = "techreborn"
+    version = "5.1.0-0.mpkg.1.beta.3"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "89c8ed9ba3adf6b5d030600ab0fb8d66be8acd05b0601af252681d76b9c77bdf"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@5.1.0-0.mpkg.1.beta.3/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.the-graveyard]
+    name = "the-graveyard"
+    version = "61d4bdeb-126ea2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/The_Graveyard_1.1_(FABRIC)_for_1.18.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.totw-additions]
+    name = "totw-additions"
+    version = "61d4be3e-60189"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/totw_additions-1.1.0-1.18.1-fabric.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.totw-reworked]
+    name = "totw-reworked"
+    version = "61d4be5b-15cc37"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/towers_of_the_wild_reworked-2.1.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.villager-names]
+    name = "villager-names"
+    version = "61ad37b8-14c545"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18-2.0.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.waystones]
+    name = "waystones"
+    version = "2.4.0-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "0f6707617a0f7fe2a7c91c9cdb2038bd04c8627e4873c1d2ac2b6864ec0180c7"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.4.0-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.wolves-with-armor]
+    name = "wolves-with-armor"
+    version = "61b52971-2710d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/wolves-with-armor-1.7.0-1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.wthit]
+    name = "wthit"
+    version = "4.3.1-0.mpkg.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "cc5ad68293889b9716e887be313960a45a64eb9a7862cd9a34f2ebaa85588ee8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@4.3.1-0.mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.xaeros-minimap]
+    name = "xaeros-minimap"
+    version = "61d4bec0-11ca3e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/Xaeros_Minimap_21.23.0_Fabric_1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.xaeros-worldmap]
+    name = "xaeros-worldmap"
+    version = "61d4beb2-8d533"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/XaerosWorldMap_1.19.0_Fabric_1.18.jar"
+    provider = "https"
+    dependend = ""

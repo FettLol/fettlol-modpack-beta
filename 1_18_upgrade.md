@@ -21,13 +21,11 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - copper-beacons
 - cyanide
 - discerning-furnace
-- dungeons-arise
 - dye-all-the-things
 - emotecraft
 - fabric
 - flonters
 - goblin-traders
-- illuminations
 - infinitywaterbucket
 - lambda-better-grass
 - lambdynamiclights
@@ -56,7 +54,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - spark
 - squirrels
 - stickyhopper
-- the-graveyard
 - tokenable-furnaces
 - transliterationlib
 - traverse
@@ -71,11 +68,12 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 
 The following mods have been updated to 1.18.
 
-
 - additional-additions
 - adorn
+- alaska-nativecraft
 - appleskin
 - applied-energistics
+- architectury
 - axesareweapons
 - bedspreads
 - blur
@@ -88,7 +86,7 @@ The following mods have been updated to 1.18.
 - dank-storage
 - dark-loading-screen
 - deepslate-cutting
-- more-axolotl-variants
+- dense-ores
 - ducts
 - earth2java
 - eldritch-mobs
@@ -101,16 +99,22 @@ The following mods have been updated to 1.18.
 - guardians-galore
 - horseinfo
 - horsestatsvanilla
+- illuminations
 - inventory-profiles
+- iris
 - keepheadnames
 - krypton
 - lifts
+- lithium
 - mcdunegeonsweapons
 - mcdungeonsarmors
 - mcf-easyfeed
 - modmenu
+- more-axolotl-variants
 - mythic-mounts
 - not-enough-animations
+- dungeons-arise
+- notenoughcrashes
 - npcvariety
 - okzoomer
 - perfectaccuracy
@@ -119,8 +123,8 @@ The following mods have been updated to 1.18.
 - ringofattraction
 - roughlyenoughitems
 - rpgstats
-- dense-ores
 - skin-layers
+- the-graveyard
 - slimy-floor
 - sodium
 - spawnermod
@@ -134,7 +138,3 @@ The following mods have been updated to 1.18.
 - wthit
 - xaeros-minimap
 - xaeros-worldmap
-- architectury
-- lithium
-- notenoughcrashes
-- alaska-nativecraft
