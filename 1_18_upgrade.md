@@ -11,19 +11,15 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - better-enchanted-books
 - better-ping-display
 - blame
-- blast
 - candlestick
 - capes
 - charm
 - clear-skies
 - colorful-azaleas
-- concrete-plus
 - copper-beacons
 - cyanide
 - discerning-furnace
 - dye-all-the-things
-- emotecraft
-- fabric
 - flonters
 - goblin-traders
 - infinitywaterbucket
@@ -31,7 +27,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - lambdynamiclights
 - leaf-decay
 - lightoverlay
-- midas-hunger
 - miskatonicmysteries
 - more-banner-features
 - more-berries
@@ -44,6 +39,7 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - presence-footsteps
 - quick-shulker
 - rightclickharvest
+- rpgstats
 - satin-api
 - scorch
 - seasons
@@ -51,7 +47,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - simpletransport
 - simply-improved-terrain
 - skylib
-- spark
 - squirrels
 - stickyhopper
 - tokenable-furnaces
@@ -69,13 +64,16 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 The following mods have been updated to 1.18.
 
 - additional-additions
+- spark
 - adorn
 - alaska-nativecraft
 - appleskin
+- concrete-plus
 - applied-energistics
 - architectury
 - axesareweapons
 - bedspreads
+- blast
 - blur
 - caracal-mob
 - chat-heads
@@ -85,11 +83,14 @@ The following mods have been updated to 1.18.
 - damagetilt
 - dank-storage
 - dark-loading-screen
+- midas-hunger
 - deepslate-cutting
 - dense-ores
 - ducts
+- dungeons-arise
 - earth2java
 - eldritch-mobs
+- emotecraft
 - extra-generators
 - fabric-language-kotlin
 - fallingleaves
@@ -113,7 +114,6 @@ The following mods have been updated to 1.18.
 - more-axolotl-variants
 - mythic-mounts
 - not-enough-animations
-- dungeons-arise
 - notenoughcrashes
 - npcvariety
 - okzoomer
@@ -124,13 +124,13 @@ The following mods have been updated to 1.18.
 - roughlyenoughitems
 - rpgstats
 - skin-layers
-- the-graveyard
 - slimy-floor
 - sodium
 - spawnermod
 - starlight
 - taxfreelevels
 - techreborn
+- the-graveyard
 - villagernames
 - voicechat
 - waystones
