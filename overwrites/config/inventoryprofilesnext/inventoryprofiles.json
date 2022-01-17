@@ -1,34 +1,17 @@
 {
-  "ModSettings": {
-    "sort_order": "ITEM_NAME",
-    "enable_lock_slots": false,
-    "refill_armor": false,
-    "refill_before_tool_break": false,
-    "restock_hotbar": true
-  },
-  "GuiSettings": {
-    "show_continuous_crafting_checkbox": false,
-    "continuous_crafting_checkbox_value": "UNCHECKED",
-    "continuous_crafting_saved_value": false,
-    "show_sort_in_columns_button": false,
-    "show_sort_in_rows_button": false,
-    "show_button_tooltips": false,
-    "use_old_insert_method": true
-  },
-  "Hotkeys": {
-    "open_config_menu": {
-      "main": {
-        "keys": ""
-      }
+    "GuiSettings": {
+        "show_continuous_crafting_checkbox": false,
+        "continuous_crafting_checkbox_value": "UNCHECKED",
+        "continuous_crafting_saved_value": false,
+        "show_sort_in_columns_button": false,
+        "show_sort_in_rows_button": false,
+        "show_button_tooltips": false
     },
-    "sort_inventory": {
-      "main": {
-        "keys": ""
-      }
+    "AutoRefillSettings": {
+        "refill_armor": false,
+        "refill_before_tool_break": false
+    },
+    "Tweaks": {
+        "swipe_move_crafting_result_slot": true
     }
-  },
-  "Tweaks": {
-    "prevent_close_gui_drop_item": true,
-    "swipe_move_crafting_result_slot": true
-  }
 }

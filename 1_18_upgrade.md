@@ -18,14 +18,9 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - colorful-azaleas
 - copper-beacons
 - cyanide
-- discerning-furnace
-- dye-all-the-things
 - flonters
 - goblin-traders
 - infinitywaterbucket
-- lambda-better-grass
-- lambdynamiclights
-- leaf-decay
 - lightoverlay
 - miskatonicmysteries
 - more-banner-features
@@ -39,7 +34,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - presence-footsteps
 - quick-shulker
 - rightclickharvest
-- rpgstats
 - satin-api
 - scorch
 - seasons
@@ -53,7 +47,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - transliterationlib
 - traverse
 - trinkets
-- truedarkness
 - trumpet-skeleton
 - untitledduckmod
 - vanilla-degus
@@ -64,11 +57,9 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 The following mods have been updated to 1.18.
 
 - additional-additions
-- spark
 - adorn
 - alaska-nativecraft
 - appleskin
-- concrete-plus
 - applied-energistics
 - architectury
 - axesareweapons
@@ -76,18 +67,23 @@ The following mods have been updated to 1.18.
 - blast
 - blur
 - caracal-mob
+- lambdynamiclights
+- lambda-better-grass
 - chat-heads
 - coloredslime
+- discerning-furnace
+- concrete-plus
+- truedarkness
 - copper-equipment
 - croptopia
 - damagetilt
 - dank-storage
 - dark-loading-screen
-- midas-hunger
 - deepslate-cutting
 - dense-ores
 - ducts
 - dungeons-arise
+- dye-all-the-things
 - earth2java
 - eldritch-mobs
 - emotecraft
@@ -110,6 +106,7 @@ The following mods have been updated to 1.18.
 - mcdunegeonsweapons
 - mcdungeonsarmors
 - mcf-easyfeed
+- midas-hunger
 - modmenu
 - more-axolotl-variants
 - mythic-mounts
@@ -123,9 +120,11 @@ The following mods have been updated to 1.18.
 - ringofattraction
 - roughlyenoughitems
 - rpgstats
+- rpgstats
 - skin-layers
 - slimy-floor
 - sodium
+- spark
 - spawnermod
 - starlight
 - taxfreelevels
@@ -138,3 +137,18 @@ The following mods have been updated to 1.18.
 - wthit
 - xaeros-minimap
 - xaeros-worldmap
+
+The following mods are upgraded but do not currently work:
+
+	buggy, waiting for release:
+  biome-makeover = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.1-ALPHA5.jar"
+
+  	requires fabric version greater than minepkg offers:
+  leaves-us-in-peace = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.1+MC1.18-1.18.1/leaves-us-in-peace-1.0.1+MC1.18-1.18.1.jar"
+
+
+
+  	temporarily disabled:
+  terralith = "https://brekitomasson.com/fettlol/mods/1.18/Terralith_v2.0.12_Fabric+Forge.jar"
+  totw-additions = "https://brekitomasson.com/fettlol/mods/1.18/totw_additions-1.1.0-1.18.1-fabric.jar"
+  totw-reworked = "https://brekitomasson.com/fettlol/mods/1.18/towers_of_the_wild_reworked-2.1.0.jar"
