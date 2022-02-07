@@ -11,7 +11,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - better-enchanted-books
 - better-ping-display
 - blame
-- candlestick
 - capes
 - charm
 - clear-skies
@@ -66,14 +65,11 @@ The following mods have been updated to 1.18.
 - bedspreads
 - blast
 - blur
+- candlestick
 - caracal-mob
-- lambdynamiclights
-- lambda-better-grass
 - chat-heads
 - coloredslime
-- discerning-furnace
 - concrete-plus
-- truedarkness
 - copper-equipment
 - croptopia
 - damagetilt
@@ -81,6 +77,7 @@ The following mods have been updated to 1.18.
 - dark-loading-screen
 - deepslate-cutting
 - dense-ores
+- discerning-furnace
 - ducts
 - dungeons-arise
 - dye-all-the-things
@@ -101,6 +98,8 @@ The following mods have been updated to 1.18.
 - iris
 - keepheadnames
 - krypton
+- lambda-better-grass
+- lambdynamiclights
 - lifts
 - lithium
 - mcdunegeonsweapons
@@ -130,6 +129,7 @@ The following mods have been updated to 1.18.
 - taxfreelevels
 - techreborn
 - the-graveyard
+- truedarkness
 - villagernames
 - voicechat
 - waystones
@@ -141,14 +141,8 @@ The following mods have been updated to 1.18.
 The following mods are upgraded but do not currently work:
 
 	buggy, waiting for release:
-  biome-makeover = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.1-ALPHA5.jar"
+  
 
   	requires fabric version greater than minepkg offers:
-  leaves-us-in-peace = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.1+MC1.18-1.18.1/leaves-us-in-peace-1.0.1+MC1.18-1.18.1.jar"
 
-
-
-  	temporarily disabled:
-  terralith = "https://brekitomasson.com/fettlol/mods/1.18/Terralith_v2.0.12_Fabric+Forge.jar"
-  totw-additions = "https://brekitomasson.com/fettlol/mods/1.18/totw_additions-1.1.0-1.18.1-fabric.jar"
-  totw-reworked = "https://brekitomasson.com/fettlol/mods/1.18/towers_of_the_wild_reworked-2.1.0.jar"
+  leaves-us-in-peace = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.2+MC1.18-1.18.1/leaves-us-in-peace-1.0.2+MC1.18-1.18.1.jar"

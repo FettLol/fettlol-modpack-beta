@@ -22,12 +22,12 @@ lockfileVersion = 1
 
   [dependencies.adorn]
     name = "adorn"
-    version = "3.0.0-0.mpkg.1"
+    version = "d234413da2adde9ac7aeb98e56a9c604"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "05ccb4dea7c8c11d77bfeb527ace424556c374de85cb8db3fad3db7094306baf"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/adorn@3.0.0-0.mpkg.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.3.1-fabric/Adorn-3.3.1%2B1.18.1-fabric.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.alaska-nativecraft]
@@ -42,31 +42,31 @@ lockfileVersion = 1
 
   [dependencies.appleskin]
     name = "appleskin"
-    version = "2.2.0-1.18.mpkg.1"
+    version = "2.2.0+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "cad7c2c0df314e199af85b5a95e2bafd7291e1602967b1b15b7610a026b2cec8"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@2.2.0-1.18.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/appleskin@2.2.0+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "5f437b5c6d6505b395f0ac408ce203ca"
+    version = "b81f41be74b634734e153d9483ffd202"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.0.0/appliedenergistics2-10.0.0.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.1.0-beta.1/appliedenergistics2-10.1.0-beta.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.architectury]
     name = "architectury"
-    version = "3.2.57-0.mpkg.1"
+    version = "3.4.9+mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "45d168bc43155cd0436618b9df4e204adff6c5f4ce8970163b19391d66488bdf"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@3.2.57-0.mpkg.1/download"
+    Sha256 = "c0e0644dac46edf95f5595e49dffc987bc8032b26e0472655bf3a5c954feb7c7"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@3.4.9+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -90,6 +90,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.biome-makeover]
+    name = "biome-makeover"
+    version = "61e60966-5f9fa4"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.1-1.4.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.blast]
     name = "blast"
     version = "61d5317e-27eda"
@@ -102,11 +112,11 @@ lockfileVersion = 1
 
   [dependencies.blur]
     name = "blur"
-    version = "2.4.1-0.mpkg.1"
+    version = "2.4.1+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "1f39d8a32b02c11e1f1d3213b5705130df79e664ac38b8d3c1ba74fc6d7ea8af"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/blur@2.4.1-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/blur@2.4.1+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -120,33 +130,43 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.candlestick]
+    name = "candlestick"
+    version = "61f53dcc-7caac"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/Candlestick-1.1.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.caracal-mob]
     name = "caracal-mob"
-    version = "1.3.3-1.18.mpkg.1"
+    version = "1.3.3+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "9bb59672180726aaff745f255e9e9a7ead922f1a9bc1396379f943a811018398"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/caracal-mob@1.3.3-1.18.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/caracal-mob@1.3.3+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.chat-heads]
     name = "chat-heads"
-    version = "0.5.1-0.mpkg.1"
+    version = "0.5.1+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "f49f577f179291daf4906823f9de5d0ecedfc3e826a47a5951684f2312b84d37"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/chat-heads@0.5.1-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/chat-heads@0.5.1+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.cloth-config]
     name = "cloth-config"
-    version = "6.1.48-0.mpkg.1"
+    version = "6.1.48+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "a5f73b43da2eca2ac305fa2945a0af356627c68b550bf868b0dc5273211a3bfe"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@6.1.48-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@6.1.48+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -202,31 +222,31 @@ lockfileVersion = 1
 
   [dependencies.damagetilt]
     name = "damagetilt"
-    version = "0.1.2-1.18.mpkg.1"
+    version = "0.1.2+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "02c3cadd0ae85a53ed7d304e726dc6661d5a78c6e316ee89295f8f568f487e79"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/damagetilt@0.1.2-1.18.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/damagetilt@0.1.2+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.dank-storage]
     name = "dank-storage"
-    version = "61d5a869-2dbf3"
+    version = "61f53d59-2dd0d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.1-3.4.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.1-3.5.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.dark-loading-screen]
     name = "dark-loading-screen"
-    version = "1.6.5-0.mpkg.1"
+    version = "1.6.5+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "00424308da15c5bf6b1f7a916a93256107b10501bf5b2b8a62c6f92989972cf4"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.5-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dark-loading-screen@1.6.5+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -302,11 +322,11 @@ lockfileVersion = 1
 
   [dependencies.earth2java]
     name = "earth2java"
-    version = "1.7.4-0.mpkg.1+1.18"
+    version = "1.7.4+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "8f66ac4d6fdb5dc8446696ef2fb629bcbc52377d7ef98cca82df5646ec426d30"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/earth2java@1.7.4-0.mpkg.1+1.18/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/earth2java@1.7.4+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -332,11 +352,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "8c51e1b9df8fb48cd1873d899131de66"
+    version = "0c3e5ed970155561376642a251a2a814"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.10-forge/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.10-forge.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-SNAPSHOT-build.10-fabric/emotecraft-for-MC1.18.1-2.1-SNAPSHOT-build.10-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -352,11 +372,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.46.1-1.18.mpkg.1"
+    version = "0.46.4+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "6dd208e5fdb197e7effd68f8338e4092dc079a38ac945fd3bae9408ad4f11de6"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.46.1-1.18.mpkg.1/download"
+    ipfsHash = "QmdNJbF27Rj35hXtVGKkgYPbDa4HdBT8VRLibKAnU1DscL"
+    Sha256 = "a6c2e02193e4a35718d30826b1eaf9b150461abb934f28930a7ad6576e95e38e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.46.4+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -388,6 +408,16 @@ lockfileVersion = 1
     Sha256 = "b80038fe84af50e21c9ef89277f5a0fe8bb29de8b913499fe61975359cb25f55"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fallingleaves@1.9.0/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.feature_nbt_deadlock_be_gone]
+    name = "feature_nbt_deadlock_be_gone"
+    version = "0ba9b3e84615d381db09f31a2b54b041"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/HMNV4z01/versions/1.0.1+1.18.1_fabric/feature_nbt_deadlock_be_gone_fabric-1.0.1+1.18.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.fettlol-lib]
@@ -422,21 +452,21 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.23-1.18.mpkg.1"
+    version = "3.0.23+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "2aba8c78c620f5abb51424a26f887952ad3c0cfb2bb570737b3e520bba906414"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.23-1.18.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.23+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.go-fish]
     name = "go-fish"
-    version = "1.4.1-0.mpkg.1"
+    version = "1.4.1+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "db1b502c2576b4f0f4ef82eae71b9f4aae1be52184a8debb496162ae263c4db4"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/go-fish@1.4.1-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/go-fish@1.4.1+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -500,13 +530,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.inventory-profiles]
-    name = "inventory-profiles"
-    version = "61d24229-1599c4"
+  [dependencies.infinity-water-bucket]
+    name = "infinity-water-bucket"
+    version = "4d91226131e65cfd91c2e08eeef1b608"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/InventoryProfilesNext-fabric-1.18-1.2.3.jar"
+    url = "https://cdn.modrinth.com/data/nNMXZUPi/versions/1.18.1-2.0.0/Infinity-Water-Bucket-Fabric-1.18.1-2.0.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.inventory-profiles]
+    name = "inventory-profiles"
+    version = "3e0d15e41edd2be726fcb75f448a8654"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.1-1.3.1/InventoryProfilesNext-fabric-1.18-1.3.1.jar"
     provider = "https"
     dependend = ""
 
@@ -522,11 +562,11 @@ lockfileVersion = 1
 
   [dependencies.krypton]
     name = "krypton"
-    version = "0.1.6-0.mpkg.1"
+    version = "0.1.6+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "01cea23c53a49389c140b355bd4a9f3c0928147f0b33e4fac4654f6ddc72bf83"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/krypton@0.1.6-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/krypton@0.1.6+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -552,31 +592,31 @@ lockfileVersion = 1
 
   [dependencies.leaves-us-in-peace]
     name = "leaves-us-in-peace"
-    version = "463783ef0b923f14e946d2e2d013ffcc"
+    version = "04b97f60d94c09b6079026c64ad48667"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.1+MC1.18-1.18.1/leaves-us-in-peace-1.0.1+MC1.18-1.18.1.jar"
+    url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.3+MC1.18-1.18.1/leaves-us-in-peace-1.0.3%2BMC1.18-1.18.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.lifts]
     name = "lifts"
-    version = "1.4.0-1.18.mpkg.1.BETA"
+    version = "1.4.0-BETA+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "83c666bf4a911bc17a2d4ef7f80c93fb964bbbbcb66b0b0b067fb24f3f787755"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/lifts@1.4.0-1.18.mpkg.1.BETA/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lifts@1.4.0-BETA+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.lithium]
     name = "lithium"
-    version = "0.7.7-0.mpkg.1"
+    version = "0.7.7+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "9d35cebc253c69d2acb4b6ef7961087e23d3f199ff1a28b7c976d04e2320a60e"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/lithium@0.7.7-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lithium@0.7.7+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -602,11 +642,11 @@ lockfileVersion = 1
 
   [dependencies.mcf-easyfeed]
     name = "mcf-easyfeed"
-    version = "1.3.0-1.18.mpkg.1"
+    version = "1.3.0+1.18.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "6c4708b147854c379678382c22df4a11d4c9079ba9df9a80dabeab48a083f66d"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/mcf-easyfeed@1.3.0-1.18.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/mcf-easyfeed@1.3.0+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -632,11 +672,11 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "3.0.0-0.mpkg.1"
+    version = "3.0.0+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "a747d582c3185c3e781eaf53231c8dbcd7b76b63241e62088cddb505cecec42a"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@3.0.0-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/modmenu@3.0.0+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -660,6 +700,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.no_null_processors]
+    name = "no_null_processors"
+    version = "61f53da9-3311"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/no_null_processors_fabric-2.0.1+1.18.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
     version = "61aae1ae-518b3"
@@ -672,11 +722,11 @@ lockfileVersion = 1
 
   [dependencies.notenoughcrashes]
     name = "notenoughcrashes"
-    version = "4.1.3-1.18.mpkg.2+1.18.1"
+    version = "4.1.3+1.18.mpkg.2"
     type = "mod"
     ipfsHash = ""
     Sha256 = "0869389eb33ac67f41dbf3ea9b83698c69b8cc483cfcc3550643dda06a6199e0"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/notenoughcrashes@4.1.3-1.18.mpkg.2+1.18.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/notenoughcrashes@4.1.3+1.18.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
 
@@ -692,21 +742,21 @@ lockfileVersion = 1
 
   [dependencies.numismatic-overhaul]
     name = "numismatic-overhaul"
-    version = "0725d3ab7f2bae2f76d9c63ee00f542b"
+    version = "c27fc782e8cd8a6cac8e6fe30bf0586a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/ZXm8hVxN/versions/0.1.4+1.18/numismatic-overhaul-0.1.4+1.18.jar"
+    url = "https://cdn.modrinth.com/data/ZXm8hVxN/versions/0.1.8+1.18/numismatic-overhaul-0.1.8%2B1.18.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.okzoomer]
     name = "okzoomer"
-    version = "5.0.0-0.mpkg.1.beta.3"
+    version = "5.0.0-beta.3+1.17.1.mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "15b22d694531b87b7e8ac432e2ad9d70158180b0da8087e16fe64860c9451d1b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/okzoomer@5.0.0-0.mpkg.1.beta.3/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/okzoomer@5.0.0-beta.3+1.17.1.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -722,11 +772,11 @@ lockfileVersion = 1
 
   [dependencies.owo]
     name = "owo"
-    version = "7bc997b0165473942eced8e20ad7017d"
+    version = "430d89f286c860a6fee124b6b52c2cd0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.3.14+1.18/owo-lib-0.3.14+1.18.jar"
+    url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.5.1+1.18/owo-lib-0.5.1+1.18.jar"
     provider = "https"
     dependend = ""
 
@@ -742,22 +792,22 @@ lockfileVersion = 1
 
   [dependencies.promenade]
     name = "promenade"
-    version = "ef324530de6e1baf8ad135eafed8f955"
+    version = "bac1877ffa6ce018cf0f2cb8bc3d799a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.4.0/promenade-2.4.0.jar"
+    url = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.5.0/promenade-2.5.0.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "3.1.12-0.mpkg.1+1.18.1"
+    version = "61129a703d54c7a81cafe0039d786340"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "564265e33d2c6b0a15e3e825c3ea396e997657d08c3449870f8039f7a88e36f9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/repurposed-structures@3.1.12-0.mpkg.1+1.18.1/download"
-    provider = "minepkg"
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.9+1.18.1/repurposed_structures_fabric-3.3.9%2B1.18.1.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.reroll]
@@ -772,41 +822,41 @@ lockfileVersion = 1
 
   [dependencies.ring-of-attraction]
     name = "ring-of-attraction"
-    version = "61d4bab9-3c63"
+    version = "61e6094c-3c61"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/RingOfAttraction-Fabric-1.18.1-1.2.19.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/RingOfAttraction-Fabric-1.18.1-1.2.20.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "7.0.343-0.mpkg.1"
+    version = "7.0.343+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "be907104c628ba73395d3dbeee795ada3b9fecae893b26169de08b1073570756"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@7.0.343-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@7.0.343+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.rpg-stats]
     name = "rpg-stats"
-    version = "61de1be8-1649ba"
+    version = "867c151dafb4e68c31ed275c1a8a7cc5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/rpgstats-4.3.4+1.18.1.jar"
+    url = "https://cdn.modrinth.com/data/8RtckdKf/versions/4.3.4+1.18.1/rpgstats-4.3.4+1.18.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "61de1c0a-4dbfe9"
+    version = "e85306a7e56b6082af8add8fd14a58a0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/voicechat-fabric-1.18.1-2.2.6.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.1-2.2.21/voicechat-fabric-1.18.1-2.2.21.jar"
     provider = "https"
     dependend = ""
 
@@ -842,11 +892,11 @@ lockfileVersion = 1
 
   [dependencies.sodium-extra]
     name = "sodium-extra"
-    version = "94753820e6a874e48ea09e6a7d542c1f"
+    version = "b4399794d5678e3d595ad716fa1597d5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.3.8/sodium-extra-mc1.18.1-0.3.8.jar"
+    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.3.9/sodium-extra-mc1.18.1-0.3.9.jar"
     provider = "https"
     dependend = ""
 
@@ -862,11 +912,11 @@ lockfileVersion = 1
 
   [dependencies.starlight]
     name = "starlight"
-    version = "1.0.0-1.18.mpkg.1"
+    version = "1.0.1+mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "8e4a90912207d3ce8f854595519c4d230f1cda4cf776280db4d2c383fb22fdea"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/starlight@1.0.0-1.18.mpkg.1/download"
+    ipfsHash = "QmQ96RJToKxX4yHnt83J3ro2oFu5hqzwSe85yd7m3nfDck"
+    Sha256 = "b4034942a1e7d8dabdb03b98a9ac04d3cb2169baced0167a5b444b773a772668"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/starlight@1.0.1+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -882,11 +932,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "61dc407e-43ae4f"
+    version = "61f53d84-492ab8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/TechReborn-5.1.0-beta.5.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/TechReborn-5.1.0-beta.7.jar"
     provider = "https"
     dependend = ""
 
@@ -922,11 +972,11 @@ lockfileVersion = 1
 
   [dependencies.waystones]
     name = "waystones"
-    version = "2.4.0-0.mpkg.1"
+    version = "2.4.0+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "0f6707617a0f7fe2a7c91c9cdb2038bd04c8627e4873c1d2ac2b6864ec0180c7"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.4.0-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/waystones@2.4.0+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -942,11 +992,11 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "4.3.1-0.mpkg.1"
+    version = "4.3.1+mpkg.1"
     type = "mod"
     ipfsHash = ""
     Sha256 = "cc5ad68293889b9716e887be313960a45a64eb9a7862cd9a34f2ebaa85588ee8"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@4.3.1-0.mpkg.1/download"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@4.3.1+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
