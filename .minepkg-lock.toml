@@ -52,21 +52,21 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "b81f41be74b634734e153d9483ffd202"
+    version = "9dee08ed72fce382fe77fe0853d17ef9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.1.0-beta.1/appliedenergistics2-10.1.0-beta.1.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.1.0-beta.2/appliedenergistics2-10.1.0-beta.2.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.architectury]
     name = "architectury"
-    version = "3.4.9+mpkg.1"
+    version = "3.6.17+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "c0e0644dac46edf95f5595e49dffc987bc8032b26e0472655bf3a5c954feb7c7"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@3.4.9+mpkg.1/download"
+    ipfsHash = "QmfPTXQRhWoKzBYmuBsAoFAkbZtLTKcrNoDNci15GjKwfS"
+    Sha256 = "fb4a2dea5b1deb9276cc139294154a5d9e4899dc2a5b74f2d875e182c8b20580"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/architectury@3.6.17+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -92,11 +92,11 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "61e60966-5f9fa4"
+    version = "620aff2b-6000e0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.1-1.4.1.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.1-1.4.6.jar"
     provider = "https"
     dependend = ""
 
@@ -162,11 +162,11 @@ lockfileVersion = 1
 
   [dependencies.cloth-config]
     name = "cloth-config"
-    version = "6.1.48+mpkg.1"
+    version = "6.2.57+mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "a5f73b43da2eca2ac305fa2945a0af356627c68b550bf868b0dc5273211a3bfe"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@6.1.48+mpkg.1/download"
+    ipfsHash = "QmUEu97rrpEXfxTGWw8eFjiPqZm2jaukGmc88tJwvUAFVr"
+    Sha256 = "1aae06e891341b52575df9de43dd13e64f0213b304c9809296c99e57b31959e6"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/cloth-config@6.2.57+mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -262,11 +262,11 @@ lockfileVersion = 1
 
   [dependencies.deepslate-cutting]
     name = "deepslate-cutting"
-    version = "946275207e521d22787d7f12e7cd8142"
+    version = "5149fe62892671dbd3aaccd31ce864e2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/IiuFShHs/versions/DeepslateCutting%201.3.0/deepslatecutting-1.18-1.3.0.jar"
+    url = "https://cdn.modrinth.com/data/IiuFShHs/versions/1.3.1/deepslatecutting-1.18.1-1.3.1.jar"
     provider = "https"
     dependend = ""
 
@@ -410,8 +410,8 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.feature_nbt_deadlock_be_gone]
-    name = "feature_nbt_deadlock_be_gone"
+  [dependencies.feature-nbt-deadlock-be-gone]
+    name = "feature-nbt-deadlock-be-gone"
     version = "0ba9b3e84615d381db09f31a2b54b041"
     type = "mod"
     ipfsHash = ""
@@ -542,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "3e0d15e41edd2be726fcb75f448a8654"
+    version = "36b27cd82b69bb262c72b93e627f6df5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.1-1.3.1/InventoryProfilesNext-fabric-1.18-1.3.1.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.1-1.3.2/InventoryProfilesNext-fabric-1.18-1.3.2.jar"
     provider = "https"
     dependend = ""
 
@@ -690,6 +690,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.more-berries]
+    name = "more-berries"
+    version = "620aff44-4ef1e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/moreberries-1.4.5.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.mythic-mounts]
     name = "mythic-mounts"
     version = "61a8d620-253f4b"
@@ -700,8 +710,8 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.no_null_processors]
-    name = "no_null_processors"
+  [dependencies.no-null-processors]
+    name = "no-null-processors"
     version = "61f53da9-3311"
     type = "mod"
     ipfsHash = ""
@@ -772,11 +782,11 @@ lockfileVersion = 1
 
   [dependencies.owo]
     name = "owo"
-    version = "430d89f286c860a6fee124b6b52c2cd0"
+    version = "1a0f6ed69578944ea203548e4755158c"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.5.1+1.18/owo-lib-0.5.1+1.18.jar"
+    url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.5.2+1.18/owo-lib-0.5.2%2B1.18.jar"
     provider = "https"
     dependend = ""
 
@@ -802,11 +812,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "61129a703d54c7a81cafe0039d786340"
+    version = "996270d6eb8668ed9f9fc23280340952"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.9+1.18.1/repurposed_structures_fabric-3.3.9%2B1.18.1.jar"
+    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/3.3.10+1.18.1/repurposed_structures_fabric-3.3.10%2B1.18.1.jar"
     provider = "https"
     dependend = ""
 
@@ -902,11 +912,11 @@ lockfileVersion = 1
 
   [dependencies.spark]
     name = "spark"
-    version = "7d3781b18e763dd4ad28556f384b7b0c"
+    version = "cc5617338dee3b9f02cf8838a2dba2cd"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/l6YH9Als/versions/1.7.2-fabric/spark-fabric.jar"
+    url = "https://cdn.modrinth.com/data/l6YH9Als/versions/1.8.6-fabric/spark-1.8.6-fabric.jar"
     provider = "https"
     dependend = ""
 
