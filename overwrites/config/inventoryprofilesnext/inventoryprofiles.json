@@ -1,17 +1,12 @@
 {
     "GuiSettings": {
-        "show_continuous_crafting_checkbox": false,
-        "continuous_crafting_checkbox_value": "UNCHECKED",
-        "continuous_crafting_saved_value": false,
         "show_sort_in_columns_button": false,
         "show_sort_in_rows_button": false,
-        "show_button_tooltips": false
+        "show_continuous_crafting_checkbox": false,
+        "continuous_crafting_saved_value": false
     },
     "AutoRefillSettings": {
         "refill_armor": false,
         "refill_before_tool_break": false
-    },
-    "Tweaks": {
-        "swipe_move_crafting_result_slot": true
     }
 }

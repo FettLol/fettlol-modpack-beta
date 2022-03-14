@@ -5,8 +5,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - advancements-debug
 - amecs
 - axolotl-bucket-fix
-- battle-towers
-- beenfo
 - better-dropped-items
 - better-enchanted-books
 - better-ping-display
@@ -17,9 +15,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - colorful-azaleas
 - copper-beacons
 - cyanide
-- flonters
-- goblin-traders
-- infinitywaterbucket
 - lightoverlay
 - miskatonicmysteries
 - more-banner-features
@@ -27,7 +22,6 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - more-block-bricks
 - more-geodes
 - mostructures
-- no-null-processors
 - patchouli
 - polymorph
 - presence-footsteps
@@ -48,101 +42,36 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
 - trinkets
 - trumpet-skeleton
 - untitledduckmod
-- vanilla-degus
 - vistas
-- winged
 - your-options-shall-be-respected
 
-The following mods have been updated to 1.18.
 
-- additional-additions
-- adorn
-- alaska-nativecraft
-- appleskin
-- applied-energistics
-- architectury
-- axesareweapons
-- bedspreads
-- blast
-- blur
-- candlestick
-- caracal-mob
-- chat-heads
-- coloredslime
-- concrete-plus
-- copper-equipment
-- croptopia
-- damagetilt
-- dank-storage
-- dark-loading-screen
-- deepslate-cutting
-- dense-ores
-- discerning-furnace
-- ducts
-- dungeons-arise
-- dye-all-the-things
-- earth2java
-- eldritch-mobs
-- emotecraft
-- extra-generators
-- fabric-language-kotlin
-- fallingleaves
-- fettlol-utilmod
-- geckolib
-- grizzly-bear-mob
-- guardians-galore
-- horseinfo
-- horsestatsvanilla
-- illuminations
-- inventory-profiles
-- iris
-- keepheadnames
-- krypton
-- lambda-better-grass
-- lambdynamiclights
-- lifts
-- lithium
-- mcdunegeonsweapons
-- mcdungeonsarmors
-- mcf-easyfeed
-- midas-hunger
-- modmenu
-- more-axolotl-variants
-- mythic-mounts
-- not-enough-animations
-- notenoughcrashes
-- npcvariety
-- okzoomer
-- perfectaccuracy
-- repurposed-structures
-- reroll
-- ringofattraction
-- roughlyenoughitems
-- rpgstats
-- rpgstats
-- skin-layers
-- slimy-floor
-- sodium
-- spark
-- spawnermod
-- starlight
-- taxfreelevels
-- techreborn
-- the-graveyard
-- truedarkness
-- villagernames
-- voicechat
-- waystones
-- wolveswitharmor
-- wthit
-- xaeros-minimap
-- xaeros-worldmap
+  adorn = "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.3.1-fabric/Adorn-3.3.1%2B1.18.1-fabric.jar"
+  alaska-nativecraft = "https://cdn.modrinth.com/data/iFnEtHsI/versions/1.4.2/alaskanativecraft-1.4.2.jar"
+  applied-energistics = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-10.1.0-beta.2/appliedenergistics2-10.1.0-beta.2.jar"
+  biome-makeover = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.1-1.4.7.jar"
+  blast = "https://brekitomasson.com/fettlol/mods/1.18/blast-1.8.2.jar"
+  candlestick = "https://brekitomasson.com/fettlol/mods/1.18/Candlestick-1.1.2.jar"
+  caracal-mob = "^1.3.3+1.18.mpkg.1"
+  chipped = "https://brekitomasson.com/fettlol/mods/1.18/chipped-1.2.jar"
+  croptopia = "https://brekitomasson.com/fettlol/mods/1.18/Croptopia-1.18-FABRIC-1.8.2.jar"
+  dawn = "https://cdn.modrinth.com/data/meZK2DCX/versions/3.2.0/dawn-3.2.0.jar"
+  discerning-furnace = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/1.0.5+MC1.18-1.18.1/discerning-furnace-1.0.5+MC1.18-1.18.1.jar"
+  ducts = "https://brekitomasson.com/fettlol/mods/1.18/ducts-1.1.6.jar"
+  dungeons-arise = "https://cdn.modrinth.com/data/8DfbfASn/versions/2.1.49b/DungeonsArise-1.18.1-2.1.49b-fabric-beta.jar"
+  guardians-galore = "https://brekitomasson.com/fettlol/mods/1.18/GuardiansGalore-1.18-3.0.jar"
+  illuminations = "https://brekitomasson.com/fettlol/mods/1.18/illuminations-1.10.2.jar"
+  krypton = "^0.1.6+mpkg.1"
+  leaves-us-in-peace = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.3+MC1.18-1.18.1/leaves-us-in-peace-1.0.3%2BMC1.18-1.18.1.jar"
+  more-berries = "https://brekitomasson.com/fettlol/mods/1.18/moreberries-1.4.6.jar"
+  mythic-mounts = "https://brekitomasson.com/fettlol/mods/1.18/mythic-mounts-1.18-5.1.jar"
+  ottercraft = "https://brekitomasson.com/fettlol/mods/1.18/Ottercraft-fabric-1.18-1.1.10.jar"
+  promenade = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.5.0/promenade-2.5.0.jar"
+  true-darkness = "https://cdn.modrinth.com/data/Ja7zPEaN/versions/fabric-mc118-2.0.89/darkness-fabric-mc118-2.0.89.jar"
+  villager-names = "https://cdn.modrinth.com/data/ip56ktP9/versions/3/villagernames-1.18.1-3.0.0.jar"
+  waystones = "^2.4.0+mpkg.1"
+  wolves-with-armor = "https://brekitomasson.com/fettlol/mods/1.18/wolves-with-armor-1.7.0-1.18.jar"
 
-The following mods are upgraded but do not currently work:
 
-	buggy, waiting for release:
-  
 
-  	requires fabric version greater than minepkg offers:
 
-  leaves-us-in-peace = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.2+MC1.18-1.18.1/leaves-us-in-peace-1.0.2+MC1.18-1.18.1.jar"

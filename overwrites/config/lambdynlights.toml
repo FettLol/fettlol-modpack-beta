@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fast"
+mode = "fancy"
 
 # Light sources settings.
 [light_sources]
@@ -14,4 +14,78 @@ mode = "fast"
 	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				pig = true
+				skeleton = true
+				bat = true
+				hoglin = true
+				rabbit = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				wandering_trader = true
+				piglin_brute = true
+				goat = true
+				ocelot = true
+				horse = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				chest_minecart = true
+				tropical_fish = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				area_effect_cloud = true
+				piglin = true
+				cat = true
+				zombie = true
+				guardian = true
+				sheep = true
+				player = true
+				pufferfish = true
+				wolf = true
+				villager = true
+				zombie_villager = true
+				boat = true
+				polar_bear = true
+				strider = true
+				cod = true
+				witch = true
+				spider = true
+
+			[light_sources.settings.entities.vanilla_degus]
+				degu = true
+
+			[light_sources.settings.entities.graveyard]
+				revenant = true
+				skeleton_creeper = true
+				ghoul = true
+				nightmare = true
+
+			[light_sources.settings.entities.aqupd]
+				grizzly_bear = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				moobloom = true
+
+			[light_sources.settings.entities.pigeons]
+				pigeon = true
 
