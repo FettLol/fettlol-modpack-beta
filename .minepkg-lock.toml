@@ -12,11 +12,11 @@ lockfileVersion = 1
 
   [dependencies.additional-additions]
     name = "additional-additions"
-    version = "96e16897d7f79e57ff6511d96a9ce037"
+    version = "1c22f5d084c74e9f2af8d38df14b44f6"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/R4TvILfj/versions/3.0.1.1f/additionaladditions-3.0.1.1.jar"
+    url = "https://cdn.modrinth.com/data/R4TvILfj/versions/3.0.1/AdditionalAdditions-3.0.1.jar"
     provider = "https"
     dependend = ""
 
@@ -60,6 +60,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.biome-makeover]
+    name = "biome-makeover"
+    version = "62303039-5fe13b"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.9.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.blur]
     name = "blur"
     version = "b623bd7f1a487e887897230e9c3c5ce3"
@@ -67,6 +77,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/NK39zBp2/versions/2.4.1/blur-2.4.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.bobby]
+    name = "bobby"
+    version = "04c9b783454241a84c8ce90bced20eac"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/M08ruV16/versions/3.1.1/bobby-3.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -107,16 +127,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/pandamc_concreteplus-1.9.3.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.continuity]
-    name = "continuity"
-    version = "6fbf18b037c47ee45d6a69d483a3844b"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.1.0+1.18.2/continuity-1.1.0%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -187,16 +197,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/DyeAllTheThings-1.1.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.earth2java]
-    name = "earth2java"
-    version = "9a50ab6190277c60e338583cc94dea85"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/D2Q91keW/versions/1.8.0/Earth2Java-1.8.0%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -312,11 +312,11 @@ lockfileVersion = 1
 
   [dependencies.flonters]
     name = "flonters"
-    version = "622e0780-32510"
+    version = "6f56d5b110f691755d4513af93d4d653"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/Flonters-1.3.1+1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/36iNFpQE/versions/1.3.1/Flonters-1.3.1%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -407,6 +407,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.3+1.18/lambdabettergrass-1.2.3%2B1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.leaves-us-in-peace]
+    name = "leaves-us-in-peace"
+    version = "1f9ea9d07a5ec314abd592d617892fa9"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/1.0.4+MC1.18-1.18.2/leaves-us-in-peace-1.0.4%2BMC1.18-1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -527,6 +537,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/npc-variety-1.18-2.2.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.overpowered-mending]
+    name = "overpowered-mending"
+    version = "280d2010820f9a48cc3834b2374ef155"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/1.18.2-2.4.1/OverpoweredMending-1.18.2-2.4.1.jar"
     provider = "https"
     dependend = ""
 
@@ -737,5 +757,15 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/winged-1.18.2-3.2.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.zoomify]
+    name = "zoomify"
+    version = "15a21a7a929185d72319d8852d6b29af"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.4.0/Zoomify-1.4.0.jar"
     provider = "https"
     dependend = ""

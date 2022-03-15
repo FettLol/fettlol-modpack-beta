@@ -9,8 +9,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain"
     ]
   },
   "amberChicken": {
@@ -29,7 +29,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:extreme_hills"
+      "#minecraft:is_mountain"
     ]
   },
   "boneSpider": {
@@ -38,7 +38,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:mesa"
+      "#minecraft:is_badlands"
     ]
   },
   "boldStripedRabbit": {
@@ -47,9 +47,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest",
+      "#minecraft:is_mountain"
     ]
   },
   "boulderingZombie": {
@@ -58,7 +58,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:extreme_hills"
+      "#minecraft:is_mountain"
     ]
   },
   "bronzedChicken": {
@@ -67,7 +67,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains"
+      "#minecraft:is_badlands"
     ]
   },
   "cluckshroom": {
@@ -85,9 +85,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:taiga",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_taiga",
+      "#minecraft:is_mountain"
     ]
   },
   "creamCow": {
@@ -96,9 +96,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:jungle",
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest",
+      "#minecraft:is_jungle",
       "minecraft:savanna"
     ]
   },
@@ -108,10 +108,10 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:jungle",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest",
+      "#minecraft:is_jungle",
+      "#minecraft:is_mountain"
     ]
   },
   "fancyChicken": {
@@ -120,8 +120,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest"
     ]
   },
   "fleckedSheep": {
@@ -130,10 +130,10 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "minecraft:taiga",
-      "minecraft:forest"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain",
+      "#minecraft:is_taiga",
+      "#minecraft:is_forest"
     ]
   },
   "freckledRabbit": {
@@ -143,9 +143,9 @@
     "groupMax": 4,
     "spawnBiomes": [
       "minecraft:savanna",
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:jungle"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest",
+      "#minecraft:is_jungle"
     ]
   },
   "fuzzySheep": {
@@ -155,10 +155,10 @@
     "groupMax": 4,
     "spawnBiomes": [
       "minecraft:savanna",
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:jungle",
-      "minecraft:forest"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest",
+      "#minecraft:is_jungle",
+      "#minecraft:is_forest"
     ]
   },
   "goldCrestedChicken": {
@@ -167,9 +167,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "minecraft:forest",
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain",
+      "#minecraft:is_forest",
       "minecraft:savanna"
     ]
   },
@@ -179,7 +179,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains"
+      "#minecraft:is_badlands"
     ]
   },
   "hornedSheep": {
@@ -188,8 +188,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain"
     ]
   },
   "inkySheep": {
@@ -198,8 +198,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain"
     ]
   },
   "jollyLlama": {
@@ -208,8 +208,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:taiga",
-      "minecraft:icy"
+      "#minecraft:is_taiga"
     ]
   },
   "jumboRabbit": {
@@ -218,7 +217,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains"
+      "#minecraft:is_badlands"
     ]
   },
   "lobberZombie": {
@@ -246,8 +245,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:forest",
-      "minecraft:jungle"
+      "#minecraft:is_forest",
+      "#minecraft:is_jungle"
     ]
   },
   "moobloom": {
@@ -274,9 +273,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "minecraft:forest"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain",
+      "#minecraft:is_forest"
     ]
   },
   "muddyPig": {
@@ -285,9 +284,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "minecraft:river"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain",
+      "#minecraft:is_river"
     ]
   },
   "muddyFootRabbit": {
@@ -296,7 +295,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains"
+      "#minecraft:is_badlands"
     ]
   },
   "palePig": {
@@ -305,8 +304,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:taiga",
-      "minecraft:icy"
+      "#minecraft:is_taiga",
     ]
   },
   "patchedSheep": {
@@ -315,8 +313,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain"
     ]
   },
   "piebaldPig": {
@@ -325,10 +323,10 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:forest",
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "minecraft:taiga",
+      "#minecraft:is_forest",
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain",
+      "#minecraft:is_taiga",
       "minecraft:savanna"
     ]
   },
@@ -338,8 +336,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest"
     ]
   },
   "pintoCow": {
@@ -348,9 +346,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:taiga",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_taiga",
+      "#minecraft:is_mountain"
     ]
   },
   "rainbowSheep": {
@@ -359,8 +357,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest"
     ]
   },
   "rockySheep": {
@@ -369,8 +367,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain"
     ]
   },
   "skeletonWolf": {
@@ -379,9 +377,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:forest",
-      "minecraft:taiga",
-      "minecraft:mesa"
+      "#minecraft:is_forest",
+      "#minecraft:is_taiga",
+      "#minecraft:is_badlands"
     ]
   },
   "skewbaldChicken": {
@@ -390,9 +388,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:forest",
-      "minecraft:jungle"
+      "#minecraft:is_badlands",
+      "#minecraft:is_forest",
+      "#minecraft:is_jungle"
     ]
   },
   "sootyPig": {
@@ -401,8 +399,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:jungle",
+      "#minecraft:is_badlands",
+      "#minecraft:is_jungle",
       "minecraft:savanna"
     ]
   },
@@ -421,9 +419,9 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains",
-      "minecraft:extreme_hills",
-      "minecraft:taiga"
+      "#minecraft:is_badlands",
+      "#minecraft:is_mountain",
+      "#minecraft:is_taiga"
     ]
   },
   "sunsetCow": {
@@ -441,7 +439,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:beach"
+      "#minecraft:is_beach"
     ]
   },
   "umbraCow": {
@@ -450,9 +448,8 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:taiga",
-      "minecraft:icy",
-      "minecraft:extreme_hills"
+      "#minecraft:is_taiga",
+      "#minecraft:is_mountain"
     ]
   },
   "vestedRabbit": {
@@ -461,7 +458,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:plains"
+      "#minecraft:is_badlands"
     ]
   },
   "vilerWitch": {
@@ -479,7 +476,7 @@
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
-      "minecraft:taiga"
+      "#minecraft:is_taiga"
     ]
   }
 }
