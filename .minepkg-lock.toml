@@ -60,13 +60,33 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.biome-makeover]
-    name = "biome-makeover"
-    version = "62303039-5fe13b"
+  [dependencies.better-beds]
+    name = "better-beds"
+    version = "c724dd32fb0396899e4e6916983815c0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.9.jar"
+    url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.better-f3]
+    name = "better-f3"
+    version = "c7122a1942cb91e21e9b7f363e1c2ee2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/8shC1gFX/versions/1.2.3/BetterF3-1.2.3-Fabric-1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.biome-makeover]
+    name = "biome-makeover"
+    version = "6236da4c-5fe72c"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.12.jar"
     provider = "https"
     dependend = ""
 
@@ -87,6 +107,26 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/M08ruV16/versions/3.1.1/bobby-3.1.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.charm]
+    name = "charm"
+    version = "8e18ef43e8e716871ae03738d5b750ed"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.0.0/charm-fabric-1.18-4.0.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.charmonium]
+    name = "charmonium"
+    version = "ff1466ea9038a50acec8518933f48f8e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.0.0/charmonium-fabric-1.18-4.0.0.jar"
     provider = "https"
     dependend = ""
 
@@ -138,6 +178,16 @@ lockfileVersion = 1
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/lpbVzEpa/versions/1.0.0/CopperStuff-1.18.2-1.0.0.1913186568.jar"
     provider = "https"
+    dependend = ""
+
+  [dependencies.croptopia]
+    name = "croptopia"
+    version = "1.8.2+1.18.2.mpkg.1.git.ea908a5"
+    type = "mod"
+    ipfsHash = "QmfKUE8V8JQSse6iz75EnUwPRGHNGz4Va3C9Yd42bN3jhx"
+    Sha256 = "3132d180aabee4b25539d0d19b3ff7f2e3b6627411b1bc8c7127baeb251f044a"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/croptopia@1.8.2+1.18.2.mpkg.1.git.ea908a5/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.damagetilt]
@@ -290,6 +340,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.ferrite-core]
+    name = "ferrite-core"
+    version = "7053389e4625d8021cfd1c52e05cdbe6"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.fettlol-lib]
     name = "fettlol-lib"
     version = "1.1.5"
@@ -328,6 +388,16 @@ lockfileVersion = 1
     Sha256 = "2aba8c78c620f5abb51424a26f887952ad3c0cfb2bb570737b3e520bba906414"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.23+1.18.mpkg.1/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.global-datapacks]
+    name = "global-datapacks"
+    version = "8788ddbf9e26bac9096801f2ef149fa5"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/1.1/Global-Datapack.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.grizzlybear-mob]
@@ -410,6 +480,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.lazy-dfu]
+    name = "lazy-dfu"
+    version = "b2597e901c05673ef2834dad32da8824"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.leaves-us-in-peace]
     name = "leaves-us-in-peace"
     version = "1f9ea9d07a5ec314abd592d617892fa9"
@@ -452,11 +532,11 @@ lockfileVersion = 1
 
   [dependencies.mcdw]
     name = "mcdw"
-    version = "6227c8a6-118c65"
+    version = "62317728-119dd0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/mcdw-4.2.3.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/mcdw-4.2.4.jar"
     provider = "https"
     dependend = ""
 
@@ -510,13 +590,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.not-enough-animations]
-    name = "not-enough-animations"
-    version = "61aae1ae-518b3"
+  [dependencies.more-berries]
+    name = "more-berries"
+    version = "6234c387-4f50d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/notenoughanimations-fabric-1.4.0-mc1.18-pre1.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/moreberries-1.4.7.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.not-enough-animations]
+    name = "not-enough-animations"
+    version = "6236daae-51b2e"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/notenoughanimations-fabric-1.5.0-mc1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -612,11 +702,11 @@ lockfileVersion = 1
 
   [dependencies.ring-of-attraction]
     name = "ring-of-attraction"
-    version = "61e6094c-3c61"
+    version = "6234c36d-3c73"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/RingOfAttraction-Fabric-1.18.1-1.2.20.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/RingOfAttraction-Fabric-1.18.2-1.2.24.jar"
     provider = "https"
     dependend = ""
 
@@ -640,13 +730,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.simple-voice-chat]
-    name = "simple-voice-chat"
-    version = "d73fa1466d6d99832aaf6defeffdaa6b"
+  [dependencies.simple-crates]
+    name = "simple-crates"
+    version = "8b31c7bc635b38d30b486a336933793b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.27/voicechat-fabric-1.18.2-2.2.27.jar"
+    url = "https://cdn.modrinth.com/data/UrTkuI7B/versions/1.0.0/simplecrates-1.0.0.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.simple-voice-chat]
+    name = "simple-voice-chat"
+    version = "98c972ba1fb7fcb7dfd3ff7f4a0c2302"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.29/voicechat-fabric-1.18.2-2.2.29.jar"
     provider = "https"
     dependend = ""
 
@@ -737,6 +837,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/vanilla_degus-1.18.2-v1.3.0-fabric.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.villager-names]
+    name = "villager-names"
+    version = "6230557c-164f8c"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18.2-4.0.3.jar"
     provider = "https"
     dependend = ""
 
