@@ -6,7 +6,7 @@
   "perspective": true,
   "default3rdPersonFront": false,
   "showicon": true,
-  "enableNSFW": true,
+  "enableNSFW": false,
   "debug": true,
   "validate": false,
   "validationThreshold": 8.0,
