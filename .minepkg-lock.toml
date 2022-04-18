@@ -42,11 +42,11 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics2]
     name = "applied-energistics2"
-    version = "8947824da68da03a44c8d69525ec264c"
+    version = "1b02e6c8103a796cc7fbfaef9c0eb62d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0-alpha.1/appliedenergistics2-11.0.0-alpha.1.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0-alpha.3/appliedenergistics2-11.0.0-alpha.3.jar"
     provider = "https"
     dependend = ""
 
@@ -100,16 +100,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.biome-makeover]
-    name = "biome-makeover"
-    version = "623fd0fb-5fe996"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.15.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.blur]
     name = "blur"
     version = "b623bd7f1a487e887897230e9c3c5ce3"
@@ -132,11 +122,11 @@ lockfileVersion = 1
 
   [dependencies.cave-enhancements]
     name = "cave-enhancements"
-    version = "616a75a0261b05d633e597b7e129bfd9"
+    version = "b883d78d132551b60797fea4aad15edd"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/LUVcqDu1/versions/1.0.3/ce-mod-1.0.3.jar"
+    url = "https://cdn.modrinth.com/data/LUVcqDu1/versions/1.0.4/ce-mod-1.0.4.jar"
     provider = "https"
     dependend = ""
 
@@ -168,6 +158,16 @@ lockfileVersion = 1
     Sha256 = "f49f577f179291daf4906823f9de5d0ecedfc3e826a47a5951684f2312b84d37"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/chat-heads@0.5.1+mpkg.1/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.chipped]
+    name = "chipped"
+    version = "62578a5a-6766a8"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/chipped-1.2.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.cloth-config]
@@ -218,6 +218,16 @@ lockfileVersion = 1
     Sha256 = "3132d180aabee4b25539d0d19b3ff7f2e3b6627411b1bc8c7127baeb251f044a"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/croptopia@1.8.2+1.18.2.mpkg.1.git.ea908a5/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.cyanide]
+    name = "cyanide"
+    version = "625cae6d-1246d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/cyanide-fabric-1.18.2-2.1.0.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.damagetilt]
@@ -280,6 +290,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.ducts]
+    name = "ducts"
+    version = "625cae9b-5afe7"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/ducts-1.1.7.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.dye-all-the-things]
     name = "dye-all-the-things"
     version = "61de1eb1-33c3"
@@ -330,43 +350,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.extra-generators]
-    name = "extra-generators"
-    version = "b0dde792419d029da8e1f4ac64737137"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/VXtwLg17/versions/1.2-BETA+1.18/extra-generators-1.2-BETA%2B1.18.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.fabric]
     name = "fabric"
-    version = "0.48.0+1.18.mpkg.1"
+    version = "0.51.0+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = "QmUkvWXqHpWfxfAaDqJyWssJ8rRtfHwSKor7YQivEyYQ4W"
-    Sha256 = "3f4c6789b85ba225965752a33587e6e75a331dc34eac12a164b622ec6a7b60bc"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.48.0+1.18.mpkg.1/download"
+    ipfsHash = "QmYGqgmn3iQM2qbMGV2Tge45PLCYEGp3Jh8muWBc7MBwmW"
+    Sha256 = "267a7b2cb2e718c7ead044fe5fa6ec4fc506f31ffc9bbc7ccd8cfc77ba4f0b5f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.51.0+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
-    version = "f46bef83dc6266252bf39e27197c6a03"
+    version = "222828c8920ac200c83a34c24a4c9588"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.1+kotlin.1.6.10/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.fabricated-chisel]
-    name = "fabricated-chisel"
-    version = "217fe89c7e7e0bb1893ea9314036657c"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/1.4.5/chisel-1.4.5%2B1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.2+kotlin.1.6.20/fabric-language-kotlin-1.7.2%2Bkotlin.1.6.20.jar"
     provider = "https"
     dependend = ""
 
@@ -472,11 +472,11 @@ lockfileVersion = 1
 
   [dependencies.immersive-portals]
     name = "immersive-portals"
-    version = "f928b77d9cf4f671e7ac318adedefb6b"
+    version = "1bcbdcd391984bffe65b6c4a6cc2c772"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/zJpHMkdD/versions/1.3.5-1.18.2/immersive-portals-1.3.5-mc1.18.2-fabric.jar"
+    url = "https://cdn.modrinth.com/data/zJpHMkdD/versions/1.3.6-1.18.2/immersive-portals-1.3.6-mc1.18.2-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -560,16 +560,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.lifts]
-    name = "lifts"
-    version = "1.4.0-BETA+1.18.mpkg.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "83c666bf4a911bc17a2d4ef7f80c93fb964bbbbcb66b0b0b067fb24f3f787755"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/lifts@1.4.0-BETA+1.18.mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.light-overlay]
     name = "light-overlay"
     version = "623c1944-f2fa"
@@ -622,11 +612,11 @@ lockfileVersion = 1
 
   [dependencies.midas-hunger]
     name = "midas-hunger"
-    version = "e6686a9f4e52cdf06037727383db778c"
+    version = "b6f035e8f74599e716c5873f668ee23b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/abF2tqnb/versions/2.0.0+1.18.2/midas-hunger-2.0.0%2B1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/abF2tqnb/versions/2.1.0/midas-hunger-2.1.0%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -642,11 +632,11 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "d0596609b80e9bddbf615ecf7b6430bb"
+    version = "b1c5649d2d5eb6a75fbc2497aae14ca8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.0/modmenu-3.1.0.jar"
+    url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.1/modmenu-3.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -662,11 +652,11 @@ lockfileVersion = 1
 
   [dependencies.more-berries]
     name = "more-berries"
-    version = "6234c387-4f50d"
+    version = "62578acb-4fa4e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/moreberries-1.4.7.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/moreberries-1.4.8.jar"
     provider = "https"
     dependend = ""
 
@@ -752,11 +742,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "14ecd0cfd6edda5fc312957d1a4730b7"
+    version = "180d632e3229eede21644a492336253a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.0.2+1.18.2/repurposed_structures_fabric-4.0.2%2B1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.5+1.18.2/repurposed_structures_fabric-4.1.5%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -822,11 +812,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "bd6de6bf790adafda688317607342d95"
+    version = "bc69bc35802647cd248452e5a5f0741a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.31/voicechat-fabric-1.18.2-2.2.31.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.35/voicechat-fabric-1.18.2-2.2.35.jar"
     provider = "https"
     dependend = ""
 
@@ -872,11 +862,21 @@ lockfileVersion = 1
 
   [dependencies.sodium-extra]
     name = "sodium-extra"
-    version = "f41d1d36eb9e3615e4a0835f6a1891a8"
+    version = "2877d6d0e49b68a099e3836727c76b35"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.2/sodium-extra-mc1.18.2-0.4.2.jar"
+    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.3/sodium-extra-mc1.18.2-0.4.3.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.sodium-options]
+    name = "sodium-options"
+    version = "38d799eba4da85b35f0bf32c530dcf76"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.2/reeses_sodium_options-mc1.18.2-1.4.2.jar"
     provider = "https"
     dependend = ""
 
