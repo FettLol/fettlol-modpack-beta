@@ -42,11 +42,11 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics2]
     name = "applied-energistics2"
-    version = "1b02e6c8103a796cc7fbfaef9c0eb62d"
+    version = "3a7863e1b288d3e87e2e9e1af8a2537a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0-alpha.3/appliedenergistics2-11.0.0-alpha.3.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.0.0-alpha.5/appliedenergistics2-11.0.0-alpha.5.jar"
     provider = "https"
     dependend = ""
 
@@ -132,11 +132,11 @@ lockfileVersion = 1
 
   [dependencies.charm]
     name = "charm"
-    version = "8e18ef43e8e716871ae03738d5b750ed"
+    version = "d38e8aae35b5f5bab1e7328c6d39eaa1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.0.0/charm-fabric-1.18-4.0.0.jar"
+    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.1.0/charm-fabric-1.18-4.1.0.jar"
     provider = "https"
     dependend = ""
 
@@ -310,6 +310,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.dynamic-asset-generator]
+    name = "dynamic-asset-generator"
+    version = "f634b907d418bae3028d21a0fa730abe"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/83pFEQVb/versions/0.5.1-fabric/dynamic_asset_generator-fabric-0.5.1.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.eating-animation]
     name = "eating-animation"
     version = "61d4bcd1-22b62"
@@ -332,11 +342,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "1201a9690ec1a0e898fa2c23f35e26b1"
+    version = "a7ae116374b7a01d0b7187c8d4f2690e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1-MC1.18.1-fabric/emotecraft-for-MC1.18.1-2.1-fabric.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.2-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.2-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -350,13 +360,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.excavated-variants]
+    name = "excavated-variants"
+    version = "a56866f89d9e186fc4f290658ae843bb"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/0.5.2-fabric/excavated_variants-fabric-0.5.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.fabric]
     name = "fabric"
-    version = "0.51.0+1.18.mpkg.1"
+    version = "0.51.1+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = "QmYGqgmn3iQM2qbMGV2Tge45PLCYEGp3Jh8muWBc7MBwmW"
-    Sha256 = "267a7b2cb2e718c7ead044fe5fa6ec4fc506f31ffc9bbc7ccd8cfc77ba4f0b5f"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.51.0+1.18.mpkg.1/download"
+    ipfsHash = "QmYhJXoKPMEe9QwDKX3TnPRmjEL5YLxqSs6ve3Dwp1b2si"
+    Sha256 = "ceef3facb321113c0191ff9a4c837d18042bc2d89999c5ed11708e77a5b3209f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.51.1+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -742,11 +762,11 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "180d632e3229eede21644a492336253a"
+    version = "4a3d6ed67d07cddec28b17a6d0967823"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.5+1.18.2/repurposed_structures_fabric-4.1.5%2B1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.6+1.18.2/repurposed_structures_fabric-4.1.6%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
