@@ -50,7 +50,7 @@ The following mods are in the 1.17.1 version of the modpack and a 1.18 version h
   dawn = "https://cdn.modrinth.com/data/meZK2DCX/versions/3.2.0/dawn-3.2.0.jar"
 
   lifts = "^1.4.0-BETA+1.18.mpkg.1"
-  extra-generators = "https://cdn.modrinth.com/data/VXtwLg17/versions/1.2-BETA+1.18/extra-generators-1.2-BETA%2B1.18.jar"
+  extra-generators = "https://cdn.modrinth.com/data/VXtwLg17/versions/1.2.1-BETA+1.18/extra-generators-1.2.1-BETA%2B1.18.jar"
   biome-makeover = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.18.jar"
 
 
