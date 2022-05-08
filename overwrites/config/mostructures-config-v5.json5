@@ -17,13 +17,13 @@
   "structureConfigEntries": {
     "villager_tower": {
       "activated": true,
-      "separation": 44,
+      "separation": 55,
       "spacing": 100
     },
     "lighthouse": {
       "activated": true,
-      "separation": 30,
-      "spacing": 50
+      "separation": 50,
+      "spacing": 90
     },
     "air_balloon": {
       "activated": false,
@@ -37,13 +37,13 @@
     },
     "jungle_pyramid": {
       "activated": true,
-      "separation": 14,
-      "spacing": 16
+      "separation": 39,
+      "spacing": 93
     },
     "abandoned_church": {
       "activated": true,
-      "separation": 14,
-      "spacing": 26
+      "separation": 33,
+      "spacing": 99
     },
     "barn_house": {
       "activated": true,
@@ -82,8 +82,8 @@
     },
     "big_pyramid": {
       "activated": true,
-      "separation": 16,
-      "spacing": 20
+      "separation": 64,
+      "spacing": 200
     },
     "pillager_factory": {
       "activated": true,
