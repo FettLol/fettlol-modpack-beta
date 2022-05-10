@@ -8,7 +8,7 @@ echo "Starting rsync operation"
 # be removed manually over time, however, as we only guarantee functionality
 # for the latest release of the modpack.
 
-rsync -aP ./mods/* root@breki.se:/usr/share/nginx/html/fettlol/mods
+rsync -aP ./mods/* root@brekitomasson.com:/usr/share/nginx/html/fettlol/mods
 
 # ... And yes, I call it a script, but it's really just an alias for a fairly
 # simple rsync operation, meaning I've actually written more comments than
