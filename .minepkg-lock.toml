@@ -5,28 +5,28 @@ lockfileVersion = 1
 
 [fabric]
   minecraft = "1.18.2"
-  fabricLoader = "0.13.3"
-  mapping = "1.18.2+build.2"
+  fabricLoader = "0.14.6"
+  mapping = "1.18.2+build.3"
 
 [dependencies]
 
   [dependencies.additional-additions]
     name = "additional-additions"
-    version = "f8eacecd9df802a689fd4acda991568f"
+    version = "d136358b7bddd987b4bac54576c11ca2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.0/AdditionalAdditions-4.0.0.jar"
+    url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.2/AdditionalAdditions-4.0.2.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.adorn]
     name = "adorn"
-    version = "3637bdeb45d0f2035ed33c7eb2dae255"
+    version = "193c473d168c6ec11cea136e9cdb03b5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/2.4.0-fabric/Adorn-3.4.0%2B1.18.2-fabric.jar"
+    url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.0-fabric/Adorn-3.5.0%2B1.18.2-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -42,11 +42,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "6279c3e5-8bbeb"
+    version = "628c89cc-8bc4f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/architectury-4.4.59.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/architectury-4.4.61.jar"
     provider = "https"
     dependend = ""
 
@@ -80,6 +80,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.better-animals-plus]
+    name = "better-animals-plus"
+    version = "628a44ad-251a04"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/betteranimalsplus-1.18.2-11.0.5-fabric.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.better-beds]
     name = "better-beds"
     version = "c724dd32fb0396899e4e6916983815c0"
@@ -92,11 +102,11 @@ lockfileVersion = 1
 
   [dependencies.better-f3]
     name = "better-f3"
-    version = "e1f17c19ca5139052c19bdf5cd479c04"
+    version = "25785038951d7828afaf8ec9b27dd507"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/8shC1gFX/versions/1.2.4/BetterF3-1.2.4-Fabric-1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/8shC1gFX/versions/1.2.5.1/BetterF3-1.2.5-Fabric-1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -112,11 +122,11 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "6279c270-5ffc64"
+    version = "628c89b1-6000f1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.19.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.23.jar"
     provider = "https"
     dependend = ""
 
@@ -227,6 +237,26 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/lpbVzEpa/versions/1.0.0/CopperStuff-1.18.2-1.0.0.1913186568.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.create]
+    name = "create"
+    version = "b510fed0552769d2b41e0d053eb34b46"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/mc1.18.2_v0.4.1+586/create-mc1.18.2_v0.4.1%2B586.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.create-plus]
+    name = "create-plus"
+    version = "98df585810551117b2573fa365f27c98"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/svgZx0UN/versions/1.0-beta4/createplus-1.0.0-beta4.jar"
     provider = "https"
     dependend = ""
 
@@ -350,13 +380,13 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.eldritch-mobs]
-    name = "eldritch-mobs"
-    version = "623c18c9-1014bb"
+  [dependencies.ellemes-container-lib]
+    name = "ellemes-container-lib"
+    version = "1a1bd78e818032630c7268789a799563"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/eldritch-mobs-1.11.0.jar"
+    url = "https://cdn.modrinth.com/data/TIhTvPdy/versions/1.4.0-beta.1+fabric/ellemes-container-library-1.4.0-beta.1%2B1.18.2-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -392,11 +422,11 @@ lockfileVersion = 1
 
   [dependencies.expanded-storage]
     name = "expanded-storage"
-    version = "9faf16e805244ac13b17b50ac4b57d7e"
+    version = "853799969299d7b52469da701bc407e8"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/psjeHi3j/versions/7.3.12+1.18.2-fabric/expandedstorage-7.3.12%2B1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/psjeHi3j/versions/7.4.0-beta.2+fabric/expandedstorage-7.4.0-beta.2%2B1.18.2-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -447,6 +477,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/fabric-seasons-1.4-BETA+1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.fabric-waystones]
+    name = "fabric-waystones"
+    version = "929772641dea21d3639b9c0f23d63e33"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.3/wraith-waystones-2.5.3.jar"
     provider = "https"
     dependend = ""
 
@@ -522,11 +562,11 @@ lockfileVersion = 1
 
   [dependencies.global-datapacks]
     name = "global-datapacks"
-    version = "8788ddbf9e26bac9096801f2ef149fa5"
+    version = "628cac07-37cc7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/bRa9yz7E/versions/1.1/Global-Datapack.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/global_packs-fabric-1.18.2-1.12.2.jar"
     provider = "https"
     dependend = ""
 
@@ -547,16 +587,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/l4qoXLzx/versions/4.1.10/horse-stats-vanilla-4.1.10.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.immersive-portals]
-    name = "immersive-portals"
-    version = "69f7904557f784656778c0cfdb9f7798"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/zJpHMkdD/versions/1.3.7-1.18.2/immersive-portals-1.3.7-mc1.18.2-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -582,11 +612,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "01594292668f415f43193b8691d38d2a"
+    version = "ba8461ffc8a93e292363992aa70d48ac"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.3.7/InventoryProfilesNext-fabric-1.18.2-1.3.7.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.4.0/InventoryProfilesNext-fabric-1.18.2-1.4.0.jar"
     provider = "https"
     dependend = ""
 
@@ -597,6 +627,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.4/iris-mc1.18.2-1.2.4-build.38.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.jamlib]
+    name = "jamlib"
+    version = "628c8aac-9412"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/jam-lib-0.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -652,11 +692,11 @@ lockfileVersion = 1
 
   [dependencies.lithium]
     name = "lithium"
-    version = "cda0b104899d7c82f2da8c0bf6de31a2"
+    version = "8278bb80f5793411255534b412bd5c6d"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar"
+    url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.10/lithium-fabric-mc1.18.2-0.7.10.jar"
     provider = "https"
     dependend = ""
 
@@ -747,16 +787,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/moreberries-1.4.9.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.ninjaphenix-container-lib]
-    name = "ninjaphenix-container-lib"
-    version = "809aa3b6d2d28e2a1eaf831ec4c77a13"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/TIhTvPdy/versions/1.3.0+1.18-fabric/ninjaphenix-container-library-1.3.0%2B1.18-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -872,11 +902,11 @@ lockfileVersion = 1
 
   [dependencies.right-click-harvest]
     name = "right-click-harvest"
-    version = "627ec651-153d9"
+    version = "628c8999-ff2f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/rightclickharvest-2.0.3.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/rightclickharvest-2.0.6.jar"
     provider = "https"
     dependend = ""
 
@@ -912,11 +942,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "eb6b3c0a01a7138a171886f5be691d2e"
+    version = "a3437c1e32d5e3deb8c4ec34eda2adec"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.42/voicechat-fabric-1.18.2-2.2.42.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.44/voicechat-fabric-1.18.2-2.2.44.jar"
     provider = "https"
     dependend = ""
 
@@ -947,6 +977,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/slimyfloor-1.18.2-1.2.3.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.snowy-trees]
+    name = "snowy-trees"
+    version = "e1892c4d902784604d151d4e65af27e8"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/QRtuy06g/versions/1.1.0/snowy-trees-1.1.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1012,11 +1052,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "62650d64-53beb6"
+    version = "628a43ec-5b0450"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/TechReborn-5.2.0-beta.3.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/TechReborn-5.2.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1087,16 +1127,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.waystones]
-    name = "waystones"
-    version = "8cf94ec7f1c3a8a69b88023e7ce1abd9"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.0/wraith-waystones-2.5.0.jar"
     provider = "https"
     dependend = ""
 
