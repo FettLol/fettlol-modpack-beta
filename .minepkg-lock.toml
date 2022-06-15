@@ -40,6 +40,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.applied-energistics]
+    name = "applied-energistics"
+    version = "7a1260022f7b2a6863783d82976404fa"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.2/appliedenergistics2-11.1.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.architectury]
     name = "architectury"
     version = "628c89cc-8bc4f"
@@ -632,11 +642,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "2d50b84547450253e0d439f39fd378d9"
+    version = "ec463c72dfbf7e0ed991cd3335e3b6d2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.5.2/InventoryProfilesNext-fabric-1.18.2-1.5.2.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.5.3/InventoryProfilesNext-fabric-1.18.2-1.5.3.jar"
     provider = "https"
     dependend = ""
 
@@ -682,11 +692,11 @@ lockfileVersion = 1
 
   [dependencies.lambda-better-grass]
     name = "lambda-better-grass"
-    version = "01717e41b96f07a436caca2b1da28cd0"
+    version = "cd8242b8e94cb2387491c2cf9d14d5ad"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.3+1.18/lambdabettergrass-1.2.3%2B1.18.jar"
+    url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4+1.18/lambdabettergrass-1.2.4%2B1.18.jar"
     provider = "https"
     dependend = ""
 
@@ -892,12 +902,12 @@ lockfileVersion = 1
 
   [dependencies.polymorph]
     name = "polymorph"
-    version = "6224fa20-4d769"
+    version = "0.0.21+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/polymorph-fabric-0.0.19-1.18.1.jar"
-    provider = "https"
+    ipfsHash = "QmbwzMJ36rFxS2inD21BBgMQWxaE8g7CdKuTq4SUEocnwY"
+    Sha256 = "1ee954e45ad10fc296baedc61b60789e9cf6c51692974ece81c6da0b8baed7a4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/polymorph@0.0.21+1.18.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.promenade]
