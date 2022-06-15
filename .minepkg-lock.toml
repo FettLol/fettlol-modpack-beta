@@ -12,11 +12,11 @@ lockfileVersion = 1
 
   [dependencies.additional-additions]
     name = "additional-additions"
-    version = "d136358b7bddd987b4bac54576c11ca2"
+    version = "baa92606ed58629047f9002f6e0c16d9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.2/AdditionalAdditions-4.0.2.jar"
+    url = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.5/AdditionalAdditions-4.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -172,11 +172,11 @@ lockfileVersion = 1
 
   [dependencies.charmonium]
     name = "charmonium"
-    version = "ff1466ea9038a50acec8518933f48f8e"
+    version = "525cfa724daa6cd5ce85bf4981ab452b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.0.0/charmonium-fabric-1.18-4.0.0.jar"
+    url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.1.0+1.18.2/charmonium-fabric-1.18.2-4.1.0.jar"
     provider = "https"
     dependend = ""
 
@@ -402,11 +402,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "6e41f14e500949ae46833fb36f433354"
+    version = "cd6d9f66a52a9b0b3f9e0051b9ee8e9f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.28-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.28-fabric.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.31-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -632,11 +632,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles]
     name = "inventory-profiles"
-    version = "9a4e4babc3805208c420eda667c9c33c"
+    version = "2d50b84547450253e0d439f39fd378d9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.5.0/InventoryProfilesNext-fabric-1.18.2-1.5.0.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.5.2/InventoryProfilesNext-fabric-1.18.2-1.5.2.jar"
     provider = "https"
     dependend = ""
 
@@ -732,11 +732,11 @@ lockfileVersion = 1
 
   [dependencies.mcdw]
     name = "mcdw"
-    version = "6272928c-11abfb"
+    version = "62a8b305-11bd92"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/mcdw-4.3.2.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/mcdw-4.4.0.jar"
     provider = "https"
     dependend = ""
 
@@ -847,6 +847,26 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/1.18.2-2.4.1/OverpoweredMending-1.18.2-2.4.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.owo]
+    name = "owo"
+    version = "e30d5083275ea8079c11f7bbae909e1f"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/0.7.2-no-cme+1.18/owo-lib-0.7.2-no-cme%2B1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.patchouli]
+    name = "patchouli"
+    version = "b435de4669938e22fb7d569affb8deb4"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.18.2-70-fabric/Patchouli-1.18.2-70-FABRIC.jar"
     provider = "https"
     dependend = ""
 
@@ -1057,6 +1077,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/l6YH9Als/versions/1.9.11-fabric/spark-1.9.11-fabric.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.spectrum]
+    name = "spectrum"
+    version = "62a9e4c4-2435bee"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/spectrum-1.4.1-1.18.2-chaos_and_exploration.jar"
     provider = "https"
     dependend = ""
 
