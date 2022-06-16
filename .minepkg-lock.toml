@@ -100,16 +100,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.better-beds]
-    name = "better-beds"
-    version = "c724dd32fb0396899e4e6916983815c0"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.better-f3]
     name = "better-f3"
     version = "25785038951d7828afaf8ec9b27dd507"
