@@ -1070,6 +1070,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.spectrum]
+    name = "spectrum"
+    version = "67fce1a606b5468ca44cea0f427a23a3"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.4.1/spectrum-1.4.1-1.18.2-chaos_and_exploration.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.starlight]
     name = "starlight"
     version = "1.0.2+mpkg.1"
