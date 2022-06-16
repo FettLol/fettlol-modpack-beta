@@ -52,11 +52,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "628c89cc-8bc4f"
+    version = "cceee618b9d31337637b341fef632bda"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/architectury-4.4.61.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.74+fabric/architectury-4.5.74-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -132,11 +132,11 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "629e7c89-60012a"
+    version = "a1bd62406cbdb1c54e81d2435b7c8cac"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/biomemakeover-FABRIC-1.18.2-1.4.24.jar"
+    url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/fabric-1.18.2-1.4.24/biomemakeover-FABRIC-1.18.2-1.4.24.jar"
     provider = "https"
     dependend = ""
 
@@ -167,6 +167,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/M08ruV16/versions/3.1.1/bobby-3.1.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.capes]
+    name = "capes"
+    version = "432924348cc6e7a830b098fc8e90d8e7"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.3.1+1.18.2/Capes-1.3.1%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -252,11 +262,11 @@ lockfileVersion = 1
 
   [dependencies.create]
     name = "create"
-    version = "69692481018fbd0663b7fc1dc41637ea"
+    version = "7cdd676ff7968da470a08c99eb45c9ba"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/mc1.18.2_v0.4.1+601/create-mc1.18.2_v0.4.1%2B601.jar"
+    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/mc1.18.2_v0.4.1+628/create-mc1.18.2_v0.4.1%2B628.jar"
     provider = "https"
     dependend = ""
 
@@ -392,11 +402,11 @@ lockfileVersion = 1
 
   [dependencies.eating-animation]
     name = "eating-animation"
-    version = "61d4bcd1-22b62"
+    version = "219c78b3ba508f5c1dd441541481037e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/eating-animation-1.2.jar"
+    url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/1.8/eating-animation-1.8.jar"
     provider = "https"
     dependend = ""
 
@@ -480,16 +490,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.fabric-capes]
-    name = "fabric-capes"
-    version = "6279c220-fb2e"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/Capes-1.3.1+1.18.2.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
     version = "222828c8920ac200c83a34c24a4c9588"
@@ -502,11 +502,11 @@ lockfileVersion = 1
 
   [dependencies.fabric-seasons]
     name = "fabric-seasons"
-    version = "6272924a-3ebf3"
+    version = "259c4289ad4eb51017d967b7872132c6"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/fabric-seasons-1.4-BETA+1.18.jar"
+    url = "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.4-BETA+1.18/fabric-seasons-1.4-BETA%2B1.18.jar"
     provider = "https"
     dependend = ""
 
@@ -532,12 +532,12 @@ lockfileVersion = 1
 
   [dependencies.feature-nbt-deadlock-be-gone]
     name = "feature-nbt-deadlock-be-gone"
-    version = "0ba9b3e84615d381db09f31a2b54b041"
+    version = "1.0.1+mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/HMNV4z01/versions/1.0.1+1.18.1_fabric/feature_nbt_deadlock_be_gone_fabric-1.0.1+1.18.1.jar"
-    provider = "https"
+    ipfsHash = "QmdHcfGKkpicWFMsz8ydBkeiuaGKnuA2fLrKStu3m1so2q"
+    Sha256 = "d742c24db8462ad6fb881167f2b850e000282363953af682b2f80ad5876e7564"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/feature-nbt-deadlock-be-gone@1.0.1+mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.ferrite-core]
@@ -590,8 +590,8 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.global-datapacks]
-    name = "global-datapacks"
+  [dependencies.global-data-and-resourcepacks]
+    name = "global-data-and-resourcepacks"
     version = "629e7c4b-380ea"
     type = "mod"
     ipfsHash = ""
@@ -602,16 +602,16 @@ lockfileVersion = 1
 
   [dependencies.grizzlybear-mob]
     name = "grizzlybear-mob"
-    version = "6227b5bb-71ec5"
+    version = "536ed539cbdb3ef0a7ff62f357332905"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/grizzlybear-1.18-1.3.jar"
+    url = "https://cdn.modrinth.com/data/x6nc2i5M/versions/1.18.2-1.3/grizzlybear-1.18-1.3.jar"
     provider = "https"
     dependend = ""
 
-  [dependencies.horsestats-vanilla]
-    name = "horsestats-vanilla"
+  [dependencies.horsestatsvanilla]
+    name = "horsestatsvanilla"
     version = "5ddd3f274010d9bc2095a6bb8d92a364"
     type = "mod"
     ipfsHash = ""
@@ -640,8 +640,8 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.inventory-profiles]
-    name = "inventory-profiles"
+  [dependencies.inventory-profiles-next]
+    name = "inventory-profiles-next"
     version = "ec463c72dfbf7e0ed991cd3335e3b6d2"
     type = "mod"
     ipfsHash = ""
@@ -680,16 +680,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.lamb-dynamic-lights]
-    name = "lamb-dynamic-lights"
-    version = "0c2cc87d3d9b875d699aa8a2bfe67112"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.lambda-better-grass]
     name = "lambda-better-grass"
     version = "cd8242b8e94cb2387491c2cf9d14d5ad"
@@ -697,6 +687,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4+1.18/lambdabettergrass-1.2.4%2B1.18.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.lambdynamiclights]
+    name = "lambdynamiclights"
+    version = "0c2cc87d3d9b875d699aa8a2bfe67112"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar"
     provider = "https"
     dependend = ""
 
@@ -712,11 +712,11 @@ lockfileVersion = 1
 
   [dependencies.light-overlay]
     name = "light-overlay"
-    version = "623c1944-f2fa"
+    version = "2eec368f1d48b78c44e3474e58e7a3b3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/light-overlay-6.0.5.jar"
+    url = "https://cdn.modrinth.com/data/YfOlc91N/versions/6.0.5/light-overlay-6.0.5.jar"
     provider = "https"
     dependend = ""
 
@@ -780,16 +780,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.mo-structures]
-    name = "mo-structures"
-    version = "7ef2491cf9f73b73baf03d98333bebcb"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/1.4.2+1.18.2/mostructures-1.4.2%2B1.18.2.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.modmenu]
     name = "modmenu"
     version = "af8f96e0ecb9cbdc0f2b30c0fcc930eb"
@@ -802,11 +792,11 @@ lockfileVersion = 1
 
   [dependencies.more-axolotl-variants]
     name = "more-axolotl-variants"
-    version = "629e7c17-af1d9"
+    version = "44c37873dba777f290927323ab0de95e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/mavm-mc1.18.2-fabric-1.0.8a.jar"
+    url = "https://cdn.modrinth.com/data/zitu8weW/versions/1.0.8a/mavm-mc1.19-fabric-1.0.8a.jar"
     provider = "https"
     dependend = ""
 
@@ -820,13 +810,23 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.not-enough-animations]
-    name = "not-enough-animations"
-    version = "6236daae-51b2e"
+  [dependencies.mostructures]
+    name = "mostructures"
+    version = "7ef2491cf9f73b73baf03d98333bebcb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/notenoughanimations-fabric-1.5.0-mc1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/1.4.2+1.18.2/mostructures-1.4.2%2B1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.not-enough-animations]
+    name = "not-enough-animations"
+    version = "b6044a024db99d49c67e49e6aa085bb1"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.0-fabric-1.18/notenoughanimations-fabric-1.6.0-mc1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -842,11 +842,11 @@ lockfileVersion = 1
 
   [dependencies.npc-variety]
     name = "npc-variety"
-    version = "61de1c36-1026b0"
+    version = "62ab4987-11d929"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/npc-variety-1.18-2.2.2.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/npc-variety-1.18.2-2.2.1.jar"
     provider = "https"
     dependend = ""
 
@@ -942,21 +942,21 @@ lockfileVersion = 1
 
   [dependencies.retraining]
     name = "retraining"
-    version = "622ecb84-3b65"
+    version = "36c2dbd1a16d9af8da311035e90183b9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/Retraining-fabric-1.18.2-1.1.0.jar"
+    url = "https://cdn.modrinth.com/data/Iugiwphr/versions/1.1.0.3/Retraining-fabric-1.18.2-1.1.0.jar"
     provider = "https"
     dependend = ""
 
-  [dependencies.right-click-harvest]
-    name = "right-click-harvest"
-    version = "628c8999-ff2f"
+  [dependencies.rightclickharvest]
+    name = "rightclickharvest"
+    version = "62ab49e5-100d9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/rightclickharvest-2.0.6.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/rightclickharvest-2.1.1.jar"
     provider = "https"
     dependend = ""
 
@@ -970,8 +970,8 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.rpg-stats]
-    name = "rpg-stats"
+  [dependencies.rpgstats]
+    name = "rpgstats"
     version = "c79c0428509cd79d11e960c00ce659dc"
     type = "mod"
     ipfsHash = ""
@@ -992,31 +992,21 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "093e0f791d69313fd8c45de2ca4b9fdb"
+    version = "b96936e44de26ae888601a63b76d6de1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.45/voicechat-fabric-1.18.2-2.2.45.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.46/voicechat-fabric-1.18.2-2.2.46.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.skin-layers]
     name = "skin-layers"
-    version = "627292ac-6a98f"
+    version = "3158fddde07c77ba5fa27443d2c70057"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/3dskinlayers-fabric-1.4.4-mc1.18.2.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.skylor-lib]
-    name = "skylor-lib"
-    version = "6269227c-25cdf"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/skylorlib-1.3.34.jar"
+    url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.6-fabric-1.18/3dskinlayers-fabric-1.4.6-mc1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -1070,16 +1060,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.sound-muffler]
-    name = "sound-muffler"
-    version = "62a4e0c9-6cb6"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/sound-muffler-1.0.0-1.18.2.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.spark]
     name = "spark"
     version = "a3e1b5ef06b87f2ff0df5ca5dc7b40b2"
@@ -1092,11 +1072,11 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "62a9e4c4-2435bee"
+    version = "67fce1a606b5468ca44cea0f427a23a3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/spectrum-1.4.1-1.18.2-chaos_and_exploration.jar"
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.4.1/spectrum-1.4.1-1.18.2-chaos_and_exploration.jar"
     provider = "https"
     dependend = ""
 
@@ -1130,13 +1110,13 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.terra-blender]
-    name = "terra-blender"
-    version = "627a7bc1-4ad05"
+  [dependencies.terrablender]
+    name = "terrablender"
+    version = "62ab4c5b-4b1e7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/TerraBlender-fabric-1.18.2-1.1.0.99.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/TerraBlender-fabric-1.18.2-1.1.0.102.jar"
     provider = "https"
     dependend = ""
 
@@ -1160,8 +1140,8 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.tree-axe]
-    name = "tree-axe"
+  [dependencies.treeaxe]
+    name = "treeaxe"
     version = "62650d47-dd64"
     type = "mod"
     ipfsHash = ""
@@ -1180,8 +1160,8 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.villager-names]
-    name = "villager-names"
+  [dependencies.villagernames]
+    name = "villagernames"
     version = "6230557c-164f8c"
     type = "mod"
     ipfsHash = ""
