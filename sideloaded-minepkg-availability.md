@@ -9,6 +9,7 @@ Minepkg is, obviously, the preferred source for mods in `fettlol`. Unfortunately
 ```
 appleskin = "^2.2.0+1.18.mpkg.1"
 axesareweapons = "^1.5.1"
+bedspreads
 chat-heads = "^0.5.1+mpkg.1"
 cloth-config = "^6.1.48+mpkg.1"
 coloredslime = "^1.3.1"
@@ -20,12 +21,14 @@ fallingleaves = "^1.11.1"
 feature-nbt-deadlock-be-gone = "^1.0.1+mpkg.1"
 fettlol-utilmod = "^1.3.4"
 geckolib = "^3.0.23+1.18.mpkg.1"
+jamlib
 keepheadnames = "^1.5.1+1.18"
 mcf-easyfeed = "^1.3.0+1.18.mpkg.1"
 notenoughcrashes = "^4.1.3+1.18.mpkg.2"
 perfectaccuracy = "^1.2.0"
 polymorph = "^0.0.21+1.18.mpkg.1"
 reroll = "^1.2.1"
+rightclickharvest
 starlight = "^1.0.1+mpkg.1"
 taxfreelevels = "^1.3.0"
 ```
@@ -111,7 +114,6 @@ Modrinth is the second preferred source of mods in the `fettlol` modpack. This i
 
 Curseforge is, by far, the least favored place to get mods as it does not allow hotlinking directly to the JAR file, and their "Recently Updated" page has certain limitations that cause me to miss updates to mods at times. If any of these mods could be made available through minepkg (or, I suppose, Modrinth), I would quickly move to use that as a source instead.
 
-- `bedspreads` - v1.5.0 on Curseforge, highest version on minepkg is 1.3.1. **(no 1.18.x version on minepkg)**
 - `better-animals-plus` - **Not available on minepkg**.
 - `biome-makeover` - **Not available on minepkg**.
 - `blast` - **Not available on minepkg**.
@@ -122,12 +124,10 @@ Curseforge is, by far, the least favored place to get mods as it does not allow 
 - `ducts` - **Not available on minepkg**.
 - `entity-collision-fix` - **Not available on minepkg**.
 - `global-data-and-resourcepacks` - **Not available on minepkg**.
-- `jamlib` - **Not available on minepkg**.
 - `mcda` (AKA `mcdungeonsarmors`) - v2.0.6 on Curseforge, highest version on minepkg is 1.4.1. **(no 1.18.x version on minepkg)**
 - `mcdw` (AKA `mcdungeonsweapons`) - **Not available on minepkg**.
 - `more-berries` - **Not available on minepkg**.
 - `npcvariety` - v2.2.2.1 on Curseforge, highest version on minepkg is 2.0.0. **(no 1.18.x version on minepkg)**
-- `rightclickharvest` - v2.1.1 on Curseforge, highest version on minepkg is 1.5.0. **(no 1.18.x version on minepkg)**
 - `ring-of-attraction` - **Not available on minepkg**.
 - `sheep-consistency` - **Not available on minepkg**.
 - `slimy-floor` - **Not available on minepkg**.
@@ -141,4 +141,4 @@ Curseforge is, by far, the least favored place to get mods as it does not allow 
 
 # Other
 
-- `dye-all-the-things` - This mod was a one-off written by Fourmisain and is not available on any platform. Its code will most likely be incorporated in `fettlol-utilmod` at some point in the future.
+- `dye-all-the-things` - This mod was a one-off written by Fourmisain and is not available on any platform.

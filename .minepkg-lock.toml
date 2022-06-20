@@ -42,11 +42,11 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "7a1260022f7b2a6863783d82976404fa"
+    version = "ead7937adb1fb844f633be0cd8cee014"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.2/appliedenergistics2-11.1.2.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.3/appliedenergistics2-11.1.3.jar"
     provider = "https"
     dependend = ""
 
@@ -82,12 +82,12 @@ lockfileVersion = 1
 
   [dependencies.bedspreads]
     name = "bedspreads"
-    version = "61b529a9-11f33"
+    version = "1.5.0+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/bedspreads-fabric-1.5.0-1.18.jar"
-    provider = "https"
+    ipfsHash = "QmQd4mMpXwuyKu5nZR8tscCm5n77YrHeVTPFfekGDBM1TV"
+    Sha256 = "b97698b742c3c35970f0c0ff41700dac59777d90c92f5ad4c07332712d3e9c33"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/bedspreads@1.5.0+1.18.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.better-animals-plus]
@@ -167,6 +167,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.3.1+1.18.2/Capes-1.3.1%2B1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.caracal-mod]
+    name = "caracal-mod"
+    version = "fab7bbb7c2a74116c1d4bfb650aa555f"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/mLNfkt6W/versions/1.18.2-1.3.8/caracal-1.18.2-1.3.8.jar"
     provider = "https"
     dependend = ""
 
@@ -252,11 +262,11 @@ lockfileVersion = 1
 
   [dependencies.create]
     name = "create"
-    version = "7cdd676ff7968da470a08c99eb45c9ba"
+    version = "78f3146ac0f8aa8c7c1dc4c8f7748b56"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/mc1.18.2_v0.4.1+628/create-mc1.18.2_v0.4.1%2B628.jar"
+    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/mc1.18.2_v0.4.1+631/create-mc1.18.2_v0.4.1%2B631.jar"
     provider = "https"
     dependend = ""
 
@@ -412,11 +422,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "cd6d9f66a52a9b0b3f9e0051b9ee8e9f"
+    version = "620b4366b5c07e901af03b44055e6817"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.31-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.31-fabric.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.32-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -472,11 +482,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.56.0+1.18.mpkg.1"
+    version = "0.56.1+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = "QmYtgNwcEXUix9qorkZFy2qLBiMShqTBedWedyiCxbJ1fL"
-    Sha256 = "d378ec285dc8154f83d26904ee2399c1bcb83d480c62d120c104ac49c36f365c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.56.0+1.18.mpkg.1/download"
+    ipfsHash = "QmboC2zakaNNHFJnjXKxja5LnGEaC4uNziDtEceEfRwHEs"
+    Sha256 = "d6690beb93aa3354c4cd7f0212617f40c356f4abfa963ba39d2b47471b63d6fe"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.56.1+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -548,7 +558,7 @@ lockfileVersion = 1
     Sha256 = "671e639e4eba6199e6478961dee4c7fd25e23dbf7f347f9515f520b1317e1c77"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-lib@1.1.5/download"
     provider = "minepkg"
-    dependend = "fettlol-utilmod"
+    dependend = ""
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
@@ -572,11 +582,11 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.23+1.18.mpkg.1"
+    version = "3.0.47+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "2aba8c78c620f5abb51424a26f887952ad3c0cfb2bb570737b3e520bba906414"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.23+1.18.mpkg.1/download"
+    ipfsHash = "Qmex4cXQagvzbmEXgbhs7yXKL1fDZsXfCsZSofhdrzmN4q"
+    Sha256 = "9fd8cf115144fdd659d8cac22f24550550f8443352cbb375b2207e91da66461e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.47+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -612,11 +622,11 @@ lockfileVersion = 1
 
   [dependencies.indium]
     name = "indium"
-    version = "2e6c800eec890dbe101c77629aac7b08"
+    version = "3818b145d9c68bd1844155df628e0fee"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.3+mc1.18.2/indium-1.0.3%2Bmc1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.18.2/indium-1.0.6%2Bmc1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -652,12 +662,12 @@ lockfileVersion = 1
 
   [dependencies.jamlib]
     name = "jamlib"
-    version = "628c8aac-9412"
+    version = "0.0.5+mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/jam-lib-0.0.5.jar"
-    provider = "https"
+    ipfsHash = "QmaVeyBMcXzmc7f3whhkZ6G1jyt6DonCcmwtAZ53jbsPPH"
+    Sha256 = "e48a667d968268dcc27043df6237f6fa69233e45b74e892825ad611c63617e99"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/jamlib@0.0.5+mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.keepheadnames]
@@ -942,12 +952,12 @@ lockfileVersion = 1
 
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
-    version = "62ab49e5-100d9"
+    version = "2.1.1+0.mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/rightclickharvest-2.1.1.jar"
-    provider = "https"
+    ipfsHash = "QmYxrkCV9sf3ngSQyaN4CFgfQqpaqYJmjRFwEddG8NXBAG"
+    Sha256 = "93b1e1a51ff89b6de59b797e7251940010ea25f8ea2076c0145fdaf082df5340"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/rightclickharvest@2.1.1+0.mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.ring-of-attraction]
