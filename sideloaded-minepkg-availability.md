@@ -49,11 +49,13 @@ Modrinth is the second preferred source of mods in the `fettlol` modpack. This i
 - `better-f3` - v1.2.5.1 on Modrinth, highest version on minepkg is 1.1.3.
 - `better-recipe-book` - **Not available on minepkg**.
 - `biome-makeover` - **Not available on minepkg**.
+- `bluemap` - **Not available on minepkg**.
 - `blur` - v2.4.1 on Modrinth, highest version on minepkg is 2.4.0. **(no 1.18.x version on minepkg)**
 - `bobby` - **Not available on minepkg**.
 - `capes` - **Not available on minepkg**.
 - `charm` - v4.1.1 on Modrinth, highest version on minepkg is 2.3.2. **(no 1.18.x version on minepkg)**
 - `charmonium` - **Not available on minepkg**.
+- `chunky` - **Not available on minepkg**.
 - `copper-stuff` - **Not available on minepkg**.
 - `create-plus` - **Not available on minepkg**.
 - `create` - **Not available on minepkg**.

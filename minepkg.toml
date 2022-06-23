@@ -68,6 +68,7 @@ manifestVersion = 0
   extra-generators = "https://cdn.modrinth.com/data/VXtwLg17/versions/1.2.1-BETA+1.18/extra-generators-1.2.1-BETA%2B1.18.jar"
   fabric = "*"
   fabric-language-kotlin = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.2+kotlin.1.6.20/fabric-language-kotlin-1.7.2%2Bkotlin.1.6.20.jar"
+  ottercraft = "https://brekitomasson.com/fettlol/mods/1.18/Ottercraft-fabric-1.1.12.jar"
   fabric-waystones = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.4/wraith-waystones-2.5.4.jar"
   fallingleaves = "^1.11.1"
   feature-nbt-deadlock-be-gone = "^1.0.1+mpkg.1"

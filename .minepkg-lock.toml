@@ -520,16 +520,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.fabric-seasons]
-    name = "fabric-seasons"
-    version = "259c4289ad4eb51017d967b7872132c6"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/KJe6y9Eu/versions/1.4-BETA+1.18/fabric-seasons-1.4-BETA%2B1.18.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.fabric-waystones]
     name = "fabric-waystones"
     version = "9b9ab95cc066d76067651a681954c29a"
@@ -867,6 +857,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/npc-variety-1.18.2-2.2.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.ottercraft]
+    name = "ottercraft"
+    version = "62b46249-889c5"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/Ottercraft-fabric-1.1.12.jar"
     provider = "https"
     dependend = ""
 
