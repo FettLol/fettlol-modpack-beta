@@ -1150,16 +1150,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.thorium]
-    name = "thorium"
-    version = "110e199855c7b57036ec8d005142951b"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/ImUQFWcy/versions/1.2.1/thorium-1.2.1.jar"
-    provider = "https"
-    dependend = ""
-
   [dependencies.traverse]
     name = "traverse"
     version = "0daf6cadf570a24e85f060818d0a5b12"
