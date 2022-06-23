@@ -9,27 +9,27 @@ Minepkg is, obviously, the preferred source for mods in `fettlol`. Unfortunately
 ```
 appleskin = "^2.2.0+1.18.mpkg.1"
 axesareweapons = "^1.5.1"
-bedspreads
+bedspreads = "^1.5.0+1.18.mpkg.1"
 chat-heads = "^0.5.1+mpkg.1"
 cloth-config = "^6.1.48+mpkg.1"
 coloredslime = "^1.3.1"
 croptopia = "^1.8.2+1.18.2.mpkg.1.git.ea908a5"
 damagetilt = "^0.1.2+1.18.mpkg.1"
 dark-loading-screen = "^1.6.5+mpkg.1"
-dyeallthethings
+dyeallthethings = "^1.2.0"
 fabric = "*"
 fallingleaves = "^1.11.1"
 feature-nbt-deadlock-be-gone = "^1.0.1+mpkg.1"
 fettlol-utilmod = "^1.3.4"
 geckolib = "^3.0.23+1.18.mpkg.1"
-jamlib
+jamlib = "^0.0.5+mpkg.1"
 keepheadnames = "^1.5.1+1.18"
 mcf-easyfeed = "^1.3.0+1.18.mpkg.1"
 notenoughcrashes = "^4.1.3+1.18.mpkg.2"
 perfectaccuracy = "^1.2.0"
 polymorph = "^0.0.21+1.18.mpkg.1"
 reroll = "^1.2.1"
-rightclickharvest
+rightclickharvest = "^2.1.1+0.mpkg.1"
 starlight = "^1.0.1+mpkg.1"
 taxfreelevels = "^1.3.0"
 ```
@@ -41,6 +41,8 @@ Modrinth is the second preferred source of mods in the `fettlol` modpack. This i
 > Note that, due to licensing issues, *some* of the mods marked "Not available on minepkg" may not be elegible on minepkg until we convince the developer themselves to upload and maintain it.
 
 - `additional-additions` - **Not available on minepkg**.
+- `advancements-debug` - v2.3.0 on Modrinth, highest version on minepkg is 2.2.0. **(no 1.18.x version on minepkg)**
+- `alaska-nativecraft` - v1.4.4 on Modrinth, highest version on minepkg is 1.4.3.
 - `adorn` - v3.5 on Modrinth, highest version on minepkg is 3.3.1.
 - `applied-energistics` - v11.1.2 on Modrinth, highest version on minepkg is 8.4.0-alpha3. **(no 1.18.x version on minepkg)**
 - `architectury` - v4.5.74 on Modrinth, highest version on minepkg is 3.7.38.
@@ -65,6 +67,7 @@ Modrinth is the second preferred source of mods in the `fettlol` modpack. This i
 - `discerning-furnace` - v1.0.6 on Modrinth, highest version on minepkg is 1.0.3. **(no 1.18.x version on minepkg)**
 - `dynamic-asset-generator` - **Not available on minepkg**.
 - `eating-animation` - **Not available on minepkg**.
+- `earth2java` - v1.8.0 on Modrinth, highest version on minepkg is 1.7.4.
 - `ellemes-container-lib` - **Not available on minepkg**.
 - `emotecraft` - v2.1.3 on Modrinth, highest version on minepkg is 2.1.0. 
 - `enhanced-mob-spawners` - **Not available on minepkg**.

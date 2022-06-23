@@ -430,6 +430,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.earth2java]
+    name = "earth2java"
+    version = "9a50ab6190277c60e338583cc94dea85"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/D2Q91keW/versions/1.8.0/Earth2Java-1.8.0%2B1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.eating-animation]
     name = "eating-animation"
     version = "219c78b3ba508f5c1dd441541481037e"

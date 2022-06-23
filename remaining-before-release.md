@@ -15,11 +15,3 @@ I want this mod to be added to the modpack before release, but the current state
 ## Fettlol Utilmod / Fettlol Lib
 
 I need to go through the various chests added by mods and datapacks to ensure that the loot hooks being added by `utilmod` are correctly adding things to the correct chests.
-
-## Earth2Java
-
-I want to add this mod again, but the current default settings are broken as they do not contain the right biomes. Waiting to see if they release a fix or if I should just roll with the current version and change the configuration file myself.
-
-## Better Animals Plus
-
-I need to verify that the config file in the `defaultconfig` folder works as intended.
