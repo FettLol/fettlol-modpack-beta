@@ -30,6 +30,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.alaska-nativecraft]
+    name = "alaska-nativecraft"
+    version = "6c319428d905d39a17abf8793251f0c3"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/iFnEtHsI/versions/1.4.4/alaskanativecraft-1.4.4.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.appleskin]
     name = "appleskin"
     version = "2.2.0+1.18.mpkg.1"
@@ -52,11 +62,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "cceee618b9d31337637b341fef632bda"
+    version = "19601f4688469c8aab5ba3e6e0ef4e3b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.74+fabric/architectury-4.5.74-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.75+fabric/architectury-4.5.75-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -390,14 +400,14 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.dye-all-the-things]
-    name = "dye-all-the-things"
-    version = "61de1eb1-33c3"
+  [dependencies.dyeallthethings]
+    name = "dyeallthethings"
+    version = "1.2.0"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/DyeAllTheThings-1.1.jar"
-    provider = "https"
+    ipfsHash = "QmTbU16JrFH8DdbKxpDiKXUUxb6cDceRVbUj9h1dE6HCMM"
+    Sha256 = "2257056b1890bae6d2843d2cfc7c38206f54e294e49d2f91ff93279c9f2ca5e3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dyeallthethings@1.2.0/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.dynamic-asset-generator]
@@ -882,11 +892,11 @@ lockfileVersion = 1
 
   [dependencies.patchouli]
     name = "patchouli"
-    version = "b435de4669938e22fb7d569affb8deb4"
+    version = "474efa659baaae0642a27cecabe35565"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.18.2-70-fabric/Patchouli-1.18.2-70-FABRIC.jar"
+    url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/1.18.2-71-fabric/Patchouli-1.18.2-71-FABRIC.jar"
     provider = "https"
     dependend = ""
 
@@ -1142,11 +1152,11 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "d7df48898723cad73e1085900b102834"
+    version = "0daf6cadf570a24e85f060818d0a5b12"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.0.0-alpha.2/traverse-5.0.0-alpha.2.jar"
+    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.0-beta/traverse-5.1.0-beta.jar"
     provider = "https"
     dependend = ""
 

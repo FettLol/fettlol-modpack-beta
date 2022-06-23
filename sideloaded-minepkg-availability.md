@@ -16,6 +16,7 @@ coloredslime = "^1.3.1"
 croptopia = "^1.8.2+1.18.2.mpkg.1.git.ea908a5"
 damagetilt = "^0.1.2+1.18.mpkg.1"
 dark-loading-screen = "^1.6.5+mpkg.1"
+dyeallthethings
 fabric = "*"
 fallingleaves = "^1.11.1"
 feature-nbt-deadlock-be-gone = "^1.0.1+mpkg.1"
@@ -141,4 +142,3 @@ Curseforge is, by far, the least favored place to get mods as it does not allow 
 
 # Other
 
-- `dye-all-the-things` - This mod was a one-off written by Fourmisain and is not available on any platform.
