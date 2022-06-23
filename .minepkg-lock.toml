@@ -790,6 +790,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.miscatonic-mysteries]
+    name = "miscatonic-mysteries"
+    version = "62b1f616-2e0d7f"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/miskatonicmysteries-0.1.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.modmenu]
     name = "modmenu"
     version = "af8f96e0ecb9cbdc0f2b30c0fcc930eb"

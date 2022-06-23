@@ -144,3 +144,4 @@ Curseforge is, by far, the least favored place to get mods as it does not allow 
 
 # Other
 
+- `miskatonic-mysteries` - v0.1.0 Installed from artifact on github repository as mod is still in development.

@@ -19,6 +19,7 @@ manifestVersion = 0
 [dependencies]
   additional-additions = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.5/AdditionalAdditions-4.0.5.jar"
   adorn = "https://cdn.modrinth.com/data/E6FUtRJh/versions/3.5.0-fabric/Adorn-3.5.0%2B1.18.2-fabric.jar"
+  advancements-debug = "https://cdn.modrinth.com/data/rxMTwxyO/versions/2.3.0/advdebug-2.3.0.jar"
   alaska-nativecraft = "https://cdn.modrinth.com/data/iFnEtHsI/versions/1.4.4/alaskanativecraft-1.4.4.jar"
   appleskin = "^2.2.0+1.18.mpkg.1"
   applied-energistics = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.3/appliedenergistics2-11.1.3.jar"
