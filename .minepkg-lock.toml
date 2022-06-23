@@ -30,6 +30,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.advancements-debug]
+    name = "advancements-debug"
+    version = "ee67573ee874ab8d9e8e0b58c19bea21"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/rxMTwxyO/versions/2.3.0/advdebug-2.3.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.alaska-nativecraft]
     name = "alaska-nativecraft"
     version = "6c319428d905d39a17abf8793251f0c3"
@@ -788,16 +798,6 @@ lockfileVersion = 1
     Sha256 = "1184592fc170f13cce5e3b3bcae87282ed1a743b22b4e70e8f0d6beb082032db"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/minepkg-companion@0.5.1/download"
     provider = "minepkg"
-    dependend = ""
-
-  [dependencies.miscatonic-mysteries]
-    name = "miscatonic-mysteries"
-    version = "62b1f616-2e0d7f"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/miskatonicmysteries-0.1.0.jar"
-    provider = "https"
     dependend = ""
 
   [dependencies.modmenu]
