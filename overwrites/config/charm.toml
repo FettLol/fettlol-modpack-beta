@@ -167,17 +167,17 @@
 #A totem will work from anywhere in the player's inventory as well as held in the main or offhand.
 "TotemWorksFromInventory Enabled" = false
 #Barrels available in all types of vanilla wood.
-"VariantBarrels Enabled" = true
+"VariantBarrels Enabled" = false
 #Variant bars crafted from vanilla metal ingots.
 "VariantBars Enabled" = true
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves Enabled" = true
+"VariantBookshelves Enabled" = false
 #Variant chains crafted from vanilla metal ingots and nuggets.
 "VariantChains Enabled" = true
 #Chests available in all types of vanilla wood.
-"VariantChests Enabled" = true
+"VariantChests Enabled" = false
 #Ladders available in all types of vanilla wood.
-"VariantLadders Enabled" = true
+"VariantLadders Enabled" = false
 #Variants lanterns crafted from vanilla metal nuggets and torches.
 "VariantLanterns Enabled" = true
 #Mobs may spawn with different textures.
