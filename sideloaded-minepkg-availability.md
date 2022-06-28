@@ -16,7 +16,7 @@ coloredslime = "^1.3.1"
 croptopia = "^1.8.2+1.18.2.mpkg.1.git.ea908a5"
 damagetilt = "^0.1.2+1.18.mpkg.1"
 dark-loading-screen = "^1.6.5+mpkg.1"
-dyeallthethings = "^1.2.0"
+dyeallthethings = "^1.2.1"
 fabric = "*"
 fallingleaves = "^1.11.1"
 feature-nbt-deadlock-be-gone = "^1.0.1+mpkg.1"
@@ -41,13 +41,15 @@ Modrinth is the second preferred source of mods in the `fettlol` modpack. This i
 > Note that, due to licensing issues, *some* of the mods marked "Not available on minepkg" may not be elegible on minepkg until we convince the developer themselves to upload and maintain it.
 
 - `additional-additions` - **Not available on minepkg**.
+- `adorn` - v3.5.0 on Modrinth, highest version on minepkg is 3.3.1.
 - `advancements-debug` - v2.3.0 on Modrinth, highest version on minepkg is 2.2.0. **(no 1.18.x version on minepkg)**
 - `alaska-nativecraft` - v1.4.4 on Modrinth, highest version on minepkg is 1.4.3.
-- `adorn` - v3.5 on Modrinth, highest version on minepkg is 3.3.1.
 - `applied-energistics` - v11.1.2 on Modrinth, highest version on minepkg is 8.4.0-alpha3. **(no 1.18.x version on minepkg)**
 - `architectury` - v4.5.74 on Modrinth, highest version on minepkg is 3.7.38.
 - `bad-packets` - **Not available on minepkg**.
 - `better-beds` - v1.2 on Modrinth, highest version on minepkg is 1.1.0. **(no 1.18.x version on minepkg)**
+- `better-enchanted-books` - v1.3.1 on Modrinth, highest version on minepkg is 1.2.11. **(no 1.18.x version on minepkg)**
+- `better-safe-bed` - **Not available on minepkg**.
 - `better-f3` - v1.2.5.1 on Modrinth, highest version on minepkg is 1.1.3.
 - `better-recipe-book` - **Not available on minepkg**.
 - `biome-makeover` - **Not available on minepkg**.
