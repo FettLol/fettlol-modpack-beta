@@ -372,11 +372,11 @@ lockfileVersion = 1
 
   [dependencies.dawn-api]
     name = "dawn-api"
-    version = "89d938c67f289af5627b36cf47c750a8"
+    version = "64124dc2fe5fb52e9be259e07bdda260"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/meZK2DCX/versions/3.3.1/dawn-3.3.1.jar"
+    url = "https://cdn.modrinth.com/data/meZK2DCX/versions/3.3.2/dawn-3.3.2.jar"
     provider = "https"
     dependend = ""
 
@@ -1132,11 +1132,11 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "67fce1a606b5468ca44cea0f427a23a3"
+    version = "bee3b82ed3bf86f4c6dd1886ccb3f632"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.4.1/spectrum-1.4.1-1.18.2-chaos_and_exploration.jar"
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.4.2/spectrum-1.4.2-1.18.2-chaos_and_exploration.jar"
     provider = "https"
     dependend = ""
 
@@ -1177,6 +1177,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/TerraBlender-fabric-1.18.2-1.1.0.102.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.thorium]
+    name = "thorium"
+    version = "110e199855c7b57036ec8d005142951b"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/ImUQFWcy/versions/1.2.1/thorium-1.2.1.jar"
     provider = "https"
     dependend = ""
 
