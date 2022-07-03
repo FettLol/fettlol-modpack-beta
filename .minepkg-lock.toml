@@ -50,6 +50,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.amecs]
+    name = "amecs"
+    version = "122d5e3cc2a456112340129874ec6878"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/rcLriA4v/versions/1.3.8+mc.1.18.2/amecs-1.3.8%2Bmc.1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.appleskin]
     name = "appleskin"
     version = "2.2.0+1.18.mpkg.1"
@@ -72,11 +82,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "19601f4688469c8aab5ba3e6e0ef4e3b"
+    version = "d9eb4577fc0912bdb7d334ec7c831421"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.75+fabric/architectury-4.5.75-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.76+fabric/architectury-4.5.76-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -162,11 +172,11 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "a1bd62406cbdb1c54e81d2435b7c8cac"
+    version = "c7604bf203662f61d36f954e08b6c12a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/fabric-1.18.2-1.4.24/biomemakeover-FABRIC-1.18.2-1.4.24.jar"
+    url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/fabric-1.18.2-1.4.26/biomemakeover-FABRIC-1.18.2-1.4.26.jar"
     provider = "https"
     dependend = ""
 
@@ -532,11 +542,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.56.1+1.18.mpkg.1"
+    version = "0.57.0+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = "QmboC2zakaNNHFJnjXKxja5LnGEaC4uNziDtEceEfRwHEs"
-    Sha256 = "d6690beb93aa3354c4cd7f0212617f40c356f4abfa963ba39d2b47471b63d6fe"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.56.1+1.18.mpkg.1/download"
+    ipfsHash = "QmcKWGPZHEhUxwxXacgpbuYHxgRdYCnhgtnwyWVMJBVXHx"
+    Sha256 = "001925ee6635a8d8f99b1591ad8d455598657e80bd911e08e43ef3df71e2090e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.57.0+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -592,22 +602,32 @@ lockfileVersion = 1
 
   [dependencies.fettlol-lib]
     name = "fettlol-lib"
-    version = "1.1.5"
+    version = "1.1.6"
     type = "mod"
-    ipfsHash = "Qme9HuSmyPPJrfdHGvA195w4t8igVGAxKn9wFBuNzbDwwi"
-    Sha256 = "671e639e4eba6199e6478961dee4c7fd25e23dbf7f347f9515f520b1317e1c77"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-lib@1.1.5/download"
+    ipfsHash = "QmYBYXqHRHCb2pt4o1G7ADAFmrqJxhFtzMSfgifYzWpepD"
+    Sha256 = "a0c982687be1ce240b5294cdabfe4038a8a32ca1b6946eb66beb9d5214c450ec"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-lib@1.1.6/download"
     provider = "minepkg"
     dependend = "fettlol-utilmod"
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.3.4"
+    version = "1.4.0"
     type = "mod"
-    ipfsHash = "QmVBg2rfKA7381e53gF7JhrgqfyG9pvGpYRAnrYDJrj2QF"
-    Sha256 = "99343102314fedcd22d3dc479f04a96f33836493086c1654413e0fe4cf68f7a9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.3.4/download"
+    ipfsHash = "QmdbsueoNr6nuDkAhiEuN2enurWkRWTbCuGmD4v7zD3Jox"
+    Sha256 = "6bc0c9258bac7bd19f59d688a2b7e236abffdb70dcec50717bb9fa6cd9ec2e2e"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.4.0/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.fish-of-thieves]
+    name = "fish-of-thieves"
+    version = "46c9c14b8c7d00eef850a9f9a3e80731"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/1.0.7-fabric/fish_of_thieves-mc1.18.2-v1.0.7-fabric.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.flonters]
@@ -1052,11 +1072,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "b96936e44de26ae888601a63b76d6de1"
+    version = "accad560036e61ca1ee2cc961d642647"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.46/voicechat-fabric-1.18.2-2.2.46.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.47/voicechat-fabric-1.18.2-2.2.47.jar"
     provider = "https"
     dependend = ""
 
@@ -1267,6 +1287,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/wolves-with-armor-1.7.1-1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.yosbr]
+    name = "yosbr"
+    version = "16ed8b1ac6dd0c52390bec2192c90f1d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar"
     provider = "https"
     dependend = ""
 
