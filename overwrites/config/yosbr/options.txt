@@ -1,6 +1,6 @@
 version:2976
 autoJump:false
-autoSuggestions:false
+autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true

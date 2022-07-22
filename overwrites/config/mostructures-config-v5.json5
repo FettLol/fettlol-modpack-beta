@@ -17,12 +17,12 @@
   "structureConfigEntries": {
     "villager_tower": {
       "activated": true,
-      "separation": 55,
+      "separation": 65,
       "spacing": 100
     },
     "lighthouse": {
       "activated": true,
-      "separation": 50,
+      "separation": 60,
       "spacing": 90
     },
     "air_balloon": {
@@ -37,33 +37,33 @@
     },
     "jungle_pyramid": {
       "activated": true,
-      "separation": 39,
+      "separation": 49,
       "spacing": 93
     },
     "abandoned_church": {
       "activated": true,
-      "separation": 33,
+      "separation": 43,
       "spacing": 99
     },
     "barn_house": {
       "activated": true,
-      "separation": 13,
-      "spacing": 24
+      "separation": 23,
+      "spacing": 65
     },
     "pirate_ship": {
       "activated": true,
-      "separation": 66,
+      "separation": 76,
       "spacing": 99
     },
     "tavern": {
       "activated": true,
-      "separation": 44,
+      "separation": 54,
       "spacing": 77
     },
     "moai": {
       "activated": true,
-      "separation": 15,
-      "spacing": 17
+      "separation": 24,
+      "spacing": 40
     },
     "the_castle_in_the_sky": {
       "activated": false,
@@ -72,22 +72,22 @@
     },
     "ice_tower": {
       "activated": true,
-      "separation": 14,
-      "spacing": 22
+      "separation": 24,
+      "spacing": 62
     },
     "villager_market": {
       "activated": true,
-      "separation": 32,
+      "separation": 42,
       "spacing": 64
     },
     "big_pyramid": {
       "activated": true,
-      "separation": 64,
+      "separation": 74,
       "spacing": 200
     },
     "pillager_factory": {
       "activated": true,
-      "separation": 32,
+      "separation": 42,
       "spacing": 92
     }
   }

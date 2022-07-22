@@ -42,11 +42,11 @@ lockfileVersion = 1
 
   [dependencies.alaska-nativecraft]
     name = "alaska-nativecraft"
-    version = "6c319428d905d39a17abf8793251f0c3"
+    version = "d4e3193811757d03f803af79ef498f98"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/iFnEtHsI/versions/1.4.4/alaskanativecraft-1.4.4.jar"
+    url = "https://cdn.modrinth.com/data/iFnEtHsI/versions/1.4.6/alaskanativecraft-1.4.6.jar"
     provider = "https"
     dependend = ""
 
@@ -72,11 +72,11 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "ead7937adb1fb844f633be0cd8cee014"
+    version = "84e8112448342a387cc1ef11184864a9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.3/appliedenergistics2-11.1.3.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/fabric-11.1.4/appliedenergistics2-11.1.4.jar"
     provider = "https"
     dependend = ""
 
@@ -172,11 +172,11 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "c7604bf203662f61d36f954e08b6c12a"
+    version = "358a5455bae57e885e3d736c57c16c20"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/fabric-1.18.2-1.4.26/biomemakeover-FABRIC-1.18.2-1.4.26.jar"
+    url = "https://cdn.modrinth.com/data/jG8Q2YwT/versions/fabric-1.18.2-1.4.29/biomemakeover-FABRIC-1.18.2-1.4.29.jar"
     provider = "https"
     dependend = ""
 
@@ -227,6 +227,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/mLNfkt6W/versions/1.18.2-1.3.8/caracal-1.18.2-1.3.8.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.cats-expanded]
+    name = "cats-expanded"
+    version = "cf320c264f18a181021c52718f563010"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/FIzl2Jhk/versions/1.1.0/cats-expanded-1.1.0.jar"
     provider = "https"
     dependend = ""
 
@@ -307,6 +317,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/lpbVzEpa/versions/1.0.0/CopperStuff-1.18.2-1.0.0.1913186568.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.cosmetic-armor]
+    name = "cosmetic-armor"
+    version = "97c2966cfe65fcc5c6f99a96e22a4b9d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/JrIYhb1P/versions/1.3.1/CosmeticArmor-1.18.2-1.3.1.jar"
     provider = "https"
     dependend = ""
 
@@ -432,21 +452,21 @@ lockfileVersion = 1
 
   [dependencies.dyeallthethings]
     name = "dyeallthethings"
-    version = "1.2.1"
+    version = "1.3.0"
     type = "mod"
-    ipfsHash = "QmZBfyVdQm3EgKh47bZBePj2KXNkFfDTgzjFMcMgY6hhEB"
-    Sha256 = "0641340dfb9b4c8d7c4f715353d56406a101795487253c8a2d05fb2bdc39c1b9"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/dyeallthethings@1.2.1/download"
+    ipfsHash = "QmNmJNhxxp8RuTHvLBB8ZSAZAa6mqSm3JnYFebkttdmDzJ"
+    Sha256 = "c3dc3f8299aff885d4f47a8935cd5c787c2af8736bc6f08bd1503d183f8c535d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/dyeallthethings@1.3.0/download"
     provider = "minepkg"
     dependend = ""
 
   [dependencies.dynamic-asset-generator]
     name = "dynamic-asset-generator"
-    version = "7d7b9b95896d88f659fa0cfda17c0c4b"
+    version = "cf34ee121c7b10ef80af0ab3c029ff75"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/83pFEQVb/versions/0.6.1-fabric/dynamic_asset_generator-fabric-1.18.2-0.6.1.jar"
+    url = "https://cdn.modrinth.com/data/83pFEQVb/versions/0.6.2-fabric/dynamic_asset_generator-fabric-1.18.2-0.6.2.jar"
     provider = "https"
     dependend = ""
 
@@ -512,11 +532,11 @@ lockfileVersion = 1
 
   [dependencies.excavated-variants]
     name = "excavated-variants"
-    version = "4b5dd9848b8b81f3d879c58813611579"
+    version = "8df6bb380f568e3ee5337d281a7ee5bc"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/0.6.2-fabric/excavated_variants-fabric-1.18.2-0.6.2.jar"
+    url = "https://cdn.modrinth.com/data/IZaMGxb0/versions/0.6.4-fabric/excavated_variants-fabric-1.18.2-0.6.4.jar"
     provider = "https"
     dependend = ""
 
@@ -562,11 +582,11 @@ lockfileVersion = 1
 
   [dependencies.fabric-waystones]
     name = "fabric-waystones"
-    version = "9b9ab95cc066d76067651a681954c29a"
+    version = "a0bf6adcd89b37fc03d7d806ec31297f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.4/wraith-waystones-2.5.4.jar"
+    url = "https://cdn.modrinth.com/data/sTZr7NVo/versions/2.5.5+MC1.18.2/wraith-waystones-2.5.5%2Bmc1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -702,11 +722,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "ec463c72dfbf7e0ed991cd3335e3b6d2"
+    version = "ff2eca6ad9af3c63b16047255c12a9a3"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.5.3/InventoryProfilesNext-fabric-1.18.2-1.5.3.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.0/InventoryProfilesNext-fabric-1.18.2-1.6.0.jar"
     provider = "https"
     dependend = ""
 
@@ -848,6 +868,26 @@ lockfileVersion = 1
     Sha256 = "1184592fc170f13cce5e3b3bcae87282ed1a743b22b4e70e8f0d6beb082032db"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/minepkg-companion@0.5.1/download"
     provider = "minepkg"
+    dependend = ""
+
+  [dependencies.miskatonic-mysteries]
+    name = "miskatonic-mysteries"
+    version = "62d70912-2fc8d4"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/miskatonicmysteries-0.1.1.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.missing-wilds]
+    name = "missing-wilds"
+    version = "3cd7c682559042e7988d2d88a9899a85"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/Nw0MStSd/versions/v1.1.0-FABRIC/MissingWIlds-fabric-1.18.2-1.1.0.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.mob-farm-helpers]
@@ -1072,11 +1112,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "accad560036e61ca1ee2cc961d642647"
+    version = "576f5d07bb0edc40203dee6a3df0409f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.47/voicechat-fabric-1.18.2-2.2.47.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.52/voicechat-fabric-1.18.2-2.2.52.jar"
     provider = "https"
     dependend = ""
 
@@ -1132,11 +1172,11 @@ lockfileVersion = 1
 
   [dependencies.sodium-options]
     name = "sodium-options"
-    version = "38d799eba4da85b35f0bf32c530dcf76"
+    version = "b9d3d3450639c93eec50af9f9d244ea9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.2/reeses_sodium_options-mc1.18.2-1.4.2.jar"
+    url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.18.2-build.46.jar"
     provider = "https"
     dependend = ""
 
@@ -1212,11 +1252,11 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "0daf6cadf570a24e85f060818d0a5b12"
+    version = "c7b6013ee653234459dc46ecfc58d35e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.0-beta/traverse-5.1.0-beta.jar"
+    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.0/traverse-5.1.0.jar"
     provider = "https"
     dependend = ""
 
