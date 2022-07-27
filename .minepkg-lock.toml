@@ -82,11 +82,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "d9eb4577fc0912bdb7d334ec7c831421"
+    version = "a3b166e0aaca2ae26e4d19f765bb3afb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.5.76+fabric/architectury-4.5.76-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.6.77+fabric/architectury-4.6.77-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -232,11 +232,11 @@ lockfileVersion = 1
 
   [dependencies.cats-expanded]
     name = "cats-expanded"
-    version = "cf320c264f18a181021c52718f563010"
+    version = "59734517c4f6e9f7ce56c06f13fbed80"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/FIzl2Jhk/versions/1.1.0/cats-expanded-1.1.0.jar"
+    url = "https://cdn.modrinth.com/data/FIzl2Jhk/versions/1.1.0b+1.18.2/cats-expanded-1.1.0.jar"
     provider = "https"
     dependend = ""
 
@@ -382,11 +382,11 @@ lockfileVersion = 1
 
   [dependencies.dank-storage]
     name = "dank-storage"
-    version = "626922d6-303c2"
+    version = "62dce88d-3047e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.7.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.7.1.jar"
     provider = "https"
     dependend = ""
 
@@ -722,21 +722,21 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "ff2eca6ad9af3c63b16047255c12a9a3"
+    version = "8403948bffd438fc0d5ab65c8c2e9e34"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.0/InventoryProfilesNext-fabric-1.18.2-1.6.0.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.1/InventoryProfilesNext-fabric-1.18.2-1.6.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.iris]
     name = "iris"
-    version = "d5ec2a8babd0dbf95da81a7d7f9a3d15"
+    version = "ef7739927dcd8e8244276cd5f161e5cb"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.5/iris-mc1.18.2-1.2.5.jar"
+    url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar"
     provider = "https"
     dependend = ""
 
@@ -1162,11 +1162,11 @@ lockfileVersion = 1
 
   [dependencies.sodium-extra]
     name = "sodium-extra"
-    version = "2877d6d0e49b68a099e3836727c76b35"
+    version = "3b0f288a888078a0e84774521e2c2f57"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.3/sodium-extra-mc1.18.2-0.4.3.jar"
+    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.6/sodium-extra-0.4.6%2Bmc1.18.2-build.46.jar"
     provider = "https"
     dependend = ""
 
