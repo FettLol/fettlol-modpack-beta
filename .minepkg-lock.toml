@@ -1330,6 +1330,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.wired-redstone]
+    name = "wired-redstone"
+    version = "07f570e5e5d1bb53506cc3a4818bb6e2"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/lyYGrdho/versions/0.3.6+1.18.2/wired-redstone-0.3.6%2B1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.wolves-with-armor]
     name = "wolves-with-armor"
     version = "626922b3-278cf"
