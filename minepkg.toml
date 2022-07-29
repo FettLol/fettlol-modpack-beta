@@ -142,6 +142,7 @@ manifestVersion = 0
   traverse = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.0/traverse-5.1.0.jar"
   treeaxe = "https://brekitomasson.com/fettlol/mods/1.18/TreeAxe-Fabric-1.18.2-1.1.40.jar"
   trinkets = "https://cdn.modrinth.com/data/5aaWibi9/versions/3.3.1/trinkets-3.3.1.jar"
+  roughly-enough-items = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.519+fabric/RoughlyEnoughItems-8.3.519.jar"
   vanilla-degus = "https://brekitomasson.com/fettlol/mods/1.18/vanilla_degus-1.18.2-v1.3.0-fabric.jar"
   villagernames = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18.2-4.0.3.jar"
   visuality = "https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar"

@@ -1090,6 +1090,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.roughly-enough-items]
+    name = "roughly-enough-items"
+    version = "ef06eb3761f3356bd8fe1afd1f1dec9a"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.519+fabric/RoughlyEnoughItems-8.3.519.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.rpgstats]
     name = "rpgstats"
     version = "c79c0428509cd79d11e960c00ce659dc"
