@@ -628,7 +628,7 @@ lockfileVersion = 1
     Sha256 = "a0c982687be1ce240b5294cdabfe4038a8a32ca1b6946eb66beb9d5214c450ec"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-lib@1.1.6/download"
     provider = "minepkg"
-    dependend = "fettlol-utilmod"
+    dependend = ""
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
@@ -1098,6 +1098,26 @@ lockfileVersion = 1
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.519+fabric/RoughlyEnoughItems-8.3.519.jar"
     provider = "https"
+    dependend = ""
+
+  [dependencies.roughlyenoughitems]
+    name = "roughlyenoughitems"
+    version = "8.0.442+mpkg.1"
+    type = "mod"
+    ipfsHash = "QmTwLCU94pSkHADMbszf93uHXWZaPA9Qwnu9RujrtyHhb5"
+    Sha256 = "a3911c18acc644ae24e866f44d2d3d34e11e8d1a9005b5586c15c711b43f7991"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@8.0.442+mpkg.1/download"
+    provider = "minepkg"
+    dependend = ""
+
+  [dependencies.roughlyenoughresources]
+    name = "roughlyenoughresources"
+    version = "2.5.1+mpkg.1"
+    type = "mod"
+    ipfsHash = "QmVsKE2UggoPRARza5M7bMamopeVYmgwSj6btKX1QK75Sb"
+    Sha256 = "26087827ec2ea3525e0194c9a7297fefd8953290ec2ff41dcfe5cbf4921df945"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughresources@2.5.1+mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.rpgstats]

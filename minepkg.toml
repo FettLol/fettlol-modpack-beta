@@ -124,6 +124,7 @@ manifestVersion = 0
   rightclickharvest = "^2.1.1+0.mpkg.1"
   ring-of-attraction = "https://brekitomasson.com/fettlol/mods/1.18/RingOfAttraction-Fabric-1.18.2-1.2.24.jar"
   roughly-enough-items = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.519+fabric/RoughlyEnoughItems-8.3.519.jar"
+  roughlyenoughresources = "^2.5.1+mpkg.1"
   rpgstats = "https://cdn.modrinth.com/data/8RtckdKf/versions/4.3.12/rpgstats-4.3.12%2B1.18.2.jar"
   sheep-consistency = "https://brekitomasson.com/fettlol/mods/1.18/sheepconsistency-1.0.4.jar"
   simple-voice-chat = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.2.52/voicechat-fabric-1.18.2-2.2.52.jar"
