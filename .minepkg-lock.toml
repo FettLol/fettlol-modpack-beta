@@ -5,8 +5,8 @@ lockfileVersion = 1
 
 [fabric]
   minecraft = "1.18.2"
-  fabricLoader = "0.14.7"
-  mapping = "1.18.2+build.3"
+  fabricLoader = "0.14.8"
+  mapping = "1.18.2+build.4"
 
 [dependencies]
 
@@ -82,11 +82,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "a3b166e0aaca2ae26e4d19f765bb3afb"
+    version = "d343ea1f45646a964a5110f404dd9f78"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.6.77+fabric/architectury-4.6.77-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.7.78+fabric/architectury-4.7.78-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -562,11 +562,11 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.57.0+1.18.mpkg.1"
+    version = "0.58.0+1.18.mpkg.1"
     type = "mod"
-    ipfsHash = "QmcKWGPZHEhUxwxXacgpbuYHxgRdYCnhgtnwyWVMJBVXHx"
-    Sha256 = "001925ee6635a8d8f99b1591ad8d455598657e80bd911e08e43ef3df71e2090e"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.57.0+1.18.mpkg.1/download"
+    ipfsHash = "QmXFQFDpq7LNApx92aibh7L1ws7FuAM8vovMLLVpUWR2zw"
+    Sha256 = "a4088a149c8d7dc0bca457a3ce6ba8a14995eb0de9880f3adaa3e08ca89ec8ad"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.58.0+1.18.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -872,11 +872,11 @@ lockfileVersion = 1
 
   [dependencies.miskatonic-mysteries]
     name = "miskatonic-mysteries"
-    version = "62d70912-2fc8d4"
+    version = "62e78c6f-316e82"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/miskatonicmysteries-0.1.1.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/miskatonicmysteries-0.1.2.jar"
     provider = "https"
     dependend = ""
 
@@ -1347,6 +1347,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/wolves-with-armor-1.7.1-1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.xaeros-worldmap]
+    name = "xaeros-worldmap"
+    version = "62e78ca4-b33e8"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/XaerosWorldMap_1.26.1_Fabric_1.18.2.jar"
     provider = "https"
     dependend = ""
 
