@@ -710,6 +710,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.indypets]
+    name = "indypets"
+    version = "1.0.0"
+    type = "mod"
+    ipfsHash = "QmR5cMNzBSUuSeSYbLQe2Vn9C8iPpfpc8Afumaup8nU6j8"
+    Sha256 = "97a801128e2532fbeabd71b81e3eec2d522d5892b3efda1c33991ea03e9d66c3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/indypets@1.0.0/download"
+    provider = "minepkg"
+    dependend = ""
+
   [dependencies.infinity-water-bucket]
     name = "infinity-water-bucket"
     version = "4d91226131e65cfd91c2e08eeef1b608"
@@ -1100,26 +1110,6 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.roughlyenoughitems]
-    name = "roughlyenoughitems"
-    version = "8.0.442+mpkg.1"
-    type = "mod"
-    ipfsHash = "QmTwLCU94pSkHADMbszf93uHXWZaPA9Qwnu9RujrtyHhb5"
-    Sha256 = "a3911c18acc644ae24e866f44d2d3d34e11e8d1a9005b5586c15c711b43f7991"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@8.0.442+mpkg.1/download"
-    provider = "minepkg"
-    dependend = "roughlyenoughresources"
-
-  [dependencies.roughlyenoughresources]
-    name = "roughlyenoughresources"
-    version = "2.5.1+mpkg.1"
-    type = "mod"
-    ipfsHash = "QmVsKE2UggoPRARza5M7bMamopeVYmgwSj6btKX1QK75Sb"
-    Sha256 = "26087827ec2ea3525e0194c9a7297fefd8953290ec2ff41dcfe5cbf4921df945"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughresources@2.5.1+mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.rpgstats]
     name = "rpgstats"
     version = "c79c0428509cd79d11e960c00ce659dc"
@@ -1292,11 +1282,11 @@ lockfileVersion = 1
 
   [dependencies.treeaxe]
     name = "treeaxe"
-    version = "62650d47-dd64"
+    version = "62e78c38-e1a4"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/TreeAxe-Fabric-1.18.2-1.1.40.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/TreeAxe-Fabric-1.18.2-1.1.42.jar"
     provider = "https"
     dependend = ""
 

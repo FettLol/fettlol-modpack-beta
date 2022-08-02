@@ -14,7 +14,7 @@ manifestVersion = 0
 # These are global requirements
 [requirements]
   minecraft = "1.18.2"
-  fabricLoader = "^0.14.7"
+  fabricLoader = "^0.14.8"
 
 [dependencies]
   additional-additions = "https://cdn.modrinth.com/data/R4TvILfj/versions/4.0.5/AdditionalAdditions-4.0.5.jar"
@@ -86,6 +86,7 @@ manifestVersion = 0
   grizzlybear-mob = "https://cdn.modrinth.com/data/x6nc2i5M/versions/1.18.2-1.3/grizzlybear-1.18-1.3.jar"
   horsestatsvanilla = "https://cdn.modrinth.com/data/l4qoXLzx/versions/4.1.10/horse-stats-vanilla-4.1.10.jar"
   indium = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.18.2/indium-1.0.6%2Bmc1.18.2.jar"
+  indypets = "^1.0.0"
   infinity-water-bucket = "https://cdn.modrinth.com/data/nNMXZUPi/versions/1.18.1-2.0.0/Infinity-Water-Bucket-Fabric-1.18.1-2.0.0.jar"
   inventory-profiles-next = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.1/InventoryProfilesNext-fabric-1.18.2-1.6.1.jar"
   iris = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar"
@@ -141,7 +142,7 @@ manifestVersion = 0
   terrablender = "https://brekitomasson.com/fettlol/mods/1.18/TerraBlender-fabric-1.18.2-1.1.0.102.jar"
   thorium = "https://cdn.modrinth.com/data/ImUQFWcy/versions/1.2.1/thorium-1.2.1.jar"
   traverse = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.0/traverse-5.1.0.jar"
-  treeaxe = "https://brekitomasson.com/fettlol/mods/1.18/TreeAxe-Fabric-1.18.2-1.1.40.jar"
+  treeaxe = "https://brekitomasson.com/fettlol/mods/1.18/TreeAxe-Fabric-1.18.2-1.1.42.jar"
   trinkets = "https://cdn.modrinth.com/data/5aaWibi9/versions/3.3.1/trinkets-3.3.1.jar"
   vanilla-degus = "https://brekitomasson.com/fettlol/mods/1.18/vanilla_degus-1.18.2-v1.3.0-fabric.jar"
   villagernames = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18.2-4.0.3.jar"
