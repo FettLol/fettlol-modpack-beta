@@ -620,23 +620,13 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.fettlol-lib]
-    name = "fettlol-lib"
-    version = "1.1.6"
-    type = "mod"
-    ipfsHash = "QmYBYXqHRHCb2pt4o1G7ADAFmrqJxhFtzMSfgifYzWpepD"
-    Sha256 = "a0c982687be1ce240b5294cdabfe4038a8a32ca1b6946eb66beb9d5214c450ec"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-lib@1.1.6/download"
-    provider = "minepkg"
-    dependend = "fettlol-utilmod"
-
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.4.0"
+    version = "1.5.0"
     type = "mod"
-    ipfsHash = "QmdbsueoNr6nuDkAhiEuN2enurWkRWTbCuGmD4v7zD3Jox"
-    Sha256 = "6bc0c9258bac7bd19f59d688a2b7e236abffdb70dcec50717bb9fa6cd9ec2e2e"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.4.0/download"
+    ipfsHash = "QmSmYyCmk7AKYiqx8ed8q8YenjBydaBD7haXeqaQ64qkvh"
+    Sha256 = "9126eae6e5a56cf24342eccf9a56eac4bd2baeba87b6ce4e48e33c077263b2b5"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.0/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1118,7 +1108,7 @@ lockfileVersion = 1
     Sha256 = "b8cd01cc5ab8efe50cdd8209eca5784bfba8a6c8982b5729f4320e717abd1e3b"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@8.3.519+mpkg.1/download"
     provider = "minepkg"
-    dependend = "roughlyenoughresources"
+    dependend = ""
 
   [dependencies.roughlyenoughresources]
     name = "roughlyenoughresources"
