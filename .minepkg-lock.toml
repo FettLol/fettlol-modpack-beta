@@ -1108,7 +1108,7 @@ lockfileVersion = 1
     Sha256 = "b8cd01cc5ab8efe50cdd8209eca5784bfba8a6c8982b5729f4320e717abd1e3b"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@8.3.519+mpkg.1/download"
     provider = "minepkg"
-    dependend = ""
+    dependend = "roughlyenoughresources"
 
   [dependencies.roughlyenoughresources]
     name = "roughlyenoughresources"

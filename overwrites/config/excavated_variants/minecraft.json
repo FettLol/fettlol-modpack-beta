@@ -23,8 +23,8 @@
         "stone"
       ],
       "id": "andesite",
-      "en_name": "Andesite",
-      "texture_count": 15,
+      "texture_count": 20,
+      "en_name": "Andesite"
     },
     {
       "block_id": "minecraft:diorite",
