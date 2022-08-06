@@ -242,11 +242,11 @@ lockfileVersion = 1
 
   [dependencies.charm]
     name = "charm"
-    version = "b47da20c9dfc090c4e9a31e7f7486ae1"
+    version = "e7147f28ba5c74003f84455de58ee8a1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.1.1/charm-fabric-1.18.2-4.1.1.jar"
+    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/4.2.0+1.18.2/charm-fabric-1.18.2-4.2.0.jar"
     provider = "https"
     dependend = ""
 
@@ -722,11 +722,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "8403948bffd438fc0d5ab65c8c2e9e34"
+    version = "c86726865c5b19fc93536252d2c312a0"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.1/InventoryProfilesNext-fabric-1.18.2-1.6.1.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.3/InventoryProfilesNext-fabric-1.18.2-1.6.3.jar"
     provider = "https"
     dependend = ""
 
@@ -1272,11 +1272,11 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "c7b6013ee653234459dc46ecfc58d35e"
+    version = "69aa8c777635390412e5edd8d1676e9f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.0/traverse-5.1.0.jar"
+    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.1/traverse-5.1.1.jar"
     provider = "https"
     dependend = ""
 

@@ -25,6 +25,8 @@
 "BlockOfGunpowder Enabled" = true
 #A storage block for sugar. It obeys gravity and dissolves in water.
 "BlockOfSugar Enabled" = true
+#Bookcases hold up to 9 stacks of books, paper and maps.
+"Bookcases Enabled" = true
 #Integration with Bumblezone.
 "BumblezoneIntegration Enabled" = true
 #Cave spiders have a chance to drop cobwebs when killed.
@@ -39,6 +41,8 @@
 "CollectionEnchantment Enabled" = true
 #Allows bundles to be dyed.
 "ColoredBundles Enabled" = true
+#Throw dye into a nether portal to change its color.
+"ColoredNetherPortals Enabled" = true
 #Shows cardinal points and XYZ coordinates when holding a compass.
 "CompassOverlay Enabled" = true
 #Coral can be combined with sea lanterns to make colored variants.
@@ -47,6 +51,8 @@
 "CoralSquids Enabled" = true
 #Playing a music disc in a jukebox prevents background music from playing at the same time.
 "DiscsStopBackgroundMusic Enabled" = true
+#Ebony is a very dark grey wood. Saplings can be found in Woodland Mansion chests.
+"EbonyWood Enabled" = true
 #Right-click on a sign with an empty hand to edit its text.
 "EditableSigns Enabled" = true
 #Endermites drop endermite powder that can be used to locate an End City.
@@ -186,6 +192,8 @@
 "VillagersFollowEmeraldBlocks Enabled" = false
 #Wandering traders have a chance to sell maps to distant structures.
 "WanderingTraderMaps Enabled" = true
+#Iron rusts when in contact with water.
+"WeatheringIron Enabled" = true
 #A witch has a chance to drop a Potion of Luck when killed by a player.
 "WitchesDropLuck Enabled" = true
 #A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
@@ -214,6 +222,10 @@
 	"Chorus fruit teleport" = true
 	#If true, a silverfish has a chance to be converted into an endermite when it is next to an ender pearl block.
 	"Convert silverfish to endermite" = true
+
+[Bookcases]
+	#Items that may be placed in bookcases.
+	"Valid items" = ["minecraft:book", "minecraft:enchanted_book", "minecraft:written_book", "minecraft:writable_book", "minecraft:knowledge_book", "minecraft:paper", "minecraft:map", "minecraft:filled_map"]
 
 [CaveSpidersDropCobwebs]
 	#Maximum cobwebs dropped when cave spider is killed.
@@ -323,10 +335,6 @@
 	#If true, a player or mob will trample crops unless wearing boots with feather falling enchantment.
 	"Require feather falling" = false
 
-[PlayerState]
-	#Interval (in ticks) on which additional player state will be synchronised to the client.
-	"Server state update interval" = 120
-
 [PortableCrafting]
 	#If true, sets a keybind for opening the portable crafting table (defaults to 'v').
 	"Enable keybind" = true
@@ -377,14 +385,16 @@
 	"Maximum drops" = 2
 
 [TotemOfPreserving]
-	#A list of game difficulties in which totems will behave in 'Grave mode'.
-	#In Grave mode, a totem will be dropped on death even if the player doesn't have an empty totem in their inventory.
-	"Grave mode game difficulties" = ["peaceful", "easy"]
+	#If true, a new totem will be spawned to preserve items upon dying.
+	#Players do NOT need to be holding a Totem of Preserving.
+	"Grave mode" = true
+	#If true, only the owner of the totem may pick it up.
+	"Owner only" = false
 	#Mobs that have a chance to drop a totem of preserving.
-	#This does not apply if Grave mode is active for the current game difficulty. See 'Grave mode game difficulties' to configure this.
+	#This does not apply if Grave mode is true.
 	"Mobs drop totems" = ["entities/witch", "entities/pillager"]
 	#Chest loot tables that will always contain a totem of preserving.
-	#This does not apply if Grave mode is active for the current game difficulty. See 'Grave mode game difficulties' to configure this.
+	#This does not apply if Grave mode is true.
 	"Chests contain totems" = ["chests/pillager_outpost", "chests/woodland_mansion"]
 	#If true, the totem will preserve the player's experience and restore when broken.
 	"Preserve XP" = false
@@ -396,6 +406,8 @@
 	"Variant cows" = true
 	#If true, chickens may spawn with different textures.
 	"Variant chickens" = true
+	#If true, dolphins may spawn with different textures.
+	"Variant dolphins" = true
 	#If true, pigs may spawn with different textures.
 	"Variant pigs" = true
 	#If true, sheep face and 'shorn' textures match their wool color.
@@ -404,20 +416,34 @@
 	"Variant snow golems" = true
 	#If true, squids may spawn with different textures.
 	"Variant squids" = true
+	#If true, turtles may spawn with different textures.
+	"Variant turtles" = true
 	#If true, wolves may spawn with different textures.
 	"Variant wolves" = true
+	#If true, wandering traders may spawn with different textures.
+	"Variant wandering traders" = true
 	#If true, all animals have a chance to spawn as a rare variant.
 	"Rare variants" = true
 	#Approximately 1 in X chance of a mob spawning as a rare variant.
 	"Rarity of rare variants" = 666
 
 [WanderingTraderMaps]
-	#List of structure IDs and structure tags.
-	Structures = ["#minecraft:village", "#minecraft:mineshaft", "minecraft:swamp_hut", "minecraft:igloo"]
-	#List of rarer structure IDs and structure tags.
+	#List of structure tags.
+	"Maps to structures" = ["minecraft:village", "minecraft:mineshaft", "charm:swamp_hut", "charm:igloo"]
+	#List of rarer structure tags.
 	#These are more expensive and less likely to be sold.
-	"Rare structures" = ["minecraft:desert_pyramid", "minecraft:jungle_temple", "#minecraft:ocean_ruin"]
+	"Maps to rare structures" = ["charm:desert_pyramid", "charm:jungle_temple", "minecraft:ocean_ruin"]
 
+[WeatheringIron]
+	#The chance of weathering increases according to the number of block faces touching water.
+	"Faces increase weathering" = true
+	#When more than one block face is touching water, weathering chance increases by this amount per face.
+	"Face multiplier" = 0.008
+	#Chance (out of 1.0) of a block being considered for weathering.
+	"Weathering chance" = 0.006
+	#When a block is above a bubble column, weathering chance is multiplied by this value.
+	"Bubble column chance multiplier" = 4.0
+	
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.
 	"Drop chance" = 0.05

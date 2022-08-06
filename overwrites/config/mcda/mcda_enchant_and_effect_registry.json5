@@ -14,9 +14,9 @@
 		"LUCKY_EXPLORER": false,
 		"POISON_FOCUS": false,
 		"POTION_BARRIER": false,
-		"RECKLESS": true,
-		"RECYCLER": false,
-		"SNOWBALL": false,
+		"RECKLESS": false,
+		"RECYCLER": true,
+		"SNOWBALL": true,
 		"SURPRISE_GIFT": false,
 		"SWIFTFOOTED": true
 	},
