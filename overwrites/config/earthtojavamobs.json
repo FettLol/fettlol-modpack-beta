@@ -4,7 +4,7 @@
     "mudLakeFrequency": 25
   },
   "albinoCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -24,7 +24,7 @@
     ]
   },
   "ashenCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -81,7 +81,7 @@
     ]
   },
   "cookieCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -92,7 +92,7 @@
     ]
   },
   "creamCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -105,7 +105,7 @@
     ]
   },
   "dairyCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -360,7 +360,7 @@
     ]
   },
   "pintoCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -448,7 +448,7 @@
     ]
   },
   "sunsetCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
@@ -496,7 +496,7 @@
     ]
   },
   "woolyCow": {
-    "spawn": true,
+    "spawn": false,
     "weight": 8,
     "groupMin": 2,
     "groupMax": 4,
