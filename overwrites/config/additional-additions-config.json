@@ -1,8 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "GildedNetherite": true,
   "Wrench": false,
-  "AmethystLamp": false,
   "NoteBlockAmethystSounds": true,
   "EnchantmentPrecision": false,
   "EnchantmentSpeed": false,
@@ -15,7 +14,6 @@
   "Crossbows": true,
   "MusicDiscs": true,
   "RoseGold": true,
-  "Potions": false,
   "WateringCan": false,
   "CopperPatina": false,
   "Ropes": true,
@@ -28,7 +26,7 @@
     "HoneyedApple": true
   },
   "DepthMeter": {
-    "enabled": true,
+    "enabled": false,
     "displayElevationAlways": false
   },
   "GlowBerryEatGlow": {
@@ -36,5 +34,9 @@
     "duration": 5
   },
   "HastePotions": true,
-  "BundleRecipe": true
+  "BundleRecipe": true,
+  "AmethystLamp": {
+    "enabled": true,
+    "despawnChance": 0.5
+  }
 }

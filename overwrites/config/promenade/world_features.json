@@ -1,6 +1,6 @@
 {
   "witch_huts": true,
   "igneous_rock_patches": true,
-  "palms": false,
+  "palms": true,
   "blueberry_bushes": false
 }

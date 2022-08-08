@@ -622,11 +622,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.5.0"
+    version = "1.5.1"
     type = "mod"
-    ipfsHash = "QmSmYyCmk7AKYiqx8ed8q8YenjBydaBD7haXeqaQ64qkvh"
-    Sha256 = "9126eae6e5a56cf24342eccf9a56eac4bd2baeba87b6ce4e48e33c077263b2b5"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.0/download"
+    ipfsHash = "QmPvNSTBTh7dCtq5yPQGCrwZ91MRCTa5qUKMMHWAsssPSx"
+    Sha256 = "c77985658859a2877ad1c5804241d1f6ad2e5942b36590773092c39709be36a8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1142,11 +1142,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "058f93ef976d2765a8dc2e05ee33270f"
+    version = "f634ba794f4bc3665ea65f365369a257"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.3.1/voicechat-fabric-1.18.2-2.3.1.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.3.2/voicechat-fabric-1.18.2-2.3.2.jar"
     provider = "https"
     dependend = ""
 
