@@ -7,7 +7,7 @@
   "villagerTextFormatting": "WHITE",
   "childNames": false,
   "turnOffVillagerConsoleSpam": false,
-  "wanderingTraderNames": true,
+  "wanderingTraderNames": false,
   "wanderingTraderText": "Wandering Trader",
   "surNames": true,
   "reverseLastNames": false,
