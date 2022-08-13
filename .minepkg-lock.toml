@@ -82,11 +82,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "d343ea1f45646a964a5110f404dd9f78"
+    version = "4fdbb7951b76d143b48d637e14204566"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.7.78+fabric/architectury-4.7.78-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.9.83+fabric/architectury-4.9.83-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -502,11 +502,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "620b4366b5c07e901af03b44055e6817"
+    version = "9fe26fc8fed7acbaf5757e93c02836f5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.1.3-SNAPSHOT-build.32-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.1.3-SNAPSHOT-build.32-fabric.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.35-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -862,11 +862,11 @@ lockfileVersion = 1
 
   [dependencies.minepkg-companion]
     name = "minepkg-companion"
-    version = "0.5.1"
+    version = "0.6.0"
     type = "mod"
-    ipfsHash = "QmTEXDsrpysTEUJQRzBqMn5pZZ8Jwt8kmgrmvv4yRXmq7x"
-    Sha256 = "1184592fc170f13cce5e3b3bcae87282ed1a743b22b4e70e8f0d6beb082032db"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/minepkg-companion@0.5.1/download"
+    ipfsHash = "QmewRQVQmfqwydg6bCoMYdrw3Nr357WyRx2sex4GgbPLga"
+    Sha256 = "4775e1aca2dab43230dbeb79ff4c953e77238c81e12f84db902980e3adb8536d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/minepkg-companion@0.6.0/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1070,6 +1070,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.revelationary]
+    name = "revelationary"
+    version = "8e8ffb32c51ce9eba8c7b99574cb377d"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/1.0.0/revelationary-1.0.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
     version = "8c75d7269fc4f73a5f6c44fb03bec325"
@@ -1092,11 +1102,11 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "ef06eb3761f3356bd8fe1afd1f1dec9a"
+    version = "7e794d856f1eca75530afd430de9780e"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.519+fabric/RoughlyEnoughItems-8.3.519.jar"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.525+fabric/RoughlyEnoughItems-8.3.525.jar"
     provider = "https"
     dependend = ""
 
@@ -1142,11 +1152,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "f634ba794f4bc3665ea65f365369a257"
+    version = "10cfcc03435eff4a7bc6408320af8bca"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.3.2/voicechat-fabric-1.18.2-2.3.2.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/fabric-1.18.2-2.3.5/voicechat-fabric-1.18.2-2.3.5.jar"
     provider = "https"
     dependend = ""
 
@@ -1202,11 +1212,11 @@ lockfileVersion = 1
 
   [dependencies.sodium-options]
     name = "sodium-options"
-    version = "b9d3d3450639c93eec50af9f9d244ea9"
+    version = "0af9acc8fc4c893be8edb4307983a301"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.18.2-build.46.jar"
+    url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar"
     provider = "https"
     dependend = ""
 
@@ -1222,11 +1232,11 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "bee3b82ed3bf86f4c6dd1886ccb3f632"
+    version = "f32ba8abbe9586611484e26b05ab6ef1"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.4.2/spectrum-1.4.2-1.18.2-chaos_and_exploration.jar"
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/1.5.0/spectrum-1.5.0-1.18.2-magic.jar"
     provider = "https"
     dependend = ""
 
@@ -1242,11 +1252,11 @@ lockfileVersion = 1
 
   [dependencies.taxfreelevels]
     name = "taxfreelevels"
-    version = "1.3.0"
+    version = "1.3.3"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = "88ef7e2b1d12c25757d6a4bf756f790c3e13e8c7b897808cca350d86df8be7c8"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.3.0/download"
+    ipfsHash = "QmTeaCc1Hni6T3eVZsZQLyixZVrsyGPQwi5nFVHBnFeEza"
+    Sha256 = "726cc897d098acfc81c98819025646a5456dbe0f259cb2c738e8ba44ba47c7c8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.3.3/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1282,11 +1292,11 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "69aa8c777635390412e5edd8d1676e9f"
+    version = "1c71d24abb49585bddad8265c6a2d351"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.1/traverse-5.1.1.jar"
+    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.2/traverse-5.1.2.jar"
     provider = "https"
     dependend = ""
 
