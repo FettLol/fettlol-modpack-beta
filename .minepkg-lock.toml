@@ -332,11 +332,11 @@ lockfileVersion = 1
 
   [dependencies.create]
     name = "create"
-    version = "c09fd84eaf7f50c855181cf396b35f92"
+    version = "63c8bdfe1b97b5dc28938d23f9c85366"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/mc1.18.2_v0.4.1+637/create-mc1.18.2_v0.4.1%2B637.jar"
+    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/create-1.18.2-0.5.0c-708/create-1.18.2-0.5.0c-708.jar"
     provider = "https"
     dependend = ""
 
@@ -502,11 +502,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "9fe26fc8fed7acbaf5757e93c02836f5"
+    version = "9693a5eb4036226bebf6482a5c4fde54"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.35-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.35-fabric.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/2.2.0-SNAPSHOT-build.37-MC1.18.2-fabric/emotecraft-for-MC1.18.2-2.2.0-SNAPSHOT-build.37-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -622,11 +622,11 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.5.1"
+    version = "1.5.3"
     type = "mod"
-    ipfsHash = "QmPvNSTBTh7dCtq5yPQGCrwZ91MRCTa5qUKMMHWAsssPSx"
-    Sha256 = "c77985658859a2877ad1c5804241d1f6ad2e5942b36590773092c39709be36a8"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.1/download"
+    ipfsHash = "QmYkAkPtv7P7JtRSnX79NnDR1VXz8RaCQNB8py1gMvB6ue"
+    Sha256 = "4bf14839ec4d49792efbdf03420e08e63a07ebbdbec6c7cc30f837be9e061bd1"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.3/download"
     provider = "minepkg"
     dependend = ""
 
@@ -722,11 +722,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "c86726865c5b19fc93536252d2c312a0"
+    version = "e6f5d5571bdaa3c6ff99783fa46ae591"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.3/InventoryProfilesNext-fabric-1.18.2-1.6.3.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.6.4/InventoryProfilesNext-fabric-1.18.2-1.6.4.jar"
     provider = "https"
     dependend = ""
 
@@ -962,7 +962,7 @@ lockfileVersion = 1
 
   [dependencies.npc-variety]
     name = "npc-variety"
-    version = "62ab4987-11d929"
+    version = "62fc453c-11d937"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -1102,32 +1102,22 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "7e794d856f1eca75530afd430de9780e"
+    version = "0cdafcb14393bb4ebd47537e3ce8a200"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.525+fabric/RoughlyEnoughItems-8.3.525.jar"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.527+fabric/RoughlyEnoughItems-8.3.527.jar"
     provider = "https"
     dependend = ""
 
-  [dependencies.roughlyenoughitems]
-    name = "roughlyenoughitems"
-    version = "8.3.519+mpkg.1"
-    type = "mod"
-    ipfsHash = "QmRKQxsr3QUKM33pLPPQPd2PZCaeCGst2ZVjy6691GDKRk"
-    Sha256 = "b8cd01cc5ab8efe50cdd8209eca5784bfba8a6c8982b5729f4320e717abd1e3b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@8.3.519+mpkg.1/download"
-    provider = "minepkg"
-    dependend = "roughlyenoughresources"
-
   [dependencies.roughlyenoughresources]
     name = "roughlyenoughresources"
-    version = "2.5.1+mpkg.1"
+    version = "62fc4577-145a4"
     type = "mod"
-    ipfsHash = "QmPdeF5PMce5pXKneEefbB3PZEKDS3GLKBnbnNmByNnNdX"
-    Sha256 = "540b43d8912b0a0e9afc74f5730e4fbbd78e0143572d15fcd3e69544e1f3fb65"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughresources@2.5.1+mpkg.1/download"
-    provider = "minepkg"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/rer-2.5.2.jar"
+    provider = "https"
     dependend = ""
 
   [dependencies.rpgstats]
@@ -1282,11 +1272,11 @@ lockfileVersion = 1
 
   [dependencies.terrestria]
     name = "terrestria"
-    version = "62ef5046-1c575f"
+    version = "b165b5a90646a710bfd9992dd64e4538"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/terrestria-4.0.0-alpha.1.jar"
+    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/4.0.0-alpha.2/terrestria-4.0.0-alpha.2.jar"
     provider = "https"
     dependend = ""
 
