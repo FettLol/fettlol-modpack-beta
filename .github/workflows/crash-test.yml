@@ -1,0 +1,11 @@
+name: 'crash test'
+on: 
+  pull_request:
+  push:
+
+jobs:
+  crash-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: minepkg/action-crash-test@v0
