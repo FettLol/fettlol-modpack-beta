@@ -72,11 +72,11 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "6347b764f65f1d7f8d8a366c675e77ed"
+    version = "009e47607fc97fc0a1664424a60dc7d7"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/9WXP1AHX/appliedenergistics2-11.1.6.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/7UmbOb4g/appliedenergistics2-11.1.7.jar"
     provider = "https"
     dependend = ""
 
@@ -332,12 +332,12 @@ lockfileVersion = 1
 
   [dependencies.create]
     name = "create"
-    version = "63c8bdfe1b97b5dc28938d23f9c85366"
+    version = "0.5.0+mpkg.4.git.376f459"
     type = "mod"
     ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/Xbc0uyRg/versions/create-1.18.2-0.5.0c-708/create-1.18.2-0.5.0c-708.jar"
-    provider = "https"
+    Sha256 = "ed9f13a52c6819b503fc37b6f499c9bc732da7a997f4e8fd08d5b13d694557b1"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/create@0.5.0+mpkg.4.git.376f459/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.create-plus]
@@ -502,11 +502,11 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "46a800609584ff6235b8dfb57305dd0d"
+    version = "1d60f47ff9ebb6c60a0627aefacad41b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/oey67ELr/emotecraft-for-MC1.18.2-2.2.3-fabric.jar"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/25JiNHog/emotecraft-for-MC1.18.2-2.2.5-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -632,11 +632,11 @@ lockfileVersion = 1
 
   [dependencies.fish-of-thieves]
     name = "fish-of-thieves"
-    version = "14760d99ebcbc770477cbc802b4c3c4c"
+    version = "3083147eef6ffab8e4833772fd912c0a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/NnNRikDR/fish_of_thieves-mc1.18.2-v1.0.8-rc1-fabric-experimental.jar"
+    url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/DcMeuvrm/fish_of_thieves-mc1.18.2-v1.1.0-rc1-fabric-experimental.jar"
     provider = "https"
     dependend = ""
 
@@ -722,21 +722,21 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "fea37a139843197f2e6e08e3e23b1165"
+    version = "a585737cdc21742f02fe9ea8318a0b90"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/yN4h9Kop/InventoryProfilesNext-fabric-1.18.2-1.6.5.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/SolCzSgU/InventoryProfilesNext-fabric-1.18.2-1.7.1.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.iris]
     name = "iris"
-    version = "ef7739927dcd8e8244276cd5f161e5cb"
+    version = "61abeaae86dc727ee8863a9c68533b19"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar"
+    url = "https://cdn.modrinth.com/data/YL57xq9U/versions/nnr56Joh/iris-mc1.18.2-1.3.1.jar"
     provider = "https"
     dependend = ""
 
@@ -840,14 +840,14 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.midas-hunger]
-    name = "midas-hunger"
-    version = "b6f035e8f74599e716c5873f668ee23b"
+  [dependencies.midashunger]
+    name = "midashunger"
+    version = "2.1.0+mpkg.1.1.18.2"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://cdn.modrinth.com/data/abF2tqnb/versions/2.1.0/midas-hunger-2.1.0%2B1.18.2.jar"
-    provider = "https"
+    ipfsHash = "QmRzbQkPPtFAD4Z3RXW4Z6AC724DGh74dCgx8bWvowMLYE"
+    Sha256 = "60ab6f5ebea3b1cc1ac2df4bab58430b4218b243adbdee8b793342a3b8a07ca3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/midashunger@2.1.0+mpkg.1.1.18.2/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.midnight-lib]
@@ -872,11 +872,11 @@ lockfileVersion = 1
 
   [dependencies.minerslunchbox]
     name = "minerslunchbox"
-    version = "1.0.0+mc1.18.2"
+    version = "1.0.1+mc1.18.2"
     type = "mod"
-    ipfsHash = "QmPtFQVvcmZcbpE3nEK9RSrvWNpdXKXQJpiRS9ZNjyQsEL"
-    Sha256 = "8a6b12da23a19ba0b8c1381e2534f666d3c155f312c3c9b3e6e2538dccbc9ec5"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/minerslunchbox@1.0.0+mc1.18.2/download"
+    ipfsHash = "QmbTAQwgdapgaaoR95BRCv5jvxri63JjNWRcGMDAU9zXtj"
+    Sha256 = "12cb6229104617dc6ee74d92deb5d73635360f6ce9698c00adaf2d085a43002d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/minerslunchbox@1.0.1+mc1.18.2/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1152,11 +1152,11 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "fcac685f5d4d93bcc4635850269d12a5"
+    version = "b6d06fb203d1e1241f2f169d3383ea8a"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/rqueStfn/voicechat-fabric-1.18.2-2.3.7.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/t3KSz0GR/voicechat-fabric-1.18.2-2.3.9.jar"
     provider = "https"
     dependend = ""
 
@@ -1202,11 +1202,11 @@ lockfileVersion = 1
 
   [dependencies.sodium-extra]
     name = "sodium-extra"
-    version = "3b0f288a888078a0e84774521e2c2f57"
+    version = "39ea951b539a992a507ed630571aace5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.6/sodium-extra-0.4.6%2Bmc1.18.2-build.46.jar"
+    url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/uCddykP4/sodium-extra-0.4.10%2Bmc1.18.2-build.63.jar"
     provider = "https"
     dependend = ""
 
@@ -1232,11 +1232,11 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "5e88519875c32478789d3eec79fb64f1"
+    version = "1b526f0bbd7897fa5aa4199572477cb9"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/mnXppCd1/spectrum-1.5.2-1.18.2-magic.jar"
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/kTZb0MBv/spectrum-1.5.7-1.18.2-magic.jar"
     provider = "https"
     dependend = ""
 
@@ -1262,12 +1262,12 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "628a43ec-5b0450"
+    version = "5.2.0+mpkg.1"
     type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/TechReborn-5.2.0.jar"
-    provider = "https"
+    ipfsHash = "QmS2zQd3pq9we1uwKTzSrvhNJERGuSqPBfm4Wv283fCics"
+    Sha256 = "cf2a6f4c6337ed7c77c5a129f3f8b8b71cb3b00892e0c0efdf4aa79bf4501df3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@5.2.0+mpkg.1/download"
+    provider = "minepkg"
     dependend = ""
 
   [dependencies.terrablender]
@@ -1282,21 +1282,21 @@ lockfileVersion = 1
 
   [dependencies.terrestria]
     name = "terrestria"
-    version = "b165b5a90646a710bfd9992dd64e4538"
+    version = "57067cc130706c3574f0de4b25d61749"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/4.0.0-alpha.2/terrestria-4.0.0-alpha.2.jar"
+    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/HbylQtUY/terrestria-4.0.2.jar"
     provider = "https"
     dependend = ""
 
   [dependencies.traverse]
     name = "traverse"
-    version = "1c71d24abb49585bddad8265c6a2d351"
+    version = "84df4cbccd0affbeffd888e4b6722c37"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/5.1.2/traverse-5.1.2.jar"
+    url = "https://cdn.modrinth.com/data/kXygSBVI/versions/yNlQhiBV/traverse-5.1.3.jar"
     provider = "https"
     dependend = ""
 
@@ -1342,11 +1342,11 @@ lockfileVersion = 1
 
   [dependencies.visuality]
     name = "visuality"
-    version = "c594eb9960272058316add648aace638"
+    version = "0e738402103972f006d88913a3eb9e61"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar"
+    url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/cI5HA5nq/visuality-0.4.3.jar"
     provider = "https"
     dependend = ""
 
@@ -1362,11 +1362,11 @@ lockfileVersion = 1
 
   [dependencies.wired-redstone]
     name = "wired-redstone"
-    version = "07f570e5e5d1bb53506cc3a4818bb6e2"
+    version = "8e5105e7825b085350d7b1a3cf785d5b"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lyYGrdho/versions/0.3.6+1.18.2/wired-redstone-0.3.6%2B1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/lyYGrdho/versions/kCyMtA0s/wired-redstone-0.3.7%2B1.18.2.jar"
     provider = "https"
     dependend = ""
 
