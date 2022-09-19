@@ -60,6 +60,16 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
+  [dependencies.antique-atlas]
+    name = "antique-atlas"
+    version = "f6dcc4e4f98dede9483dd88d5f0ef396"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/wHODup9j/versions/O60Usd6C/antiqueatlas-7.0.3-fabric-mc1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.appleskin]
     name = "appleskin"
     version = "2.2.0+1.18.mpkg.1"
@@ -82,11 +92,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "4fdbb7951b76d143b48d637e14204566"
+    version = "e410def7622ef8b17225e2287fa0e15f"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/4.9.83+fabric/architectury-4.9.83-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/foPbHoIn/architectury-4.9.84-fabric.jar"
     provider = "https"
     dependend = ""
 
@@ -242,11 +252,11 @@ lockfileVersion = 1
 
   [dependencies.charm]
     name = "charm"
-    version = "2638aa4bf6729c8faa69627c9d2ff3a8"
+    version = "19ca53b8b282436b03f4db3ae76e4913"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/G0DqCthC/charm-fabric-1.18.2-4.2.2.jar"
+    url = "https://cdn.modrinth.com/data/pOQTcQmj/versions/qswnYO0E/charm-fabric-1.18.2-4.4.3.jar"
     provider = "https"
     dependend = ""
 
@@ -437,6 +447,16 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/1.0.6+MC1.18-1.18.2/discerning-furnace-1.0.6%2BMC1.18-1.18.2.jar"
+    provider = "https"
+    dependend = ""
+
+  [dependencies.distant-horizons]
+    name = "distant-horizons"
+    version = "6328384d-276ece"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/DistantHorizons-1.6.5a-1.18.2.jar"
     provider = "https"
     dependend = ""
 
@@ -722,11 +742,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "a585737cdc21742f02fe9ea8318a0b90"
+    version = "1b58d6d209819b1ed32aed12608c18e2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/SolCzSgU/InventoryProfilesNext-fabric-1.18.2-1.7.1.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/vpidlvqt/InventoryProfilesNext-fabric-1.18.2-1.7.2.jar"
     provider = "https"
     dependend = ""
 
@@ -807,26 +827,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = ""
     url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.10/lithium-fabric-mc1.18.2-0.7.10.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.mcda]
-    name = "mcda"
-    version = "6272926e-cb1ed"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/mcda-2.0.6.jar"
-    provider = "https"
-    dependend = ""
-
-  [dependencies.mcdw]
-    name = "mcdw"
-    version = "62a8b305-11bd92"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/mcdw-4.4.0.jar"
     provider = "https"
     dependend = ""
 
@@ -1070,6 +1070,16 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
+  [dependencies.restart-server]
+    name = "restart-server"
+    version = "1d417e62a27747b7a63a8472615c2752"
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = ""
+    url = "https://cdn.modrinth.com/data/zG0Bb7gw/versions/PbSBlDLS/restart-server-1.0.0.jar"
+    provider = "https"
+    dependend = ""
+
   [dependencies.retraining]
     name = "retraining"
     version = "36c2dbd1a16d9af8da311035e90183b9"
@@ -1282,11 +1292,11 @@ lockfileVersion = 1
 
   [dependencies.terrestria]
     name = "terrestria"
-    version = "57067cc130706c3574f0de4b25d61749"
+    version = "4a93627e8d260b1a0742119f732001d5"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
-    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/HbylQtUY/terrestria-4.0.2.jar"
+    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/7XbPZVMj/terrestria-4.0.3.jar"
     provider = "https"
     dependend = ""
 
