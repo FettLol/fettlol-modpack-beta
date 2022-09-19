@@ -120,7 +120,6 @@ manifestVersion = 0
   promenade = "https://cdn.modrinth.com/data/GuE5FpvB/versions/2.6.3/promenade-2.6.3.jar"
   repurposed-structures = "https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.14+1.18.2/repurposed_structures_fabric-4.1.14%2B1.18.2.jar"
   reroll = "^1.2.1"
-  restart-server = "https://cdn.modrinth.com/data/zG0Bb7gw/versions/PbSBlDLS/restart-server-1.0.0.jar"
   retraining = "https://cdn.modrinth.com/data/Iugiwphr/versions/1.1.0.3/Retraining-fabric-1.18.2-1.1.0.jar"
   revelationary = "https://cdn.modrinth.com/data/eXrl5E3G/versions/XVtjQuiL/revelationary-1.0.2.jar"
   rightclickharvest = "https://cdn.modrinth.com/data/Cnejf5xM/versions/2.2.1+1.18/rightclickharvest-2.2.1%2B1.18.jar"
