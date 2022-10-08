@@ -195,12 +195,13 @@ lockfileVersion = 1
 
   [dependencies.blur]
     name = "blur"
-    version = "b623bd7f1a487e887897230e9c3c5ce3"
+    version = "2.4.1+mpkg.1"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/NK39zBp2/versions/2.4.1/blur-2.4.1.jar"
-    provider = "https"
+    Sha256 = "1f39d8a32b02c11e1f1d3213b5705130df79e664ac38b8d3c1ba74fc6d7ea8af"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/blur@2.4.1+mpkg.1/download"
+    provider = "minepkg"
     dependent = ""
 
   [dependencies.capes]
@@ -266,11 +267,11 @@ lockfileVersion = 1
 
   [dependencies.chipped]
     name = "chipped"
-    version = "62578a5a-6766a8"
+    version = "63413374-1337949"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/chipped-1.2.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/chipped-2.0.0-fabric.jar"
     provider = "https"
     dependent = ""
 
@@ -903,6 +904,17 @@ lockfileVersion = 1
     provider = "https"
     dependent = ""
 
+  [dependencies.mixintrace]
+    name = "mixintrace"
+    version = "1.0.0+mpkg.1"
+    versionName = ""
+    type = "mod"
+    ipfsHash = ""
+    Sha256 = "3498137b4d0388bb49ebb6ba46bb8cc50bab52b2ea14a34fd44d5fc81afc0f73"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/mixintrace@1.0.0+mpkg.1/download"
+    provider = "minepkg"
+    dependent = ""
+
   [dependencies.mob-farm-helpers]
     name = "mob-farm-helpers"
     version = "62b894b6-35733"
@@ -996,11 +1008,11 @@ lockfileVersion = 1
 
   [dependencies.overpowered-mending]
     name = "overpowered-mending"
-    version = "25278b6dc605f1a8840665bb8b685630"
+    version = "b63d0737529a511afaf4f4bd0dd1d282"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/SfEAJKxi/OverpoweredMending-1.18.2-2.4.2.jar"
+    url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/BGQzS6cB/OverpoweredMending-1.18.2-2.4.3.jar"
     provider = "https"
     dependent = ""
 
@@ -1032,6 +1044,27 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha256 = "53b0a0d09aadc2edf5e065626f321e8a61f1fd4a86a63dfa3912a417fcc31d7f"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/perfectaccuracy@1.2.0/download"
+    provider = "minepkg"
+    dependent = ""
+
+  [dependencies.philips-ruins]
+    name = "philips-ruins"
+    version = "634134a5-1bacba"
+    versionName = ""
+    type = "mod"
+    ipfsHash = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/Philips+ruins1.18.2-3.8.jar"
+    provider = "https"
+    dependent = ""
+
+  [dependencies.ping-me]
+    name = "ping-me"
+    version = "1.0.0"
+    versionName = ""
+    type = "mod"
+    ipfsHash = "QmYpWuU5eYCW9zxztrYqiHuDBs4fyPFUApEY21Q4QDqgy8"
+    Sha256 = "b5a490deb2f3e9c47558844a2f3ac49d9867e06b0136f6d85544a357b0e176f1"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/ping-me@1.0.0/download"
     provider = "minepkg"
     dependent = ""
 
