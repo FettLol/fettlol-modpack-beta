@@ -12,7 +12,7 @@ lockfileVersion = 1
 
   [dependencies.additional-additions]
     name = "additional-additions"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -22,7 +22,7 @@ lockfileVersion = 1
 
   [dependencies.adorn]
     name = "adorn"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1NiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -32,7 +32,7 @@ lockfileVersion = 1
 
   [dependencies.advancements-debug]
     name = "advancements-debug"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -42,7 +42,7 @@ lockfileVersion = 1
 
   [dependencies.alaska-nativecraft]
     name = "alaska-nativecraft"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -52,7 +52,7 @@ lockfileVersion = 1
 
   [dependencies.amecs]
     name = "amecs"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -73,7 +73,7 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -83,7 +83,7 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1ODo1MiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1NiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -104,7 +104,7 @@ lockfileVersion = 1
 
   [dependencies.bad-packets]
     name = "bad-packets"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1NiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -135,7 +135,7 @@ lockfileVersion = 1
 
   [dependencies.better-enchanted-books]
     name = "better-enchanted-books"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -145,7 +145,7 @@ lockfileVersion = 1
 
   [dependencies.better-f3]
     name = "better-f3"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -155,7 +155,7 @@ lockfileVersion = 1
 
   [dependencies.better-recipe-book]
     name = "better-recipe-book"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -165,7 +165,7 @@ lockfileVersion = 1
 
   [dependencies.better-safe-bed]
     name = "better-safe-bed"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -175,7 +175,7 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1ODo1NCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -206,7 +206,7 @@ lockfileVersion = 1
 
   [dependencies.capes]
     name = "capes"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1OCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -216,7 +216,7 @@ lockfileVersion = 1
 
   [dependencies.caracal-mod]
     name = "caracal-mod"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -226,7 +226,7 @@ lockfileVersion = 1
 
   [dependencies.cats-expanded]
     name = "cats-expanded"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -236,7 +236,7 @@ lockfileVersion = 1
 
   [dependencies.charm]
     name = "charm"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1ODo1MiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -246,7 +246,7 @@ lockfileVersion = 1
 
   [dependencies.charmonium]
     name = "charmonium"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -309,7 +309,7 @@ lockfileVersion = 1
 
   [dependencies.copper-stuff]
     name = "copper-stuff"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -319,7 +319,7 @@ lockfileVersion = 1
 
   [dependencies.cosmetic-armor]
     name = "cosmetic-armor"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -340,7 +340,7 @@ lockfileVersion = 1
 
   [dependencies.create-plus]
     name = "create-plus"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1ODo1NiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowMSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -402,7 +402,7 @@ lockfileVersion = 1
 
   [dependencies.dawn-api]
     name = "dawn-api"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1ODo1NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -412,7 +412,7 @@ lockfileVersion = 1
 
   [dependencies.deepslate-cutting]
     name = "deepslate-cutting"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -422,7 +422,7 @@ lockfileVersion = 1
 
   [dependencies.dense-ores]
     name = "dense-ores"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -432,7 +432,7 @@ lockfileVersion = 1
 
   [dependencies.discerning-furnace]
     name = "discerning-furnace"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -473,7 +473,7 @@ lockfileVersion = 1
 
   [dependencies.dynamic-asset-generator]
     name = "dynamic-asset-generator"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -483,7 +483,7 @@ lockfileVersion = 1
 
   [dependencies.earth2java]
     name = "earth2java"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -493,7 +493,7 @@ lockfileVersion = 1
 
   [dependencies.eating-animation]
     name = "eating-animation"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -503,7 +503,7 @@ lockfileVersion = 1
 
   [dependencies.ellemes-container-lib]
     name = "ellemes-container-lib"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -513,7 +513,7 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -523,7 +523,7 @@ lockfileVersion = 1
 
   [dependencies.enhanced-mob-spawners]
     name = "enhanced-mob-spawners"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -543,7 +543,7 @@ lockfileVersion = 1
 
   [dependencies.excavated-variants]
     name = "excavated-variants"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -553,7 +553,7 @@ lockfileVersion = 1
 
   [dependencies.expanded-storage]
     name = "expanded-storage"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -563,7 +563,7 @@ lockfileVersion = 1
 
   [dependencies.extra-generators]
     name = "extra-generators"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -584,7 +584,7 @@ lockfileVersion = 1
 
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -594,7 +594,7 @@ lockfileVersion = 1
 
   [dependencies.fabric-waystones]
     name = "fabric-waystones"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -626,7 +626,7 @@ lockfileVersion = 1
 
   [dependencies.ferrite-core]
     name = "ferrite-core"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwODo1Mzo1NCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTozNjoyOCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -647,7 +647,7 @@ lockfileVersion = 1
 
   [dependencies.fish-of-thieves]
     name = "fish-of-thieves"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -657,7 +657,7 @@ lockfileVersion = 1
 
   [dependencies.flonters]
     name = "flonters"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -688,7 +688,7 @@ lockfileVersion = 1
 
   [dependencies.grizzlybear-mob]
     name = "grizzlybear-mob"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -698,7 +698,7 @@ lockfileVersion = 1
 
   [dependencies.horse-stats-vanilla]
     name = "horse-stats-vanilla"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -708,7 +708,7 @@ lockfileVersion = 1
 
   [dependencies.indium]
     name = "indium"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1OTowNCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowOCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -729,7 +729,7 @@ lockfileVersion = 1
 
   [dependencies.infinity-water-bucket]
     name = "infinity-water-bucket"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -739,7 +739,7 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -749,7 +749,7 @@ lockfileVersion = 1
 
   [dependencies.iris]
     name = "iris"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxMzoyMCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -781,7 +781,7 @@ lockfileVersion = 1
 
   [dependencies.lambda-better-grass]
     name = "lambda-better-grass"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowOSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -791,7 +791,7 @@ lockfileVersion = 1
 
   [dependencies.lambdynamiclights]
     name = "lambdynamiclights"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwODowMToxMCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxMCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -801,7 +801,7 @@ lockfileVersion = 1
 
   [dependencies.lazy-dfu]
     name = "lazy-dfu"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwODo1Mzo1NCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTozNjoyNyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -811,7 +811,7 @@ lockfileVersion = 1
 
   [dependencies.libipn]
     name = "libipn"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozNzoxNCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -821,7 +821,7 @@ lockfileVersion = 1
 
   [dependencies.light-overlay]
     name = "light-overlay"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -831,7 +831,7 @@ lockfileVersion = 1
 
   [dependencies.lithium]
     name = "lithium"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwODowOTowNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTozNjoyNyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -863,7 +863,7 @@ lockfileVersion = 1
 
   [dependencies.midnight-lib]
     name = "midnight-lib"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -905,7 +905,7 @@ lockfileVersion = 1
 
   [dependencies.missing-wilds]
     name = "missing-wilds"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -925,7 +925,7 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -935,7 +935,7 @@ lockfileVersion = 1
 
   [dependencies.more-axolotl-variants]
     name = "more-axolotl-variants"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNToyNzo1NiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -955,7 +955,7 @@ lockfileVersion = 1
 
   [dependencies.mostructures]
     name = "mostructures"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -965,7 +965,7 @@ lockfileVersion = 1
 
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwODo0ODoyMiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTo0NjozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -996,7 +996,7 @@ lockfileVersion = 1
 
   [dependencies.overpowered-mending]
     name = "overpowered-mending"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1006,7 +1006,7 @@ lockfileVersion = 1
 
   [dependencies.owo]
     name = "owo"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1016,7 +1016,7 @@ lockfileVersion = 1
 
   [dependencies.patchouli]
     name = "patchouli"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1OTowNCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1069,7 +1069,7 @@ lockfileVersion = 1
 
   [dependencies.promenade]
     name = "promenade"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1OTowOSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1079,7 +1079,7 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1100,7 +1100,7 @@ lockfileVersion = 1
 
   [dependencies.retraining]
     name = "retraining"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1110,7 +1110,7 @@ lockfileVersion = 1
 
   [dependencies.revelationary]
     name = "revelationary"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1120,7 +1120,7 @@ lockfileVersion = 1
 
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1140,7 +1140,7 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1160,7 +1160,7 @@ lockfileVersion = 1
 
   [dependencies.rpgstats]
     name = "rpgstats"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1180,7 +1180,7 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1OTowNyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1190,7 +1190,7 @@ lockfileVersion = 1
 
   [dependencies.skin-layers]
     name = "skin-layers"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1210,7 +1210,7 @@ lockfileVersion = 1
 
   [dependencies.snowy-trees]
     name = "snowy-trees"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1220,7 +1220,7 @@ lockfileVersion = 1
 
   [dependencies.sodium]
     name = "sodium"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1OTowNCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxNyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1230,7 +1230,7 @@ lockfileVersion = 1
 
   [dependencies.sodium-extra]
     name = "sodium-extra"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxNyBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1240,7 +1240,7 @@ lockfileVersion = 1
 
   [dependencies.sodium-options]
     name = "sodium-options"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0NyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxNiBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1250,7 +1250,7 @@ lockfileVersion = 1
 
   [dependencies.spark]
     name = "spark"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1260,7 +1260,7 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1313,7 +1313,7 @@ lockfileVersion = 1
 
   [dependencies.terrestria]
     name = "terrestria"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwNzo1OTowNyBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1323,7 +1323,7 @@ lockfileVersion = 1
 
   [dependencies.traverse]
     name = "traverse"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1343,7 +1343,7 @@ lockfileVersion = 1
 
   [dependencies.trinkets]
     name = "trinkets"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxOSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1373,7 +1373,7 @@ lockfileVersion = 1
 
   [dependencies.visuality]
     name = "visuality"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1393,7 +1393,7 @@ lockfileVersion = 1
 
   [dependencies.wired-redstone]
     name = "wired-redstone"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNSBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1423,7 +1423,7 @@ lockfileVersion = 1
 
   [dependencies.yosbr]
     name = "yosbr"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMzo0OCBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoyMSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1433,7 +1433,7 @@ lockfileVersion = 1
 
   [dependencies.zoomify]
     name = "zoomify"
-    version = "VHVlLCAxMSBPY3QgMjAyMiAwOTozMjozNiBHTVQ="
+    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
     versionName = ""
     type = "mod"
     ipfsHash = ""
