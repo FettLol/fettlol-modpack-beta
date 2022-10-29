@@ -12,7 +12,7 @@ lockfileVersion = 1
 
   [dependencies.additional-additions]
     name = "additional-additions"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNiBHTVQ="
+    version = "baa92606ed58629047f9002f6e0c16d9"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -22,7 +22,7 @@ lockfileVersion = 1
 
   [dependencies.adorn]
     name = "adorn"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1NiBHTVQ="
+    version = "193c473d168c6ec11cea136e9cdb03b5"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -32,7 +32,7 @@ lockfileVersion = 1
 
   [dependencies.advancements-debug]
     name = "advancements-debug"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "ee67573ee874ab8d9e8e0b58c19bea21"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -42,7 +42,7 @@ lockfileVersion = 1
 
   [dependencies.alaska-nativecraft]
     name = "alaska-nativecraft"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "d4e3193811757d03f803af79ef498f98"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -52,7 +52,7 @@ lockfileVersion = 1
 
   [dependencies.amecs]
     name = "amecs"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "122d5e3cc2a456112340129874ec6878"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -73,7 +73,7 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "4d4ca39e44d9a44cee760e25d8afad29"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -83,11 +83,11 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1NiBHTVQ="
+    version = "cf2410fe6f17e6218d55435a4ff0fdbc"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/foPbHoIn/architectury-4.9.84-fabric.jar"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/rJ54rLqX/architectury-4.10.86-fabric.jar"
     provider = "https"
     dependent = ""
 
@@ -104,7 +104,7 @@ lockfileVersion = 1
 
   [dependencies.bad-packets]
     name = "bad-packets"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1NiBHTVQ="
+    version = "a887e9a1c557e41141d36262c9241f7f"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -135,7 +135,7 @@ lockfileVersion = 1
 
   [dependencies.better-enchanted-books]
     name = "better-enchanted-books"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "27d1d43fc6e8be330fd7eeba8b06a2fe"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -145,17 +145,17 @@ lockfileVersion = 1
 
   [dependencies.better-f3]
     name = "better-f3"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "fd840f3ca05dced33b9e0899bafc23ae"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/8shC1gFX/versions/1.2.5.1/BetterF3-1.2.5-Fabric-1.18.2.jar"
+    url = "https://cdn.modrinth.com/data/8shC1gFX/versions/qUyRV6XT/BetterF3-3.0.0-Fabric-1.18.2.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.better-recipe-book]
     name = "better-recipe-book"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "e773fee3ac9f9149a8ea161e9e0425d4"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -165,7 +165,7 @@ lockfileVersion = 1
 
   [dependencies.better-safe-bed]
     name = "better-safe-bed"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "8fd197e0841c147129c66446773b038c"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -175,7 +175,7 @@ lockfileVersion = 1
 
   [dependencies.biome-makeover]
     name = "biome-makeover"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNiBHTVQ="
+    version = "0c15f96034a86df0170ea97db8a4320a"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -204,9 +204,19 @@ lockfileVersion = 1
     provider = "minepkg"
     dependent = ""
 
+  [dependencies.bushier-flowers]
+    name = "bushier-flowers"
+    version = "63554e35-499b8"
+    versionName = ""
+    type = "mod"
+    ipfsHash = ""
+    url = "https://brekitomasson.com/fettlol/mods/1.18/bushierflowers-0.0.2-1.18.2.jar"
+    provider = "https"
+    dependent = ""
+
   [dependencies.capes]
     name = "capes"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNjo1OCBHTVQ="
+    version = "432924348cc6e7a830b098fc8e90d8e7"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -216,7 +226,7 @@ lockfileVersion = 1
 
   [dependencies.caracal-mod]
     name = "caracal-mod"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "fab7bbb7c2a74116c1d4bfb650aa555f"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -226,7 +236,7 @@ lockfileVersion = 1
 
   [dependencies.cats-expanded]
     name = "cats-expanded"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNiBHTVQ="
+    version = "cf320c264f18a181021c52718f563010"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -236,7 +246,7 @@ lockfileVersion = 1
 
   [dependencies.charm]
     name = "charm"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "3991b4ce6eb39287a06aa164e50493eb"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -246,7 +256,7 @@ lockfileVersion = 1
 
   [dependencies.charmonium]
     name = "charmonium"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "525cfa724daa6cd5ce85bf4981ab452b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -309,7 +319,7 @@ lockfileVersion = 1
 
   [dependencies.copper-stuff]
     name = "copper-stuff"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "dfa125e143a277e8f104539e6c39347e"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -319,7 +329,7 @@ lockfileVersion = 1
 
   [dependencies.cosmetic-armor]
     name = "cosmetic-armor"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "97c2966cfe65fcc5c6f99a96e22a4b9d"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -340,7 +350,7 @@ lockfileVersion = 1
 
   [dependencies.create-plus]
     name = "create-plus"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowMSBHTVQ="
+    version = "98df585810551117b2573fa365f27c98"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -392,17 +402,17 @@ lockfileVersion = 1
 
   [dependencies.dank-storage]
     name = "dank-storage"
-    version = "63413998-3047e"
+    version = "6348f932-3078b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.7.1.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.7.2.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.dawn-api]
     name = "dawn-api"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "64124dc2fe5fb52e9be259e07bdda260"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -412,7 +422,7 @@ lockfileVersion = 1
 
   [dependencies.deepslate-cutting]
     name = "deepslate-cutting"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
+    version = "43e1c06503dffecbc5119562ef5fefd5"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -422,7 +432,7 @@ lockfileVersion = 1
 
   [dependencies.dense-ores]
     name = "dense-ores"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "130c8c296891213f1b08528dd4d29819"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -432,7 +442,7 @@ lockfileVersion = 1
 
   [dependencies.discerning-furnace]
     name = "discerning-furnace"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "1473e0f76a556932673de8845bb7d080"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -473,7 +483,7 @@ lockfileVersion = 1
 
   [dependencies.dynamic-asset-generator]
     name = "dynamic-asset-generator"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "cf34ee121c7b10ef80af0ab3c029ff75"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -483,7 +493,7 @@ lockfileVersion = 1
 
   [dependencies.earth2java]
     name = "earth2java"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "9a50ab6190277c60e338583cc94dea85"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -493,7 +503,7 @@ lockfileVersion = 1
 
   [dependencies.eating-animation]
     name = "eating-animation"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "219c78b3ba508f5c1dd441541481037e"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -503,7 +513,7 @@ lockfileVersion = 1
 
   [dependencies.ellemes-container-lib]
     name = "ellemes-container-lib"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "1a1bd78e818032630c7268789a799563"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -513,7 +523,7 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowNSBHTVQ="
+    version = "5d91e2e899052a42678dfd4fd41ae391"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -523,7 +533,7 @@ lockfileVersion = 1
 
   [dependencies.enhanced-mob-spawners]
     name = "enhanced-mob-spawners"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "063e01238e65b98dd94198732a966261"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -543,7 +553,7 @@ lockfileVersion = 1
 
   [dependencies.excavated-variants]
     name = "excavated-variants"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
+    version = "8df6bb380f568e3ee5337d281a7ee5bc"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -553,7 +563,7 @@ lockfileVersion = 1
 
   [dependencies.expanded-storage]
     name = "expanded-storage"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "853799969299d7b52469da701bc407e8"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -563,7 +573,7 @@ lockfileVersion = 1
 
   [dependencies.extra-generators]
     name = "extra-generators"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "b8dc498d5f7cfca26f7fe4035407076b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -584,17 +594,17 @@ lockfileVersion = 1
 
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "7c1c382800de3699a70eeaeeb0d551cd"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/allNCj2E/fabric-language-kotlin-1.8.4%2Bkotlin.1.7.20.jar"
+    url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/FrvEFBGt/fabric-language-kotlin-1.8.5%2Bkotlin.1.7.20.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.fabric-waystones]
     name = "fabric-waystones"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "a0bf6adcd89b37fc03d7d806ec31297f"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -626,7 +636,7 @@ lockfileVersion = 1
 
   [dependencies.ferrite-core]
     name = "ferrite-core"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTozNjoyOCBHTVQ="
+    version = "f5aec27f6d7bf3401195c3b1b7aa7bcf"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -647,17 +657,17 @@ lockfileVersion = 1
 
   [dependencies.fish-of-thieves]
     name = "fish-of-thieves"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "d29724590d762446a9bedc59990936f9"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/lWD5hYJ3/fish_of_thieves-mc1.18.2-v1.1.0-rc2-fabric-beta.jar"
+    url = "https://cdn.modrinth.com/data/BzOTnuqM/versions/ePrM6qB3/fish_of_thieves-mc1.18.2-v1.1.0-rc2-fabric-beta.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.flonters]
     name = "flonters"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "6f56d5b110f691755d4513af93d4d653"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -688,7 +698,7 @@ lockfileVersion = 1
 
   [dependencies.grizzlybear-mob]
     name = "grizzlybear-mob"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "536ed539cbdb3ef0a7ff62f357332905"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -698,7 +708,7 @@ lockfileVersion = 1
 
   [dependencies.horse-stats-vanilla]
     name = "horse-stats-vanilla"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "5ddd3f274010d9bc2095a6bb8d92a364"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -708,7 +718,7 @@ lockfileVersion = 1
 
   [dependencies.indium]
     name = "indium"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowOCBHTVQ="
+    version = "361c5b42fca2d17ef4e3007e4c45fe19"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -729,7 +739,7 @@ lockfileVersion = 1
 
   [dependencies.infinity-water-bucket]
     name = "infinity-water-bucket"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "4d91226131e65cfd91c2e08eeef1b608"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -739,17 +749,17 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "dcc93f3e1152a78194e4c78d2ecccdf8"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/WQvpEmEZ/InventoryProfilesNext-fabric-1.18.2-1.8.1.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fQ5N4lcw/InventoryProfilesNext-fabric-1.18.2-1.8.2.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.iris]
     name = "iris"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxMzoyMCBHTVQ="
+    version = "399d956248a9cea7c0003ed1b174a316"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -781,7 +791,7 @@ lockfileVersion = 1
 
   [dependencies.lambda-better-grass]
     name = "lambda-better-grass"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzowOSBHTVQ="
+    version = "cd8242b8e94cb2387491c2cf9d14d5ad"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -791,7 +801,7 @@ lockfileVersion = 1
 
   [dependencies.lambdynamiclights]
     name = "lambdynamiclights"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxMCBHTVQ="
+    version = "0c2cc87d3d9b875d699aa8a2bfe67112"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -801,7 +811,7 @@ lockfileVersion = 1
 
   [dependencies.lazy-dfu]
     name = "lazy-dfu"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTozNjoyNyBHTVQ="
+    version = "b2597e901c05673ef2834dad32da8824"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -811,17 +821,17 @@ lockfileVersion = 1
 
   [dependencies.libipn]
     name = "libipn"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
+    version = "74989035fc1070282d65c760851b16a9"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/onSQdWhM/versions/jFvNUVTN/libIPN-fabric-1.18.2-1.0.1.jar"
+    url = "https://cdn.modrinth.com/data/onSQdWhM/versions/9f7JYLk7/libIPN-fabric-1.18.2-1.0.3.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.light-overlay]
     name = "light-overlay"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "2eec368f1d48b78c44e3474e58e7a3b3"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -831,7 +841,7 @@ lockfileVersion = 1
 
   [dependencies.lithium]
     name = "lithium"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTozNjoyNyBHTVQ="
+    version = "8278bb80f5793411255534b412bd5c6d"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -863,7 +873,7 @@ lockfileVersion = 1
 
   [dependencies.midnight-lib]
     name = "midnight-lib"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "f903bfb2aa146bdbba7d12847dfc259b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -905,7 +915,7 @@ lockfileVersion = 1
 
   [dependencies.missing-wilds]
     name = "missing-wilds"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "3cd7c682559042e7988d2d88a9899a85"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -925,7 +935,7 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "af8f96e0ecb9cbdc0f2b30c0fcc930eb"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -935,7 +945,7 @@ lockfileVersion = 1
 
   [dependencies.more-axolotl-variants]
     name = "more-axolotl-variants"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNToyNzo1NiBHTVQ="
+    version = "44c37873dba777f290927323ab0de95e"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -955,7 +965,7 @@ lockfileVersion = 1
 
   [dependencies.mostructures]
     name = "mostructures"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxMiBHTVQ="
+    version = "7ef2491cf9f73b73baf03d98333bebcb"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -965,7 +975,7 @@ lockfileVersion = 1
 
   [dependencies.not-enough-animations]
     name = "not-enough-animations"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNTo0NjozNSBHTVQ="
+    version = "b6044a024db99d49c67e49e6aa085bb1"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -996,7 +1006,7 @@ lockfileVersion = 1
 
   [dependencies.overpowered-mending]
     name = "overpowered-mending"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
+    version = "b63d0737529a511afaf4f4bd0dd1d282"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1006,7 +1016,7 @@ lockfileVersion = 1
 
   [dependencies.owo]
     name = "owo"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "e30d5083275ea8079c11f7bbae909e1f"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1016,7 +1026,7 @@ lockfileVersion = 1
 
   [dependencies.patchouli]
     name = "patchouli"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "705a6a53d464ae0be59d8ed45e80eded"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1069,7 +1079,7 @@ lockfileVersion = 1
 
   [dependencies.promenade]
     name = "promenade"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "c8a179a040095dce8f3ffbc66b207e03"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1079,7 +1089,7 @@ lockfileVersion = 1
 
   [dependencies.repurposed-structures]
     name = "repurposed-structures"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "4ed69cb97181a7ea7f84875279088a6a"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1100,7 +1110,7 @@ lockfileVersion = 1
 
   [dependencies.retraining]
     name = "retraining"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
+    version = "36c2dbd1a16d9af8da311035e90183b9"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1110,7 +1120,7 @@ lockfileVersion = 1
 
   [dependencies.revelationary]
     name = "revelationary"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "52c336144f3621592978a725a4b8d0e5"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1120,7 +1130,7 @@ lockfileVersion = 1
 
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "8c75d7269fc4f73a5f6c44fb03bec325"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1140,11 +1150,11 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "bf19a41cd717874628efc99af8be44f0"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/JJ6sGqMV/RoughlyEnoughItems-8.3.549.jar"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/6gtuIl8s/RoughlyEnoughItems-8.3.556.jar"
     provider = "https"
     dependent = ""
 
@@ -1160,7 +1170,7 @@ lockfileVersion = 1
 
   [dependencies.rpgstats]
     name = "rpgstats"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "cff18db8e4eb36b8881d3e25f8ec01f3"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1180,17 +1190,27 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMyBHTVQ="
+    version = "ac9a6346c1f5355d881ec7bdc1db4bfc"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/TdHOL96o/voicechat-fabric-1.18.2-2.3.10.jar"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/ClJ8ePwh/voicechat-fabric-1.18.2-2.3.12.jar"
+    provider = "https"
+    dependent = ""
+
+  [dependencies.simply-swords]
+    name = "simply-swords"
+    version = "907031f2896ee01d567d8a5141431225"
+    versionName = ""
+    type = "mod"
+    ipfsHash = ""
+    url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/rps4uVSE/simplyswords-1.30-1.18.2.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.skin-layers]
     name = "skin-layers"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "936cc474f08150dfa26e560d2f8d292b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1210,7 +1230,7 @@ lockfileVersion = 1
 
   [dependencies.snowy-trees]
     name = "snowy-trees"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozMiBHTVQ="
+    version = "e1892c4d902784604d151d4e65af27e8"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1220,7 +1240,7 @@ lockfileVersion = 1
 
   [dependencies.sodium]
     name = "sodium"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxNyBHTVQ="
+    version = "601f5c1d8b2b6e3c08a1216000099508"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1230,7 +1250,7 @@ lockfileVersion = 1
 
   [dependencies.sodium-extra]
     name = "sodium-extra"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxNyBHTVQ="
+    version = "5efdbd8e3886f217dea00717a1881a1e"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1240,7 +1260,7 @@ lockfileVersion = 1
 
   [dependencies.sodium-options]
     name = "sodium-options"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxNiBHTVQ="
+    version = "dca60b036c92371d00942bffed4f64e0"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1250,7 +1270,7 @@ lockfileVersion = 1
 
   [dependencies.spark]
     name = "spark"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "a3e1b5ef06b87f2ff0df5ca5dc7b40b2"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1260,7 +1280,7 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "1b526f0bbd7897fa5aa4199572477cb9"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1313,17 +1333,17 @@ lockfileVersion = 1
 
   [dependencies.terrestria]
     name = "terrestria"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "ef4b26720da850e6e21e18221ca92dc1"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/7XbPZVMj/terrestria-4.0.3.jar"
+    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/KbCITlu1/terrestria-4.0.4.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.traverse]
     name = "traverse"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "a8344f47070705db24882ae9e7c5200b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1343,7 +1363,7 @@ lockfileVersion = 1
 
   [dependencies.trinkets]
     name = "trinkets"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoxOSBHTVQ="
+    version = "8b3541d6799c06e4b81cfdccc1e43c8d"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1363,17 +1383,17 @@ lockfileVersion = 1
 
   [dependencies.villagernames]
     name = "villagernames"
-    version = "63413998-164f8c"
+    version = "6355a545-1661ea"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18.2-4.0.3.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18.2-4.0.9.jar"
     provider = "https"
     dependent = ""
 
   [dependencies.visuality]
     name = "visuality"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "0e738402103972f006d88913a3eb9e61"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1393,7 +1413,7 @@ lockfileVersion = 1
 
   [dependencies.wired-redstone]
     name = "wired-redstone"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNCBHTVQ="
+    version = "8e5105e7825b085350d7b1a3cf785d5b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1423,7 +1443,7 @@ lockfileVersion = 1
 
   [dependencies.yosbr]
     name = "yosbr"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNjoxNzoyMSBHTVQ="
+    version = "16ed8b1ac6dd0c52390bec2192c90f1d"
     versionName = ""
     type = "mod"
     ipfsHash = ""
@@ -1433,7 +1453,7 @@ lockfileVersion = 1
 
   [dependencies.zoomify]
     name = "zoomify"
-    version = "V2VkLCAxMiBPY3QgMjAyMiAxNzoxNzozNSBHTVQ="
+    version = "15a21a7a929185d72319d8852d6b29af"
     versionName = ""
     type = "mod"
     ipfsHash = ""
