@@ -73,11 +73,11 @@ lockfileVersion = 1
 
   [dependencies.applied-energistics]
     name = "applied-energistics"
-    version = "4d4ca39e44d9a44cee760e25d8afad29"
+    version = "44899bdf913d57826e9f21d95930e98b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/8HeKobcP/appliedenergistics2-fabric-11.6.1-beta.jar"
+    url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/aszqg0Wn/appliedenergistics2-fabric-11.6.2.jar"
     provider = "https"
     dependent = ""
 
@@ -583,12 +583,12 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.58.0+1.18.mpkg.1"
+    version = "0.59.1+1.18.mpkg.1"
     versionName = ""
     type = "mod"
-    ipfsHash = "QmXFQFDpq7LNApx92aibh7L1ws7FuAM8vovMLLVpUWR2zw"
-    Sha256 = "a4088a149c8d7dc0bca457a3ce6ba8a14995eb0de9880f3adaa3e08ca89ec8ad"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.58.0+1.18.mpkg.1/download"
+    ipfsHash = "QmT2gEFmf7Fas177GksNbb12dhmDmb3M5XV1WUZZyTsKKQ"
+    Sha256 = "d1e14192675d2832f4d203d5ffa820d652f8170a01849fc06c61ceb575d14d6d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.59.1+1.18.mpkg.1/download"
     provider = "minepkg"
     dependent = ""
 
@@ -749,11 +749,11 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "dcc93f3e1152a78194e4c78d2ecccdf8"
+    version = "64c729e144210508c61f39ab00963742"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fQ5N4lcw/InventoryProfilesNext-fabric-1.18.2-1.8.2.jar"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/iHSALsdQ/InventoryProfilesNext-fabric-1.18.2-1.8.3.jar"
     provider = "https"
     dependent = ""
 
@@ -821,11 +821,11 @@ lockfileVersion = 1
 
   [dependencies.libipn]
     name = "libipn"
-    version = "74989035fc1070282d65c760851b16a9"
+    version = "d663204038781bf86d2bc5fa4ec8f4ec"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/onSQdWhM/versions/9f7JYLk7/libIPN-fabric-1.18.2-1.0.3.jar"
+    url = "https://cdn.modrinth.com/data/onSQdWhM/versions/COKgzExi/libIPN-fabric-1.18.2-1.0.4.jar"
     provider = "https"
     dependent = ""
 
@@ -1150,11 +1150,11 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "bf19a41cd717874628efc99af8be44f0"
+    version = "5b2d7cd1fafb7f16ffc6ac28d366af1d"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/6gtuIl8s/RoughlyEnoughItems-8.3.556.jar"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/uvsw66xw/RoughlyEnoughItems-8.3.557.jar"
     provider = "https"
     dependent = ""
 
@@ -1418,6 +1418,16 @@ lockfileVersion = 1
     type = "mod"
     ipfsHash = ""
     url = "https://cdn.modrinth.com/data/lyYGrdho/versions/kCyMtA0s/wired-redstone-0.3.7%2B1.18.2.jar"
+    provider = "https"
+    dependent = ""
+
+  [dependencies.wolves-of-other-furs]
+    name = "wolves-of-other-furs"
+    version = "91d6a7a56f8fb5c90cf8a41967ff0fab"
+    versionName = ""
+    type = "mod"
+    ipfsHash = ""
+    url = "https://cdn.modrinth.com/data/at26R0TN/versions/2sdR6lGv/woof-2.1.0-1.18.jar"
     provider = "https"
     dependent = ""
 
