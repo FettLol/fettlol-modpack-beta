@@ -422,11 +422,11 @@ lockfileVersion = 1
 
   [dependencies.dank-storage]
     name = "dank-storage"
-    version = "6348f932-3078b"
+    version = "636a75e5-31467"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.7.2.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.8.1.jar"
     provider = "https"
     dependent = ""
 
@@ -1099,16 +1099,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependent = ""
 
-  [dependencies.philips-ruins]
-    name = "philips-ruins"
-    version = "63453ab3-1bc50c"
-    versionName = ""
-    type = "mod"
-    ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/Philips+ruins1.18.2-3.9.jar"
-    provider = "https"
-    dependent = ""
-
   [dependencies.ping-me]
     name = "ping-me"
     version = "1.0.0"
@@ -1477,7 +1467,7 @@ lockfileVersion = 1
 
   [dependencies.winged]
     name = "winged"
-    version = "63413998-1918a8"
+    version = "636a7642-1918a8"
     versionName = ""
     type = "mod"
     ipfsHash = ""
