@@ -559,17 +559,6 @@ lockfileVersion = 1
     provider = "modrinth"
     dependent = ""
 
-  [dependencies.enhanced-mob-spawners]
-    name = "enhanced-mob-spawners"
-    version = "7pmD6CHX"
-    versionName = "1.1.2"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "877c68ec3ef051e8ee2eccedb299d34244ee3e645e09fcea6ecbf7d9d86cda6667fb89d0c68f701cbeb13cd6e6aba99631fa3153f08bfa1bfa13ba1fa1949d50"
-    url = "https://cdn.modrinth.com/data/ZF0coYok/versions/1.1.2/fabric-branders-spawnermod-1.18.2-1.1.2.jar"
-    provider = "modrinth"
-    dependent = ""
-
   [dependencies.entity-collision-fix]
     name = "entity-collision-fix"
     version = "63413998-2a2f"
