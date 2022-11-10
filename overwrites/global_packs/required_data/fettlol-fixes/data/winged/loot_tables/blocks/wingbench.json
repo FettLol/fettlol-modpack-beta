@@ -6,12 +6,12 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "winged:wingbench"
-        }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
+          "name": "winged:wingbench",
+          "conditions": [
+            {
+              "condition": "minecraft:survives_explosion"
+            }
+          ]
         }
       ]
     }
