@@ -809,12 +809,12 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "iHSALsdQ"
-    versionName = "fabric-1.18.2-1.8.3"
+    version = "EKrmuP74"
+    versionName = "fabric-1.18.2-1.8.4"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "8302bdbbfbfa225957b14408fb04cbf6b7bdcac9c9521cc4f8068de5557784f62615994573666dcaebf66a6286e6014532f38e7f582afd326ff3b11010ad6894"
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/iHSALsdQ/InventoryProfilesNext-fabric-1.18.2-1.8.3.jar"
+    Sha512 = "236cd87fb8905b608e0c02becced09a5d0ff95acec30f4a2036775bcabd8e8fe8dfe1dfefac39963d9a9c3b265850bf0d39f4d1cdcbf33861de59272d28f0611"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/EKrmuP74/InventoryProfilesNext-fabric-1.18.2-1.8.4.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1306,12 +1306,12 @@ lockfileVersion = 1
 
   [dependencies.simply-swords]
     name = "simply-swords"
-    version = "rps4uVSE"
-    versionName = "1.30"
+    version = "gWAEJxe2"
+    versionName = "1.34"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "699acb41fdc441ed3cc4c47eaa98ccb88197ed70df130d9d09f1196f437ec020f6bec78661c5b3b43cb0644e213171e029da6d2aa7c66c1f953f7036af6e6191"
-    url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/rps4uVSE/simplyswords-1.30-1.18.2.jar"
+    Sha512 = "4f1327ea7a3981c8b0e8623a0422ef07ce32865ac24b14090cf8283c39d6b59965ab5c001f94edb5486b6714db939e90d1011ac3ffde43d4d5e6d3517675f08c"
+    url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/gWAEJxe2/simplyswords-fabric-1.34-1.18.x.jar"
     provider = "modrinth"
     dependent = ""
 
