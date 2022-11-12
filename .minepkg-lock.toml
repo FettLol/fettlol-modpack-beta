@@ -433,11 +433,11 @@ lockfileVersion = 1
 
   [dependencies.dank-storage]
     name = "dank-storage"
-    version = "636a75e5-31467"
+    version = "636f94be-30e0a"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.8.1.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/dankstorage-1.18.2-3.9.jar"
     provider = "https"
     dependent = ""
 
@@ -1231,12 +1231,12 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "pkRcDwA2"
-    versionName = "8.3.567+fabric"
+    version = "xKW6QEPd"
+    versionName = "8.3.571+fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "edf90fa418b20c564687b66ef655062afe3cecfade2fc7e0dde36d4260ad165c7511e49424721df915e52c4bd0433b526935401056d8a6da46ec485a5def975a"
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/pkRcDwA2/RoughlyEnoughItems-8.3.567.jar"
+    Sha512 = "66cf3791d058f0e0de5fad670a3fe2e9a78328a7703defb8f03b8be6a87efcc42a3c541b0a907ba2bf39052b68d52209af1dd34124c92e424b224714a5726c4f"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/xKW6QEPd/RoughlyEnoughItems-8.3.571.jar"
     provider = "modrinth"
     dependent = ""
 
