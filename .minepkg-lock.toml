@@ -809,12 +809,12 @@ lockfileVersion = 1
 
   [dependencies.inventory-profiles-next]
     name = "inventory-profiles-next"
-    version = "EKrmuP74"
-    versionName = "fabric-1.18.2-1.8.4"
+    version = "D5752AZT"
+    versionName = "fabric-1.18.2-1.8.5"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "236cd87fb8905b608e0c02becced09a5d0ff95acec30f4a2036775bcabd8e8fe8dfe1dfefac39963d9a9c3b265850bf0d39f4d1cdcbf33861de59272d28f0611"
-    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/EKrmuP74/InventoryProfilesNext-fabric-1.18.2-1.8.4.jar"
+    Sha512 = "f29119856e22d1eec92110b951106a02c50d31b4a668709eeeaee9ed6b1d7d90c2ce84197baa347d27203174fa2ea7a4d38cf1660c0b59029661cfe9b304400c"
+    url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/D5752AZT/InventoryProfilesNext-fabric-1.18.2-1.8.5.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -907,12 +907,12 @@ lockfileVersion = 1
 
   [dependencies.lithium]
     name = "lithium"
-    version = "pHl1Vi6k"
-    versionName = "mc1.18.2-0.7.10"
+    version = "FXG2XqRP"
+    versionName = "mc1.18.2-0.10.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "05f0e51191c9051224c791d63ad4b7915e6f3c442e5d38225e7b05ea4261ee459edb3d8ce99411e1a5a854547549845f21cc8ee2f0079281fec999c1d319fb07"
-    url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.10/lithium-fabric-mc1.18.2-0.7.10.jar"
+    Sha512 = "6f21f2f99533819be6a955593beab89149d64344bf2414eb96081dbb0b3462d2512d411d10d4e05045f317efced30102c4bb53ee4bed14ff4858fb065f18a710"
+    url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/FXG2XqRP/lithium-fabric-mc1.18.2-0.10.2.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1422,6 +1422,17 @@ lockfileVersion = 1
     Sha256 = "cf2a6f4c6337ed7c77c5a129f3f8b8b71cb3b00892e0c0efdf4aa79bf4501df3"
     url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@5.2.0+mpkg.1/download"
     provider = "minepkg"
+    dependent = ""
+
+  [dependencies.tectonic]
+    name = "tectonic"
+    version = "5GAlwGt0"
+    versionName = "0.1"
+    type = "mod"
+    ipfsHash = ""
+    Sha512 = "f30abd8918862bfdead9b22bf26965e188ac07e21cac022a3dcb9b507a27b0d69c23f823f47d2a440f296b71d75d2856dd0dd538bf1242bc8c2b48576a34ec82"
+    url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/5GAlwGt0/tectonic-mod-mc1.18.2-v0.1.jar"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.terrablender]
