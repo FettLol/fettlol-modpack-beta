@@ -24,7 +24,15 @@ The perfect compromise, in my mind, was a "Vanilla++" modpack, where most of the
 
 # Tweaks and Changes
 
-> This section is a work in progress and will, when complete, contain a list of the various tweaks and changes made to standard
+> This section is a work in progress and will, when complete, contain a list of the various tweaks and changes made to Vanilla Minecraft. As the list of new features added with mods is too exensive, that will be covered elsewhere, if at all. For now, the following abbreviated list will suffice:
+
+- Any flower can be duplicated with Bone Meal, not just "double high" flowers.
+- Animals will eat food thrown onto the ground.
+- Saplings and flowers will auto-plant themselves if on a Grass Block for long enough.
+- Villager will follow players carrying an Emerald Block.
+- Boats will no longer consider Lily Pads an obstacle.
+- Witches will attempt to keep a distance from the player.
+- Wither Skeletons 
 
 # Credits and Acknowledgements
 

@@ -5,7 +5,7 @@
   },
   "albinoCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -15,7 +15,7 @@
   },
   "amberChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -25,7 +25,7 @@
   },
   "ashenCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -34,7 +34,7 @@
   },
   "boneSpider": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -43,7 +43,7 @@
   },
   "boldStripedRabbit": {
     "spawn": true,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -55,7 +55,7 @@
   },
   "boulderingZombie": {
     "spawn": true,
-    "weight": 15,
+    "weight": 7,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -64,7 +64,7 @@
   },
   "bronzedChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -73,7 +73,7 @@
   },
   "cluckshroom": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -82,7 +82,7 @@
   },
   "cookieCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -93,7 +93,7 @@
   },
   "creamCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -106,7 +106,7 @@
   },
   "dairyCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -119,7 +119,7 @@
   },
   "fancyChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -131,7 +131,7 @@
   },
   "fleckedSheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -144,7 +144,7 @@
   },
   "freckledRabbit": {
     "spawn": true,
-    "weight": 4,
+    "weight": 2,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -159,7 +159,7 @@
   },
   "fuzzySheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -174,7 +174,7 @@
   },
   "goldCrestedChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -187,7 +187,7 @@
   },
   "harelequinRabbit": {
     "spawn": true,
-    "weight": 4,
+    "weight": 2,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -196,7 +196,7 @@
   },
   "hornedSheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -206,7 +206,7 @@
   },
   "inkySheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -216,7 +216,7 @@
   },
   "jollyLlama": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -226,7 +226,7 @@
   },
   "jumboRabbit": {
     "spawn": true,
-    "weight": 4,
+    "weight": 2,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -235,7 +235,7 @@
   },
   "lobberZombie": {
     "spawn": true,
-    "weight": 15,
+    "weight": 7,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -245,7 +245,7 @@
   },
   "longNosedSheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -255,7 +255,7 @@
   },
   "midnightChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -266,7 +266,7 @@
   },
   "moobloom": {
     "spawn": true,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -275,7 +275,7 @@
   },
   "moolip": {
     "spawn": true,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -284,7 +284,7 @@
   },
   "mottledPig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -296,7 +296,7 @@
   },
   "muddyPig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -307,7 +307,7 @@
   },
   "muddyFootRabbit": {
     "spawn": true,
-    "weight": 4,
+    "weight": 2,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -316,7 +316,7 @@
   },
   "palePig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -326,7 +326,7 @@
   },
   "patchedSheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -336,7 +336,7 @@
   },
   "piebaldPig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -350,7 +350,7 @@
   },
   "pinkFootedPig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -361,7 +361,7 @@
   },
   "pintoCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -372,7 +372,7 @@
   },
   "rainbowSheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -383,7 +383,7 @@
   },
   "rockySheep": {
     "spawn": true,
-    "weight": 12,
+    "weight": 6,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -393,7 +393,7 @@
   },
   "skeletonWolf": {
     "spawn": true,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -405,7 +405,7 @@
   },
   "skewbaldChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -417,7 +417,7 @@
   },
   "sootyPig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -428,7 +428,7 @@
   },
   "spottedPig": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -438,7 +438,7 @@
   },
   "stormyChicken": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -449,7 +449,7 @@
   },
   "sunsetCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -458,7 +458,7 @@
   },
   "tropicalSlime": {
     "spawn": true,
-    "weight": 10,
+    "weight": 5,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -467,7 +467,7 @@
   },
   "umbraCow": {
     "spawn": true,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -478,7 +478,7 @@
   },
   "vestedRabbit": {
     "spawn": true,
-    "weight": 4,
+    "weight": 2,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
@@ -497,7 +497,7 @@
   },
   "woolyCow": {
     "spawn": false,
-    "weight": 8,
+    "weight": 4,
     "groupMin": 2,
     "groupMax": 4,
     "spawnBiomes": [
