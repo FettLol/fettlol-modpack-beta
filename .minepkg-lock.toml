@@ -712,12 +712,12 @@ lockfileVersion = 1
 
   [dependencies.fettlol-utilmod]
     name = "fettlol-utilmod"
-    version = "1.5.3"
+    version = "1.5.4"
     versionName = ""
     type = "mod"
-    ipfsHash = "QmYkAkPtv7P7JtRSnX79NnDR1VXz8RaCQNB8py1gMvB6ue"
-    Sha256 = "4bf14839ec4d49792efbdf03420e08e63a07ebbdbec6c7cc30f837be9e061bd1"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.3/download"
+    ipfsHash = "QmT4en59yE3iv359qGTD7KToCTpNbQ8MeWAyYyXVJDK2Kp"
+    Sha256 = "9abf551467ca8a106d8b4afbec36eeb9a8541359272809b4c8731b433b1042a8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fettlol-utilmod@1.5.4/download"
     provider = "minepkg"
     dependent = ""
 
@@ -1252,12 +1252,12 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "xKW6QEPd"
-    versionName = "8.3.571+fabric"
+    version = "5tQC4c2v"
+    versionName = "8.3.573+fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "66cf3791d058f0e0de5fad670a3fe2e9a78328a7703defb8f03b8be6a87efcc42a3c541b0a907ba2bf39052b68d52209af1dd34124c92e424b224714a5726c4f"
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/xKW6QEPd/RoughlyEnoughItems-8.3.571.jar"
+    Sha512 = "355d515a24b61e7ca33a23d8ccef2ea96f5feb21a125a360a8e217fec8e2443ebb7fd80a58aac8620b9d1e12d275afe792471aad79a0906509be4c45367bce05"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/5tQC4c2v/RoughlyEnoughItems-8.3.573.jar"
     provider = "modrinth"
     dependent = ""
 
