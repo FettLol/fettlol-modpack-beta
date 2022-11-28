@@ -11,5 +11,5 @@
   "attempt_ore_replacement": true,
   "add_conversion_recipes": true,
   "jei_rei_compat": true,
-  "unobtainable_variants": false
+  "unobtainable_variants": true
 }
