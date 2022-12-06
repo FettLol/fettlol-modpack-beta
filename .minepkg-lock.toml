@@ -937,6 +937,17 @@ lockfileVersion = 1
     provider = "modrinth"
     dependent = ""
 
+  [dependencies.mavapi]
+    name = "mavapi"
+    version = "l1guFcLO"
+    versionName = "1.0.1-mc1.18.2"
+    type = "mod"
+    ipfsHash = ""
+    Sha512 = "fb4ce19dfe083d1695c6b832b538688c64b33a66eb03cc83baefc9ba5d3b2b06b2a981c1b7f88be5c97f2c77748679bfd9d720db8d84d850431ffe115057e6e6"
+    url = "https://cdn.modrinth.com/data/t4Ybtys2/versions/l1guFcLO/mavapi-1.0.1-mc1.18.2.jar"
+    provider = "modrinth"
+    dependent = ""
+
   [dependencies.mcf-easyfeed]
     name = "mcf-easyfeed"
     version = "1.3.0+1.18.mpkg.1"
