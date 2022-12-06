@@ -147,7 +147,6 @@ manifestVersion = 0
   spark = "modrinth:spark@JjikdHMk"
   spectrum = "modrinth:spectrum@YFmcNhOm"
   starlight = "^1.0.1+mpkg.1"
-  status = "modrinth:status@PlroDSu5"
   taxfreelevels = "^1.3.0"
   techreborn = "^5.2.0+mpkg.1"
   terrablender = "https://brekitomasson.com/fettlol/mods/1.18/TerraBlender-fabric-1.18.2-1.2.0.126.jar"

@@ -1423,17 +1423,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependent = ""
 
-  [dependencies.status]
-    name = "status"
-    version = "PlroDSu5"
-    versionName = "fabric-1.19.2-1.0.0"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "dbc2df7fa2a09e4f197c519affcf9b6ef869133ab585cc51d58572acc50b3018a83dd2f4588a023b1d2f26a8ea8d714809261012c2c869c28b646665164864d0"
-    url = "https://cdn.modrinth.com/data/b93awgkg/versions/PlroDSu5/status-1.19.2-1.0.0.jar"
-    provider = "modrinth"
-    dependent = ""
-
   [dependencies.taxfreelevels]
     name = "taxfreelevels"
     version = "1.3.3"
