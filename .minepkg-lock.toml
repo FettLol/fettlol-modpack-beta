@@ -100,12 +100,12 @@ lockfileVersion = 1
 
   [dependencies.architectury]
     name = "architectury"
-    version = "rJ54rLqX"
-    versionName = "4.10.86+fabric"
+    version = "ejJFmhZW"
+    versionName = "4.10.88+fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "46904c4dd8ffa7e2057e20315db62f52a33467394e7dcf5858a8784a34abbe5ad5e4237e9955e134374493423f6eeebcd8e42e431cd0ade75b52e9ec067f004a"
-    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/rJ54rLqX/architectury-4.10.86-fabric.jar"
+    Sha512 = "c094dd6f9154a4f694019e11db12eb4379a65e819ac810e5ddf25dffa2e8dde6b4169ef33b560c6abf287016ceec53f579046997e86d6d0601990d8d9c99c0a0"
+    url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/ejJFmhZW/architectury-4.10.88-fabric.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1036,12 +1036,12 @@ lockfileVersion = 1
 
   [dependencies.modmenu]
     name = "modmenu"
-    version = "d86kV6wd"
-    versionName = "3.2.4"
+    version = "nVxObSbX"
+    versionName = "3.2.5"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "07135dfef9a557b78eba22be34bb89f499131f261e08c497d2764b8ef00b5957ddfcf9869c1fe4c6399a3aa12f7b5eacdbbd296e8796fb422636c38e523bc923"
-    url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/d86kV6wd/modmenu-3.2.4.jar"
+    Sha512 = "dbf767ed1f5a9c297db004dee65e10abda4bd328899e0337934b50f3e1d9f0866092dca67aa19ac4883528de539c0362f7e7d3f27ecfa9690ff0345389351759"
+    url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/nVxObSbX/modmenu-3.2.5.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1316,12 +1316,12 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "rfrxsAs7"
-    versionName = "fabric-1.18.2-2.3.18"
+    version = "bt4jIuhK"
+    versionName = "fabric-1.18.2-2.3.19"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "3a8aebe2f6865a8e15cb2aba65581bd80bde47360a2ea315ea45699e1039118f75a0b2d6f11c40844d7f9672d55f25939ecaabdac71246557b35554019fa655a"
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/rfrxsAs7/voicechat-fabric-1.18.2-2.3.18.jar"
+    Sha512 = "f518500fa85c84c554850fc532d72a101920504b67c556a3ec3541a2d5959622e6544233f4b2f33d32f3a5c0880ba35e407edc3e18170c1439e43d22774ec210"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/bt4jIuhK/voicechat-fabric-1.18.2-2.3.19.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1414,12 +1414,12 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "YFmcNhOm"
-    versionName = "1.6.3"
+    version = "6CZ3GOKm"
+    versionName = "1.6.4"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "53b13c1bc442bf6067eab0cc814112868252e350a31e003e33f9ca0629a132933c0ab20c13dbb7273404a52874009acb9457a3a502979d802a6ac1710383da9a"
-    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/YFmcNhOm/spectrum-1.6.3-1.18.2-leisure_time.jar"
+    Sha512 = "8d8425d4db215069283918564bef2eee387acffc9e9f7736d68679b18c3610b5fdcc9a86ab409cef18dcb3aaa8715cb125a4435a26716b1d5e6ea11371a118f3"
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/6CZ3GOKm/spectrum-1.6.4-1.18.2-leisure_time.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1447,12 +1447,12 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "5.2.0+mpkg.1"
+    version = "5.2.1+mpkg.1"
     versionName = ""
     type = "mod"
-    ipfsHash = "QmS2zQd3pq9we1uwKTzSrvhNJERGuSqPBfm4Wv283fCics"
-    Sha256 = "cf2a6f4c6337ed7c77c5a129f3f8b8b71cb3b00892e0c0efdf4aa79bf4501df3"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@5.2.0+mpkg.1/download"
+    ipfsHash = "QmeCJv56gKvgzk6sP4jh9XfmX5AjztRJxy13NwGzADUa47"
+    Sha256 = "eef4ade3b7d63ba52b163225671f68ebc2557b7989b8cb8fe617a413d82ec66d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@5.2.1+mpkg.1/download"
     provider = "minepkg"
     dependent = ""
 
@@ -1530,16 +1530,6 @@ lockfileVersion = 1
     provider = "https"
     dependent = ""
 
-  [dependencies.villagernames]
-    name = "villagernames"
-    version = "6355a545-1661ea"
-    versionName = ""
-    type = "mod"
-    ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.18/villagernames-1.18.2-4.0.9.jar"
-    provider = "https"
-    dependent = ""
-
   [dependencies.visuality]
     name = "visuality"
     version = "cI5HA5nq"
@@ -1580,6 +1570,28 @@ lockfileVersion = 1
     ipfsHash = ""
     url = "https://brekitomasson.com/fettlol/mods/1.18/wolves-with-armor-1.7.1-1.18.2.jar"
     provider = "https"
+    dependent = ""
+
+  [dependencies.wthit]
+    name = "wthit"
+    version = "pstzUK3U"
+    versionName = "fabric-4.13.5"
+    type = "mod"
+    ipfsHash = ""
+    Sha512 = "0672444d622fdbaecaf538f52586ecdcb346b9918015fb9c39d021f8eedc0084ce8af190ef11f33781a90c59c9e69bac25a2c025b4937171fc1d4085c1d8f0b5"
+    url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/pstzUK3U/wthit-fabric-4.13.5.jar"
+    provider = "modrinth"
+    dependent = ""
+
+  [dependencies.wthit-plugins]
+    name = "wthit-plugins"
+    version = "vCXTnAs1"
+    versionName = "1.0.6+1.18.2"
+    type = "mod"
+    ipfsHash = ""
+    Sha512 = "68e47f0a05c523fe7324d4c2755d82e7dcfbdae9496b1af7cdaf9726af0e7a3db293a268eeda5a5754369d1a1235c8fdb56afadad87e4ac5e38bdb9a38d0d57a"
+    url = "https://cdn.modrinth.com/data/34431T56/versions/1.0.6%2B1.18.2/wthit-plugins-1.0.6%2B1.18.2.jar"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.xaeros-worldmap]
