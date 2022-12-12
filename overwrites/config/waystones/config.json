@@ -8,7 +8,7 @@
   "teleportation_cost": {
     "cost_type": "xp",
     "cost_item": "minecraft:ender_pearl",
-    "base_cost": 5,
+    "base_cost": 10,
     "cost_per_block_distance": 0.0,
     "cost_multiplier_between_dimensions": 2.0
   },

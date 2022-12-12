@@ -885,12 +885,13 @@ lockfileVersion = 1
 
   [dependencies.lambdynamiclights]
     name = "lambdynamiclights"
-    version = "0c2cc87d3d9b875d699aa8a2bfe67112"
-    versionName = ""
+    version = "zhBXhMhZ"
+    versionName = "2.1.0+1.17"
     type = "mod"
     ipfsHash = ""
+    Sha512 = "343cc1d595e25e1d40209bb429a29151031e784fd81b1ea594d236bd829d9078d3765af47705dc0884ba1898e1beffa1ddec24152471e501affe376b9f3b2865"
     url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0%2B1.17/lambdynamiclights-2.1.0%2B1.17.jar"
-    provider = "https"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.lazy-dfu]
@@ -926,14 +927,24 @@ lockfileVersion = 1
     provider = "modrinth"
     dependent = ""
 
-  [dependencies.lithium]
-    name = "lithium"
-    version = "pHl1Vi6k"
-    versionName = "mc1.18.2-0.7.10"
+  [dependencies.literally-just-cheap-invisible-armor]
+    name = "literally-just-cheap-invisible-armor"
+    version = "63971d1c-40a6"
+    versionName = ""
     type = "mod"
     ipfsHash = ""
-    Sha512 = "05f0e51191c9051224c791d63ad4b7915e6f3c442e5d38225e7b05ea4261ee459edb3d8ce99411e1a5a854547549845f21cc8ee2f0079281fec999c1d319fb07"
-    url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.10/lithium-fabric-mc1.18.2-0.7.10.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.18/ljcia-1.0.0.jar"
+    provider = "https"
+    dependent = ""
+
+  [dependencies.lithium]
+    name = "lithium"
+    version = "ALnv7Npy"
+    versionName = "mc1.18.2-0.10.3"
+    type = "mod"
+    ipfsHash = ""
+    Sha512 = "46d4cdaf627a20c61fbbbc055d6fbfc422b851d94288b6dd2296fc958c6b32d4d6955bc678e7b9ea9ae69f4a4a54e7b822c164fee849c9b5c7cde0c1c1595413"
+    url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1231,12 +1242,12 @@ lockfileVersion = 1
 
   [dependencies.revelationary]
     name = "revelationary"
-    version = "XVtjQuiL"
-    versionName = "1.0.2"
+    version = "TTTlCzoW"
+    versionName = "1.1.0"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "3a4288b5649b03ef6ff27cc454e8e103f4ab6b6758c70562786b6aa756378930ad3e09bf369af0ceb8bf430daf287e8c920480639423d8a042a8d44b83589468"
-    url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/XVtjQuiL/revelationary-1.0.2.jar"
+    Sha512 = "4d8929e65cdc1a5ab04a8cf3ec84413cb2f737517e016a1cb0df7c8de298a4a52d0ee2b96754fa088c3f3550aad9bbf7cdd667d3dd32b027a63f4f0b4af01829"
+    url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/TTTlCzoW/revelationary-1.1.0.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1263,12 +1274,12 @@ lockfileVersion = 1
 
   [dependencies.roughly-enough-items]
     name = "roughly-enough-items"
-    version = "18IUTNPN"
-    versionName = "8.3.576+fabric"
+    version = "UgtSUIu0"
+    versionName = "8.3.583+fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "1c2cb534ece8397f714d0e6f32a50184d6c20f4e8d9cbf99d9e054d34f87fe12d115a08fdb7ff5ae63f36a1e05b58ea77ebb5486dd30d93c52ee378985d9d014"
-    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/18IUTNPN/RoughlyEnoughItems-8.3.576.jar"
+    Sha512 = "858f7f871b53292f5fff10e97aab4cf4991bb1b3c10ecdd61a37f7bd515109cc59c68dc9bb48f91b643c9234d70aa713e4168652a6943c4b1539f9ddb7c64635"
+    url = "https://cdn.modrinth.com/data/nfn13YXA/versions/UgtSUIu0/RoughlyEnoughItems-8.3.583.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1316,12 +1327,12 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "bt4jIuhK"
-    versionName = "fabric-1.18.2-2.3.19"
+    version = "gnDq69th"
+    versionName = "fabric-1.18.2-2.3.23"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "f518500fa85c84c554850fc532d72a101920504b67c556a3ec3541a2d5959622e6544233f4b2f33d32f3a5c0880ba35e407edc3e18170c1439e43d22774ec210"
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/bt4jIuhK/voicechat-fabric-1.18.2-2.3.19.jar"
+    Sha512 = "0366d363391b1b07c1b525a88f2c417061450127688589dc3d69bc82e4ca874c7cc44b631ef30e2321470b923025730f56af4e347a59af17028e7e6ab8b5395f"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/gnDq69th/voicechat-fabric-1.18.2-2.3.23.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1468,12 +1479,12 @@ lockfileVersion = 1
 
   [dependencies.terrestria]
     name = "terrestria"
-    version = "7Ekn2RL2"
-    versionName = "4.0.5"
+    version = "Jjr0kRLm"
+    versionName = "4.0.6"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "8a6dca2228787ee77df1cd013f97481ef7aa2797f2c8ab2f79e83b17b9d8f3d68a80ba6d715668e56f91d0723fc8abe65a6981fddeb6a45c3a8b5ffb41bfe041"
-    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/7Ekn2RL2/terrestria-4.0.5.jar"
+    Sha512 = "9d82914a5769ba799b2c9ac85f5ed1058256169acf2c71818b358ddd9e8ecd7557ab3d08419a895118918892d379c9cc1e066c46971e3984699ec428174a9c3f"
+    url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/Jjr0kRLm/terrestria-4.0.6.jar"
     provider = "modrinth"
     dependent = ""
 
