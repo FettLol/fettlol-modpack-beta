@@ -594,12 +594,12 @@ lockfileVersion = 1
 
   [dependencies.emotecraft]
     name = "emotecraft"
-    version = "ToCobxiP"
-    versionName = "2.2.7-b.build.47+1.18.2-fabric"
+    version = "25JiNHog"
+    versionName = "2.2.5-MC1.18.2-fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "4e80b8241da893544d381903579ff13d2ab81020ab28cee4c098b49ff7f99619bf3015e9789bcf8babcd2b00f723459ba23d3354dbe90c13f8184e3ba7a4ebf6"
-    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/ToCobxiP/emotecraft-for-MC1.18.2-2.2.7-b.build.47-fabric.jar"
+    Sha512 = "174747800110a5a044258bb6fc3e83ea1015dde43ac8aa5b3ae1b0826b4480b77bc9692257e0df945b120847021c334f962207a08bcd2f72a57d9a2d9419c8be"
+    url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/25JiNHog/emotecraft-for-MC1.18.2-2.2.5-fabric.jar"
     provider = "modrinth"
     dependent = ""
 
