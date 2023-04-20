@@ -346,11 +346,11 @@ lockfileVersion = 1
 
   [dependencies.dank-storage]
     name = "dank-storage"
-    version = "640efc04-2ef9c"
+    version = "6440f57c-3149b"
     versionName = ""
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.19/dankstorage-1.19.2-5.1.6.jar"
+    url = "https://brekitomasson.com/fettlol/mods/1.19/dankstorage-1.19.2-4.3.jar"
     provider = "https"
     dependent = ""
 
@@ -975,12 +975,13 @@ lockfileVersion = 1
 
   [dependencies.naturalist]
     name = "naturalist"
-    version = "640efd48-2f2ab2"
-    versionName = ""
+    version = "z47xSiRV"
+    versionName = "3.0.1"
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.19/naturalist-fabric-2.1.1-1.19.2.jar"
-    provider = "https"
+    Sha512 = "8a2810fe373db7dece862659754d1b5958a019b1c757012e3e83f8d56bd12f393a099eeb826a4170ff6e5f32c154d727a7e223ddb7c9f6290a0b70267101efda"
+    url = "https://cdn.modrinth.com/data/F8BQNPWX/versions/z47xSiRV/naturalist-fabric-3.0.1-1.19.2.jar"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.not-enough-animations]
