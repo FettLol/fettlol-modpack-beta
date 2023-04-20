@@ -540,12 +540,12 @@ lockfileVersion = 1
 
   [dependencies.expanded-storage]
     name = "expanded-storage"
-    version = "dGpbVBSA"
-    versionName = "8.2.0-beta.3+fabric"
+    version = "AgQsVx0U"
+    versionName = "8.1.0-beta.5+fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "e7b672f75439b45f42d17839b25007cc2432854edc06d562e5cc652c446f75aff5ac30602332eafc900ff86154401eeb3f9d2d77224b3f235f9d04360c5ec09f"
-    url = "https://cdn.modrinth.com/data/F56tBubk/versions/dGpbVBSA/expandedstorage-8.2.0-beta.3%2B1.19.2-fabric.jar"
+    Sha512 = "ed549853d05d82d00bad17dfa9bb47914293d05786d29c921a4bd75002826187ccbfdbbada43cf72338b2be0256d1137a60e1c0cac73fa41e81b57d2ebf7f96a"
+    url = "https://cdn.modrinth.com/data/F56tBubk/versions/AgQsVx0U/expandedstorage-8.1.0-beta.5%2B1.19.2-fabric.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1050,12 +1050,12 @@ lockfileVersion = 1
 
   [dependencies.philips-ruins]
     name = "philips-ruins"
-    version = "myOIi5v4"
-    versionName = "1.19.2-5.5"
+    version = "ASB9bZIA"
+    versionName = "1.19.2-5.6"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "910de90a61c9880be8109bc1114af49cdd2a51f011227d5755f4632bb4f7edcd575d3ca61f9160d0cea71d6a8c70ac3f3e25ded3c01b22211272fcbf8941de90"
-    url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/myOIi5v4/Philips-ruins1.19.2-5.5%5BFabric%5D.jar"
+    Sha512 = "43b588d6f37a0085d5819515f063f30f7a8cb35dd22d6690a034ff0c0d9500a4c13e9fd1af58beead4bdb043f5adf4723dfd3054cade45bdb6101fac21f6197d"
+    url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/ASB9bZIA/Philips-ruins1.19.2-5.6%5BFabric%5D.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1127,12 +1127,12 @@ lockfileVersion = 1
 
   [dependencies.revelationary]
     name = "revelationary"
-    version = "dDUzRB3j"
-    versionName = "1.3.3"
+    version = "2d9fuEjc"
+    versionName = "1.3.5"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "408fb1669bc58fa2deaa8129eea55065ff5a6571ed751f93b37ef8255fa988deed21368e30093247585e062101c880fe810a493c47cbadd286e71a41c3468962"
-    url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/dDUzRB3j/revelationary-1.3.3.jar"
+    Sha512 = "592364549abca5e062653ddd1d9f45eafef2b40332fae03e0bb76d21f24d369248bc1010fab965c8b8db2f14fc2c7353203cf2d4fb5cc97b70376473fc62825c"
+    url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/2d9fuEjc/revelationary-1.3.5.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1311,12 +1311,12 @@ lockfileVersion = 1
 
   [dependencies.spectrum]
     name = "spectrum"
-    version = "oPBO8nIY"
-    versionName = "1.6.9-1.19.2-leisure_time"
+    version = "3GcJXR2g"
+    versionName = "1.6.10-1.19.2-leisure_time"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "f34875e301795757fc512fb728489a9f51bcd221299f54d49721ad54f5cb065d18d0fea53dc1bfad82003427e28dc9aa225aa367b6ceec8d82609d6dd4550bf1"
-    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/oPBO8nIY/spectrum-1.6.9-1.19.2-leisure_time.jar"
+    Sha512 = "7cf2cdba42c61e508801234a6cc53be3da163772c52e3eb9752fe960571f5ea5fca6921b91b230cd32d41439d273acc5ed1ef5425498c4afda19e83148102735"
+    url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/3GcJXR2g/spectrum-1.6.10-1.19.2-leisure_time.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1495,12 +1495,12 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "OoCNxZ9r"
-    versionName = "fabric-5.15.1"
+    version = "RSb3RfBv"
+    versionName = "fabric-5.15.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "5dde8b55889bbb0b45756e6fbe137372cecf634a58a5bbe9f7e8713290173c8f6bd48890167c4b52457684507e513d111e2a9e7d99370cbeb9a0bc37ccb2be1b"
-    url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/OoCNxZ9r/wthit-fabric-5.15.1.jar"
+    Sha512 = "12c6b7838a7c3c8968e5fab9fd4f7b795d6a951d98cccc9a0c891fda4f41ec11ae3b2735d9d24d57bdc9fab55ffb7dfddfebdda399f3e34c56dbc8240cae8db0"
+    url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/RSb3RfBv/wthit-fabric-5.15.2.jar"
     provider = "modrinth"
     dependent = ""
 
