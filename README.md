@@ -32,7 +32,6 @@ The perfect compromise, in my mind, was a "Vanilla++" modpack, where most of the
 - Villager will follow players carrying an Emerald Block.
 - Boats will no longer consider Lily Pads an obstacle.
 - Witches will attempt to keep a distance from the player.
-- Wither Skeletons 
 
 # Credits and Acknowledgements
 
