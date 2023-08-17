@@ -100,12 +100,12 @@ lockfileVersion = 1
 
   [dependencies.axesareweapons]
     name = "axesareweapons"
-    version = "1.7.0+1.17.1"
+    version = "1.7.1+1.17.1"
     versionName = ""
     type = "mod"
-    ipfsHash = "QmdTrpWuQazqzCPjkFpsnGAexC4XVT3jBuVPTXT8cYMjem"
-    Sha256 = "a2f0f1ffbde2c97cfd275c6a74552db0ccb48c61a45299c5982c93b6945d36a3"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.7.0+1.17.1/download"
+    ipfsHash = "QmPwHfpbfu5bnUdwHMWFpqxca2m1V5hXMqSAKNbhXbfmtr"
+    Sha256 = "a16d6cc519b78c855d7e5bc866102a990bbfbee5217aba705fb5f0d6d01a6d9f"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.7.1+1.17.1/download"
     provider = "minepkg"
     dependent = ""
 
@@ -252,12 +252,12 @@ lockfileVersion = 1
 
   [dependencies.chat-heads]
     name = "chat-heads"
-    version = "ro03SDgE"
-    versionName = "0.10.19"
+    version = "FpIPlDKx"
+    versionName = "0.10.20"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "840d6e518c8216a2bdd5c5fdf76666035782fe15dec19d2daab698b996aedfd46e43ce5a1df76b5cf60510cbdee6336c10384f1a14f78c744cab9f4989f9b1a3"
-    url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ro03SDgE/chat_heads-0.10.19-fabric-1.19.2.jar"
+    Sha512 = "ed8adcad0d2a732a2090f817677a2aa0a22c03fc2779e3c54d4206452b44bd69fcabd73cef3b2c681b46c159dfbdfa906b728b166d01ee6e49649bec43ed5395"
+    url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FpIPlDKx/chat_heads-0.10.20-fabric-1.19.2.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -720,12 +720,12 @@ lockfileVersion = 1
 
   [dependencies.immersive-paintings]
     name = "immersive-paintings"
-    version = "PH1KtmsM"
-    versionName = "0.6.3+1.19.2"
+    version = "7IUxKGO8"
+    versionName = "0.6.5+1.19.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "4c38b5ba8e9ab64beec84f0fcaf3d77e435e6058da9875001acd67f2b1b6327ce80b6bce0cd7001c14875a7db5374ca86d4944aa37e7aedfe9453ac1a8898532"
-    url = "https://cdn.modrinth.com/data/6txNkua3/versions/PH1KtmsM/immersive_paintings-0.6.3%2B1.19.2-fabric.jar"
+    Sha512 = "472e014ac84888af7901226748279692d648e979ae4927b89130085bcaf9119719285efc22b57741d1bd4cda6c8ed019ad2649c85ca2ac98c59d667ad428d0e7"
+    url = "https://cdn.modrinth.com/data/6txNkua3/versions/7IUxKGO8/immersive_paintings-0.6.5%2B1.19.2-fabric.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -775,12 +775,12 @@ lockfileVersion = 1
 
   [dependencies.iris]
     name = "iris"
-    version = "W00rBT3R"
-    versionName = "1.6.5+1.19.2"
+    version = "HzhiSGif"
+    versionName = "1.6.6+1.19.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "a8cbfcc162e435b02a3cbd16981cecc2e5afc51c7bfafc6c0ae1197eaebb28a7e0e46b09fd0b9dcde47a9f9a26cb4e5693dc13e5a344a672b6db2ec2c1519f16"
-    url = "https://cdn.modrinth.com/data/YL57xq9U/versions/W00rBT3R/iris-mc1.19.2-1.6.5.jar"
+    Sha512 = "9bde61c5fbcc2c2af72d662369a62d60b92acba0a529bcd5bddaa9c96b0d2fe98aac69d368007f33984eb58e4fced39c6b0b3fe878acf3cabf8ed100414d7a94"
+    url = "https://cdn.modrinth.com/data/YL57xq9U/versions/HzhiSGif/iris-mc1.19.2-1.6.6.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1090,12 +1090,12 @@ lockfileVersion = 1
 
   [dependencies.philips-ruins]
     name = "philips-ruins"
-    version = "5ZW3CrPA"
-    versionName = "1.19.2-7.1"
+    version = "E81CdgUn"
+    versionName = "1.19.2-7.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "a88ff726537f89e8fa1efac7d6b42ee1eeed12e055c396023e0bea2d89e887d91f4aab27beda42b2e1809ecf9fe62a7eaa034c38098736aa67375b3e095ec5a7"
-    url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/5ZW3CrPA/Philips-Ruins1.19.2-7.1%5BFabric%5D.jar"
+    Sha512 = "820896d6be89d39bfeb9e90669c6a60d33c18376a513fb6b55b312254312fce49f8fa1a5bad2279f8428b66821536802fa79c2fa9422eb6bfe002ac7ab1d840a"
+    url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/E81CdgUn/Philips-Ruins1.19.2-7.2%5BFabric%5D.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1189,12 +1189,12 @@ lockfileVersion = 1
 
   [dependencies.rightclickharvest]
     name = "rightclickharvest"
-    version = "YiwK4aDu"
-    versionName = "3.2.2+1.19.x-1.20.1-fabric"
+    version = "4UWabEWo"
+    versionName = "3.2.3+1.19.x-1.20.1-fabric"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "19cea9be310c46327cd5938dda4fcd874419dd8df7af5d89555a5ae5208998a3a061d4a630c1a9f53067a5a0289fd20f0c909c9f42c2a49b68d8636924da57d0"
-    url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/YiwK4aDu/right-click-harvest-3.2.2%2B1.19.x-1.20.1-fabric.jar"
+    Sha512 = "cbef5270f6b18172dbcb6a0b13d92a080186b8335253af1d1b0626d224b1faf46ba9bc0fe3f5105f114bda3c0c00cb72c2ba74f58e90a29c981827b318bb0fb2"
+    url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/4UWabEWo/right-click-harvest-3.2.3%2B1.19.x-1.20.1-fabric.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1264,12 +1264,12 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "K95RbSbU"
-    versionName = "fabric-1.19.2-2.4.16"
+    version = "tQ176d8H"
+    versionName = "fabric-1.19.2-2.4.20"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "f4674f7ae1c0f8fd31e55f6815befd3a72f6c8c43ba83bf1cd5926f47eec375f6e425642e7dc8a277c5bc9b0551d1b6ac53cc7198874e0175e12287bd6989b30"
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/K95RbSbU/voicechat-fabric-1.19.2-2.4.16.jar"
+    Sha512 = "a547ccc21494b82bf2fa41582757770432e57bf6ae307b8ecea3c77a8a9bd1d4cda506e5d2b10eec501447d52e086a5234e9e6f187dd9c5ad835d74312e1049a"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/tQ176d8H/voicechat-fabric-1.19.2-2.4.20.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1536,12 +1536,12 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "B1Z37WLi"
-    versionName = "fabric-5.18.0"
+    version = "wHrhmIqr"
+    versionName = "fabric-5.18.1"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "112a71e0ea7a2a03a3bdbceebb322f6973e9150799bcca513e55edd2e8887276c5a9246d79bde32c10c727a704351b69902245ba2a8ac3d39ac476a7149f2101"
-    url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/B1Z37WLi/wthit-fabric-5.18.0.jar"
+    Sha512 = "384cd8e6fa491ce1d08bd013320fb154533969e38c7d2e8c5c7131f556c54cdeeb4f5ce5eb03c1f7aa48f72487aabbc647bdf94b60b51c3f48a2dc89f5bd193c"
+    url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/wHrhmIqr/wthit-fabric-5.18.1.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1558,23 +1558,23 @@ lockfileVersion = 1
 
   [dependencies.xaeros-minimap]
     name = "xaeros-minimap"
-    version = "7GBpgdcp"
-    versionName = "23.6.1_Fabric_1.19.1"
+    version = "CHk4H0Bw"
+    versionName = "23.6.2_Fabric_1.19.1"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "406562b7d502d7854697d9654d9cec64ccee5ea1797bd7592b4a09997186298d5e5259408d608ec7e3588e4287097e4ce5ae1e03dcf63d180931d3a96c8e073f"
-    url = "https://cdn.modrinth.com/data/1bokaNcj/versions/7GBpgdcp/Xaeros_Minimap_23.6.1_Fabric_1.19.1.jar"
+    Sha512 = "b2999e7f8b79cfd1d8ed254bc7d9990be802358aa25729c1250f87e1633b7a4e6d6c8a11f5c7c9c8292778fa65d790ebae1b30391d0c8cbb16a3d6b77eb87a2f"
+    url = "https://cdn.modrinth.com/data/1bokaNcj/versions/CHk4H0Bw/Xaeros_Minimap_23.6.2_Fabric_1.19.1.jar"
     provider = "modrinth"
     dependent = ""
 
   [dependencies.xaeros-worldmap]
     name = "xaeros-worldmap"
-    version = "FX41W6zb"
-    versionName = "1.32.0_Fabric_1.19.1"
+    version = "nWD5LilR"
+    versionName = "1.33.0_Fabric_1.19.1"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "3c7dd2cbb8851e0b695448fea877f840393a2a9ea349e7f8b9dd85ba2b7d0ce19fc62c28c430630e9ba01deca3e163108e7c33d5e7ad0871d5c3a64408ff4918"
-    url = "https://cdn.modrinth.com/data/NcUtCpym/versions/FX41W6zb/XaerosWorldMap_1.32.0_Fabric_1.19.1.jar"
+    Sha512 = "3f28de29f42bf877207c6cca4b0bc2807134bc8d459fe77cedd61ad4b400c899a27da7f2f7d28419fa47cd501a9fc0d8c2cf7dce2bd4baf9f555dca827fc1b31"
+    url = "https://cdn.modrinth.com/data/NcUtCpym/versions/nWD5LilR/XaerosWorldMap_1.33.0_Fabric_1.19.1.jar"
     provider = "modrinth"
     dependent = ""
 
