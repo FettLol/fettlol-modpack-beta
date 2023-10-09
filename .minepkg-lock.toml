@@ -5,7 +5,7 @@ lockfileVersion = 1
 
 [fabric]
   minecraft = "1.19.2"
-  fabricLoader = "0.14.21"
+  fabricLoader = "0.14.22"
   mapping = "1.19.2+build.28"
 
 [dependencies]
@@ -111,12 +111,12 @@ lockfileVersion = 1
 
   [dependencies.bad-packets]
     name = "bad-packets"
-    version = "R4VZLscL"
-    versionName = "fabric-0.2.2"
+    version = "7Y5NcPRW"
+    versionName = "fabric-0.2.3"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "b65dea3570493122875e977dfc5b68c9a07033ad389fabefabafadc081f57bdbec35418d3c63eb72d3b7c282856683e5da31fe3fa4cf42f44e045c4292b11505"
-    url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/R4VZLscL/badpackets-fabric-0.2.2.jar"
+    Sha512 = "52c66eaa443efb9b0b6cf8970cb05d5c0622bce2687554735e1697d40938a9dcecfe5ae4fa79677b4eba7809cb759f60bee2073888f3d035b219e4cb2fd09d58"
+    url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/7Y5NcPRW/badpackets-fabric-0.2.3.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -448,12 +448,12 @@ lockfileVersion = 1
 
   [dependencies.doggo-mod-overhauled]
     name = "doggo-mod-overhauled"
-    version = "PNBOG5sK"
-    versionName = "2.2.0"
+    version = "2pvQlpHw"
+    versionName = "2.2.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "5935967b23523ec332d48c5bc6611537010299df2d44478dbf036c2a8be2d9469ef0a28d88b826e55af30323ff2274902201d273d879eb723259ed1b700e2ea5"
-    url = "https://cdn.modrinth.com/data/ReOjbL4W/versions/PNBOG5sK/doggo-mod-overhauled-2.2.0.jar"
+    Sha512 = "5b8070b607fefade10324f953392ee276beca2240fb18bce4776ce253c98be0fc9c4952f5cab6e0c4f2afa31fa02f7c4aa1da2fb7e7b29d9790bfcde518fc4b3"
+    url = "https://cdn.modrinth.com/data/ReOjbL4W/versions/2pvQlpHw/doggo-mod-overhauled-2.2.2.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -720,12 +720,12 @@ lockfileVersion = 1
 
   [dependencies.immersive-paintings]
     name = "immersive-paintings"
-    version = "Vrd1txwx"
-    versionName = "0.6.6+1.19.2"
+    version = "sIfgYkdd"
+    versionName = "0.6.7+1.19.2"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "7cde78124bff7b73bb8b5ac0b6a963a1d7d1403186018cb6ecd481cccd209c63de46bd7210d059be6a6210a9c573a351edbd58a9cdcf04490360ee3b968b08d5"
-    url = "https://cdn.modrinth.com/data/6txNkua3/versions/Vrd1txwx/immersive_paintings-0.6.6%2B1.19.2-fabric.jar"
+    Sha512 = "b5ed18fb85b2931a13d9c752da859a8188cefea191702f1be9c77acf6521cff81503444c48d2e56d4c3498e9045d3d8f0130d9d6c9ace1bfab0f47d563af6ecd"
+    url = "https://cdn.modrinth.com/data/6txNkua3/versions/sIfgYkdd/immersive_paintings-0.6.7%2B1.19.2-fabric.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1090,12 +1090,12 @@ lockfileVersion = 1
 
   [dependencies.philips-ruins]
     name = "philips-ruins"
-    version = "yWOXSQtB"
-    versionName = "1.19.2-7.6"
+    version = "9piBuMfV"
+    versionName = "1.19.2-7.7"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "0ec1c716c4983a60a0c4eac41d78623f86e4c9f3f77876d1e378542d6e95e80e3a542013739713f19e6a54aaa13081c8e618428cc0028c53007b43ab6a0c2290"
-    url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/yWOXSQtB/Philips-Ruins1.19.2-7.6%5BFabric%5D.jar"
+    Sha512 = "01d8916a18a9c2eeb8243263f78d1cc1543d91d495df3a4b8f011150d5d7c66d0e9975b4f3fcac11255c65c6da457cbd69aae09d05cca0cee364d16490633cc1"
+    url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/9piBuMfV/Philips-Ruins1.19.2-7.7%5BFabric%5D.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1264,12 +1264,12 @@ lockfileVersion = 1
 
   [dependencies.simple-voice-chat]
     name = "simple-voice-chat"
-    version = "lBtQcbt8"
-    versionName = "fabric-1.19.2-2.4.25"
+    version = "JcLRFzg4"
+    versionName = "fabric-1.19.2-2.4.26"
     type = "mod"
     ipfsHash = ""
-    Sha512 = "ff218c4bcdf99b6a00cc17ccd557a9272b813f9a276aa6afb27a8f9ff039c857870502a0beee502a23a88495246432c90fd5eb0e5d2561a4bc16e191a41a43ca"
-    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/lBtQcbt8/voicechat-fabric-1.19.2-2.4.25.jar"
+    Sha512 = "f14b9a89fd4b4da3a5c2795a77f709d6970c87f8ac34bbf31ca611756b3297f61acdfc18acf8dbc6b216ef4eb1418ba18c459e69fffe8a8af4ab4edc24f7a243"
+    url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/JcLRFzg4/voicechat-fabric-1.19.2-2.4.26.jar"
     provider = "modrinth"
     dependent = ""
 
