@@ -363,12 +363,13 @@ lockfileVersion = 1
 
   [dependencies.concrete-plus]
     name = "concrete-plus"
-    version = "640f262a-de8da"
-    versionName = ""
+    version = "E3dbuRwM"
+    versionName = "1.9.7"
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.19/pandamc_concreteplus-1.9.5.jar"
-    provider = "https"
+    Sha512 = "64e8b5512454756c42b1e0ff2e3e08ba286e72dd2ac20ebcab0512f861433882c0e58069668472803e82780119fec1d20d085d17f531623e6c412d76cb2e31e8"
+    url = "https://cdn.modrinth.com/data/4nMaJ6TK/versions/E3dbuRwM/Concrete%20Plus-1.9.7.jar"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.cosmetic-armor]
@@ -499,17 +500,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha512 = "bedbdc0cd73919507fedf5c2f04cb7faaf90d2988753cf79053943b793e6d9808e80856dea68b35e2f168b435683642ad48088ce31dbfa276e97f0ce12b94f52"
     url = "https://cdn.modrinth.com/data/G3Nz6HN4/versions/A1SuJChn/discerning-furnace-1.0.13%2BMC1.19-1.20.4.jar"
-    provider = "modrinth"
-    dependent = ""
-
-  [dependencies.distanthorizons]
-    name = "distanthorizons"
-    version = "aOWEQ1nc"
-    versionName = "2.0.1-a-1.19.2"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "9d004062f07da250594cc6a7d01ea4470f100e314924c8de63443bcedcd688331c22c035ea982cf4d56053ec6011239e315b627ceb687259f5ee584d916cb50f"
-    url = "https://cdn.modrinth.com/data/uCdwusMi/versions/aOWEQ1nc/DistantHorizons-2.0.1-a-1.19.2.jar"
     provider = "modrinth"
     dependent = ""
 
@@ -1051,12 +1041,13 @@ lockfileVersion = 1
 
   [dependencies.more-berries]
     name = "more-berries"
-    version = "640f2929-50dfa"
-    versionName = ""
+    version = "9PJ6957w"
+    versionName = "1.5.1"
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.19/moreberries-1.5.1.jar"
-    provider = "https"
+    Sha512 = "b10e02ec35f2144c0357c853c6ced9837b8aff941b20ca7f06e041afbb280143321853bb76ebaa79c8651c4bc708fbfcebebbee865b3bb9b42a34c0f81285abe"
+    url = "https://cdn.modrinth.com/data/e3oX6jdP/versions/9PJ6957w/moreberries-1.5.1.jar"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.naturalist]
@@ -1094,12 +1085,13 @@ lockfileVersion = 1
 
   [dependencies.npc-variety]
     name = "npc-variety"
-    version = "640f27c8-11f39b"
-    versionName = ""
+    version = "MnLMXxTA"
+    versionName = "2.2.2"
     type = "mod"
     ipfsHash = ""
-    url = "https://brekitomasson.com/fettlol/mods/1.19/npc-variety-1.19.2-2.2.2.jar"
-    provider = "https"
+    Sha512 = "272495a40a5b528c6763e81febb49b005f7ef5e84319f64b6ebd58619e31f55db7016cb9706d69268ec1d41b5368ac8d879c85f4cb84bd64b8a0ed79ab69b34e"
+    url = "https://cdn.modrinth.com/data/GYQZng8F/versions/MnLMXxTA/npc-variety-1.19.2-2.2.2.jar"
+    provider = "modrinth"
     dependent = ""
 
   [dependencies.overpowered-mending]
