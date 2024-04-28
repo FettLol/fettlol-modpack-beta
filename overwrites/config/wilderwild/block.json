@@ -1,0 +1,34 @@
+{
+  "blockSounds": {
+    "cactusSounds": true,
+    "claySounds": true,
+    "coarseDirtSounds": true,
+    "cobwebSounds": true,
+    "deadBushSounds": true,
+    "flowerSounds": true,
+    "saplingSounds": true,
+    "frostedIceSounds": true,
+    "gravelSounds": true,
+    "leafSounds": true,
+    "lilyPadSounds": true,
+    "mushroomBlockSounds": true,
+    "podzolSounds": true,
+    "reinforcedDeepslateSounds": true,
+    "sandstoneSounds": true,
+    "sugarCaneSounds": true,
+    "witherRoseSounds": true
+  },
+  "stoneChest": {
+    "stoneChestTimer": 100
+  },
+  "termite": {
+    "onlyEatNaturalBlocks": true
+  },
+  "mcLiveSensorTendrils": false,
+  "shriekerGargling": true,
+  "soulFireSounds": true,
+  "billboardTendrils": true,
+  "mesogleaLiquid": false,
+  "pollenParticles": true,
+  "cactusPlacement": false
+}
