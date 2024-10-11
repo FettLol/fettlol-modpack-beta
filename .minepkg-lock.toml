@@ -328,17 +328,6 @@ lockfileVersion = 1
     provider = "minepkg"
     dependent = ""
 
-  [dependencies.collective]
-    name = "collective"
-    version = "RKCtWE4y"
-    versionName = "1.19.2-7.64-fabric+forge"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "b4ec218f374f660c4c19a91d8fd798aebe50c396296459c5ed080a4c74e4dad44440ed57be1c3bc03ed610fce4560f0062026798e6e40815f776d92c9c99ba31"
-    url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/RKCtWE4y/collective-1.19.2-7.64.jar"
-    provider = "modrinth"
-    dependent = ""
-
   [dependencies.coloredslime]
     name = "coloredslime"
     version = "1.4.0"
@@ -839,6 +828,17 @@ lockfileVersion = 1
     Sha512 = "a4ebd6b21b93830dc5cedf0ba7def714bd42a72ee7090c1fb76ae7e093a1448114796a87f3e0072d82dfa76d146f342a70b7264d9cb56838de8598cce9c71812"
     url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/vlsKDiFO/jamlib-0.6.1%2B1.19-1.19.2.jar"
     provider = "modrinth"
+    dependent = ""
+
+  [dependencies.keepheadnames]
+    name = "keepheadnames"
+    version = "1.5.1+1.18-fix-dependency"
+    versionName = ""
+    type = "mod"
+    ipfsHash = "QmZCQmHAhfaWs24VCdEWFeg4WPCie7wsHR4Bd9n4JaHeBU"
+    Sha256 = "af7e1d35113368792b0c9310c0134e1215aaee690398334a69418fef95d9595b"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.5.1+1.18-fix-dependency/download"
+    provider = "minepkg"
     dependent = ""
 
   [dependencies.krypton]
@@ -1420,6 +1420,17 @@ lockfileVersion = 1
     provider = "minepkg"
     dependent = ""
 
+  [dependencies.taxfreelevels]
+    name = "taxfreelevels"
+    version = "1.3.9+1.20.2"
+    versionName = ""
+    type = "mod"
+    ipfsHash = "QmdrhzEWCpKwpYX8tLQSvYmnDGEYZoxWcozAQFcgGTK44j"
+    Sha256 = "5d7cae3ad07ee1b2182e17b7fd4dbe16455bd0f0d6d2f5a48b906185a2ad5b07"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/taxfreelevels@1.3.9+1.20.2/download"
+    provider = "minepkg"
+    dependent = ""
+
   [dependencies.terrablender]
     name = "terrablender"
     version = "silo0xJT"
@@ -1579,39 +1590,6 @@ lockfileVersion = 1
     ipfsHash = ""
     Sha512 = "65033e2134ac24ed3130f187a06dd597d5f8b4f431346a832e600573bfdc2668cddea9bd04364aaa25a97ac8b441d258eb71a7e0872d9f188fbfe6c20b79306d"
     url = "https://cdn.modrinth.com/data/lyYGrdho/versions/thwqrcKD/wired-redstone-0.4.19%2B1.19.2.jar"
-    provider = "modrinth"
-    dependent = ""
-
-  [dependencies.wthit]
-    name = "wthit"
-    version = "t2W3vhWR"
-    versionName = "fabric-5.30.2"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "4008eabe1407406f2ab3e5a7c2972218dfb5b020befda763fe0238b04e2af727603ee6565fb8a592967c5575f6b2bd6682aa55d324d6caab6a9cdf2a92bb38ea"
-    url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/t2W3vhWR/wthit-fabric-5.30.2.jar"
-    provider = "modrinth"
-    dependent = ""
-
-  [dependencies.wthit-plugins]
-    name = "wthit-plugins"
-    version = "gBbT8uN4"
-    versionName = "1.0.6+1.19"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "3b7008698d0be54f4e5c6344040ddbd2e98e7689cc836810ffdbc1d9de2588d5d46147aa2e56d2acd9b9616ffbaa0b2baa37b4bef29fdb7ee8c56023d9619855"
-    url = "https://cdn.modrinth.com/data/34431T56/versions/1.0.6%2B1.19/wthit-plugins-1.0.6%2B1.19.jar"
-    provider = "modrinth"
-    dependent = ""
-
-  [dependencies.xaeros-minimap]
-    name = "xaeros-minimap"
-    version = "dkt5yvMv"
-    versionName = "24.5.0_Fabric_1.19.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha512 = "8bf6913a569a28aee9ceadeffa0f0c095418b4919af8c024afb4eaf10627bf098e45166d900919f31ad9a023e6383ae031f82700ada96474ce7a9c3be1924141"
-    url = "https://cdn.modrinth.com/data/1bokaNcj/versions/dkt5yvMv/Xaeros_Minimap_24.5.0_Fabric_1.19.1.jar"
     provider = "modrinth"
     dependent = ""
 
